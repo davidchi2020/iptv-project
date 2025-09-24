@@ -6,11 +6,11 @@ import os
 # 源地址列表
 M3U_URLS = [
     # 全球
-    "https://raw.githubusercontent.com/iptv-org/iptv/master/index.m3u",
-    "https://raw.githubusercontent.com/dongyubin/IPTV/main/IPTV.m3u",
+    "https://iptv-org.github.io/iptv/index.m3u",
+    #"https://raw.githubusercontent.com/dongyubin/IPTV/main/IPTV.m3u",
     # 中国
-    "https://raw.githubusercontent.com/Guovin/iptv-api/main/iptv.m3u",
-    "https://raw.githubusercontent.com/xiaoxiaozhou-zcx/IPTV/main/iptv.m3u"
+    "https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.m3u",
+    #"https://raw.githubusercontent.com/xiaoxiaozhou-zcx/IPTV/main/iptv.m3u"
 ]
 
 OUTPUT_ALL = "merged.m3u"
@@ -111,3 +111,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
