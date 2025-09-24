@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 group-title="Education;Outdoor",Agro TV (1080p)
+http://185.234.111.229:8000/play/a011
+#EXTINF:-1 group-title="Education;Outdoor",DD Kisan (720p)
+https://cdn-6.pishow.tv/live/9/master.m3u8
+#EXTINF:-1 group-title="Education;Outdoor",Paryawaran TV (1080p)
+https://webtv-stream.nettv.com.np/broadcaster/Paryawaran.stream/playlist.m3u8

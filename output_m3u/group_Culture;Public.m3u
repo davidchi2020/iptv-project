@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 group-title="Culture;Public",El 33 SX3 (1080p) [Geo-blocked]
+https://directes-tv-cat.3catdirectes.cat/live-origin/c33-super3-hls/master.m3u8
+#EXTINF:-1 group-title="Culture;Public",ETB Basque (480p)
+https://multimedia.eitb.eus/live-content/eitbbasque-hls/master.m3u8

@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:-1 group-title="Entertainment;Music",BE@TTV (1080p)
+https://tv.beatfm.nl/live.m3u8
+#EXTINF:-1 group-title="Entertainment;Music",GO TV (720p)
+https://rds3.desdeparaguay.net/gotv/gotv/playlist.m3u8
+#EXTINF:-1 group-title="Entertainment;Music",Radio Carnaval TV (720p) [Not 24/7]
+https://eu1.servers10.com:8081/8116/index.m3u8
+#EXTINF:-1 group-title="Entertainment;Music",Somos Topo Point TV (1080p) [Not 24/7]
+https://cloudflare.streamgato.us:3901/live/somostopopointtvlive.m3u8
+#EXTINF:-1 group-title="Entertainment;Music",TeleCaribe TV
+https://cloudflare.streamgato.us:3413/live/telecaribehdlive.m3u8?DVR=
+#EXTINF:-1 group-title="Entertainment;Music",Zo'r TV (576p)
+https://stream8.cinerama.uz/1016/tracks-v1a1/mono.m3u8

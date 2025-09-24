@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1 group-title="Education;Science",BRTV Science & Education Channel
+http://49.113.179.174:4022/udp/238.125.3.121:5140
+#EXTINF:-1 group-title="Education;Science",Ecology & Environment TV
+http://49.113.179.174:4022/udp/238.125.2.175:5140
+#EXTINF:-1 group-title="Education;Science",Tra Vinh TV 2 (720p)
+https://618b88f69e53b.streamlock.net/THTV2/travinhtv2/playlist.m3u8
+#EXTINF:-1 group-title="Education;Science",滁州市广播电视台 科教频道 (400p)
+http://live.cztv.cc:85/live/sjpd.m3u8

@@ -1,0 +1,57 @@
+#EXTM3U
+#EXTINF:-1 group-title="Family",AMG TV (1080p)
+https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/playlist.m3u8
+#EXTINF:-1 group-title="Family",AVA Family
+https://familyhls.avatv.live/hls/stream.m3u8
+#EXTINF:-1 group-title="Family",Canal IPe (1080p)
+https://cdnhd.iblups.com/hls/3f2cb1658d114f2693eff18d83199e67.m3u8
+#EXTINF:-1 group-title="Family",Dove Channel
+https://amg01201-cinedigmenterta-dove-cineverse-1fck5.amagi.tv/playlist/amg01201-cinedigmenterta-dove-cineverse/playlist.m3u8
+#EXTINF:-1 group-title="Family",EmanTv (1080p)
+https://avr.host247.net/live/emantv/playlist.m3u8
+#EXTINF:-1 group-title="Family",Family Time (1080p)
+https://amg09501-questar-amg09501c3-stirr-us-3096.playouts.now.amagi.tv/amg09501/AMG09501C3/segmented_playlist/0/35-89-3096.m3u8
+#EXTINF:-1 group-title="Family",FETV
+https://gcdn-p6.teleuptv.net/806c57bb-85bc-4773-becc-e24433711d14/index.m3u8
+#EXTINF:-1 group-title="Family",Freeform (720p)
+https://tvpass.org/live/FreeformEast/hd
+#EXTINF:-1 group-title="Family",Hallmark Channel East
+https://fl4.moveonjoy.com/HALLMARK_CHANNEL/index.m3u8
+#EXTINF:-1 group-title="Family",JOJ Family (720p)
+https://live.cdn.joj.sk/live/andromeda/family-720.m3u8
+#EXTINF:-1 group-title="Family",MBC 5 (1080p)
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-5/ee6b000cee0629411b666ab26cb13e9b/index.m3u8
+#EXTINF:-1 group-title="Family",Mixkurdy (1080p)
+https://avr.host247.net/live/Mix-kurdy/playlist.m3u8
+#EXTINF:-1 group-title="Family",My Family Channel (1080p) [Geo-blocked]
+http://210.210.155.37/uq2663/h/h194/index.m3u8
+#EXTINF:-1 group-title="Family",Nambikkai TV (576p)
+https://live.wmncdn.net/nambikkaitv/live.stream/index.m3u8
+#EXTINF:-1 group-title="Family",Pet Collective
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62e92b5fca869f00078f0162/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7b6617-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=4b4fceb2-10ba-4e0e-b055-2002afd89dc2
+#EXTINF:-1 group-title="Family",Pluto TV Family Italy (720p)
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6123742451cce0000789fc7a/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+#EXTINF:-1 group-title="Family",Positiv (720p)
+https://cdn.jwplayer.com/v2/sites/fGLyccP5/media/FoWynVnP/ssai.m3u8?ad_config_id=0
+#EXTINF:-1 group-title="Family",Real Families (1080p)
+https://lds-realfamilies-plex.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Family",Sevimli TV (1080p)
+https://stream8.cinerama.uz/1017/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 group-title="Family",STS Love
+http://194.143.148.28:8080/CTC_LOVE/index.m3u8
+#EXTINF:-1 group-title="Family",Talanga TV Canal 39 (480p) [Not 24/7]
+https://stream.oursnetworktv.com/latin/Tv39Talanga/playlist.m3u8
+#EXTINF:-1 group-title="Family",The Pet Collective
+https://the-pet-collective-international-nl.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="Family",The Pet Collective Italy (720p)
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60801317a0ccef00072aaf75/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+#EXTINF:-1 group-title="Family",The Pet Collective Sweden
+https://the-pet-collective-international-se.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="Family",TV Familia (720p)
+https://cloudusa.streamingconnect.com/tvfamiliatvbox/tvfamiliaweb.m3u8
+#EXTINF:-1 group-title="Family",TVS Family Channel (360p)
+https://rpn.bozztv.com/gusa/gusa-TVSFamilyChannel/index.m3u8
+#EXTINF:-1 group-title="Family",СТС
+https://streaming.televizor-24-tochka.ru/live/16.m3u8
+#EXTINF:-1 group-title="Family",四川妇女儿童 (720p) [Not 24/7]
+http://scgctvshow.sctv.com/hdlive/sctv7/index.m3u8

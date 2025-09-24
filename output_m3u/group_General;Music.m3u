@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 group-title="General;Music",ACW UG TV (480p)
+https://live.acwugtv.com/hls/stream.m3u8
+#EXTINF:-1 group-title="General;Music",RTV Glas Drine (404p) [Not 24/7]
+http://glasdrine.cutuk.net:8081/433ssdsw/GlasDrineSD/playlist.m3u8
+#EXTINF:-1 group-title="General;Music",TVR Folclor (1080p) [Geo-blocked]
+https://tvr-tvrfolclor.cdn.zitec.com/live/tvrfolclor/main.m3u8

@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 group-title="Entertainment;General",América TeVé (1080p)
+https://live.gideo.video/americateve2/master.m3u8
+#EXTINF:-1 group-title="Entertainment;General",MCN6 (1080p) [Not 24/7]
+https://d18fcxaqfnwjhj.cloudfront.net/CDN_Ingest/MCN6_MAIN.smil/Playlist.m3u8

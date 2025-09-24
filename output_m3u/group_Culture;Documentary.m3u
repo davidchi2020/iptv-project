@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1 group-title="Culture;Documentary",BBC Four (540p) [Geo-blocked]
+https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_four_hd/pc_hd_abr_v2.m3u8
+#EXTINF:-1 group-title="Culture;Documentary",BBC Four UK HD
+https://streamer.nexyl.uk/48559ccd-6400-457d-8acc-06b9e24c2ed8.m3u8
+#EXTINF:-1 group-title="Culture;Documentary",HRT 3 (720p)
+https://webtvstream.bhtelecom.ba/hrt3.m3u8
+#EXTINF:-1 group-title="Culture;Documentary",HRT 3 HD (720p)
+https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/HRT3/default/index.mpd

@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:-1 group-title="Entertainment;News",30A Georgia Hollywood Review TV
+https://30a-tv.com/gh.m3u8
+#EXTINF:-1 group-title="Entertainment;News",Entertainment Tonight (720p)
+https://cbsta49f-cbsta49f-ms.global.ssl.fastly.net/amagi7b98-AmagiMixible/master/amagi7b98-AmagiMixible.m3u8
+#EXTINF:-1 group-title="Entertainment;News",HollyWire (720p)
+https://bozztv.com/hwotta/playlist/playlist.m3u8
+#EXTINF:-1 group-title="Entertainment;News",PSN
+https://srspsn.live/live/livestream.m3u8
+#EXTINF:-1 group-title="Entertainment;News",TV Zoom (720p)
+https://cdn.jmvstream.com/w/LVW-9730/LVW9730_LmUwslM8jt/playlist.m3u8
+#EXTINF:-1 group-title="Entertainment;News",Vergina TV (1080p)
+https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/verginachannel.m3u8

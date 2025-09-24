@@ -1,0 +1,45 @@
+#EXTM3U
+#EXTINF:-1 group-title="📺央视频道",CCTV1" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="📺央视频道
+http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
+#EXTINF:-1 group-title="📺央视频道",CCTV2" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV2.png" group-title="📺央视频道
+http://php.jdshipin.com/TVOD/hljyd.php?id=3221225588
+#EXTINF:-1 group-title="📺央视频道",CCTV3" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV3.png" group-title="📺央视频道
+http://php.jdshipin.com/TVOD/hljyd.php?id=3221226021
+#EXTINF:-1 group-title="📺央视频道",CCTV4" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV4.png" group-title="📺央视频道
+http://php.jdshipin.com/TVOD/hljyd.php?id=3221226428
+#EXTINF:-1 group-title="📺央视频道",CCTV5" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV5.png" group-title="📺央视频道
+http://php.jdshipin.com/TVOD/hljyd.php?id=3221226019
+#EXTINF:-1 group-title="📺央视频道",CCTV5+" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV5+.png" group-title="📺央视频道
+http://php.jdshipin.com/TVOD/hljyd.php?id=3221225603
+#EXTINF:-1 group-title="📺央视频道",CCTV6" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV6.png" group-title="📺央视频道
+http://php.jdshipin.com/TVOD/hljyd.php?id=3221226010
+#EXTINF:-1 group-title="📺央视频道",CCTV7" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV7.png" group-title="📺央视频道
+http://php.jdshipin.com/TVOD/hljyd.php?id=3221225733
+#EXTINF:-1 group-title="📺央视频道",CCTV8" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV8.png" group-title="📺央视频道
+http://php.jdshipin.com/TVOD/hljyd.php?id=3221226008
+#EXTINF:-1 group-title="📺央视频道",CCTV9" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV9.png" group-title="📺央视频道
+http://php.jdshipin.com/TVOD/hljyd.php?id=3221225734
+#EXTINF:-1 group-title="📺央视频道",CCTV10" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV10.png" group-title="📺央视频道
+http://z.b.bkpcp.top/m.php?id=CCTV-10科教科教
+#EXTINF:-1 group-title="📺央视频道",CCTV11" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV11.png" group-title="📺央视频道
+http://php.jdshipin.com/TVOD/hljyd.php?id=3221226565
+#EXTINF:-1 group-title="📺央视频道",CCTV12" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV12.png" group-title="📺央视频道
+http://php.jdshipin.com/TVOD/hljyd.php?id=3221225731
+#EXTINF:-1 group-title="📺央视频道",CCTV13" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV13.png" group-title="📺央视频道
+https://event.pull.hebtv.com/jishi/cp1.m3u8
+#EXTINF:-1 group-title="📺央视频道",CCTV14" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV14.png" group-title="📺央视频道
+https://event.pull.hebtv.com/jishi/cp2.m3u8#rtsp://103.251.96.71/PLTV/88888888/224/3221225783/10000100000000060000000000726027_0.smil?icpid=SSPID&amp;accounttype=1&amp;limitflux=-1&amp;limitdur=-1&amp;accountinfo=:20240213104135
+#EXTINF:-1 group-title="📺央视频道",CCTV15" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV15.png" group-title="📺央视频道
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225641/index.m3u8
+#EXTINF:-1 group-title="📺央视频道",CCTV16" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV16.png" group-title="📺央视频道
+http://php.jdshipin.com/TVOD/hljyd.php?id=3221226100
+#EXTINF:-1 group-title="📺央视频道",CCTV17" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV17.png" group-title="📺央视频道
+http://p.ytelc.com/169l/0/cctv.php?id=cctv4k
+#EXTINF:-1 group-title="📺央视频道",CETV1" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/CETV1.png" group-title="📺央视频道
+http://112.109.206.106:9999/rtp/239.255.40.201:8208
+#EXTINF:-1 group-title="📺央视频道",CETV2" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/CETV2.png" group-title="📺央视频道
+http://[2409:8087:1a0b:df::4013]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226425/index.m3u8
+#EXTINF:-1 group-title="📺央视频道",CETV3" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/CETV3.png" group-title="📺央视频道
+http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001309/index.m3u8
+#EXTINF:-1 group-title="📺央视频道",CETV4" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/CETV4.png" group-title="📺央视频道
+http://221.10.226.195:5000/rtp/239.0.0.98:5140

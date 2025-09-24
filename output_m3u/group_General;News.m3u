@@ -1,0 +1,27 @@
+#EXTM3U
+#EXTINF:-1 group-title="General;News",Arirang TV (1080p)
+http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:-1 group-title="General;News",Binh Phuoc TV 1 (720p)
+https://live.baobinhphuoc.com.vn/bptvlive/tv1live.m3u8
+#EXTINF:-1 group-title="General;News",BX Inform (1080p)
+https://reflect-stream-bronxnet.cablecast.tv/live-8/live/stream-4/live.m3u8
+#EXTINF:-1 group-title="General;News",Canal 1 Mar Menor-Torre Pacheco (1080p)
+https://directo.tuwebtv.es/canal1.m3u8
+#EXTINF:-1 group-title="General;News",Canal 33 Tijuana (720p)
+https://5f2c1b0d880e5.streamlock.net/canal33tijuana/videocanal33tijuana/playlist.m3u8
+#EXTINF:-1 group-title="General;News",Đồng Nai 1 (360p) [Not 24/7]
+http://118.107.85.4:1935/live/smil:DNTV1.smil/playlist.m3u8
+#EXTINF:-1 group-title="General;News",HTV9 (576p)
+http://125hvt.ddns.net:21585/htv9/index.m3u8
+#EXTINF:-1 group-title="General;News",PRO TV Chisinau (1080p)
+http://62.233.57.226:8001/play/a00g
+#EXTINF:-1 group-title="General;News",Star Kentrikis Elladas (1080p)
+https://telmacosa.s.llnwi.net/starcgr/default/index.m3u8
+#EXTINF:-1 group-title="General;News",STV News and General
+http://61.173.144.157:9901/tsfile/live/1000_1.m3u8?authid=0&key=txiptv&playlive=1
+#EXTINF:-1 group-title="General;News",Tv Famypanc HD (1080p)
+https://panel.host-live.com:19360/8042/8042.m3u8
+#EXTINF:-1 group-title="General;News",Vinh Long TV 1 (576p)
+http://125hvt.ddns.net:21585/thvl1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="General;News",Сочи 24 HD
+http://serv30.vintera.tv:8081/sochi/sochi24_tv/playlist.m3u8

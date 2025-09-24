@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 group-title="Family;Religious",COU Family Television (720p)
+https://stream.castr.com/66b2205a464da535308e57e1/live_2c12d7a053f511ef9a978b0191f4a826/index.fmp4.m3u8
+#EXTINF:-1 group-title="Family;Religious",TV Famille (720p)
+https://streamer1.streamhost.org/salive/GMItvfh/playlist.m3u8

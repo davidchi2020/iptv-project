@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 group-title="News;Weather",ABC 9 Manchester NH (WMUR-TV) (720p)
+https://livetv-fa.tubi.video/wmur/playlist.m3u8
+#EXTINF:-1 group-title="News;Weather",WBRZ Weather Channel Baton Rouge LA (480p)
+https://d2a6g6zgxepbwi.cloudfront.net/wbrz-edge/weather.stream_360p/playlist.m3u8

@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 group-title="Family;General",CWB TV (720p)
+https://59d39900ebfb8.streamlock.net/cwbtv/cwbtv/playlist.m3u8
+#EXTINF:-1 group-title="Family;General",Telenovisa 43 (720p)
+https://rdn.essastream.com:3230/live/telenovisa43live.m3u8

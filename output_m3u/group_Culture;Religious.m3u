@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1 group-title="Culture;Religious",AlKawthar
+https://lenz.splus.ir/PLTV/88888888/224/3221226158/index.m3u8
+#EXTINF:-1 group-title="Culture;Religious",Jewish Life Television (720p)
+https://cdn.herringnetwork.com/80A4DFF/n1.herringnetwork.com/live3/jltv_720p/playlist.m3u8
+#EXTINF:-1 group-title="Culture;Religious",Sanskar TV (1080p)
+https://d26idhjf0y1p2g.cloudfront.net/out/v1/cd66dd25b9774cb29943bab54bbf3e2f/index.m3u8
+#EXTINF:-1 group-title="Culture;Religious",Telepace 2 (1080p)
+https://zkpywrbgdbeg-hls-live.mariatvcdn.it/teleradiopace2/254c9b5c52a73a94ef0f6169cbd05dc2.sdp/playlist.m3u8

@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 group-title="Entertainment;General;News",Red+ (1080p)
+https://inforedvos.lcdn.claro.net.co/Content/HLS_HLS_DIR/Live/channel(REDMASHDWEB)/master.m3u8
+#EXTINF:-1 group-title="Entertainment;General;News",TV Modelo (720p)
+https://video09.logicahost.com.br/tvmodelo/tvmodelo/playlist.m3u

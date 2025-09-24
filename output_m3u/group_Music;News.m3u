@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 group-title="Music;News",Onda 15 TV (224p)
+https://cloudvideo.servers10.com:8081/8034/index.m3u8
+#EXTINF:-1 group-title="Music;News",Onda Valencia (720p)
+https://cloudvideo.servers10.com:8081/8116/index.m3u8
+#EXTINF:-1 group-title="Music;News",Radio Italia Anni 60 TV (720p)
+https://tvd-ria60.fluid.stream/Anni60TV/livestream/playlist.m3u8
