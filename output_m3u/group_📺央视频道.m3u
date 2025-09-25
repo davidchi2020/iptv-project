@@ -36,10 +36,10 @@ http://php.jdshipin.com/TVOD/hljyd.php?id=3221226100
 #EXTINF:-1 group-title="📺央视频道",CCTV17" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV17.png" group-title="📺央视频道
 http://p.ytelc.com/169l/0/cctv.php?id=cctv4k
 #EXTINF:-1 group-title="📺央视频道",CETV1" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/CETV1.png" group-title="📺央视频道
-http://112.109.206.106:9999/rtp/239.255.40.201:8208
+http://180.154.61.39:4022/rtp/239.45.1.125:5140
 #EXTINF:-1 group-title="📺央视频道",CETV2" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/CETV2.png" group-title="📺央视频道
 http://[2409:8087:1a0b:df::4013]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226425/index.m3u8
 #EXTINF:-1 group-title="📺央视频道",CETV3" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/CETV3.png" group-title="📺央视频道
 http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001309/index.m3u8
 #EXTINF:-1 group-title="📺央视频道",CETV4" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/CETV4.png" group-title="📺央视频道
-http://221.10.226.195:5000/rtp/239.0.0.98:5140
+http://117.174.25.254:8188/rtp/239.0.0.98:5140
