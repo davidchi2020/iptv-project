@@ -231,8 +231,8 @@ https://amg00627-amg00627c40-rakuten-uk-5725.playouts.now.amagi.tv/playlist/amg0
 https://banjartv.siar.us/banjartv/live/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",Banten TV (720p) [Not 24/7]
 https://5bf7b725107e5.streamlock.net/bantentv/bantentv/playlist.m3u8
-#EXTINF:-1 group-title="Undefined",Banyumas TV (720p) [Geo-blocked]
-https://5bf7b725107e5.streamlock.net/bmstv/bmstv/playlist.m3u8
+#EXTINF:-1 group-title="Undefined",Banyumas TV (720p) [Not 24/7]
+https://5bf7b725107e5.streamlock.net:443/bmstv/bmstv/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",Barney and Friends
 https://cinedigm-barney-xumo.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",Baywatch
@@ -344,13 +344,13 @@ http://push-int.siliconweb.com/bestTV/stream/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",BestClasicosTV (576p) [Geo-blocked]
 https://acceso.radiosportstv.online:3102/live/telemascrlive.m3u8
 #EXTINF:-1 group-title="Undefined",BET East
-https://fl4.moveonjoy.com/BET_EAST/index.m3u8
+https://fl7.moveonjoy.com/BET_EAST/index.m3u8
 #EXTINF:-1 group-title="Undefined",BET Jams
-https://fl4.moveonjoy.com/BET_Jams/index.m3u8
+https://fl7.moveonjoy.com/BET_Jams/index.m3u8
 #EXTINF:-1 group-title="Undefined",BET Pluto TV 3
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f77895fb3add2000735ac29/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c271cb3-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=49d16c0f-92e3-496b-833f-1282e54f8c15
 #EXTINF:-1 group-title="Undefined",BET Soul
-https://fl4.moveonjoy.com/BET_SOUL/index.m3u8
+https://fl7.moveonjoy.com/BET_SOUL/index.m3u8
 #EXTINF:-1 group-title="Undefined",Betevé (1080p)
 https://cdnapisec.kaltura.com/p/2346171/sp/234617100/playManifest/entryId/1_n6442jz0/format/applehttp/.m3u8?referrer=aHR0cHM6Ly9iZXRldmUuY2F0
 #EXTINF:-1 group-title="Undefined",Beverly Hills 90210
@@ -368,7 +368,7 @@ https://amg01796-amg01796c6-rakuten-fr-5334.playouts.now.amagi.tv/playlist/amg01
 #EXTINF:-1 group-title="Undefined",Beyblade Burst
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e8b551ddcd25500072c4dad/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=bc830926-4b91-11ef-8a44-83c5e90e038f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=bbe0fa83-5291-4ead-abf8-a013887508cd
 #EXTINF:-1 group-title="Undefined",Beyblade en Español (1080p)
-https://amg01796-amg01796c8-rakuten-es-5333.playouts.now.amagi.tv/playlist.m3u8
+https://amg01796-amg01796c8-rakuten-es-5333.playouts.now.amagi.tv/playlist/amg01796-fastmediafast-beybladees-rakutenes/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",Beykent TV (720p)
 https://yayin30.haber100.com/live/beykenttv/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",Beyond History
@@ -392,7 +392,7 @@ https://aegis-cloudfront-1.tubi.video/d61265ac-4c98-4243-8e23-31fff4d399e1/playl
 #EXTINF:-1 group-title="Undefined",Big Brother Canada
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/655f30c19d5ac4000816e9b3/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c796a43-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=7100d07b-f28e-45b2-a51d-6e87563b3fba
 #EXTINF:-1 group-title="Undefined",Big Ten Network
-https://fl4.moveonjoy.com/BIG_TEN_NETWORK/index.m3u8
+https://fl7.moveonjoy.com/BIG_TEN_NETWORK/index.m3u8
 #EXTINF:-1 group-title="Undefined",Big Time Plus (1080p)
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-big-time-plus/924283f994779a311c1389698ff7e736/index.m3u8
 #EXTINF:-1 group-title="Undefined",Big Time Rush
@@ -417,9 +417,7 @@ https://live.artidijitalmedya.com/artidijital_birtv/birtv/playlist.m3u8
 https://d3htp73xsa9p15.cloudfront.net/scheduler/scheduleMaster/445.m3u8
 #EXTINF:-1 group-title="Undefined",Bizimev TV (720p)
 https://mn-nl.mncdn.com/blutv_bizimev/bizimev_sd.smil/playlist.m3u8
-#EXTINF:-1 group-title="Undefined",Biznet Adventure (720p) [Geo-blocked]
-https://cdn01-telkomsel-01.akamaized.net/Content/HLS/Live/channel(41d51f9f-8855-e625-012f-304a1f0eb538)/index.m3u8
-#EXTINF:-1 group-title="Undefined",Biznet Adventure (720p)
+#EXTINF:-1 group-title="Undefined",Biznet Adventure (1080p)
 http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",Black Visionaries
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/66439ee041af640008ccaa98/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2743c2-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=c7f3cba7-ccb6-4cd5-928e-0b45fd0f9223
@@ -445,8 +443,6 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e
 https://rtvbn.tv:8080/live/index.m3u8
 #EXTINF:-1 group-title="Undefined",BNR Nieuwsradio (720p) [Geo-blocked]
 https://bnr-cache-cdp.triple-it.nl/studio/index.m3u8
-#EXTINF:-1 group-title="Undefined",BNTV [Geo-blocked]
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch394)/index.m3u8
 #EXTINF:-1 group-title="Undefined",Boas Novas (1080p)
 https://cdn.jmvstream.com/w/LVW-9375/LVW9375_6i0wPBCHYc/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",Bom Channel
@@ -462,7 +458,7 @@ https://cdn.borealtelevision.com:3712/live/borealtelevisionhdlive.m3u8
 #EXTINF:-1 group-title="Undefined",Bouke [Geo-blocked]
 https://tvlocales-live.freecaster.com/live/95d2f70d-9229-478b-9aed-bc4fa220316d/95d2f70d-9229-478b-9aed-bc4fa220316d.isml/master.m3u8
 #EXTINF:-1 group-title="Undefined",Bounce
-https://fl4.moveonjoy.com/BOUNCE_TV/index.m3u8
+https://fl7.moveonjoy.com/BOUNCE_TV/index.m3u8
 #EXTINF:-1 group-title="Undefined",Boxing TV (1080p)
 https://1180885077.rsc.cdn77.org/HLS/BOXINGTV.m3u8
 #EXTINF:-1 group-title="Undefined",BR6 TV (720p)
@@ -472,7 +468,7 @@ https://mcdn.br.de/br/fs/bfs_nord/hls/de/master.m3u8
 #EXTINF:-1 group-title="Undefined",Bravo +1
 https://i.mjh.nz/.r/bravo-plus1.m3u8
 #EXTINF:-1 group-title="Undefined",Bravo East
-https://fl4.moveonjoy.com/BRAVO/index.m3u8
+https://fl7.moveonjoy.com/BRAVO/index.m3u8
 #EXTINF:-1 group-title="Undefined",Bravo Vault
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6549310a53fc97000838fcc9/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2743c8-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=003ab90e-cb69-4949-9cbf-465fe6c6dc0b
 #EXTINF:-1 group-title="Undefined",Bread TV面包台 (720p)
@@ -774,7 +770,7 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60
 #EXTINF:-1 group-title="Undefined",Charlotte County CC-TV (Charlotte County FA) (720p)
 https://cdn3.wowza.com/5/cHYzekYzM2kvTVFH/charlotte/G0055_009/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",CHBL-TV
-https://fl4.moveonjoy.com/CA_GLOBAL/index.m3u8
+https://fl7.moveonjoy.com/CA_GLOBAL/index.m3u8
 #EXTINF:-1 group-title="Undefined",CHC Home Theater
 http://180.213.174.225:9901/tsfile/live/1030_1.m3u8?authid=0&key=txiptv&playlive=1
 #EXTINF:-1 group-title="Undefined",Cheaters
@@ -819,10 +815,6 @@ https://gsn-cinevault-70s-2-us.roku.wurl.tv/playlist.m3u8
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-rialto-samsungnz/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",Cira TV
 https://cira-tv.akamaized.net/hls/stream_0.m3u8
-#EXTINF:-1 group-title="Undefined",Citra Bioskop (720p) [Geo-blocked]
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch376)/index.m3u8
-#EXTINF:-1 group-title="Undefined",Citra Dangdut [Geo-blocked]
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch377)/index.m3u8
 #EXTINF:-1 group-title="Undefined",City Channel (720p) [Not 24/7]
 https://dev.aftermind.xyz/edge-hls/unitrust/citychannel/index.m3u8?token=8TXWzhY3h6jrzqEqx
 #EXTINF:-1 group-title="Undefined",Clarissa
@@ -1338,10 +1330,10 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5a
 #EXTINF:-1 group-title="Undefined",Fox Sports (720p)
 https://livetv-fa.tubi.video/fox-sports2/index.m3u8
 #EXTINF:-1 group-title="Undefined",Fox Sports 1
-https://fl4.moveonjoy.com/FOX_Sports_1/index.m3u8
-#EXTINF:-1 group-title="Undefined",Fox Sports 2 (360p)
+https://fl7.moveonjoy.com/FOX_Sports_1/index.m3u8
+#EXTINF:-1 group-title="Undefined",Fox Sports 2 (360p) [Not 24/7]
 https://tvpass.org/live/FoxSports2/sd
-#EXTINF:-1 group-title="Undefined",Fox Sports 2 (720p)
+#EXTINF:-1 group-title="Undefined",Fox Sports 2 (720p) [Not 24/7]
 https://tvpass.org/live/FoxSports2/hd
 #EXTINF:-1 group-title="Undefined",France 24 FAST English
 https://amg00106-amg00106c1-rakuten-uk-4654.playouts.now.amagi.tv/playlist/amg00106-france24fast-france24-rakutenuk/playlist.m3u8
@@ -1514,7 +1506,7 @@ https://amg00654-itv-amg00654c35-rakuten-gb-7598.playouts.now.amagi.tv/playlist.
 #EXTINF:-1 group-title="Undefined",Graham Norton Germany (1080p)
 https://amg00654-itv-amg00654c37-rakuten-de-7600.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",Great American Country
-https://fl4.moveonjoy.com/Great_American_Country/index.m3u8
+https://fl7.moveonjoy.com/Great_American_Country/index.m3u8
 #EXTINF:-1 group-title="Undefined",Great British Menu (720p)
 https://all3media-great-british-menu-1-gb.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",GREAT! real (1080p)
@@ -1755,8 +1747,6 @@ https://5f22d76e220e1.streamlock.net/iuniortv/iuniortv/playlist.m3u8
 https://reflect-jacksonville.cablecast.tv/live-7/live/live.m3u8
 #EXTINF:-1 group-title="Undefined",Jail (720p)
 https://langleyproductions-jail-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="Undefined",Jak TV (480p) [Geo-blocked]
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch392)/index.m3u8
 #EXTINF:-1 group-title="Undefined",Jazz Club (Radio) [Geo-blocked]
 http://80.79.6.221:25461/smash/public/25
 #EXTINF:-1 group-title="Undefined",JCN TV (1080p)
@@ -1994,15 +1984,13 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65
 #EXTINF:-1 group-title="Undefined",Marsh TV (720p) [Not 24/7]
 http://cdn.dovecher.tv:8081/live/marsh/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",MAV TV (720p)
-https://fl4.moveonjoy.com/MAV_TV/index.m3u8
+https://fl7.moveonjoy.com/MAV_TV/index.m3u8
 #EXTINF:-1 group-title="Undefined",Max & Ruby
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62fb6a4feb32e8000708f4d0/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7b17f0-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=ef7abed0-920d-4c83-92ed-2a600f6fc6d8
 #EXTINF:-1 group-title="Undefined",Max Middle East (1080p)
 https://nxtlive.net/sliv/stream.php?id=94312380256&e=.m3u8
 #EXTINF:-1 group-title="Undefined",MBC (1080p)
 https://cdn8.fntvchannel.com/v1/master/02eeb1726c343dc9c30c32e93dee82013e157021/FNTV-CHANNEL_CDN77/index.m3u8
-#EXTINF:-1 group-title="Undefined",MBC 1 Egypt (1080p)
-https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-1-na/eec141533c90dd34722c503a296dd0d8/index.m3u8
 #EXTINF:-1 group-title="Undefined",MBC Net (480p) [Geo-blocked]
 http://mytv.dothome.co.kr/ch/catv/28.php
 #EXTINF:-1 group-title="Undefined",MCJ TV
@@ -2832,7 +2820,7 @@ https://59825a54e4454.streamlock.net:8443/william233/william233/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",Puro Romance
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1082
 #EXTINF:-1 group-title="Undefined",Pursuit Channel (720p)
-https://fl4.moveonjoy.com/Pursuit_Channel/index.m3u8
+https://fl7.moveonjoy.com/Pursuit_Channel/index.m3u8
 #EXTINF:-1 group-title="Undefined",Puthuyugam TV (576p) [Not 24/7]
 http://103.199.160.85/Content/puthuyugam/Live/Channel(Puthuyugam)/index.m3u8
 #EXTINF:-1 group-title="Undefined",Puttinu [Geo-blocked]
@@ -2887,6 +2875,8 @@ https://live3-radio-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channe
 https://thelegitpro.in/pntv/rplusnews24x7/index.m3u8
 #EXTINF:-1 group-title="Undefined",R Plus Gold (720p)
 https://cdn-4.pishow.tv/live/1231/master.m3u8
+#EXTINF:-1 group-title="Undefined",Raavi TV (576p) [Not 24/7]
+http://116.90.120.149:8000/play/a01f/index.m3u8
 #EXTINF:-1 group-title="Undefined",Race Central TV (720p) [Not 24/7]
 https://nrpus.bozztv.com/36bay2/gusa-racecentral/index.m3u8
 #EXTINF:-1 group-title="Undefined",Radar Tasikmalaya TV (720p) [Not 24/7]
@@ -2994,7 +2984,7 @@ https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/2839e3d1e0f84a2e821c1708d5fdfdf0/in
 #EXTINF:-1 group-title="Undefined",Raj TV (720p) [Not 24/7]
 https://ottst05.flexitv.sk/2827-tv-pc.m3u8
 #EXTINF:-1 group-title="Undefined",Rajawali TV
-https://cdn09jtedge.indihometv.com/joss/130/rtv/index.m3u8
+https://rtvstream.rtv.co.id:4555/hls/rtv.m3u8
 #EXTINF:-1 group-title="Undefined",Rajeen TV (1080p) [Not 24/7]
 https://mn-nl.mncdn.com/palabroad/live/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",Rakuten Documentários
@@ -3228,7 +3218,7 @@ https://5926fc9c7c5b2.streamlock.net/9332/9332/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",Reteveneta (480p)
 https://59d7d6f47d7fc.streamlock.net/reteveneta/reteveneta/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",Revolt
-https://fl4.moveonjoy.com/REVOLT/index.m3u8
+https://fl7.moveonjoy.com/REVOLT/index.m3u8
 #EXTINF:-1 group-title="Undefined",Revry Europe (Frequency backend)
 https://03e7e5beea1d42fea576037d67f531eb.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_Revry/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",Revry News Europe (Frequency backend)
@@ -3549,6 +3539,8 @@ https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_017/Stream/playlist.m3u
 https://58de7a369a9c4.streamlock.net/salvetv/ngrp:stream_720p_web/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",Sam & Cat
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e8b5ba20af628000707cee3/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=bc861665-4b91-11ef-8a44-83c5e90e038f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=d29fcbfe-ed00-4380-9ee8-05cc095aee50
+#EXTINF:-1 group-title="Undefined",Samaa TV (576p) [Not 24/7]
+http://116.90.120.149:8000/play/a01g/index.m3u8
 #EXTINF:-1 group-title="Undefined",Samen1 TV (720p)
 https://server-67.stream-server.nl:1936/Samen1TV/Samen1TV/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",Samiaki TV (540p) [Not 24/7]
@@ -3629,14 +3621,14 @@ https://z215ymcm4tliv.vcdn.cloud/s97/hls/sctv4k/index.m3u8
 https://live.fptplay53.net/epzhd2/film360_vhls.smil/chunklist.m3u8
 #EXTINF:-1 group-title="Undefined",SCTV7 (576i)
 https://liveh12.seenow.vn/hls/SCTV7/03.m3u8
-#EXTINF:-1 group-title="Undefined",Sea Today (720p) [Geo-blocked]
-https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(9ce3f094-4044-467e-84b7-b684a49571d5)/manifest.mpd
 #EXTINF:-1 group-title="Undefined",SEATV (1080p)
 https://seatv.netlinkbroadcaster.com/hls/test.m3u8
 #EXTINF:-1 group-title="Undefined",SEATV-Radio (720p)
 https://fmseatv.netlinkbroadcaster.com/hls/test.m3u8
 #EXTINF:-1 group-title="Undefined",See Dad Run
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/63905bcb0f41d200073e05ff/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b20bf12-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=27c86e06-12dd-4459-9fb4-45674d793f3b
+#EXTINF:-1 group-title="Undefined",See TV (576p)
+http://116.90.120.149:8000/play/a01l/index.m3u8
 #EXTINF:-1 group-title="Undefined",Seenluft24 (1080p)
 https://h056.video-stream-hosting.de/easycast7-live/_definst_/mp4:livestreamhd20/playlist.m3u8?ref=
 #EXTINF:-1 group-title="Undefined",Semarang TV (720p)
@@ -3708,15 +3700,15 @@ https://showturk.blutv.com/blutv_showturk2/live.m3u8
 #EXTINF:-1 group-title="Undefined",Show TV (1080p)
 https://ciner-live.daioncdn.net/showtv/showtv.m3u8
 #EXTINF:-1 group-title="Undefined",Showtime 2 East
-https://fl4.moveonjoy.com/SHOWTIME_2/index.m3u8
+https://fl7.moveonjoy.com/SHOWTIME_2/index.m3u8
 #EXTINF:-1 group-title="Undefined",Showtime East
-https://fl4.moveonjoy.com/SHOWTIME/index.m3u8
+https://fl7.moveonjoy.com/SHOWTIME/index.m3u8
 #EXTINF:-1 group-title="Undefined",Showtime Next East
-https://fl4.moveonjoy.com/SHOWTIME_NEXT/index.m3u8
+https://fl7.moveonjoy.com/SHOWTIME_NEXT/index.m3u8
 #EXTINF:-1 group-title="Undefined",Showtime West (1080p)
-https://fl4.moveonjoy.com/SHOWTIME_WEST/index.m3u8
+https://fl7.moveonjoy.com/SHOWTIME_WEST/index.m3u8
 #EXTINF:-1 group-title="Undefined",Showtime Women East
-https://fl4.moveonjoy.com/SHOWTIME_WOMEN/index.m3u8
+https://fl7.moveonjoy.com/SHOWTIME_WOMEN/index.m3u8
 #EXTINF:-1 group-title="Undefined",Shraddha TV (480p)
 https://edge3-moblive.yuppcdn.net/drm1/smil:shraddhatvdrm.smil/index.m3u8
 #EXTINF:-1 group-title="Undefined",Shubh TV (1080p)
@@ -3828,7 +3820,7 @@ https://spt-competencias-2-us.roku.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",Sony Canal Escape Perfecto
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/605e479d5b8229000763e697/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2bb095-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=e52ea0d7-7d74-4383-8afa-27a135057740
 #EXTINF:-1 group-title="Undefined",Sony Channel
-https://fl4.moveonjoy.com/Sony_Movie_Channel/index.m3u8
+https://fl7.moveonjoy.com/Sony_Movie_Channel/index.m3u8
 #EXTINF:-1 group-title="Undefined",Sony Kal (1080p)
 https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",Sony Marathi (1080p)
@@ -3942,13 +3934,13 @@ https://mainstreamstarkefrauen-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",Stars in Gefahr (1080p)
 https://stars-in-gefahr-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",Start TV
-https://fl4.moveonjoy.com/Start_Tv/index.m3u8
+https://fl7.moveonjoy.com/Start_Tv/index.m3u8
 #EXTINF:-1 group-title="Undefined",StarTalk TV
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65775a88b3801200084a39ed/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2bd7a6-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=cd6592b8-5304-4442-bf9d-cc398c532be8
 #EXTINF:-1 group-title="Undefined",Starz East
-https://fl4.moveonjoy.com/STARZ/index.m3u8
+https://fl7.moveonjoy.com/STARZ/index.m3u8
 #EXTINF:-1 group-title="Undefined",Starz West
-https://fl4.moveonjoy.com/STARZ_WEST/index.m3u8
+https://fl7.moveonjoy.com/STARZ_WEST/index.m3u8
 #EXTINF:-1 group-title="Undefined",StashTV Black Stories (720p) [Geo-blocked]
 https://amg01720-amg01720c1-klowdtv-us-4664.playouts.now.amagi.tv/playlist/amg01720-filmhub-stashtvblackstories-klowdtvus/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",StashTV Crime Time (720p) [Geo-blocked]
@@ -4068,7 +4060,7 @@ https://swrrpd-hls.akamaized.net/hls/live/2018676/swrrpd/master.m3u8
 #EXTINF:-1 group-title="Undefined",SX3 (1080p) [Geo-blocked]
 https://directes-tv-cat.3catdirectes.cat/live-origin/super3-hls/master.m3u8
 #EXTINF:-1 group-title="Undefined",Syfy East
-https://fl4.moveonjoy.com/SYFY/index.m3u8
+https://fl7.moveonjoy.com/SYFY/index.m3u8
 #EXTINF:-1 group-title="Undefined",Synagogue TV (576p)
 https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_038/Stream/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",T2 Tennis Channel (1080p)
@@ -4474,7 +4466,7 @@ https://amg00353-amg00353c36-xumo-us-3803.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",The Conners (720p) [Geo-blocked]
 https://aegis-cloudfront-1.tubi.video/e08080ff-3d87-4d9e-a156-91554fd2e39b/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",The Cowboy Channel
-https://fl4.moveonjoy.com/Cowboy_Channel/index.m3u8
+https://fl7.moveonjoy.com/Cowboy_Channel/index.m3u8
 #EXTINF:-1 group-title="Undefined",The Craft Store (720p)
 https://live-hochanda.simplestreamcdn.com/hochanda/live.m3u8
 #EXTINF:-1 group-title="Undefined",The Cycling Channel
@@ -4911,8 +4903,6 @@ https://stream.tvlux.sk/lux/ngrp:lux.stream_all/playlist.m3u8
 https://host.streamingnation.live/p/3780/live/tvluzlive.m3u8
 #EXTINF:-1 group-title="Undefined",TV Mainfranken (1080p) [Not 24/7]
 https://tvtouringw.iptv-playoutcenter.de/tvtouringw/tvtouringw.stream_1/playlist.m3u8
-#EXTINF:-1 group-title="Undefined",TV Maldives
-https://customer-ujex1meek7koqd9x.cloudflarestream.com/9e93379c0d46ee588b99263d95bd9c42/manifest/video.m3u8
 #EXTINF:-1 group-title="Undefined",TV MAX (720p)
 https://5cf4a2c2512a2.streamlock.net/tvmax/tvmax/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",TV Mon (720p)
@@ -4928,7 +4918,7 @@ https://lb2-e3-20.pluscdn.pl/ch/1523532/366/dash/2cf383bb/live.mpd
 #EXTINF:-1 group-title="Undefined",TV One (576p)
 http://92.114.85.72:8000/play/a070
 #EXTINF:-1 group-title="Undefined",TV One
-https://fl4.moveonjoy.com/TV_ONE/index.m3u8
+https://fl7.moveonjoy.com/TV_ONE/index.m3u8
 #EXTINF:-1 group-title="Undefined",TV One Crime & Justice
 https://linear-593.frequency.stream/dist/xumo/593/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",TV One Crime & Justice (1080p)
@@ -5234,7 +5224,7 @@ https://5f8e578f.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Um9rdV
 #EXTINF:-1 group-title="Undefined",UnXplained Zone
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/656538f8954b020008d389db/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2cc204-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=13e8f8b3-086c-4316-bc80-5d9ac1d1a45d
 #EXTINF:-1 group-title="Undefined",Up TV (1080p)
-https://fl4.moveonjoy.com/Up_Tv/index.m3u8
+https://fl7.moveonjoy.com/Up_Tv/index.m3u8
 #EXTINF:-1 group-title="Undefined",Uppera Balkan (720p) [Geo-blocked]
 http://89.187.168.245:8080/live/sUPPERchannel2/index.m3u8
 #EXTINF:-1 group-title="Undefined",Uranio TV (Yurimaguas) (720p) [Not 24/7]
@@ -5244,7 +5234,7 @@ https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/7a
 #EXTINF:-1 group-title="Undefined",Urfa Natik TV (720p)
 https://live.artidijitalmedya.com/artidijital_urfanatiktv/urfanatiktv/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",USA Network (720p)
-http://fl4.moveonjoy.com/USA_NETWORK/index.m3u8
+http://fl7.moveonjoy.com/USA_NETWORK/index.m3u8
 #EXTINF:-1 group-title="Undefined",USA Network Latin America
 https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/SYFY/index.m3u8
 #EXTINF:-1 group-title="Undefined",UStad (1080p)
@@ -5438,12 +5428,12 @@ https://stream.polar.cz/vctv/vctvlive-1/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",W24 (720p) [Not 24/7]
 https://ms01.w24.at/W24/smil:liveevent.smil/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",W Network (720p)
-https://fl4.moveonjoy.com/W_NETWORK/index.m3u8
+https://fl7.moveonjoy.com/W_NETWORK/index.m3u8
 #EXTINF:-1 group-title="Undefined",W Polsce PL (720p)
 https://str.onnetwork.tv/hls/onnet-358726_hi/index.m3u8
 #EXTINF:-1 group-title="Undefined",Waar TV
 https://ca-rt.onetv.app/Waar/index-0.m3u8
-#EXTINF:-1 group-title="Undefined",WABC-DT1 (720p)
+#EXTINF:-1 group-title="Undefined",WABC-DT1 (720p) [Not 24/7]
 https://tvpass.org/live/WABCDT1/hd
 #EXTINF:-1 group-title="Undefined",Wairarapa TV (1080p) [Not 24/7]
 https://stream1.np.co.nz/WAITVABR/WAITVABR/playlist.m3u8
@@ -5554,9 +5544,9 @@ https://cdn3.wowza.com/5/M0lyamVmM2JWcjhQ/weho/G0161_004/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",Westminster WTV Channel (Westminster CA) (360p)
 https://cdn3.wowza.com/5/R09KQXpaMWlrRjly/westminsterca/G0571_001/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",WFLA-DT1
-https://fl4.moveonjoy.com/FL_Tampa_NBC/index.m3u8
+https://fl7.moveonjoy.com/FL_Tampa_NBC/index.m3u8
 #EXTINF:-1 group-title="Undefined",WFLX-DT1
-https://fl4.moveonjoy.com/FL_West_Palm_Beach_FOX/index.m3u8
+https://fl7.moveonjoy.com/FL_West_Palm_Beach_FOX/index.m3u8
 #EXTINF:-1 group-title="Undefined",WFMZ Dorney Park Camera
 https://cdn.jaybirdtv.com/wfmz/5/live/master.m3u8
 #EXTINF:-1 group-title="Undefined",WFMZ PennST camera
@@ -5608,7 +5598,7 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01290-wildearthmediap-wildearth-sam
 #EXTINF:-1 group-title="Undefined",Willkommen bei den Louds
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/627d2d1d05e09f00073ccdff/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b21a971-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=d459f8f8-c3a5-40cd-ad1a-eab32db42e72
 #EXTINF:-1 group-title="Undefined",Willow
-https://fl4.moveonjoy.com/WILLOW_CRICKET/index.m3u8
+https://fl7.moveonjoy.com/WILLOW_CRICKET/index.m3u8
 #EXTINF:-1 group-title="Undefined",Willow Sports (1080p) [Geo-blocked]
 https://amg01269-amg01269c1-firetv-us-5377.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",Win TV (720p)
@@ -5631,7 +5621,7 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e
 https://cprdp.pr/hls/stream/index.m3u8?tkn=3130025789
 #EXTINF:-1 group-title="Undefined",Wired2Fish (720p) [Geo-blocked]
 https://wire2fish-klowdtv.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="Undefined",WIS-DT2 (720p)
+#EXTINF:-1 group-title="Undefined",WIS-DT2 (720p) [Not 24/7]
 https://tvpass.org/live/cw-wdcw-district-of-columbia/hd
 #EXTINF:-1 group-title="Undefined",WJAX-DT1 (1080p)
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00327-coxmediagroup-wjaxbreaking-ono/playlist.m3u8
@@ -5640,7 +5630,7 @@ https://dai.google.com/linear/hls/event/RDmbn03GRCOLNG1eetEKhg/master.m3u8
 #EXTINF:-1 group-title="Undefined",WKAQ-DT2 (Punto 2) (720p)
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream2/master.m3u8
 #EXTINF:-1 group-title="Undefined",WKCF-DT1
-https://fl4.moveonjoy.com/CW_ORLANDO/index.m3u8
+https://fl7.moveonjoy.com/CW_ORLANDO/index.m3u8
 #EXTINF:-1 group-title="Undefined",WKCF-DT2
 https://dvrfl03.bozztv.com/hondu-lxnews/index.m3u8
 #EXTINF:-1 group-title="Undefined",WKMG-DT1
@@ -5662,11 +5652,11 @@ https://wmx-pop-xumo.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",WMX Rock
 https://wmxrock-xumo.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",WNBC-DT1
-https://fl4.moveonjoy.com/NBC_EAST/index.m3u8
-#EXTINF:-1 group-title="Undefined",WNJU-DT1 (1080p)
+https://fl7.moveonjoy.com/NBC_EAST/index.m3u8
+#EXTINF:-1 group-title="Undefined",WNJU-DT1 (1080p) [Not 24/7]
 https://tvpass.org/live/TelemundoEast/hd
 #EXTINF:-1 group-title="Undefined",WNYW-DT1
-https://fl4.moveonjoy.com/FOX_EAST/index.m3u8
+https://fl7.moveonjoy.com/FOX_EAST/index.m3u8
 #EXTINF:-1 group-title="Undefined",WOLO-DT1 ABC 25 (Columbia SC) (720p)
 http://143.244.60.30/ABC_EAST/index.m3u8
 #EXTINF:-1 group-title="Undefined",Women's Sports Network (720p)
@@ -5692,7 +5682,7 @@ https://ms2.mx-cd.net/dtv-11/99-660295/WOS.smil/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",WOWOW Prime (720p)
 http://171.244.62.178/jptv2/get.php?id=CXrJaWUllYhR6k5e0_K46w==
 #EXTINF:-1 group-title="Undefined",WPEC-DT1
-https://fl4.moveonjoy.com/FL_West_Palm_Beach_CBS/index.m3u8
+https://fl7.moveonjoy.com/FL_West_Palm_Beach_CBS/index.m3u8
 #EXTINF:-1 group-title="Undefined",WPT
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f8ecfb9db6c180007a6d1b0/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e052a63-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=6b59a91e-3da5-46c2-b495-c383ef6eaa90
 #EXTINF:-1 group-title="Undefined",WPTV News West Palm Beach FL (720p)
@@ -5710,7 +5700,7 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00327-coxmediagroup-wsocbreaking-on
 #EXTINF:-1 group-title="Undefined",WTMO-CD1
 https://dvrfl03.bozztv.com/hondu-telexitos/index.m3u8
 #EXTINF:-1 group-title="Undefined",WTOG-DT1
-https://fl4.moveonjoy.com/FL_Tampa_CW44/index.m3u8
+https://fl7.moveonjoy.com/FL_Tampa_CW44/index.m3u8
 #EXTINF:-1 group-title="Undefined",WTVQ ABC 36 News (Lexington KY) (720p)
 https://townnews.g-mana.live/media/14d1fd2c-0548-4803-80ad-6657831a7981/main.m3u8
 #EXTINF:-1 group-title="Undefined",WUPA-DT1
@@ -5766,7 +5756,7 @@ https://lenz.splus.ir/PLTV/88888888/224/3221227023/index.m3u8
 #EXTINF:-1 group-title="Undefined",Yemen Today TV (480p)
 https://video.yementdy.tv/hls/yementoday.m3u8
 #EXTINF:-1 group-title="Undefined",Yes Network
-https://fl4.moveonjoy.com/YES_NETWORK/index.m3u8
+https://fl7.moveonjoy.com/YES_NETWORK/index.m3u8
 #EXTINF:-1 group-title="Undefined",Yicai TV
 http://49.113.179.174:4022/udp/238.125.0.165:5140
 #EXTINF:-1 group-title="Undefined",Yildiz TV En
@@ -5825,8 +5815,6 @@ https://dgrvlduwztkd4.cloudfront.net/index_5.m3u8
 https://tgn.bozztv.com/gin-dvrfl05/ga-zeealwan/index.m3u8
 #EXTINF:-1 group-title="Undefined",Zee Bihar Jharkhand (720p)
 https://raw.githubusercontent.com/Alstruit/adaptive-streams/alstruit-4_24_in/streams/in/ZeeBiharJharkhand.m3u8
-#EXTINF:-1 group-title="Undefined",Zee Bioskop (360p) [Geo-blocked]
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch161)/index.m3u8
 #EXTINF:-1 group-title="Undefined",Zee Hindustan (720p)
 https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeehindustan/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/96bbab12-582e-4540-af70-510ab6824581/main.m3u8
 #EXTINF:-1 group-title="Undefined",Zee Kannada (1080p)

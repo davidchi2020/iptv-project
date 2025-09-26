@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 group-title="Kids",4 Fun Kids (576i) [[Not 24/7]]
+https://stream.4fun.tv:8889/hls/4fk_high/index.m3u8
 #EXTINF:-1 group-title="Kids",13 Kids (1080p)
 https://origin.dpsgo.com/ssai/event/LhHrVtyeQkKZ-Ye_xEU75g/master.m3u8
 #EXTINF:-1 group-title="Kids",ABC Kids
@@ -41,8 +43,8 @@ https://digitalb-live.morescreens.com/DAL_1_004/playlist.m3u8?application_id=bac
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60493283ffc52f000710edae/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c26f5a3-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=85e80dc7-d7c2-49ee-b346-20b976b1db9b
 #EXTINF:-1 group-title="Kids",BeJoy.kids (1080p)
 https://64b16f23efbee.streamlock.net/bejoy/bejoy/playlist.m3u8
-#EXTINF:-1 group-title="Kids",Biznet Kids (480p)
-http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/chunklist_w417362857_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1xQXJpMU0yeHVfTUFsbkh3VlJ0T3MyNGxSOFlfSFNEaWpOMkNSTmdoaWZVbGxoWXFRU0Rsa2QwcUU4Q2tad3hD.m3u8
+#EXTINF:-1 group-title="Kids",Biznet Kids (1080p)
+http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/index.m3u8
 #EXTINF:-1 group-title="Kids",Bob Esponja LATAM
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6254598f5083f800076d8563/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=unknown&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=94b33a50-52dc-11ed-8a57-a7949f30f39c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=c32ca8be-d69f-4d5d-af36-5defdd524167&userId=
 #EXTINF:-1 group-title="Kids",Bob l'éponge
@@ -78,13 +80,13 @@ https://viamotionhsi.netplus.ch/live/eds/disneychannelde/browser-HLS8/disneychan
 #EXTINF:-1 group-title="Kids",Disney Channel (576p) [Not 24/7]
 http://116.90.120.149:8000/play/a0bx/index.m3u8
 #EXTINF:-1 group-title="Kids",Disney Channel East
-https://fl4.moveonjoy.com/DISNEY/index.m3u8
+https://fl7.moveonjoy.com/DISNEY/index.m3u8
 #EXTINF:-1 group-title="Kids",Disney Junior (576p)
 http://116.90.120.149:8000/play/a0b3/index.m3u8
 #EXTINF:-1 group-title="Kids",Disney Junior East
-https://fl4.moveonjoy.com/DISNEY_JR/index.m3u8
+https://fl7.moveonjoy.com/DISNEY_JR/index.m3u8
 #EXTINF:-1 group-title="Kids",Disney XD (720p)
-http://fl4.moveonjoy.com/DISNEY_XD/index.m3u8
+http://fl7.moveonjoy.com/DISNEY_XD/index.m3u8
 #EXTINF:-1 group-title="Kids",DR Ramasjang (720p) [Geo-blocked]
 https://drlive03hls.akamaized.net/hls/live/2014190/drlive03/master.m3u8
 #EXTINF:-1 group-title="Kids",ducktv (720p)
@@ -115,8 +117,6 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60
 https://epiconvh.akamaized.net/live/gubbare/master.m3u8
 #EXTINF:-1 group-title="Kids",Gulli (720p)
 https://viamotionhsi.netplus.ch/live/eds/gulli/browser-HLS8/gulli.m3u8
-#EXTINF:-1 group-title="Kids",Horee! (720p) [Geo-blocked]
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch375)/index.m3u8
 #EXTINF:-1 group-title="Kids",Iunior TV (1080p)
 https://5f22d76e220e1.streamlock.net/iuniortv/iuniortv/chunklist_w774879328.m3u8
 #EXTINF:-1 group-title="Kids",JiaJia Cartoon
@@ -161,6 +161,8 @@ https://tgn.bozztv.com/eshgtv-trn09/ga-mchannel5/index.m3u8
 https://tgn.bozztv.com/dvrfl05/gin-minikacocuk/index.m3u8
 #EXTINF:-1 group-title="Kids",Minika Go (480p)
 https://tgn.bozztv.com/dvrfl05/gin-minikago/index.m3u8
+#EXTINF:-1 group-title="Kids",Minimax (576p) [Not 24/7]
+http://116.90.120.149:8000/play/a01c/index.m3u8
 #EXTINF:-1 group-title="Kids",Minimax (576p) (576p)
 http://88.212.15.19/live/test_minimax/playlist.m3u8
 #EXTINF:-1 group-title="Kids",Moonbug Kids (1080p)
@@ -176,7 +178,7 @@ http://116.90.120.149:8000/play/a0cw/index.m3u8
 #EXTINF:-1 group-title="Kids",Nick Jr India (1080p)
 https://prod-sports-north-gm.jiocinema.com/bpk-tv/Nick_Junior_voot_MOB/Fallback/index.m3u8
 #EXTINF:-1 group-title="Kids",Nick Jr. East (720p)
-https://fl4.moveonjoy.com/NICK_JR/index.m3u8
+https://fl7.moveonjoy.com/NICK_JR/index.m3u8
 #EXTINF:-1 group-title="Kids",Nick Jr. Pluto TV
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ca6748a37b88b269472dad9/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a5106-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=d95e31ff-c65d-438c-9466-ddbbd097b4cf
 #EXTINF:-1 group-title="Kids",Nickelodeon (720p)
@@ -274,7 +276,7 @@ https://media1.livaat.com/static/TAHA_TV/playlist.m3u8
 #EXTINF:-1 group-title="Kids",Team Spirit
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60f9ebb06f0b3d000746fbdb/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2bfeb2-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=2b8fbc7f-29d9-4732-92d1-24f50c0be761
 #EXTINF:-1 group-title="Kids",TeenNick
-https://fl4.moveonjoy.com/Teen_Nick/index.m3u8
+https://fl7.moveonjoy.com/Teen_Nick/index.m3u8
 #EXTINF:-1 group-title="Kids",Tiny Pop (1080p)
 https://amg01753-narrativeuk-amg01753c1-lg-gb-1830.playouts.now.amagi.tv/playlist/amg01753-narrativeuk-tinypop-lggb/playlist.m3u8
 #EXTINF:-1 group-title="Kids",Tiny Pop +1 (576p)

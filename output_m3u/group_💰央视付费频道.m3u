@@ -1,25 +1,25 @@
 #EXTM3U
 #EXTINF:-1 group-title="💰央视付费频道",文化精品" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/文化精品.png" group-title="💰央视付费频道
-https://hls-gateway.vpstv.net/streams/708832.m3u8
+http://121.29.141.59:4022/rtp/239.253.93.175:6439
 #EXTINF:-1 group-title="💰央视付费频道",央视台球" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/央视台球.png" group-title="💰央视付费频道
 http://[2409:8087:7001:20:2::3]/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226956/index.m3u8
 #EXTINF:-1 group-title="💰央视付费频道",风云音乐" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/风云音乐.png" group-title="💰央视付费频道
-https://hls-gateway.vpstv.net/streams/708858.m3u8
+http://121.29.141.59:4022/rtp/239.253.93.253:6431
 #EXTINF:-1 group-title="💰央视付费频道",第一剧场" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/第一剧场.png" group-title="💰央视付费频道
-https://epg.pw/stream/6d7bf281e3d739806a73f5373acaa6e01988ec9739f5ac1355ce54b47a928472.m3u8
+http://122.189.103.236:8010/rtp/228.0.0.235:6108
 #EXTINF:-1 group-title="💰央视付费频道",风云剧场" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/风云剧场.png" group-title="💰央视付费频道
-https://hls-gateway.vpstv.net/streams/708861.m3u8
+http://121.29.141.59:4022/rtp/239.253.93.251:6429
 #EXTINF:-1 group-title="💰央视付费频道",怀旧剧场" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/怀旧剧场.png" group-title="💰央视付费频道
-https://cc06.tv12.xyz/52.m3u8
+http://122.189.103.236:8010/rtp/228.0.0.237:6108
 #EXTINF:-1 group-title="💰央视付费频道",女性时尚" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/女性时尚.png" group-title="💰央视付费频道
 https://cc06.tv12.xyz/95.m3u8
 #EXTINF:-1 group-title="💰央视付费频道",高尔夫网球" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/高尔夫网球.png" group-title="💰央视付费频道
-https://hls-gateway.vpstv.net/streams/708857.m3u8
+http://121.29.141.59:4022/rtp/239.253.93.122:6465
 #EXTINF:-1 group-title="💰央视付费频道",风云足球" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/风云足球.png" group-title="💰央视付费频道
 https://epg.pw/stream/6d7bf281e3d739806a73f5373acaa6e01988ec9739f5ac1355ce54b47a928472.m3u8
 #EXTINF:-1 group-title="💰央视付费频道",电视指南" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/电视指南.png" group-title="💰央视付费频道
-https://cc06.tv12.xyz/39.m3u8
+http://27.184.64.66:58888/rtp/239.254.201.217:7250
 #EXTINF:-1 group-title="💰央视付费频道",世界地理" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/世界地理.png" group-title="💰央视付费频道
 http://[2409:8087:7001:20:2::3]/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226947/index.m3u8
 #EXTINF:-1 group-title="💰央视付费频道",兵器科技" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/兵器科技.png" group-title="💰央视付费频道
-https://hls-gateway.vpstv.net/streams/708856.m3u8
+http://121.29.141.59:4022/rtp/239.253.93.47:6435
