@@ -127,8 +127,8 @@ https://cloudvideo.servers10.com:8081/8004/index.m3u8
 https://cmc-ono.amagi.tv/hls/amagi_hls_data_cmcAAAAAA-cmc-ono/CDN/playlist.m3u8
 #EXTINF:-1 group-title="Music",Caltex Music
 https://video.caltexmusic.com/hls/caltextv.m3u8
-#EXTINF:-1 group-title="Music",Canal 3 KMK TV (1280p) [Not 24/7]
-https://s3.tvdatta.com:3030/live/kmk3live.m3u8
+#EXTINF:-1 group-title="Music",Canal 3 KMK TV (576i) [Not 24/7]
+https://live20.bozztv.com/giatv/giatv-KMKTV/KMKTV/chunks.m3u8
 #EXTINF:-1 group-title="Music",Cantina TV (1080p)
 https://vcp.myplaytv.com/cantinatv/cantinatv/playlist.m3u8
 #EXTINF:-1 group-title="Music",CCTV15音乐
@@ -199,8 +199,8 @@ https://jmp2.uk/stvp-CHAJ0500413A
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
 #EXTINF:-1 group-title="Music",Deluxe Rap (1080p)
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.m3u8
-#EXTINF:-1 group-title="Music",Dhamaal (1080p) [Not 24/7]
-https://live.hungama.com/linear/dhamaal/playlist.m3u8
+#EXTINF:-1 group-title="Music",Dhamaal (576p) [Not 24/7]
+https://playyonogames.in/live.php?id=535&format=.m3u8
 #EXTINF:-1 group-title="Music",Dhoom Music (720p)
 https://cdn-1.pishow.tv/live/1456/master.m3u8
 #EXTINF:-1 group-title="Music",Dijlah Tarab (1080p)
@@ -869,6 +869,8 @@ https://cloudvideo.servers10.com:8081/8026/tracks-v1a1/index.m3u8
 https://live2.tensila.com/knut-v-1.choice/hls/master.m3u8
 #EXTINF:-1 group-title="Music",Star Folk (1080p)
 https://live.muzickatv.mk/live/StarMusic.m3u8
+#EXTINF:-1 group-title="Music",Star Maa Music (576p)
+https://live.dinesh29.com.np/stream/jiotvplus/maamusic/master.m3u8
 #EXTINF:-1 group-title="Music",Star Plus Music (1080p) [Not 24/7]
 https://live.muzickatv.mk/live/StarMusic2.m3u8
 #EXTINF:-1 group-title="Music",Steelbird Music (720p) [Not 24/7]
@@ -927,6 +929,8 @@ https://cloudvideo.servers10.com:8081/stztelebista/index.m3u8
 https://vcp8.myplaytv.com:1936/superq/superq/playlist.m3u8
 #EXTINF:-1 group-title="Music",Super TV (576p)
 http://iptv.supertv.ro:8000/play/a001/index.m3u8
+#EXTINF:-1 group-title="Music",Surya Music (576p)
+https://playyonogames.in/live.php?id=747&format=.m3u8
 #EXTINF:-1 group-title="Music",T2 TV
 https://t2hls.wns.live/hls/stream.m3u8
 #EXTINF:-1 group-title="Music",Tarab (1080p)
@@ -1013,6 +1017,8 @@ https://rpn.bozztv.com/gusa/gusa-tvsmusic/index.m3u8
 https://streamtv.onliv3.online:1936/karibtv/karibtv/playlist.m3u8
 #EXTINF:-1 group-title="Music",TZiK [Not 24/7]
 https://54627d4fc5996.streamlock.net/tzik/tzik/chunklist.m3u8
+#EXTINF:-1 group-title="Music",Udaya Music (576p)
+https://playyonogames.in/live.php?id=744&format=.m3u8
 #EXTINF:-1 group-title="Music",Urbano TV (720p)
 https://59ef525c24caa.streamlock.net/tvurbano/tvurbano/playlist.m3u8
 #EXTINF:-1 group-title="Music",V2BEAT (720p) [Not 24/7]
@@ -1065,6 +1071,8 @@ https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8
 https://d3b2epqdk0p7vd.cloudfront.net/out/v1/8a448b5e16384af4a3c8146a7b049c32/index.m3u8
 #EXTINF:-1 group-title="Music",Video Tour Channel (480p) [Not 24/7]
 http://k4.usastreams.com/videotour/videotour/playlist.m3u8
+#EXTINF:-1 group-title="Music",Vijay Takkar (576p)
+https://live.dinesh29.com.np/stream/jiotvplus/vijaytakkar/master.m3u8
 #EXTINF:-1 group-title="Music",Vintage Music (720p)
 https://59ef525c24caa.streamlock.net/vmtv/tvvintage/playlist.m3u8
 #EXTINF:-1 group-title="Music",VIP TV (720p)
