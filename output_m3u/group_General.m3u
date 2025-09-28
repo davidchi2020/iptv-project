@@ -1183,6 +1183,8 @@ https://stream.it-innov.com/ctv/index.m3u8
 https://vdo2.streamgato.us:3978/live/ctvlive.m3u8
 #EXTINF:-1 group-title="General",CTV Internacional (1080p)
 https://mediacp.us:8081/ctvhn/index.m3u8
+#EXTINF:-1 group-title="General",Cubavision Internacional
+https://dvrfl06.bozztv.com/astv-cubavisionint/index.m3u8
 #EXTINF:-1 group-title="General",Cugat TV (1080p)
 https://liveingesta318.cdnmedia.tv/cugatcatlive/smil:rtmp01.smil/playlist.m3u8
 #EXTINF:-1 group-title="General",Cultura Pará (480p) [Not 24/7]
