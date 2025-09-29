@@ -95,6 +95,8 @@ http://doxatv.flashmediacast.com:1935/doxatv/livestream/playlist.m3u8
 https://artesimulcast.akamaized.net/hls/live/2030993/artelive_de/index.m3u8
 #EXTINF:-1 group-title="Entertainment",Arte (720p) [Geo-blocked]
 https://artesimulcast.akamaized.net/hls/live/2031003/artelive_fr/index.m3u8
+#EXTINF:-1 group-title="Entertainment",arte HD (1080p)
+https://viamotionhsi.netplus.ch/live/eds/artehd/browser-HLS8/artehd.m3u8
 #EXTINF:-1 group-title="Entertainment",ArubaTV + (1080p)
 https://livertmptwo.com:19360/atvplusrelay/atvplusrelay.m3u8
 #EXTINF:-1 group-title="Entertainment",Asian TV (720p)
@@ -163,6 +165,8 @@ https://cootv.cootel.com.ni:8095/Canal11_CooTel/playlist.m3u8
 https://eu1.servers10.com:8081/8056/index.m3u8
 #EXTINF:-1 group-title="Entertainment",Canal 15 DTP (352p)
 https://s.emisoras.tv:8081/dtp/index.m3u8
+#EXTINF:-1 group-title="Entertainment",Canal+ (1080p)
+https://viamotionhsi.netplus.ch/live/eds/canalplusclair/browser-HLS8/canalplusclair.m3u8
 #EXTINF:-1 group-title="Entertainment",Canal+ Haiti [Geo-blocked]
 https://vdo.pro-fhi.net:3605/live/dgenlcpmlive.m3u8
 #EXTINF:-1 group-title="Entertainment",Canale 5 [Geo-blocked]
@@ -655,6 +659,8 @@ https://monomax-uiripn.cdn.byteark.com/plain/th/1080p/index.m3u8
 https://viamotionhsi.netplus.ch/live/eds/more4/browser-dash/more4.mpd
 #EXTINF:-1 group-title="Entertainment",More TV Drama
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/613260e4bdb71c00070d63fa/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c29dbd7-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=f1dbd4b6-a07d-4f52-b7b5-f1c84ee32628
+#EXTINF:-1 group-title="Entertainment",MTV (1080p)
+https://viamotionhsi.netplus.ch/live/eds/mtvfrance/browser-HLS8/mtvfrance.m3u8
 #EXTINF:-1 group-title="Entertainment",MTV2 (720p)
 https://fl7.moveonjoy.com/MTV_2/index.m3u8
 #EXTINF:-1 group-title="Entertainment",MTV East

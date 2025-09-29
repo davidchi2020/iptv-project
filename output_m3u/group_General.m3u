@@ -217,10 +217,6 @@ https://live.artidijitalmedya.com/artidijital_aksutv/aksutv/playlist.m3u8
 https://e.siar.us/live/aktv.m3u8
 #EXTINF:-1 group-title="General",Al Ahad TV
 http://63b03f7689049.streamlock.net:1935/live/7/playlist.m3u8
-#EXTINF:-1 group-title="General",Al Aoula Inter (480p)
-https://cdn.live.easybroadcast.io/ts_corp/73_aloula_w1dqfwm/playlist_dvr.m3u8
-#EXTINF:-1 group-title="General",Al Aoula Laâyoune (480p)
-https://cdn.live.easybroadcast.io/abr_corp/73_laayoune_pgagr52/corp/73_laayoune_pgagr52_480p/chunks_dvr.m3u8
 #EXTINF:-1 group-title="General",Al Aqsa Channel (416p) [Not 24/7]
 http://167.172.161.13/hls/feedspare/6udfi7v8a3eof6nlps6e9ovfrs65c7l7.m3u8
 #EXTINF:-1 group-title="General",Al Dafrah TV (720p)
@@ -232,7 +228,7 @@ http://185.105.4.151:8080/_defapp_/ittihad/index.m3u8
 #EXTINF:-1 group-title="General",Al Jadeed (1080p)
 http://185.9.2.18/chid_391/mono.m3u8
 #EXTINF:-1 group-title="General",Al Maghribia (480p)
-https://cdn.live.easybroadcast.io/abr_corp/73_almaghribia_83tz85q/corp/73_almaghribia_83tz85q_480p/chunks_dvr.m3u8
+https://cdn.live.easybroadcast.io/ts_corp/73_almaghribia_83tz85q/playlist_dvr.m3u8
 #EXTINF:-1 group-title="General",Al Masriyah
 https://fl1002.bozztv.com/ga-almasriya/index.m3u8
 #EXTINF:-1 group-title="General",Al Rabiaa TV (1080p)
@@ -2227,6 +2223,8 @@ https://streamunoapp.com:3983/live/larutatvlive.m3u8
 https://latele.vedge.infomaniak.com/livecast/latele/playlist.m3u8
 #EXTINF:-1 group-title="General",La TR3 Marsala (720p)
 https://tsw.streamingwebtv24.it:1936/eslife1/eslife1/playlist.m3u8
+#EXTINF:-1 group-title="General",Laayoune TV (480p)
+https://cdn.live.easybroadcast.io/ts_corp/73_laayoune_pgagr52/playlist_dvr.m3u8
 #EXTINF:-1 group-title="General",Lakewood CityTV (720p)
 https://dlttx48mxf9m3.cloudfront.net/vod_clients/lakewood/live/ch1/video.m3u8
 #EXTINF:-1 group-title="General",Lam Dong TV (720p)
@@ -2585,8 +2583,6 @@ https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(MTM)/index.m3u8
 https://cdnsk003.panaccess.com/local/Ruzomberok/index.m3u8
 #EXTINF:-1 group-title="General",MTürk TV (1080p)
 https://edge1.socialsmart.tv/muglaturk/bant1/playlist.m3u8
-#EXTINF:-1 group-title="General",MTV (1080p)
-https://hms.pfs.gdn/v1/broadcast/mtv/playlist.m3u8
 #EXTINF:-1 group-title="General",MTV3 (576p)
 http://195.222.7.17:8002/ch352
 #EXTINF:-1 group-title="General",MTV Guyana (1080p) [Not 24/7]
@@ -3533,8 +3529,8 @@ http://streamipcf.akamaized.net/live/_definst_/live_720/key_b1500.m3u8
 https://live.teleradiocom.tj/1/3m.m3u8
 #EXTINF:-1 group-title="General",TAM TV (720p)
 https://tv.webtuya.com:3726/hybrid/play.m3u8
-#EXTINF:-1 group-title="General",Tamazight TV (480p)
-https://cdn.live.easybroadcast.io/ts_corp/73_tamazight_tccybxt/playlist_dvr.m3u8
+#EXTINF:-1 group-title="General",Tamazight TV
+https://fl1002.bozztv.com/ga-tamazight8/index.m3u8
 #EXTINF:-1 group-title="General",Tampa Bay Communnity Network TBCN (Tampa Bay FL) (480p)
 https://reflect-tampa-bay-community.cablecast.tv/live-16/live/live.m3u8
 #EXTINF:-1 group-title="General",Tanasuh TV (1080p)

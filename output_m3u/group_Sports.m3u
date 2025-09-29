@@ -50,7 +50,7 @@ https://stream1.antenaplay.ro/as/asrolive1/playlist.m3u8
 #EXTINF:-1 group-title="Sports",Arena Sport 1 (720p)
 http://91.132.74.5:8000/play/a00k
 #EXTINF:-1 group-title="Sports",Arryadia (480p)
-https://cdn.live.easybroadcast.io/abr_corp/73_arryadia_k2tgcj0/corp/73_arryadia_k2tgcj0_480p/chunks_dvr.m3u8
+https://cdn.live.easybroadcast.io/ts_corp/73_arryadia_k2tgcj0/playlist_dvr.m3u8
 #EXTINF:-1 group-title="Sports",Arryadia TNT (480p) [Not 24/7]
 https://cdn.live.easybroadcast.io/ts_corp/73_arryadia-tnt_zcmwjdc/playlist_dvr.m3u8
 #EXTINF:-1 group-title="Sports",ATG (432p)
