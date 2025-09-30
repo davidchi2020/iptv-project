@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 group-title="Animation;Kids",Animation Show Channel
 http://180.213.174.225:9901/tsfile/live/1034_1.m3u8?authid=0&key=txiptv&playlive=1
+#EXTINF:-1 group-title="Animation;Kids",Chintu TV (576p)
+https://live.dinesh29.com.np/stream/jiotvplus/chintutv/master.m3u8
 #EXTINF:-1 group-title="Animation;Kids",Disney Jr. (1080p) [Geo-blocked]
 https://saran-live.ercdn.net/disneyjunior/index.m3u8
 #EXTINF:-1 group-title="Animation;Kids",Extrema Kids TV [Not 24/7]

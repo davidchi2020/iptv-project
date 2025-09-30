@@ -44,7 +44,7 @@ https://create.lls.pbs.org/index.m3u8
 #EXTINF:-1 group-title="Education",CreaTV Classrooms Channel 28 (San Jose CA) (720p)
 https://reflect-creatv.cablecast.tv/live-14/live/live.m3u8
 #EXTINF:-1 group-title="Education",CuriosityStream (720p)
-https://fl7.moveonjoy.com/Curiosity_Stream/index.m3u8
+https://fl25.moveonjoy.com/Curiosity_Stream/index.m3u8
 #EXTINF:-1 group-title="Education",Da Vinci
 http://178.217.72.66:8080/Da_Vinchi/index.m3u8
 #EXTINF:-1 group-title="Education",Da Vinci Vietnam (1080p)
@@ -169,6 +169,8 @@ https://2-fss-1.streamhoster.com/pl_134/amlst:200914-1282960/playlist.m3u8
 https://kuondt.lls.pbs.org/out/v1/91d8b5ffc5c1453c8a621508a07749a6/index.m3u8
 #EXTINF:-1 group-title="Education",PBS National East (1080p) [Geo-blocked]
 https://pbs.lls.cdn.pbs.org/est/index.m3u8
+#EXTINF:-1 group-title="Education",Persiana Medical
+https://phd2hls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 group-title="Education",Platzi TV (1080p)
 https://mdstrm.com/live-stream-playlist/629a63ae8df27c082901f78b.m3u8
 #EXTINF:-1 group-title="Education",Pluto TV Misterios (480p)

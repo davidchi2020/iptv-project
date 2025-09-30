@@ -574,7 +574,7 @@ https://channel02-notusa.akamaized.net/hls/live/2023914/event01/index.m3u8
 #EXTINF:-1 group-title="News",FOX 2 Detroit MI (WJBK) (720p)
 https://livetv-fa.tubi.video/wjbk/index.m3u8
 #EXTINF:-1 group-title="News",Fox News Channel (720p)
-http://23.237.104.106:8080/USA_FOX_NEWS/index.m3u8
+https://stream.livenewsplay.com:9443/hls/foxnews/foxsd.m3u8
 #EXTINF:-1 group-title="News",Fox News Radio (720p)
 https://radiovid.foxnews.com/hls/live/661547/RADIOVID/index.m3u8
 #EXTINF:-1 group-title="News",France 24
@@ -745,8 +745,6 @@ https://live.cdn.joj.sk/live/andromeda/joj_news-720.m3u8
 https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index.m3u8
 #EXTINF:-1 group-title="News",Joy News
 http://69.64.57.208/joynews/playlist.m3u8
-#EXTINF:-1 group-title="News",Jurnal TV (1080p)
-http://62.233.57.226:8001/play/a00i
 #EXTINF:-1 group-title="News",K News India (1080p)
 https://knews.livebox.co.in/youtubehls/live.m3u8
 #EXTINF:-1 group-title="News",Kablo Info (1080p)
@@ -855,11 +853,11 @@ https://www.amixtv.com:8081/mntvh/index.m3u8
 https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/mathrubhuminews_nim_https/110322/mathrubhuminews/playlist.m3u8
 #EXTINF:-1 group-title="News",Maya TV (480p) [Not 24/7]
 https://media.streambrothers.com:19360/8356/8356.m3u8
-#EXTINF:-1 group-title="News",Medi 1 TV Afrique (1080p) [Not 24/7]
+#EXTINF:-1 group-title="News",Medi 1 TV Afrique (720p)
 https://streaming1.medi1tv.com/live/smil:medi1fr.smil/playlist.m3u8
-#EXTINF:-1 group-title="News",Medi 1 TV Arabic (1080p) [Not 24/7]
+#EXTINF:-1 group-title="News",Medi 1 TV Arabic (720p)
 https://streaming1.medi1tv.com/live/smil:medi1ar.smil/playlist.m3u8
-#EXTINF:-1 group-title="News",Medi 1 TV Maghreb (1080p) [Not 24/7]
+#EXTINF:-1 group-title="News",Medi 1 TV Maghreb (720p)
 https://streaming1.medi1tv.com/live/smil:medi1tv.smil/playlist.m3u8
 #EXTINF:-1 group-title="News",Media One (720p)
 https://cdn-3.pishow.tv/live/1481/master.m3u8
@@ -958,7 +956,7 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 #EXTINF:-1 group-title="News",News Nation (1080p)
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/6cd2f649739a45ca9de1daf81cc7d0f2/index.m3u8
 #EXTINF:-1 group-title="News",News Nation (720p)
-https://fl7.moveonjoy.com/NEWS_NATION/index.m3u8
+https://fl25.moveonjoy.com/NEWS_NATION/index.m3u8
 #EXTINF:-1 group-title="News",News Tamil 24x7 (1080p)
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/news-tamil-24x7/index.m3u8
 #EXTINF:-1 group-title="News",Newsmax 2 (720p)
@@ -1400,7 +1398,7 @@ http://stream.welattv.net:1935/welat/tv/.m3u8
 #EXTINF:-1 group-title="News",WELT (1080p)
 https://viamotionhsi.netplus.ch/live/eds/n24/browser-HLS8/n24.m3u8
 #EXTINF:-1 group-title="News",WFTS-DT1
-https://fl7.moveonjoy.com/FL_Tampa_ABC/index.m3u8
+https://fl25.moveonjoy.com/FL_Tampa_ABC/index.m3u8
 #EXTINF:-1 group-title="News",WION (1080p)
 https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
 #EXTINF:-1 group-title="News",WLS ABC 7 News (Chicago IL) (720p)
