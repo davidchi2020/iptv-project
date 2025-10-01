@@ -272,7 +272,7 @@ http://135.125.204.34:8081/tvstanici/4/playlist.m3u8
 #EXTINF:-1 group-title="General",Alforat TV (1080p)
 http://95.216.180.111:1935/live/10/playlist.m3u8
 #EXTINF:-1 group-title="General",Alhayat TV
-https://fl1002.bozztv.com/ga-alhayah/tracks-v1a1/mono.m3u8
+https://uvotv-aniview.global.ssl.fastly.net/10010/dvr/hls/alhayathd/playlist.m3u8
 #EXTINF:-1 group-title="General",Allgäu TV (1080p)
 https://stream01.welocal.stream/stream/fhd-allgaeutv_25679/ngrp:stream_all/playlist.m3u8
 #EXTINF:-1 group-title="General",Alpe d’Huez TV (720p) [Not 24/7]

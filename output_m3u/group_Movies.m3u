@@ -125,6 +125,8 @@ https://nonprod-sports-cohort.jiocinema.com/bpk-tv/JC_ColorsCineplexHD/JCHLS/ind
 https://nonprod-sports-cohort.jiocinema.com/bpk-tv/JC_ColorsCineplexBollywood/JCHLS/index.m3u8
 #EXTINF:-1 group-title="Movies",Colors Cineplex Superhits (576p)
 https://nonprod-sports-cohort.jiocinema.com/bpk-tv/JC_ColorsCineplexSuperhit/JCHLS/index.m3u8
+#EXTINF:-1 group-title="Movies",Colors Kannada Cinema (576p)
+https://nonprod-sports-cohort.jiocinema.com/bpk-tv/JC_ColorsKannadaCinema/JCHLS/index.m3u8
 #EXTINF:-1 group-title="Movies",Crave 1
 https://fl25.moveonjoy.com/CRAVE_1/index.m3u8
 #EXTINF:-1 group-title="Movies",Crave 2
@@ -235,6 +237,8 @@ https://live.presstv.ir/hls/ifilmen.m3u8
 https://live.presstv.ir/hls/ifilmfa.m3u8
 #EXTINF:-1 group-title="Movies",Itage TV
 https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_011/Stream/playlist.m3u8
+#EXTINF:-1 group-title="Movies",J Movie (576p)
+https://live.dinesh29.com.np/stream/jiotvplus/jmovies/master.m3u8
 #EXTINF:-1 group-title="Movies",Jalsha Movies HD (1080p)
 https://live.dinesh29.com.np/stream/jiotvplus/jalshamovieshd/master.m3u8
 #EXTINF:-1 group-title="Movies",Jiangxi Movie Channel
@@ -299,8 +303,6 @@ https://fl25.moveonjoy.com/EPIX_DRIVE_IN/index.m3u8
 https://cdn4.skygo.mn/live/disk1/Moviebox/HLSv3-FTA/Moviebox.m3u8
 #EXTINF:-1 group-title="Movies",Movies Action (1080p)
 https://shls-live-enc.edgenextcdn.net/out/v1/46079e838e65490c8299f902a7731168/index.m3u8
-#EXTINF:-1 group-title="Movies",Movies on Verizon
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5efb60a9e426140007c78e4b/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a02e4-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=b6350812-05fd-4d36-ad04-51b5df6a9ed0
 #EXTINF:-1 group-title="Movies",Movies Thriller (1080p)
 https://shls-live-enc.edgenextcdn.net/out/v1/f6d718e841f8442f8374de47f18c93a7/index.m3u8
 #EXTINF:-1 group-title="Movies",Movies!
@@ -501,6 +503,8 @@ https://sltwohls.wns.live/hls/stream.m3u8
 https://a89829b8dca2471ab52ea9a57bc28a35.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/CanelaTV_SonyCanalNovelas/playlist.m3u8
 #EXTINF:-1 group-title="Movies",Sony Wah (1080p)
 https://nxtlive.net/sliv/stream.php?id=0898545986&e=.m3u8
+#EXTINF:-1 group-title="Movies",Star Gold 2 HD (576p)
+http://116.90.120.149:8000/play/a0ea/index.m3u8
 #EXTINF:-1 group-title="Movies",Star Gold HD (1080p)
 https://live.dinesh29.com.np/stream/jiotvplus/stargoldhd/master.m3u8
 #EXTINF:-1 group-title="Movies",Star Gold Romance (576p)

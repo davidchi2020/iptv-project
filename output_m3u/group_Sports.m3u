@@ -403,6 +403,12 @@ http://41.205.93.154/STARSPORTS1/index.m3u8
 http://116.90.120.149:8000/play/a0bv/index.m3u8
 #EXTINF:-1 group-title="Sports",Star Sports 1 Tamil HD
 https://live20.bozztv.com/akamaissh101/ssh101/vboxsungosttamil/playlist.m3u8
+#EXTINF:-1 group-title="Sports",Star Sports 2 Hindi (1080p)
+http://116.90.120.149:8000/play/a0cs/index.m3u8
+#EXTINF:-1 group-title="Sports",Star Sports Select 1 HD (1080p)
+http://116.90.120.149:8000/play/a0cl/index.m3u8
+#EXTINF:-1 group-title="Sports",Star Sports Select 2 HD (1080p)
+http://116.90.120.149:8000/play/a0cm/index.m3u8
 #EXTINF:-1 group-title="Sports",Strongman (720p)
 https://rightsboosterltd-scl-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="Sports",Swerve Sports (1080p)
