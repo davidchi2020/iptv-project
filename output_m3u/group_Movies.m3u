@@ -77,6 +77,8 @@ https://stream.ecable.tv/canal2m/tracks-v1a1/mono.m3u8
 http://117.161.133.51:81/gitv_live/G_DIYIJC-CQ/G_DIYIJC-CQ.m3u8?p=GITV
 #EXTINF:-1 group-title="Movies",CCTV 风云剧场
 http://117.161.133.51:81/gitv_live/G_FENGYUNJC-CQ/G_FENGYUNJC-CQ.m3u8?p=GITV
+#EXTINF:-1 group-title="Movies",Charge! (1080p)
+https://fast-channels.sinclairstoryline.com/CHARGE/index.m3u8
 #EXTINF:-1 group-title="Movies",CHC Action
 http://180.213.174.225:9901/tsfile/live/1027_1.m3u8?authid=0&key=txiptv&playlive=1
 #EXTINF:-1 group-title="Movies",Cine5 (720p)

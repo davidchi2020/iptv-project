@@ -1069,8 +1069,8 @@ https://edge4-moblive.yuppcdn.net/trans1sd/smil:nettv15.smil/playlist.m3u8
 https://2ctv.crystaltv.mobi:44095/tv877.167.m3u8
 #EXTINF:-1 group-title="General",CHCO-TV (720p) [Geo-blocked]
 https://temp4.isilive.ca/live/CHCOTV/live/index.m3u8
-#EXTINF:-1 group-title="General",Cherie 25
-https://cherie25.nrjaudio.fm/hls/live/2038375/c25/master.m3u8
+#EXTINF:-1 group-title="General",Cherie 25 (1080p)
+https://viamotionhsi.netplus.ch/live/eds/cherie25/browser-HLS8/cherie25.m3u8
 #EXTINF:-1 group-title="General",Cherifla TV (360p)
 http://69.64.57.208/cherifla/playlist.m3u8
 #EXTINF:-1 group-title="General",Chinguit TV
@@ -1913,8 +1913,8 @@ https://stream.oursnetworktv.com/latin/jacaltv/playlist.m3u8
 https://ncdn.telewebion.com/jahanbin/live/playlist.m3u8
 #EXTINF:-1 group-title="General",Jahonnamo (1080p)
 https://live.teleradiocom.tj/4/3m.m3u8
-#EXTINF:-1 group-title="General",Jam TV
-https://ncdn.telewebion.com/jam/live/playlist.m3u8
+#EXTINF:-1 group-title="General",Jam TV [Geo-blocked]
+https://hidden-mud-9dcf.nhhwkiszzzvcuojxdo.workers.dev/?url=https://live-azd1113.telewebion.com/ek/jam/live/1080p/index.m3u8
 #EXTINF:-1 group-title="General",Jamaica Online TV (1080p) [Not 24/7]
 https://tvsw7-hls.secdn.net/tvsw7-chorigin/play/prod-bb11dd0e11ca45229a3f58aeff5213d8/playlist.m3u8
 #EXTINF:-1 group-title="General",Jambi TV (576p) [Not 24/7]
@@ -1927,6 +1927,16 @@ https://yuppftalive.akamaized.net/080823/jantv/playlist.m3u8
 https://cloudfront44.lexanetwork.com:1344/relay01/broadcast007.sdp/playlist.m3u8
 #EXTINF:-1 group-title="General",Jawa Pos TV (720p) [Not 24/7]
 https://jawapostv.siar.us/jawapostv/live/playlist.m3u8
+#EXTINF:-1 group-title="General",Jawa Pos TV Bali (576p)
+http://122.248.43.242:1935/JAWAPOSTVBALI/_definst_/myStream/playlist.m3u8
+#EXTINF:-1 group-title="General",Jawa Pos TV Jakarta (720p)
+http://122.248.43.242:1935/JAWAPOSTVJKT/_definst_/myStream/playlist.m3u8
+#EXTINF:-1 group-title="General",Jawa Pos TV Madiun (720p)
+http://122.248.43.242:1935/JAWAPOSTVMADIUN/_definst_/myStream/playlist.m3u8
+#EXTINF:-1 group-title="General",Jawa Pos TV Magelang (720p)
+http://122.248.43.242:1935/JAWAPOSTVMAGELANG/_definst_/myStream/playlist.m3u8
+#EXTINF:-1 group-title="General",Jawa Pos TV Semarang (720p)
+http://122.248.43.242:1935/JAWAPOSTVSEMARANG/_definst_/myStream/playlist.m3u8
 #EXTINF:-1 group-title="General",JČ1 (1080p)
 https://stream.jc1.cz/hls/jc1.m3u8
 #EXTINF:-1 group-title="General",Jednotka (1080p)

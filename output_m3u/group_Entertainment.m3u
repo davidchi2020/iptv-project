@@ -594,7 +594,7 @@ http://192.99.2.28/mandra_hls/mandra.m3u8
 #EXTINF:-1 group-title="Entertainment",Manoranjan TV (720p)
 https://cdn-1.pishow.tv/live/1013/master.m3u8
 #EXTINF:-1 group-title="Entertainment",Manoto TV
-https://olderkors.cfpass1.workers.dev/?url=https://m3u.iranvids.com/manoto/output.m3u8
+https://late-sky-0e1a.zahsytwdtjgjhasxby.workers.dev/?url=https://m3u.iranvids.com/manoto/output.m3u8
 #EXTINF:-1 group-title="Entertainment",Markíza Klasik (1080p)
 https://cdnsk003.panaccess.com/local/Markiza_Klasik/index.m3u8
 #EXTINF:-1 group-title="Entertainment",Markíza Krimi (1080p)
@@ -773,6 +773,8 @@ http://185.63.52.103:8080/hls/passionelotto/1_2/index.m3u8
 https://jukin-peopleareawesome-2-ca.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment",People Are Awesome
 https://3ab76e42.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X1Blb3BsZUFyZUF3ZXNvbWVfSExT/playlist.m3u8
+#EXTINF:-1 group-title="Entertainment",Persiana Reality
+https://twohls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 group-title="Entertainment",Persiana Turkiye
 https://turkhls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 group-title="Entertainment",Pet Club TV
@@ -847,6 +849,8 @@ https://isaocorp.cloudecast.com/ngt/index.m3u8
 https://linear-142.frequency.stream/dist/24i/142/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment",Rise TV (240p)
 http://ovh-edge-h.evrideo.com:8080/23e234f2-aec8-4804-b694-4cdd71d2d48d_MONITORING_HLS/video_240p_WEBRTC_MONITORING.m3u8
+#EXTINF:-1 group-title="Entertainment",Roar (1080p)
+https://fast-channels.sinclairstoryline.com/TBD/index.m3u8
 #EXTINF:-1 group-title="Entertainment",ROTV Valencia (720p)
 https://rotv.romediavalencia.com:3839/live/rotvlive.m3u8
 #EXTINF:-1 group-title="Entertainment",Royal Time Television (1080p)
