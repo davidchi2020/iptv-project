@@ -45,8 +45,6 @@ https://create.lls.pbs.org/index.m3u8
 https://reflect-creatv.cablecast.tv/live-14/live/live.m3u8
 #EXTINF:-1 group-title="Education",CuriosityStream (720p)
 https://fl25.moveonjoy.com/Curiosity_Stream/index.m3u8
-#EXTINF:-1 group-title="Education",Da Vinci
-http://178.217.72.66:8080/Da_Vinchi/index.m3u8
 #EXTINF:-1 group-title="Education",Da Vinci Vietnam (1080p)
 https://hls.mskycdn.online/tv/davinci/index.m3u8
 #EXTINF:-1 group-title="Education",DC.gov DKN (Washington DC) (1080p)

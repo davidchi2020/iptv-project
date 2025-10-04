@@ -147,10 +147,8 @@ https://ott.tv5monde.com/Content/HLS/Live/channel(style1)/variant.m3u8
 https://5bf7b725107e5.streamlock.net/tvkesehatan/tvkesehatan/playlist.m3u8
 #EXTINF:-1 group-title="Lifestyle",Weihai Ocean Channel
 http://l2.weihai.tv:8081/hls/x8b19NoyEG.m3u8
-#EXTINF:-1 group-title="Lifestyle",Домашние животные
-http://178.217.72.66:8080/Domashnie_Zhivotnye/index.m3u8
 #EXTINF:-1 group-title="Lifestyle",Домашний
-http://178.217.72.66:8080/Domashniy/index.m3u8
+https://streaming.televizor-24-tochka.ru/live/17.m3u8
 #EXTINF:-1 group-title="Lifestyle",Домашний International
 https://cdn4.skygo.mn/live/disk1/Domashni/HLSv3-FTA/Domashni.m3u8
 #EXTINF:-1 group-title="Lifestyle",ЖИВИ!
