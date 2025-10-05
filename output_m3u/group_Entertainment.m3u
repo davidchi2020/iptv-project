@@ -927,6 +927,8 @@ https://tv.livestreaminggroup.info:3295/live/super7tvlive.m3u8
 https://livestream10.sunnxt.com/DolbyVision/SuryaTV_HDR/SuryaTV_HDR_Endpoints/SuryaTV-HDR10-IN-index.m3u8
 #EXTINF:-1 group-title="Entertainment",Swantham (720p)
 http://131.153.22.8:1935/SWANTHAM/live/playlist.m3u8
+#EXTINF:-1 group-title="Entertainment",Tal TV
+https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119695/taltv/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment",Talkin Live Classics TV (480p)
 https://2-fss-1.streamhoster.com/pl_122/206338-3120682-1/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment",TDM Entertainment Ch. 95 (720p)

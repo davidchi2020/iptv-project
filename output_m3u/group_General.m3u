@@ -179,6 +179,8 @@ https://sc-kuzeykibrissmarttv.ercdn.net/adatv/bant1/playlist.m3u8
 https://rrsatrtmp.tulix.tv/addis1/addis1multi.smil/playlist.m3u8
 #EXTINF:-1 group-title="General",Adesso TV (720p)
 https://cdn.jmvstream.com/w/LVW-9715/LVW9715_12B26T62tm/playlist.m3u8
+#EXTINF:-1 group-title="General",Adom TV
+https://uvotv-aniview.global.ssl.fastly.net/hls/live/2120427/adomtv/playlist.m3u8
 #EXTINF:-1 group-title="General",Aeolos TV (1080p)
 https://cdn.istoikona.com/aeolostv/live/playlist.m3u8
 #EXTINF:-1 group-title="General",Afaq TV
@@ -647,6 +649,8 @@ https://rds3.desdeparaguay.net/brunomasitv/brunomasitv/playlist.m3u8
 https://btmug.zerocdn.org/hls/stream.m3u8
 #EXTINF:-1 group-title="General",BTN TV (480p)
 https://tv.btnrwanda.com:3086/live/btnlive.m3u8
+#EXTINF:-1 group-title="General",BTV 1
+https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119033/btv1/playlist.m3u8
 #EXTINF:-1 group-title="General",BTV Panamá (720p) [Not 24/7]
 https://stream.oursnetworktv.com/latin/btvpanama/playlist.m3u8
 #EXTINF:-1 group-title="General",BTV World (1080p)
@@ -1068,7 +1072,7 @@ http://www.hwado.net/webtv/catv/52_440DDPPJ.php
 #EXTINF:-1 group-title="General",Channel Eye (360p)
 https://edge4-moblive.yuppcdn.net/trans1sd/smil:nettv15.smil/playlist.m3u8
 #EXTINF:-1 group-title="General",ChannelOne TV (576p)
-https://2ctv.crystaltv.mobi:44095/tv877.167.m3u8
+https://uvotv-aniview.global.ssl.fastly.net/hls/live/2120681/channelonetv/playlist.m3u8
 #EXTINF:-1 group-title="General",CHCO-TV (720p) [Geo-blocked]
 https://temp4.isilive.ca/live/CHCOTV/live/index.m3u8
 #EXTINF:-1 group-title="General",Cherifla TV (360p)
@@ -1895,6 +1899,8 @@ https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(i1)/
 https://viamotionhsi.netplus.ch/live/eds/italia1/browser-dash/italia1.mpd
 #EXTINF:-1 group-title="General",Italia Channel (1080p)
 https://stream1.aswifi.it/italiachannel/stream/index.m3u8
+#EXTINF:-1 group-title="General",ITV
+https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119691/itv/playlist.m3u8
 #EXTINF:-1 group-title="General",ITV (480p)
 https://cdn10.live-tv.cloud/itvrv/abr-lq/playlist.m3u8
 #EXTINF:-1 group-title="General",ITV2
@@ -2103,6 +2109,8 @@ http://103.153.92.157:11037/hls/kbh.m3u8
 https://lenz.splus.ir/PLTV/88888888/224/3221226856/index.m3u8
 #EXTINF:-1 group-title="General",Keshet 12 (1080i) [Not 24/7]
 https://mako-streaming.akamaized.net/stream/hls/live/2033791/k12n12wad/profile/1/hdntl=exp=1757445516~acl=/*~data=hdntl~hmac=a8baf01127ae46cd6fd241cf61db8590d7eacc3406f4735ed2defef329496b8a/profileManifest.m3u8?_did=6cfbfc673e5d5f7f274bf96b6c72f28ce1a53f82&_uid=0195a46a-9f11-4704-a944-301512682f7d&rK=bn
+#EXTINF:-1 group-title="General",Kessben TV
+https://uvotv-aniview.global.ssl.fastly.net/hls/live/2120428/kessbentv/playlist.m3u8
 #EXTINF:-1 group-title="General",Khalij-e Fars
 https://ncdn.telewebion.com/khalijefars/live/playlist.m3u8
 #EXTINF:-1 group-title="General",Khanh Hoa TV (720p)
@@ -2411,6 +2419,8 @@ https://www.amixtv.com:8081/mayavision/index.m3u8
 http://131.153.22.8:1935/MAYYAZHI/live/playlist.m3u8
 #EXTINF:-1 group-title="General",Mazandaran TV
 https://lenz.splus.ir/PLTV/88888888/224/3221226786/index.m3u8
+#EXTINF:-1 group-title="General",MBC
+https://uvotv-aniview.global.ssl.fastly.net/hls/live/2120684/mbc1/playlist.m3u8
 #EXTINF:-1 group-title="General",MBC 1 (1080p)
 https://mbc1-enc.edgenextcdn.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index.m3u8
 #EXTINF:-1 group-title="General",MBC 1
@@ -2657,6 +2667,8 @@ https://stream8.cinerama.uz/1008/tracks-v1a1/playlist.m3u8
 https://live.iplanay.gob.mx/hls/nayarittv.m3u8
 #EXTINF:-1 group-title="General",NBC
 https://cors-proxy.cooks.fyi/https://streamer2.nexgen.bz/NBC/index.m3u8
+#EXTINF:-1 group-title="General",NBC 1
+https://uvotv-aniview.global.ssl.fastly.net/hls/live/2120427/nbc1/playlist.m3u8
 #EXTINF:-1 group-title="General",NBC 2 Tulsa OK (KJRH) (720p)
 https://livetv-fa.tubi.video/kjrh/playlist.m3u8
 #EXTINF:-1 group-title="General",NBC 3 Sacramento CA (KCRA) (720p)
@@ -2931,6 +2943,8 @@ https://onnitv.digitacdn.net/live/ott/onnitv/playlist.m3u8
 https://cdn3.wowza.com/5/dk84U1p2UUdoMGxT/ontarioca/G2446_002/playlist.m3u8
 #EXTINF:-1 group-title="General",ONTV (720p)
 https://cdn4.skygo.mn/live/disk1/ONTV/HLSv3-FTA/ONTV.m3u8
+#EXTINF:-1 group-title="General",Onua TV
+https://uvotv-aniview.global.ssl.fastly.net/hls/live/2120428/onuatv/playlist.m3u8
 #EXTINF:-1 group-title="General",Onza TV (720p)
 https://stmv1.srvstm.com/gproducciones/gproducciones/playlist.m3u8
 #EXTINF:-1 group-title="General",OOG TV (720p)
@@ -2959,6 +2973,8 @@ https://cloudfront44.lexanetwork.com:1344/relay01/broadcast002.sdp/playlist.m3u8
 https://eu1.vectromdigital.com:1936/ort/ort/playlist.m3u8
 #EXTINF:-1 group-title="General",ORTB TV (720p) [Not 24/7]
 https://strhls.streamakaci.tv/ortb/ortb1-multi/playlist.m3u8
+#EXTINF:-1 group-title="General",ORTC TV
+https://uvotv-aniview.global.ssl.fastly.net/hls/live/2120681/ortc/playlist.m3u8
 #EXTINF:-1 group-title="General",ORTM 1 (540p) [Not 24/7]
 http://69.64.57.208/ortm/playlist.m3u8
 #EXTINF:-1 group-title="General",ORTM 2
@@ -3989,6 +4005,8 @@ http://tvpanoucom.srfms.com:1935/tvpanoucom/livestream/playlist.m3u8
 https://5a57bda70564a.streamlock.net/tvpasso/tvpasso.sdp/playlist.m3u8
 #EXTINF:-1 group-title="General",TV Peñol (720p)
 https://stmv1.voxtvhd.com.br/tvpenol/tvpenol/playlist.m3u8
+#EXTINF:-1 group-title="General",TV Peru (720p)
+http://181.188.216.5:18000/play/a0qn/index.m3u8
 #EXTINF:-1 group-title="General",TV Perú Internacional (1080p)
 https://cdnhd.iblups.com/hls/ee2450c81e554f4cae0e6292106993c2.m3u8
 #EXTINF:-1 group-title="General",TV Plan (720p)
@@ -4077,6 +4095,8 @@ https://video-auth4.iol.pt/live_tvi_africa/live_tvi_africa/edge_servers/tviafric
 https://stream01.msolutionbrasil.com.br/hls/tvitape/live.m3u8
 #EXTINF:-1 group-title="General",TVK (720p)
 https://live.kh.malimarcdn.com/live/tvk.stream/playlist.m3u8
+#EXTINF:-1 group-title="General",TVM
+https://uvotv-aniview.global.ssl.fastly.net/hls/live/2120686/tvmmadagascar/playlist.m3u8
 #EXTINF:-1 group-title="General",TVM [Geo-blocked]
 http://80.79.6.221:25461/smash/public/19
 #EXTINF:-1 group-title="General",TVM (480p)

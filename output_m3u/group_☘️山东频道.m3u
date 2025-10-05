@@ -27,26 +27,26 @@ https://stream1.freetv.fun/ji-nan-zong-he-2.m3u8
 https://stream1.freetv.fun/ipv6-ji-nan-xin-wen-zong-he-8.m3u8
 #EXTINF:-1 group-title="☘️山东频道",济南生活" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/济南生活.png" group-title="☘️山东频道
 http://139.129.231.228/rtp/239.21.1.64:5002
-#EXTINF:-1 group-title="☘️山东频道",济南影视" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/济南影视.png" group-title="☘️山东频道
-http://139.129.231.228/rtp/239.21.1.65:5002
 #EXTINF:-1 group-title="☘️山东频道",济南娱乐" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/济南娱乐.png" group-title="☘️山东频道
 http://139.129.231.228/rtp/239.21.1.66:5002
 #EXTINF:-1 group-title="☘️山东频道",济南少儿" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/济南少儿.png" group-title="☘️山东频道
 http://139.129.231.228/rtp/239.21.1.68:5002
-#EXTINF:-1 group-title="☘️山东频道",济南商务" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/济南商务.png" group-title="☘️山东频道
-http://139.129.231.228/rtp/239.21.1.67:5002
 #EXTINF:-1 group-title="☘️山东频道",济南教育" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/济南教育.png" group-title="☘️山东频道
 https://stream1.freetv.fun/ji-nan-jiao-yu-1.m3u8
 #EXTINF:-1 group-title="☘️山东频道",济南鲁中" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/济南鲁中.png" group-title="☘️山东频道
 http://139.129.231.228:50060/rtp/239.21.1.149:5002
 #EXTINF:-1 group-title="☘️山东频道",青州电视台文化旅游" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/青州电视台文化旅游.png" group-title="☘️山东频道
 http://sdqz.chinashadt.com:2036/live/stream:3.stream/playlist.m3u8?shandd
+#EXTINF:-1 group-title="☘️山东频道",青州电视台新闻综合" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/青州电视台新闻综合.png" group-title="☘️山东频道
+http://sdqz.chinashadt.com:2036/live/stream:1.stream/playlist.m3u8
 #EXTINF:-1 group-title="☘️山东频道",青州电视台生活" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/青州电视台生活.png" group-title="☘️山东频道
 http://sdqz.chinashadt.com:2036/live/stream:2.stream/playlist.m3u8
 #EXTINF:-1 group-title="☘️山东频道",青州综合" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/青州综合.png" group-title="☘️山东频道
-http://139.129.231.228/rtp/239.21.1.232:5002
+http://sdqz.chinashadt.com:2036/live/stream:1.stream/playlist.m3u8?shandd#http://sdqz.chinashadt.com:2036/live/stream:1.stream/playlist.m3u8#rtmp://sdqz.chinashadt.com:2036/live/stream:1.stream
 #EXTINF:-1 group-title="☘️山东频道",济宁公共" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/济宁公共.png" group-title="☘️山东频道
 http://139.129.231.228/rtp/239.21.2.20:5002
+#EXTINF:-1 group-title="☘️山东频道",济宁综合" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/济宁综合.png" group-title="☘️山东频道
+http://139.129.231.228/rtp/239.21.2.19:5002
 #EXTINF:-1 group-title="☘️山东频道",东营综合" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/东营综合.png" group-title="☘️山东频道
 http://nas.hssvm.com:8888/udp/225.1.1.218:5002
 #EXTINF:-1 group-title="☘️山东频道",日照公共" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/日照公共.png" group-title="☘️山东频道
@@ -55,11 +55,11 @@ http://live.rzw.com.cn/kzpd/sd/live.m3u8?shandd
 http://live.rzw.com.cn/xwzh/sd/live.m3u8?shandd
 #EXTINF:-1 group-title="☘️山东频道",日照科教" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/日照科教.png" group-title="☘️山东频道
 http://live.rzw.com.cn/ggpd/sd/live.m3u8?shandd
+#EXTINF:-1 group-title="☘️山东频道",淄博生活" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/淄博生活.png" group-title="☘️山东频道
+http://139.129.231.228/rtp/239.21.1.109:5002
 #EXTINF:-1 group-title="☘️山东频道",淄博都市" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/淄博都市.png" group-title="☘️山东频道
 http://139.129.231.228/rtp/239.21.1.83:5002
 #EXTINF:-1 group-title="☘️山东频道",潍坊新闻综合" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/潍坊新闻综合.png" group-title="☘️山东频道
 https://stream1.freetv.fun/ipv6-wei-fang-xin-wen-zong-he-2.m3u8
-#EXTINF:-1 group-title="☘️山东频道",烟台新闻综合" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/烟台新闻综合.png" group-title="☘️山东频道
-http://live.yantaitv.cn/live/3e81a8879da44c5dadf3bd9c10468e1c/9b776d420ee4438199b7657c8eb88f07-1.m3u8?shandd
-#EXTINF:-1 group-title="☘️山东频道",烟台经济科技" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/烟台经济科技.png" group-title="☘️山东频道
-http://live.yantaitv.cn/live/27f84144e95a4652ae9e5c211b2a6b55/405f3e33ba384aa0a16014d0becd1261-1.m3u8?shandd
+#EXTINF:-1 group-title="☘️山东频道",烟台公共" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/烟台公共.png" group-title="☘️山东频道
+http://139.129.231.228/rtp/239.21.1.117:5002

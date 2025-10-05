@@ -87,6 +87,8 @@ https://pubads.g.doubleclick.net/ssai/event/tQD6w9OJQVOobcyV3Dammw/master.m3u8
 https://c.mjh.nz/abc-news.m3u8
 #EXTINF:-1 group-title="News",ABC News (720p)
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
+#EXTINF:-1 group-title="News",ABC News GH
+https://uvotv-aniview.global.ssl.fastly.net/hls/live/2120428/abcnewsghana/playlist.m3u8
 #EXTINF:-1 group-title="News",ABC News New York NY (WABC-TV) (720p)
 https://content.uplynk.com/channel/ext/72750b711f704e4a94b5cfe6dc99f5e1/wabc_24x7_news.m3u8
 #EXTINF:-1 group-title="News",ABC Tallahassee (720p) [Not 24/7]
@@ -233,6 +235,8 @@ https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/arb-24.m
 https://live.argusnews.in/hls/argustv.m3u8
 #EXTINF:-1 group-title="News",Arirang TV UN (1080p)
 https://amdlive-ch02-ctnd-com.akamaized.net/arirang_2ch/smil:arirang_2ch.smil/playlist.m3u8
+#EXTINF:-1 group-title="News",Arise News
+https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119194/arisenews/playlist.m3u8
 #EXTINF:-1 group-title="News",Asianet News (360p)
 https://vidcdn.vidgyor.com/asianet-origin/liveabr/playlist.m3u8
 #EXTINF:-1 group-title="News",Asianet News Kannada (360p) [Not 24/7]
@@ -345,6 +349,8 @@ https://stream-gtlc.telecentro.net.ar/hls/canal26hls/0/playlist.m3u8
 https://cdn.jmvstream.com/w/LVW-8503/LVW8503_d0V5oduFlK/playlist.m3u8
 #EXTINF:-1 group-title="News",Canal I (720p)
 https://vcp10.myplaytv.com/canali/canali/playlist.m3u8
+#EXTINF:-1 group-title="News",Canal N
+http://181.188.216.5:18000/play/a01p/index.m3u8
 #EXTINF:-1 group-title="News",Carivision (1080p) [Geo-blocked]
 https://ss2.tvrdomi.com:1936/carivision/carivision/playlist.m3u8
 #EXTINF:-1 group-title="News",Causa Comun TV
@@ -411,6 +417,8 @@ http://50.7.231.221:8081/185/index.m3u8?wmsAuthSign=okad
 http://cdn19.live247stream.com/channely/tv/playlist.m3u8
 #EXTINF:-1 group-title="News",Channels 24
 https://live20.bozztv.com/dvrfl06/astv/astv-channel24africa/index.m3u8
+#EXTINF:-1 group-title="News",Channels TV
+https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119033/channelstv/playlist.m3u8
 #EXTINF:-1 group-title="News",Cheddar News (1080p)
 https://cheddar-us.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="News",Chekad TV (720p)
@@ -599,6 +607,8 @@ http://seb.sason.top/ptv/ftv.php?id=tw
 https://5d846bfda90fc.streamlock.net:1935/live/galaxytv/playlist.m3u8
 #EXTINF:-1 group-title="News",GB News
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-gbnewsnz-samsungnz/playlist.m3u8
+#EXTINF:-1 group-title="News",GBC News
+https://uvotv-aniview.global.ssl.fastly.net/hls/live/2120431/gtv/playlist.m3u8
 #EXTINF:-1 group-title="News",Geo News (576p)
 https://jk3lz82elw79-hls-live.5centscdn.com/GEONEWS/3500ba09d0538297440ca620c9dd46bf.sdp/playlist.m3u8
 #EXTINF:-1 group-title="News",Geo Tez (576i)

@@ -74,7 +74,7 @@ https://digitalb-live.morescreens.com/DAL_1_005/playlist.m3u8?application_id=bac
 #EXTINF:-1 group-title="Kids",Cúla4 (1080p)
 https://d3eq0jseza7fm5.cloudfront.net/tg4_vod_3.m3u8
 #EXTINF:-1 group-title="Kids",Disney Channel (576p)
-https://viamotionhsi.netplus.ch/live/eds/disneychannelde/browser-HLS8/disneychannelde.m3u8
+http://84.54.128.52:9090/play/3006/index.m3u8
 #EXTINF:-1 group-title="Kids",Disney Channel (576p) [Not 24/7]
 http://116.90.120.149:8000/play/a0bx/index.m3u8
 #EXTINF:-1 group-title="Kids",Disney Channel

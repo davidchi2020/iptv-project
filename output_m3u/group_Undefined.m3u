@@ -3219,6 +3219,8 @@ https://dce9e10d279f410d87ef5ad1c3740459.mediatailor.us-east-1.amazonaws.com/v1/
 https://rfdtv-jw.cdn.vustreams.com/live/7cba1a3b-318a-4097-8492-374478370b91/live.isml/7cba1a3b-318a-4097-8492-374478370b91.m3u8
 #EXTINF:-1 group-title="Undefined",RFM (720p)
 https://senrtmp.com/hls/rfm.m3u8
+#EXTINF:-1 group-title="Undefined",Rhema TV
+https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119194/rhematv/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",Rialto (1080p)
 https://rialto-rialto-samsungaustralia.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",Riau TV (1080p) [Not 24/7]
