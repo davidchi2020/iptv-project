@@ -11,6 +11,8 @@ https://5dcabf026b188.streamlock.net/afarinTV/livestream/playlist.m3u8
 https://65f16f0fdfc51.streamlock.net/afarinTV/livestream/playlist.m3u8
 #EXTINF:-1 group-title="Kids",Aghapy Kids (1080p)
 https://5b622f07944df.streamlock.net/aghapykids.tv/aghapykids2/playlist.m3u8
+#EXTINF:-1 group-title="Kids",Akili Kids!
+https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119696/akilikids/playlist.m3u8
 #EXTINF:-1 group-title="Kids",Amou Yazid TV (576p)
 http://mkstream.servehttp.com:1940/AmouYazid/ay1/playlist.m3u8
 #EXTINF:-1 group-title="Kids",Angela Anaconda

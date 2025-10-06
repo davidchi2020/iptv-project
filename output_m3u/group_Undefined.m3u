@@ -203,6 +203,8 @@ https://335e33e2.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Um9rdV
 https://edge1.socialsmart.tv/aznews/smil/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",Azstar TV
 https://live.livestreamtv.ca/azstar/amlst:azstar/playlist.m3u8
+#EXTINF:-1 group-title="Undefined",B Smart TV (320p)
+https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/bsmart.m3u8
 #EXTINF:-1 group-title="Undefined",Bac Kan TV (406p)
 http://123.31.36.68/live.m3u8?c=vstv360&deviceId=&deviceType=&gcId=1532&location=NA&pkg=pkg11.hni&q=high&requestTime=1586309420781&time=1586395820&token=LX-ibJYRUq9pflRtYAxfYQ&type=tv&userId=
 #EXTINF:-1 group-title="Undefined",Bac Lieu TV (1080p)
@@ -2415,8 +2417,6 @@ https://2-fss-1.streamhoster.com/pl_122/amlst:200914-2942150/playlist.m3u8
 https://2-fss-2.streamhoster.com/pl_138/amlst:201814-1291584/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",PBS New Jersey NJ (WNJT) (1080p) [Not 24/7]
 https://wnjtdt.lls.pbs.org/out/v1/e62efd8d4f92403996425fc389df0ffd/index.m3u8
-#EXTINF:-1 group-title="Undefined",PBS New York NY (WNET) (1080p) [Not 24/7]
-https://wnetdt.lls.pbs.org/out/v1/0456457548354b88b32fc437e4e7ee01/index.m3u8
 #EXTINF:-1 group-title="Undefined",PBS Retro (1080p) [Geo-blocked]
 https://amg02333-pbs-amg02333c6-firetv-us-4236.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",PeekFlick
@@ -2729,6 +2729,8 @@ https://amg00461-eone-amg00461c2-firetv-us-5210.playouts.now.amagi.tv/playlist.m
 https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",Power TV (1080p)
 https://liveboxvideoconference.livebox.co.in/PowersmartMediahls/powertvlive.m3u8
+#EXTINF:-1 group-title="Undefined",PPP TV
+https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119696/ppptv/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",Praise TV (720p)
 https://livecdn.live247stream.com/praise/tv/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",Prarthana TV (720p)
@@ -3909,6 +3911,10 @@ https://viamotionhsi.netplus.ch/live/eds/srfinfo/browser-HLS8/srfinfo.m3u8
 https://viamotionhsi.netplus.ch/live/eds/srf2hd/browser-HLS8/srf2hd.m3u8
 #EXTINF:-1 group-title="Undefined",Sriwijaya TV (576p) [Not 24/7]
 https://sriwijayatv.siar.us/live/sriwijayatv.m3u8
+#EXTINF:-1 group-title="Undefined",ST Bongo
+https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119691/stbongo/playlist.m3u8
+#EXTINF:-1 group-title="Undefined",ST Rembo TV
+https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119696/rembotv/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",Star Family (576p) [Not 24/7]
 http://c0.cdn.trinity-tv.net/stream/zfmjgma9zn46fa797ez9fgkw7msh9mj4tppspg23gey6mmx5fqiy7ky3jqx4uhgsfsrd8r76si8ykb2anw9442g4qkq5fzpdvwdqf5te24ixu9zrx3aesm9fzt59q5y2s8qwgbqhvf6d3z5bjy3qb2t4.m3u8
 #EXTINF:-1 group-title="Undefined",Star Suvarna Plus (576p)
@@ -4357,6 +4363,8 @@ https://7.innovatestream.pe:19360/tvnoticiassatipo/tvnoticiassatipo.m3u8
 http://190.123.76.22:8000/play/a045/index.m3u8
 #EXTINF:-1 group-title="Undefined",Telestar1
 https://dvb.tennet.ro/mobile_tv/telestar.m3u8
+#EXTINF:-1 group-title="Undefined",Telesud
+https://uvotv-aniview.global.ssl.fastly.net/hls/live/2120431/telesud/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",Telesud Trapani (720p) [Not 24/7]
 http://5cbd3bc28341f.streamlock.net:1935/telesud/live/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",Telesur Canal 10 (720p)
@@ -5051,6 +5059,8 @@ https://live.mariatvcdn.com/mariatvcdn/70564e1c6884c007c76f0c128d679eed.sdp/play
 https://livevideo.infomaniak.com/streaming/livecast/tvm3/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",TVM Córdoba (1080p) [Not 24/7]
 http://teledifusion.tv/cordoba/cordobalive/playlist.m3u8
+#EXTINF:-1 group-title="Undefined",TVM Telescola
+https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119692/telescola/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",TVMás (720p)
 https://60417ddeaf0d9.streamlock.net/telemetrika3/telemetrika3.smil/.m3u8
 #EXTINF:-1 group-title="Undefined",TVMÁS (XHGV-TDT) (360p) [Not 24/7]
@@ -5675,8 +5685,10 @@ https://wmx-pop-xumo.amagi.tv/playlist.m3u8
 https://wmxrock-xumo.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",WNBC-DT1
 https://fl25.moveonjoy.com/NBC_EAST/index.m3u8
-#EXTINF:-1 group-title="Undefined",WNJU-DT1 (1080p) [Not 24/7]
-https://tvpass.org/live/TelemundoEast/hd
+#EXTINF:-1 group-title="Undefined",WNET-DT1
+https://e5.thetvapp.to/hls/WNET/index.m3u8
+#EXTINF:-1 group-title="Undefined",WNJU-DT1 (360p)
+https://e5.thetvapp.to/hls/TelemundoEast/tracks-v2a1/mono.m3u8
 #EXTINF:-1 group-title="Undefined",WOFL-DT1 (720p)
 https://fl25.moveonjoy.com/FOX_EAST/index.m3u8
 #EXTINF:-1 group-title="Undefined",WOLO-DT1 ABC 25 (Columbia SC) (720p)
@@ -5881,6 +5893,14 @@ https://ali-m-l.cztv.com/channels/lantian/channel10/1080p.m3u8
 https://5ad386ff92705.streamlock.net/live_transcoder/ngrp:zindagitv.stream_all/chunklist.m3u8
 #EXTINF:-1 group-title="Undefined",Zing! (576p)
 http://183.89.246.119:8881/play/a09a/index.m3u8
+#EXTINF:-1 group-title="Undefined",ZNBC TV 1
+https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119689/znbc1/playlist.m3u8
+#EXTINF:-1 group-title="Undefined",ZNBC TV 2
+https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119689/znbc2/playlist.m3u8
+#EXTINF:-1 group-title="Undefined",ZNBC TV 3
+https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119689/znbc3/playlist.m3u8
+#EXTINF:-1 group-title="Undefined",ZNBC TV 4
+https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119690/znbc4/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",ZO!34 (720p)
 https://video.uitzending.tv:19360/zo34/zo34.m3u8
 #EXTINF:-1 group-title="Undefined",Zoey 101

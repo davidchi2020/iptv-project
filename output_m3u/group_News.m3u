@@ -9,6 +9,8 @@ https://rds3.desdeparaguay.net/4dmasnoticiastv/4dmasnoticiastv/playlist.m3u8
 https://6prlive.akamaized.net/hls/live/2033806/6PR/index.m3u8
 #EXTINF:-1 group-title="News",6 TV Telugu (720p)
 https://cdn-1.pishow.tv/live/232/master.m3u8
+#EXTINF:-1 group-title="News",7 Info
+https://uvotv-aniview.global.ssl.fastly.net/hls/live/2120684/7info/playlist.m3u8
 #EXTINF:-1 group-title="News",10 TV (720p)
 https://cdn-1.pishow.tv/live/391/master.m3u8
 #EXTINF:-1 group-title="News",13 Siam Thai (1080p)
@@ -129,6 +131,8 @@ https://c3c275b999764df8a2dd55ffe2996818.mediatailor.eu-west-1.amazonaws.com/v1/
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/africanews/africanews-en.m3u8
 #EXTINF:-1 group-title="News",Africanews French
 https://cdn-euronews.akamaized.net/live/eds/africanews-fr/25050/index.m3u8
+#EXTINF:-1 group-title="News",Afrique Media
+https://uvotv-aniview.global.ssl.fastly.net/hls/live/2120428/afriquemedia/playlist.m3u8
 #EXTINF:-1 group-title="News",Aik News
 https://video.primexsports.com/pnn/live/playlist.m3u8
 #EXTINF:-1 group-title="News",AIT National (576p)
@@ -199,6 +203,8 @@ https://5d94523502c2d.streamlock.net/alsharqiyalive/mystream/playlist.m3u8
 https://stream-aleph.m.ro/Aleph/ngrp:Alephnewsmain.stream_all/playlist.m3u8
 #EXTINF:-1 group-title="News",Alert (576p) [Not 24/7]
 https://itv.streams.ovh/ALEERT/ALEERT/playlist.m3u8
+#EXTINF:-1 group-title="News",AlHadath Alyoum
+https://uvotv-aniview.global.ssl.fastly.net/hls/live/2120757/alhadathalyoum/playlist.m3u8
 #EXTINF:-1 group-title="News",Alhaqeqa Aldawlia (1080p)
 https://ghaasiflu.online/alhqeqa/index.m3u8
 #EXTINF:-1 group-title="News",Alhurra (720p)
@@ -219,6 +225,8 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e
 https://fl1002.bozztv.com/gin-amutv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="News",AMX Noticias (720p) [Not 24/7]
 https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
+#EXTINF:-1 group-title="News",Anfani TV
+https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119696/anfani/playlist.m3u8
 #EXTINF:-1 group-title="News",ANN News (720p)
 https://cdn.ottlive.co.in/annnews/index.m3u8
 #EXTINF:-1 group-title="News",Antena 21 (480p) [Not 24/7] [Geo-blocked]
@@ -259,8 +267,12 @@ http://awaazindia.livebox.co.in/AwaazIndaTVhls/Live.m3u8
 https://badakhabar.livebox.co.in/Badakhabarhls/live.m3u8
 #EXTINF:-1 group-title="News",Baku TV (720p)
 https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/baku-tv.m3u8
+#EXTINF:-1 group-title="News",Balafon TV
+https://uvotv-aniview.global.ssl.fastly.net/hls/live/2120430/balafontv/playlist.m3u8
 #EXTINF:-1 group-title="News",Bansal News (576p)
 https://yuppftalive.akamaized.net/080823/bansalnews/playlist.m3u8
+#EXTINF:-1 group-title="News",Bantamba TV
+https://uvotv-aniview.global.ssl.fastly.net/hls/live/2120431/bantambatv/playlist.m3u8
 #EXTINF:-1 group-title="News",BBC Arabic (720p)
 https://vs-cmaf-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2.mpd
 #EXTINF:-1 group-title="News",BBC News (1080p)
@@ -319,12 +331,18 @@ https://cdn-1.pishow.tv/live/1059/master.m3u8
 https://blacknewschannel-vizio.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="News",Blaze Live
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e46fba0c43b0d00096e5ac1/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2743c3-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=70bd007d-e40d-4b1d-9a2b-bdc5dfd3741f
+#EXTINF:-1 group-title="News",Bnews1
+https://uvotv-aniview.global.ssl.fastly.net/hls/live/2120429/bnews1/playlist.m3u8
+#EXTINF:-1 group-title="News",Bonferey
+https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119695/bonferey/playlist.m3u8
 #EXTINF:-1 group-title="News",Boston 25
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/632b62b3982d0d000755a2be/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2743c6-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=f6390858-5ff7-40b8-83c2-2d2baded2800
 #EXTINF:-1 group-title="News",Brian TV (720p) [Not 24/7]
 https://livefta.malimarcdn.com/ftaedge00/briantv.sdp/playlist.m3u8
 #EXTINF:-1 group-title="News",BTV (720p)
 https://btv.secureswiftcontent.com/han/btv/btv10005/srtoutput/manifest.m3u8
+#EXTINF:-1 group-title="News",BTV News
+https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119033/btvnews/playlist.m3u8
 #EXTINF:-1 group-title="News",BTV News (720p) [Not 24/7]
 https://vidcdn.vidgyor.com/btv-origin/liveabr/playlist.m3u8
 #EXTINF:-1 group-title="News",BTV News (720p)
@@ -457,6 +475,8 @@ https://unlimited6-cl.dps.live/cm/cm.smil/playlist.m3u8
 https://cloudvideo.servers10.com:8081/8020/index.m3u8
 #EXTINF:-1 group-title="News",Corfu Channel (576p) [Not 24/7]
 https://itv.streams.ovh/corfuchannel/corfuchannel/playlist.m3u8
+#EXTINF:-1 group-title="News",CRTV News
+https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119689/crtvnews/playlist.m3u8
 #EXTINF:-1 group-title="News",ČT24 (1080p)
 http://88.212.15.19/live/test_ct24_hevc/playlist.m3u8
 #EXTINF:-1 group-title="News",CTS News (華視新聞資訊) [Geo-blocked]
@@ -513,6 +533,8 @@ https://5a1178b42cc03.streamlock.net/8182/8182/playlist.m3u8
 http://seb.sason.top/sc/dscjxw_fhd.m3u8
 #EXTINF:-1 group-title="News",EBC News (東森新聞台) (1080p) [Not 24/7]
 http://seb.sason.top/sc/dsxw_fhd.m3u8
+#EXTINF:-1 group-title="News",Echorouk News
+https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119194/echorouknews/playlist.m3u8
 #EXTINF:-1 group-title="News",Eemland 1 (720p)
 https://streamingserver02.omroepnuenen.nl/spakenburg/spakenburglive_720p/playlist.m3u8
 #EXTINF:-1 group-title="News",Egnatia TV (576p)
@@ -523,14 +545,20 @@ http://185.234.111.229:8000/play/a00w
 https://ekusheyserver.com/etvlivesn.m3u8
 #EXTINF:-1 group-title="News",El Confidencial TV (1080p)
 https://daqnsnf5phf17.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-sde7fypd1420w-prod/fast-channel-elconfidencial/fast-channel-elconfidencial.m3u8
+#EXTINF:-1 group-title="News",El Djazair N1
+https://uvotv-aniview.global.ssl.fastly.net/hls/live/2120682/eldjazairn1/playlist.m3u8
 #EXTINF:-1 group-title="News",El Nuevo Diario TV (480p)
 https://nuevodiario01.streamprolive.com/hls/live.m3u8
 #EXTINF:-1 group-title="News",EL PAÍS TV (1080p)
 https://d2xqbi89ghm9hh.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-79fx3huimw4xc-ssai-prd/fast-channel-el-pais.m3u8
 #EXTINF:-1 group-title="News",El Segundo Media (360p)
 https://cdn3.wowza.com/5/cHYzekYzM2kvTVFH/elsegundo/G0014_002/playlist.m3u8
+#EXTINF:-1 group-title="News",eNews Channel Africa
+https://uvotv-aniview.global.ssl.fastly.net/hls/live/2120684/enca/playlist.m3u8
 #EXTINF:-1 group-title="News",Enlight News (1080p)
 https://live.enlightnews.com/live/enlightnews/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="News",Ennahar TV
+https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119194/ennahartv/playlist.m3u8
 #EXTINF:-1 group-title="News",ERT News (1080p)
 http://ertflix.s.llnwi.net/ertlive/ertnews/default/index.m3u8
 #EXTINF:-1 group-title="News",Espace TV (1080p)
@@ -771,6 +799,8 @@ https://yuppftalive.akamaized.net/080823/kanaknews/playlist.m3u8
 https://cdn-kanals.yayin.com.tr/kanals/kanals/playlist.m3u8
 #EXTINF:-1 group-title="News",Kashish News (576p)
 https://yuppftalive.akamaized.net/080823/kashishnews/playlist.m3u8
+#EXTINF:-1 group-title="News",KBN
+https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119690/kbn/playlist.m3u8
 #EXTINF:-1 group-title="News",Khabar Fast (720p) [Not 24/7]
 https://live.gbtechnology.in/khabarfast/khabarfast/index.m3u8
 #EXTINF:-1 group-title="News",Khabrain Abhi Tak (576p) [Not 24/7]
@@ -919,6 +949,8 @@ https://naftemporiki-live.cdn.vustreams.com/live/a4b4a88a-681c-4a2d-8e74-33daa5f
 https://nationtv-1jdcjo.cdn.byteark.com/fleetstream/nationtvlive/index.m3u8
 #EXTINF:-1 group-title="News",Naxatra News (720p)
 https://wearelive.livebox.co.in/naxatratvhls/naxatratv.m3u8
+#EXTINF:-1 group-title="News",NBC 2
+https://uvotv-aniview.global.ssl.fastly.net/hls/live/2120427/nbc2/playlist.m3u8
 #EXTINF:-1 group-title="News",NBC 2 Orlando FL (WESH) (720p)
 https://livetv-fa.tubi.video/wesh/playlist.m3u8
 #EXTINF:-1 group-title="News",NBC 5 Plattsburgh NY (WPTZ) (720p)
@@ -1157,6 +1189,8 @@ https://amg00453-reuters-amg00453c1-rakuten-uk-2110.playouts.now.amagi.tv/playli
 https://realitatealive.md/tv/rlive.m3u8
 #EXTINF:-1 group-title="News",RNN (720p) [Not 24/7]
 https://2-fss-2.streamhoster.com/pl_120/206532-5753030-1/playlist.m3u8
+#EXTINF:-1 group-title="News",RPP TV (480p)
+http://38.183.182.166:8000/play/a13g/index.m3u8
 #EXTINF:-1 group-title="News",RSelvaTV
 https://live.obslivestream.com/selvatv/index.m3u8
 #EXTINF:-1 group-title="News",RT Arabic (1080p) [Geo-blocked]
@@ -1421,6 +1455,8 @@ https://content.uplynk.com/channel/ext/f05837c508c44712aa7129d531f7dbe6/wtvd_24x
 https://customer-ujex1meek7koqd9x.cloudflarestream.com/4f0b316cdb0fbb7f8ca93860ed11d38b/manifest/video.m3u8
 #EXTINF:-1 group-title="News",Yoganadam News (720p)
 https://yoganadam.cinesoftcdn.com/yoganadam/live/index.m3u8
+#EXTINF:-1 group-title="News",ZANIS TV
+https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119689/zanis/playlist.m3u8
 #EXTINF:-1 group-title="News",Zee Delhi NCR Haryana (720p)
 https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeedelhincr/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/cc483a15-1b39-4642-872d-5d08d362ed01/main.m3u8
 #EXTINF:-1 group-title="News",Zee Kannada News (720p)

@@ -97,6 +97,8 @@ https://canal.mediaserver.com.co/live/ChampionTv.m3u8
 https://cnn.livestreaminggroup.info:3132/live/colimdotvlive.m3u8
 #EXTINF:-1 group-title="Sports",Combate Global
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=960
+#EXTINF:-1 group-title="Sports",CRTV Sports and Entertainment
+https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119689/crtvsports/playlist.m3u8
 #EXTINF:-1 group-title="Sports",ČT Sport (720p)
 http://88.212.15.19/live/test_ctsport_25p/playlist.m3u8
 #EXTINF:-1 group-title="Sports",DAZN Combat
@@ -121,6 +123,8 @@ https://cdn-01.bonus-tv.ru/gsl/playlist.m3u8
 https://edgesports-sportstribal.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Sports",Egg Network (720p)
 http://210.210.155.37/uq2663/h/h22/index.m3u8
+#EXTINF:-1 group-title="Sports",El-Heddaf TV
+https://uvotv-aniview.global.ssl.fastly.net/hls/live/2120682/elheddaftv/playlist.m3u8
 #EXTINF:-1 group-title="Sports",Eleven Sports 1 (2160p)
 http://9b129915.akadatel.com/iptv/83GA6FAV4DPTPQ/20068/index.m3u8
 #EXTINF:-1 group-title="Sports",Eleven Sports 2 (1080p)
@@ -141,8 +145,8 @@ https://fl25.moveonjoy.com/ESPN_U/index.m3u8
 https://d3ehq1uaxory6w.cloudfront.net/out/v1/35c05f080f4e49a4b4eb031b5a14e505/TVG2index_2.m3u8
 #EXTINF:-1 group-title="Sports",FanDuel Sports Network
 https://fl25.moveonjoy.com/PAC_12/index.m3u8
-#EXTINF:-1 group-title="Sports",FanDuel TV
-https://fl25.moveonjoy.com/TVG/index.m3u8
+#EXTINF:-1 group-title="Sports",FanDuel TV (720p)
+https://d2jl8r92tdc3f1.cloudfront.net/out/v1/59419700344b4625b7cb0693ba265ea3/TVGindex_1.m3u8
 #EXTINF:-1 group-title="Sports",FB TV
 http://1hskrdto.rocketcdn.com/fenerbahcetv.smil/playlist.m3u8
 #EXTINF:-1 group-title="Sports",FIFA plus
@@ -185,6 +189,8 @@ http://116.90.120.149:8000/play/a021/index.m3u8
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5417a212ff9fba68282fbf5e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c28f178-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=df3ca9c7-d700-4719-be3f-74dd169206f8
 #EXTINF:-1 group-title="Sports",GLORY Kickboxing
 https://6f972d29.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0dsb3J5S2lja2JveGluZ19ITFM/playlist.m3u8
+#EXTINF:-1 group-title="Sports",Gol Peru (1080p)
+http://38.183.182.166:8000/play/a120/index.m3u8
 #EXTINF:-1 group-title="Sports",Golf Channel
 https://fl25.moveonjoy.com/GOLF/index.m3u8
 #EXTINF:-1 group-title="Sports",Golf Channel (576i)
@@ -225,6 +231,8 @@ https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/fd
 https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/chunklist.m3u8
 #EXTINF:-1 group-title="Sports",KTV Sport Plus (1080p)
 https://kwtsplta.cdn.mangomolo.com/spl/smil:spl.stream.smil/chunklist.m3u8
+#EXTINF:-1 group-title="Sports",L1 Max (1080p)
+http://38.183.182.166:8000/play/a12t/index.m3u8
 #EXTINF:-1 group-title="Sports",L'Equipe (1080p)
 https://dshn8inoshngm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-gac2i63dmu8b7/LEquipe_FR.m3u8
 #EXTINF:-1 group-title="Sports",L'Equipe Live1

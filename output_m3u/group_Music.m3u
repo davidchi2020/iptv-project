@@ -75,8 +75,6 @@ https://atomic.streamnet.ro/academia.m3u8
 https://atomic.streamnet.ro/atomictv.m3u8
 #EXTINF:-1 group-title="Music",Avang TV (1080p)
 https://hls.avang.live/hls/stream.m3u8
-#EXTINF:-1 group-title="Music",AXS TV
-https://fl25.moveonjoy.com/Axs_TV/index.m3u8
 #EXTINF:-1 group-title="Music",Azahares Radio Multimedia (720p)
 https://streamyes.alsolnet.com/azaharesfm/live/playlist.m3u8
 #EXTINF:-1 group-title="Music",B4U Music (1080p)

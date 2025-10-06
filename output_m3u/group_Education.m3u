@@ -201,6 +201,8 @@ http://189.240.210.28:1935/live/setpuebla/playlist.m3u8
 https://fflive-darya-educationtv.b-cdn.net/master.m3u8
 #EXTINF:-1 group-title="Education",Shandong Education TV
 http://49.113.179.174:4022/udp/238.125.0.156:5140
+#EXTINF:-1 group-title="Education",Sudan Edu TV
+https://uvotv-aniview.global.ssl.fastly.net/hls/live/2120913/sudanbasicedu/playlist.m3u8
 #EXTINF:-1 group-title="Education",SVT Kunskapskanalen (720p) [Geo-blocked]
 https://svtk-c.akamaized.net/se/svtk/master.m3u8
 #EXTINF:-1 group-title="Education",Télé-Québec (720p)

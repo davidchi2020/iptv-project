@@ -67,6 +67,10 @@ https://cdn-globecast.akamaized.net/live/eds/akaal_tv/hls1_smart_akaal/akaal_tv.
 https://cdn3.wowza.com/5/OE5HREpIcEkySlNT/alhayat-live/ngrp:livestream_all/playlist.m3u8
 #EXTINF:-1 group-title="Religious",Al Horreya TV (1080p)
 http://media.smc-host.com:1935/alhorreya.tv/mp4:alhorreya3/playlist.m3u8
+#EXTINF:-1 group-title="Religious",Al Huda TV
+https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119696/alhudtv/playlist.m3u8
+#EXTINF:-1 group-title="Religious",Al Insen TV
+https://uvotv-aniview.global.ssl.fastly.net/hls/live/2120686/alinsentv/playlist.m3u8
 #EXTINF:-1 group-title="Religious",Al Maaref (350p)
 https://672a3a5c8e335.streamlock.net/AlMaaref/smil:almaareflive.smil/playlist.m3u8
 #EXTINF:-1 group-title="Religious",Al Quran Al Kareem TV (360p)
@@ -117,6 +121,8 @@ https://5a8308add0b31.streamlock.net/alkarmatv.com/alkarmaau.smil/playlist.m3u8
 https://58cc65c534c67.streamlock.net/alkarmatv.com/alkarmaNA2.smil/playlist.m3u8
 #EXTINF:-1 group-title="Religious",Alkarma TV Middle East (1080p) [Not 24/7]
 https://58cc65c534c67.streamlock.net/alkarmatv.com/alkarmame1.smil/playlist.m3u8
+#EXTINF:-1 group-title="Religious",Alkarma TV North America
+https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119196/alkarmausa/playlist.m3u8
 #EXTINF:-1 group-title="Religious",Alkarma TV North America & Canada (1080p) [Not 24/7]
 https://5aafcc5de91f1.streamlock.net/alkarmatv.com/alkarmana1.smil/playlist.m3u8
 #EXTINF:-1 group-title="Religious",Alkarma TV Praise (720p) [Not 24/7]
@@ -127,6 +133,8 @@ https://58cc65c534c67.streamlock.net/alkarmatv.com/alkarmame2.smil/playlist.m3u8
 https://5aafcc5de91f1.streamlock.net/alkarmatv.com/alkarmaus.smil/playlist.m3u8
 #EXTINF:-1 group-title="Religious",Alkerazatv (720p)
 https://hwlive.streamingmediahosting.com/14221-live/0_ahgiewbd/playlist.m3u8
+#EXTINF:-1 group-title="Religious",Almagd TV
+https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119197/almagdtv/playlist.m3u8
 #EXTINF:-1 group-title="Religious",Almagd TV Middle East (1080p) [Not 24/7]
 https://597f64b67707a.streamlock.net/almagd.tv/almagd.smil/playlist.m3u8
 #EXTINF:-1 group-title="Religious",Almagd TV North America (1080p)
@@ -171,6 +179,8 @@ https://live.apostoltv.hu/live/playlist.m3u8
 https://stream.commec.tv/6447b2559d8b0711e2fa75cc/live_222c2dc0b69f11ee8c3c99218c8c67c4/index.fmp4.m3u8
 #EXTINF:-1 group-title="Religious",Árbol de Vida TV (240p) [Not 24/7]
 https://www.yupi.live:1936/livearbol/livearbol/playlist.m3u8
+#EXTINF:-1 group-title="Religious",Arise & Shine TV
+https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119692/ariseandshine/playlist.m3u8
 #EXTINF:-1 group-title="Religious",Ark TV (1080p) [Not 24/7]
 https://stream.hydeinnovations.com/arktv-international/index.fmp4.m3u8
 #EXTINF:-1 group-title="Religious",Ashrafi Channel (484p) [Not 24/7]
@@ -203,6 +213,8 @@ https://fl25.moveonjoy.com/BET_GOSPEL/index.m3u8
 https://alfa.betheltv.tv/srt/3_abr/playlist.m3u8
 #EXTINF:-1 group-title="Religious",Better Life TV (720p)
 https://tgn.bozztv.com/betterlife/betterlife/betterlife/index.m3u8
+#EXTINF:-1 group-title="Religious",Bible Explorations
+https://uvotv-aniview.global.ssl.fastly.net/hls/live/2120683/bibleexplorationstv/playlist.m3u8
 #EXTINF:-1 group-title="Religious",Blessing TV Tamil (720p)
 https://stream.blessingtv.tv:1443/blessingtv-tamillive/mystream_720p/playlist.m3u8
 #EXTINF:-1 group-title="Religious",Bonum TV (360p)
@@ -213,6 +225,8 @@ https://live.x2.co.th/live/bntv.m3u8
 https://goliveafrica.media:9998/live/638da5440743c/index.m3u8
 #EXTINF:-1 group-title="Religious",BTN TV (1080p)
 https://btn.nowcdn.co.kr/btn/btnlive2m/playlist.m3u8
+#EXTINF:-1 group-title="Religious",C Sat
+https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119197/csat/playlist.m3u8
 #EXTINF:-1 group-title="Religious",Canal 13 Jujuy TV (720p)
 https://genexservicios.com:19360/canal13jujuy/canal13jujuy.m3u8
 #EXTINF:-1 group-title="Religious",Canal 21 (720p)
@@ -227,6 +241,8 @@ https://s.emisoras.tv:8081/canal30tvbethel/index.m3u8
 https://panel.streamingtv-mediacp.online:1936/tv65/tv65/playlist.m3u8
 #EXTINF:-1 group-title="Religious",Canal 98 Jesús TV (720p)
 https://cdn.streamhispanatv.net:3189/live/jesustvlive.m3u8
+#EXTINF:-1 group-title="Religious",Canal CVV International
+https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119033/cvvtv/playlist.m3u8
 #EXTINF:-1 group-title="Religious",Canal Iglesia Luz y Verdad (1080p)
 https://stream.oursnetworktv.com/latin/IglesialuzyVerdad/playlist.m3u8
 #EXTINF:-1 group-title="Religious",Canal ISB (Iglesia San Bernardo) (720p)
@@ -247,6 +263,8 @@ https://stream.oursnetworktv.com/latin/radioTGBAgtm/playlist.m3u8
 https://cdn.streamhispanatv.net:3921/live/candetvlive.m3u8
 #EXTINF:-1 group-title="Religious",Candelita TV (480p)
 https://6110f70ea8d0e.streamlock.net/1689/1689/playlist.m3u8
+#EXTINF:-1 group-title="Religious",Capuchin TV
+https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119696/capuchintv/playlist.m3u8
 #EXTINF:-1 group-title="Religious",Caribbean Gospel TV (1080p)
 https://5a1178b42cc03.streamlock.net/CGTV2024/CGTV2024/playlist.m3u8
 #EXTINF:-1 group-title="Religious",Catholic TV
@@ -285,6 +303,8 @@ https://du35ivadp6cxj.cloudfront.net/out/v1/81781d23cbbf490990b2aa9181d4ce19/CGN
 https://ch14.tv/live/ch4teenclip/playlist.m3u8
 #EXTINF:-1 group-title="Religious",Chabiba TV (360p) [Not 24/7]
 https://endour.net/hls/RUgLAPCbPdF5oPSTX2Hvl/index.m3u8
+#EXTINF:-1 group-title="Religious",Channel 44 Uganda
+https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119694/channel44/playlist.m3u8
 #EXTINF:-1 group-title="Religious",Channel Divya (720p)
 https://mcncdndigital.com/divyatv/index.fmp4.m3u8
 #EXTINF:-1 group-title="Religious",Channel WIN (720p)
@@ -329,6 +349,8 @@ http://media.smc-host.com:1935/csat.tv/smil:csat.smil/playlist.m3u8
 https://video1.getstreamhosting.com:1936/8226/8226/playlist.m3u8
 #EXTINF:-1 group-title="Religious",CTS기독교TV (720p)
 https://d34t5yjz1ooymj.cloudfront.net/out/v1/875039d5eba0478fa8375a06b3aa5a37/index.m3u8
+#EXTINF:-1 group-title="Religious",CVK
+https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119690/cvk/playlist.m3u8
 #EXTINF:-1 group-title="Religious",DAAI TV
 https://pull.daaiplus.com/live-DAAIPLUS/live-DAAIPLUS_HD.m3u8
 #EXTINF:-1 group-title="Religious",Dacwa TV (576p) [Not 24/7]
@@ -373,6 +395,8 @@ https://627bb251f23c7.streamlock.net:444/EBNTELEVISION/EBNTELEVISION/playlist.m3
 https://goliveafrica.media:9998/live/65d8475d1e6cb/index.m3u8
 #EXTINF:-1 group-title="Religious",EchtJetzt TV (720p)
 https://bibeltv03.iptv-playoutcenter.de/bibeltv03/bibeltv03.stream_all/playlist.m3u8
+#EXTINF:-1 group-title="Religious",Efatha TV
+https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119176/efathatv/playlist.m3u8
 #EXTINF:-1 group-title="Religious",Efeso Televisión (1080p) [Not 24/7]
 https://stream.oursnetworktv.com/latin/Esotelevision/playlist.m3u8
 #EXTINF:-1 group-title="Religious",El Camino TV (480p)
@@ -397,6 +421,8 @@ https://ap02.iqplay.tv:8082/iqb8002/3m9n/playlist.m3u8
 https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119176/elmmanueltv/playlist.m3u8
 #EXTINF:-1 group-title="Religious",EN TV (720p)
 https://cp.cast-live.net:1936/exodotv/exodotv/playlist.m3u8
+#EXTINF:-1 group-title="Religious",Encounter Jesus TV
+https://uvotv-aniview.global.ssl.fastly.net/hls/live/2120683/encounterjesustv/playlist.m3u8
 #EXTINF:-1 group-title="Religious",Enlace (720p)
 https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 #EXTINF:-1 group-title="Religious",Ère TV (1080p)
@@ -439,6 +465,8 @@ https://stream.berosat.live:19360/exploits-tv/exploits-tv.m3u8
 https://ssh101.bozztv.com/ssh101/expresiongrany/playlist.m3u8
 #EXTINF:-1 group-title="Religious",Extrema TV (720p)
 https://627bb251f23c7.streamlock.net:444/ExtremaTV/ExtremaTV/playlist.m3u8
+#EXTINF:-1 group-title="Religious",Ezekiel TV
+https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119194/ezekieltv/playlist.m3u8
 #EXTINF:-1 group-title="Religious",Faith TV (576p)
 https://cdn.freevisiontv.co.za/sttv/smil:faith.stream.smil/playlist.m3u8
 #EXTINF:-1 group-title="Religious",Faith World TV
@@ -457,6 +485,8 @@ http://cdn9.live247stream.com/punjabitvcanada/tv/playlist.m3u8
 https://stream.oursnetworktv.com/latin/feVivienteGtm/playlist.m3u8
 #EXTINF:-1 group-title="Religious",FGTV (720p)
 https://fgtvlive.fgtv.com/smil:fgtv.smil/playlist.m3u8
+#EXTINF:-1 group-title="Religious",Fidelite TV
+https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119696/fidelite/playlist.m3u8
 #EXTINF:-1 group-title="Religious",Fire TV
 https://uvotv-aniview.global.ssl.fastly.net/hls/live/2120428/firetv/playlist.m3u8
 #EXTINF:-1 group-title="Religious",Firstlight (576p)
@@ -475,6 +505,8 @@ https://tv.frecuenciaf.com/live/envivo.m3u8
 https://panel.freedomflixtv.org:3934/hybrid/play.m3u8
 #EXTINF:-1 group-title="Religious",FTV Televisión Familiar (480p) [Not 24/7]
 https://www.yupi.live:1936/tvftv/tvftv/playlist.m3u8
+#EXTINF:-1 group-title="Religious",Full Life TV
+https://uvotv-aniview.global.ssl.fastly.net/hls/live/2120683/fulllifetv/playlist.m3u8
 #EXTINF:-1 group-title="Religious",Gawahi TV (720p)
 https://livecdn.live247stream.com/gawahi/tv/playlist.m3u8
 #EXTINF:-1 group-title="Religious",GBN Global Buddhist Network (1080p)
@@ -589,8 +621,14 @@ https://jstre.am/live/jsl:cZXINbwrFj6.m3u8
 http://media1.adventist.no:1935/live/hope1/playlist.m3u8
 #EXTINF:-1 group-title="Religious",Hope Channel North America (1080p)
 https://jstre.am/live/jsl:0sUSK6VA7GT.m3u8
+#EXTINF:-1 group-title="Religious",Hope Channel Tanzania
+https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119176/hctanzania/playlist.m3u8
+#EXTINF:-1 group-title="Religious",Hope Channel Uganda
+https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119176/hcuganda/playlist.m3u8
 #EXTINF:-1 group-title="Religious",HoremowTV (1080p)
 https://tvsw6-hls.secdn.net/tvsw6-chorigin/play/prod-2859eecc9b514f2bb955290066ef172d/playlist.m3u8
+#EXTINF:-1 group-title="Religious",Horizon TV
+https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119696/horizontv/playlist.m3u8
 #EXTINF:-1 group-title="Religious",Hosanna Vision (720p) [Not 24/7]
 https://1206618505.rsc.cdn77.org/LS-ATL-59020-1/playlist.m3u8
 #EXTINF:-1 group-title="Religious",Huda TV (720p) [Not 24/7]
@@ -631,6 +669,8 @@ https://live.imamhossaintv.com/live/ih4.m3u8
 https://live.relentlessinnovations.net:1936/imantv/imantv/index.m3u8
 #EXTINF:-1 group-title="Religious",Immaculata TV (720p)
 https://g5nl63z8lpq6-hls-live.5centscdn.com/tvistream/a5586d8ea3b7b021120a05c60dc59876.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Religious",Impact TV
+https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119690/impacttv/playlist.m3u8
 #EXTINF:-1 group-title="Religious",IMPD TV (720p)
 https://58a4464faef53.streamlock.net/impd/ngrp:impd_all/playlist.m3u8
 #EXTINF:-1 group-title="Religious",INC TV
@@ -671,6 +711,8 @@ https://mediacp.us:8081/jbntv/index.m3u8
 https://hdbox.chunklistv.com/live?stream=jbn39
 #EXTINF:-1 group-title="Religious",JBS (404p) [Not 24/7]
 http://uni8rtmp.tulix.tv:1935/shalomtv-pc/smil:shalomtv.smil/master.m3u8
+#EXTINF:-1 group-title="Religious",JCDH TV
+https://uvotv-aniview.global.ssl.fastly.net/hls/live/2120427/jcdh/playlist.m3u8
 #EXTINF:-1 group-title="Religious",JCM TV (720p) [Not 24/7]
 https://goliveafrica.media:9998/live/646c92d07b16c/index.m3u8
 #EXTINF:-1 group-title="Religious",Jehová Nissi (720p)
@@ -703,6 +745,8 @@ https://s.emisoras.tv:8081/kerussotv/index.m3u8
 https://live.mdc.akamaized.net/hls/livestream/kicctv/playlist.m3u8
 #EXTINF:-1 group-title="Religious",King TV (720p) [Not 24/7]
 https://streamer12.vdn.dstreamone.net/kingtv/kingtv/playlist.m3u8
+#EXTINF:-1 group-title="Religious",Kirk TV
+https://uvotv-aniview.global.ssl.fastly.net/hls/live/2120427/kirktv/playlist.m3u8
 #EXTINF:-1 group-title="Religious",KIT-TV (720p)
 https://everest.pa-hosting.de:3591/live/joseflive.m3u8
 #EXTINF:-1 group-title="Religious",KK TV Angola (1080p)
@@ -807,6 +851,8 @@ https://streaming.madanichannel.tv/static/streaming-playlists/hls/c6a600b0-82cb-
 https://streaming.madanichannel.tv/static/streaming-playlists/hls/b9790f10-cb0d-4e30-82bf-84a756234e58/master.m3u8
 #EXTINF:-1 group-title="Religious",Madha TV (600p)
 https://60e68b19dd194.streamlock.net:55/madhatv/madhatv.stream_HDp/playlist.m3u8
+#EXTINF:-1 group-title="Religious",Mahdi TV
+https://uvotv-aniview.global.ssl.fastly.net/hls/live/2120427/mahdi/playlist.m3u8
 #EXTINF:-1 group-title="Religious",Majestad Televisión (480p) [Not 24/7]
 https://livetv.305streamhd.com:3667/live/majestadtvlive.m3u8
 #EXTINF:-1 group-title="Religious",Makkah TV (576p)
@@ -841,6 +887,8 @@ https://livefa.marjaeyattv.com/mtv_fa/playlist.m3u8
 https://5fd5567570c0e.streamlock.net/222/stream/playlist.m3u8
 #EXTINF:-1 group-title="Religious",Master's TV (720p)
 https://mn-nl.mncdn.com/commectv_live/masterstv/index.m3u8
+#EXTINF:-1 group-title="Religious",MBCI TV
+https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119696/pangmbcitv/playlist.m3u8
 #EXTINF:-1 group-title="Religious",MCN Televisión (768p)
 https://vdo.grupolimalive.com:3263/live/mcnlive.m3u8
 #EXTINF:-1 group-title="Religious",Medjugorje Italia TV (480p)
@@ -917,6 +965,8 @@ https://goliveafrica.media:9998/live/62b3ffb71a3d6/index.m3u8
 https://goliveafrica.media:9998/live/6516be24a6bac/index.m3u8
 #EXTINF:-1 group-title="Religious",My Righteous TV
 https://live20.bozztv.com/ssh101/ssh101/myrighteous/playlist.m3u8
+#EXTINF:-1 group-title="Religious",NAC 28 TV
+https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119689/nac28tv/playlist.m3u8
 #EXTINF:-1 group-title="Religious",Namdhari (404p) [Not 24/7]
 https://namdhari.tv/live/sbs1.m3u8
 #EXTINF:-1 group-title="Religious",Nazarenas TV (720p) [Not 24/7]
@@ -959,6 +1009,8 @@ https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/playlist.m3u8
 https://uni6rtmp.tulix.tv/nrbnetwork/myStream.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Religious",Nuevo Tiempo (720p) [Not 24/7]
 https://stream.live.novotempo.com/tv/smil:tvnuevotiempo.smil/playlist.m3u8
+#EXTINF:-1 group-title="Religious",Nuru TV
+https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119696/nurutv/playlist.m3u8
 #EXTINF:-1 group-title="Religious",OCN TV
 https://5d12bc59c4748.streamlock.net/redirect/ocnbroadcasting.com/ocnbroadcasting2?type=m3u8
 #EXTINF:-1 group-title="Religious",Omega (1080p)
@@ -1049,6 +1101,10 @@ https://avr.host247.net/live/rasoulallahtv/playlist.m3u8
 https://live.nixsat.com/play/rtm/index.m3u8
 #EXTINF:-1 group-title="Religious",Reforma TV (1080p)
 https://5bf8041cb3fed.streamlock.net/ReformaTV/ReformaTV/playlist.m3u8
+#EXTINF:-1 group-title="Religious",Revelation TV
+https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119690/revelationtv/playlist.m3u8
+#EXTINF:-1 group-title="Religious",Revival Channel
+https://uvotv-aniview.global.ssl.fastly.net/hls/live/2120683/revivalchannel/playlist.m3u8
 #EXTINF:-1 group-title="Religious",Rhema TV (720p)
 https://5e85d90130e77.streamlock.net/6006/6006/playlist.m3u8
 #EXTINF:-1 group-title="Religious",RIT TV (1080p)
@@ -1071,6 +1127,8 @@ http://d26sxnc75smwvh.cloudfront.net/livehttporigin/rutclive_720p2.stream/playli
 https://live.relentlessinnovations.net:1936/sadaehaq/sadaehaq/playlist.m3u8
 #EXTINF:-1 group-title="Religious",Safeer TV (1080p)
 https://cdn3.wowza.com/1/YStGZlJRdktzZkdK/VXROZWNW/hls/live/playlist.m3u8
+#EXTINF:-1 group-title="Religious",Salam TV
+https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119694/salaamtv/playlist.m3u8
 #EXTINF:-1 group-title="Religious",Salt TV (1080p) [Not 24/7]
 https://live.salttelevision.com/app/stream/abr.m3u8
 #EXTINF:-1 group-title="Religious",Salvación TV (720p)
@@ -1185,12 +1243,16 @@ https://mediaprod1.nowcast.cc:5443/LiveApp/streams/anZPy7eaVWLyDMZB1697488814699
 https://uvotv-aniview.global.ssl.fastly.net/10010/dvr/hls/thewaytv/playlist.m3u8
 #EXTINF:-1 group-title="Religious",The Word Network (1080p)
 https://clouditize.piksel.tech/hls/live/2043070/ClouditizeStream1/playlist.m3u8
+#EXTINF:-1 group-title="Religious",Tinker TV
+https://uvotv-aniview.global.ssl.fastly.net/hls/live/2120427/tinkertv/playlist.m3u8
 #EXTINF:-1 group-title="Religious",TLN Media Chicago
 https://fuel-streaming-prod01.fuelmedia.io/v1/sem/cb165faa-41c9-42ad-83ee-ad5ca9fb927c.m3u8
 #EXTINF:-1 group-title="Religious",TLN Media San Francisco
 https://fuel-streaming-prod01.fuelmedia.io/v1/sem/b29d27bb-88af-42d1-937a-5bdf76b71c17.m3u8
 #EXTINF:-1 group-title="Religious",TNE (720p) [Not 24/7]
 https://v2.tustreaming.cl/tnetv/index.m3u8
+#EXTINF:-1 group-title="Religious",Top TV
+https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119694/toptv/playlist.m3u8
 #EXTINF:-1 group-title="Religious",Trece TV (576p)
 https://live-edge-bhs-1.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/playlist.m3u8
 #EXTINF:-1 group-title="Religious",Trinity Channel
@@ -1241,6 +1303,8 @@ https://w1.manasat.com/tvmana-espanol/smil:tvmana-espanol.smil/playlist.m3u8
 https://w2.manasat.com/tvmana-mz/smil:tvmana-mz.smil/playlist.m3u8
 #EXTINF:-1 group-title="Religious",TV Maná Russkiy (1080p)
 https://w1.manasat.com/tvmana-leste/smil:tvmana-leste.smil/playlist.m3u8
+#EXTINF:-1 group-title="Religious",TV Maria
+https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119690/tv-maria/playlist.m3u8
 #EXTINF:-1 group-title="Religious",TV María (720p) [Not 24/7]
 https://streamtv.intervenhosting.net:3155/live/juandelacruz3live.m3u8
 #EXTINF:-1 group-title="Religious",TV Muslim Thailand
@@ -1255,6 +1319,8 @@ https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/playlist.m3u8
 https://ssh101.bozztv.com/ssh101/tvcaelsalvador/playlist.m3u8
 #EXTINF:-1 group-title="Religious",TVCARiB Gospel (480p) [Not 24/7]
 https://cdn.mycloudstream.io/hls/live/broadcast/wokrhjkd/index.m3u8
+#EXTINF:-1 group-title="Religious",UCTV
+https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119694/uctv/playlist.m3u8
 #EXTINF:-1 group-title="Religious",Unife TV
 https://5dcabf026b188.streamlock.net/StreamUnife/livestream/playlist.m3u8
 #EXTINF:-1 group-title="Religious",Urejesho TV Africa (360p) [Not 24/7]
@@ -1283,6 +1349,8 @@ https://mn-nl.mncdn.com/wholewordtv/wholewordtv/index.m3u8
 https://avr.host247.net/live/WiseHumanTv/playlist.m3u8
 #EXTINF:-1 group-title="Religious",WLMB
 https://rpn.bozztv.com/wlmb/wlmb/wlmb/index.m3u8
+#EXTINF:-1 group-title="Religious",WRM TV
+https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119691/wrm/playlist.m3u8
 #EXTINF:-1 group-title="Religious",WWXY-DT3 (Maranatha Radio Ministries) (720p) [Not 24/7]
 https://vip.livecastnet.com:3930/live/maranatharadiolive.m3u8
 #EXTINF:-1 group-title="Religious",Yadah TV (576p) [Not 24/7]

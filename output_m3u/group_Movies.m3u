@@ -319,6 +319,8 @@ https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
 http://210.210.155.37/uq2663/h/h192/index.m3u8
 #EXTINF:-1 group-title="Movies",My Cinema Asia (1080p) [Geo-blocked]
 http://210.210.155.37/uq2663/h/h193/index.m3u8
+#EXTINF:-1 group-title="Movies",My Movie French
+https://uvotv-aniview.global.ssl.fastly.net/hls/live/2120430/mymoviesfrench/playlist.m3u8
 #EXTINF:-1 group-title="Movies",MyTime Movie Network
 https://mytime-tcl.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Movies",MyTime Movie Network Brazil (720p)

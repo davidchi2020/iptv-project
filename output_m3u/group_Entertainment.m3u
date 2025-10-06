@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 group-title="Entertainment",2х2 [Geo-blocked]
 https://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/variant.m3u8
+#EXTINF:-1 group-title="Entertainment",3Ktv
+https://uvotv-aniview.global.ssl.fastly.net/hls/live/2120684/3ktv/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment",4U TV (720p)
 https://hls.4utv.live/hls/stream.m3u8
 #EXTINF:-1 group-title="Entertainment",5AAB TV (720p) [Not 24/7]
@@ -119,12 +121,16 @@ https://trn03.tulix.tv/gf-khybertv/index.m3u8
 https://azt-mun.otteravision.com/azt/mun/mun.m3u8
 #EXTINF:-1 group-title="Entertainment",B+ TV (480p)
 https://tv.btnrwanda.com:3432/live/bpluslive.m3u8
+#EXTINF:-1 group-title="Entertainment",B-One TV
+https://uvotv-aniview.global.ssl.fastly.net/hls/live/2120686/b-one/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment",Balkan Radio Salzburg (480p)
 https://channel.streams.ovh:1936/balkanradiosalzburgtv/balkanradiosalzburgtv/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment",BBC America
 https://bcovlive-a.akamaihd.net/7f5ec16d102f4b5d92e8e27bc95ff424/us-east-1/6240731308001/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment",BDC TV (576p)
 https://video01.kshost.com.br/bdctv/bdctv/playlist.m3u8
+#EXTINF:-1 group-title="Entertainment",Beats TV
+https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119689/beatstv/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment",Bellavisión (1080p)
 https://rdn.essastream.com:3110/live/bellavision8hdlive.m3u8
 #EXTINF:-1 group-title="Entertainment",Best of Dr. Phil
@@ -151,6 +157,8 @@ https://5790d294af2dc.streamlock.net/latinostv/latinostv/playlist.m3u8
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6176fd25e83a5f0007a464c9/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2743c7-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=c190f5a2-d746-452a-adf6-37d9268e59ae
 #EXTINF:-1 group-title="Entertainment",British Drama
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5b68a18823ecb93393cba2f1/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c276ad0-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=efb81bc4-4de2-410c-bd56-c59e9a06a232
+#EXTINF:-1 group-title="Entertainment",BTV 2
+https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119033/btv2/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment",Buena TV (1080p)
 https://59825a54e4454.streamlock.net:8443/papo351/papo351/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment",Buzzr
@@ -197,6 +205,8 @@ https://live-us-cdn-1.tvstartupengine.com/live/playlist-prod-da1ba36f-39ba-4347-
 https://asiakwa.com/ceejaytv/index.fmp4.m3u8
 #EXTINF:-1 group-title="Entertainment",CG Entertainment
 https://cgentertainment-cgtv-1-it.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="Entertainment",Chamuka TV
+https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119694/chamukatv/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment",Chandel TV (720p)
 https://kali.vdopanel.com:3660/live/vj6jlam1rlive.m3u8
 #EXTINF:-1 group-title="Entertainment",Channel 82
@@ -337,6 +347,8 @@ https://d1h1d6qoy9vnra.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d2
 https://panel.freedomflixtv.org:3665/hybrid/play.m3u8
 #EXTINF:-1 group-title="Entertainment",Fujairah TV (720p)
 https://live.kwikmotion.com/fujairahlive/fujairah.smil/playlist.m3u8
+#EXTINF:-1 group-title="Entertainment",Furaha TV
+https://uvotv-aniview.global.ssl.fastly.net/hls/live/2120681/furahatv/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment",Fuse East (720p)
 https://fl25.moveonjoy.com/FUSE/index.m3u8
 #EXTINF:-1 group-title="Entertainment",FX East
@@ -393,6 +405,8 @@ https://fl25.moveonjoy.com/GRIT_TV/index.m3u8
 https://livetv-fa.tubi.video/grit-extra/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment",Guaro TV (1080p)
 https://streamtv.intervenhosting.net:3592/live/guarotvbqtolive.m3u8
+#EXTINF:-1 group-title="Entertainment",Guinee TV1
+https://uvotv-aniview.global.ssl.fastly.net/hls/live/2120428/gtv1/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment",Haunt TV
 https://blueantmediacanada-haunttv-samsungca.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment",Heartland
@@ -535,6 +549,8 @@ http://cors.tundracast.com:2000/https://streamer1.nexgen.bz/BOUNCE/index.m3u8
 https://cvtv.cvalley.net/hls/KSHBCozi/KSHBCozi.m3u8
 #EXTINF:-1 group-title="Entertainment",KTIV-DT6
 http://txc4-swbb-mn.fibernet-tv.com/KABY-CW-2364/index.m3u8
+#EXTINF:-1 group-title="Entertainment",KTN
+https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119696/ktnhome/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment",KTVO-DT3 (720p)
 https://cvtv.cvalley.net/hls/KTVOComet/KTVOComet.m3u8
 #EXTINF:-1 group-title="Entertainment",KurdMax Show (720p)
@@ -589,6 +605,8 @@ https://j78dpa3edq5r-hls-live.5centscdn.com/abr/0864028584026e6ad9cdf922473177a4
 https://sablive-ddpb.akamaized.net/maiboli/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment",MakroDigital Television (1080p)
 https://makrodigitaltv.makrodigital.com/makrodigitaltelevision/iptv/playlist.m3u8
+#EXTINF:-1 group-title="Entertainment",Mambo TV Swahili
+https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119691/mambotv/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment",Mandra TV
 http://192.99.2.28/mandra_hls/mandra.m3u8
 #EXTINF:-1 group-title="Entertainment",Manoranjan TV (720p)
@@ -697,6 +715,8 @@ https://epiconvh.akamaized.net/live/nazara/master.m3u8
 http://190.11.225.124:5000/live/universo_hd/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment",NBCLX
 https://nbculocallive.akamaized.net/hls/live/2037096/lx/use1.m3u8
+#EXTINF:-1 group-title="Entertainment",NBS TV
+https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119694/nbs/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment",NCV (720p)
 http://131.153.22.8:1935/NCV/ncvstream/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment",NDTV LANKA (1080p)
@@ -749,6 +769,8 @@ https://5caf24a595d94.streamlock.net:1937/8142/8142/playlist.m3u8
 https://oitnhls.wns.live/hls/stream.m3u8
 #EXTINF:-1 group-title="Entertainment",ON Vie Drama
 http://dvrfl05.bozztv.com/vch_vchannel18/index.m3u8
+#EXTINF:-1 group-title="Entertainment",One TV
+https://uvotv-aniview.global.ssl.fastly.net/hls/live/2120682/onetv/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment",One TV (720p)
 http://137.59.86.218:1935/live/onetv/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment",One TV Asia (576p) [Geo-blocked]
@@ -891,6 +913,8 @@ https://nxtlive.net/sliv/stream.php?id=0897686&e=.m3u8
 https://nxtlive.net/sliv/stream.php?id=0897678986&e=.m3u8
 #EXTINF:-1 group-title="Entertainment",Sooriyan TV (1080p)
 https://live20.bozztv.com/giatv/giatv-Infinittyott/Infinittyott/playlist.m3u8
+#EXTINF:-1 group-title="Entertainment",Spark TV
+https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119694/sparktv/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment",ST Europe Channel (720p)
 https://5f22d76e220e1.streamlock.net/steuropetv/steuropetv/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment",Star Bharat HD (1080p)
@@ -1039,6 +1063,8 @@ https://sistemavrt.vrtchannel.tv.br:3473/stream/play.m3u8
 https://viamotionhsi.netplus.ch/live/eds/w9/browser-dash/w9.mpd
 #EXTINF:-1 group-title="Entertainment",W14DK-D3 (1280p)
 https://2-fss-2.streamhoster.com/pl_118/204972-1954132-1/playlist.m3u8
+#EXTINF:-1 group-title="Entertainment",Wasafi TV
+https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119691/wasafitv/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment",WDR 1 Live (720p)
 https://wdrfs247.akamaized.net/hls/live/681509/wdr_msl4_fs247/index.m3u8
 #EXTINF:-1 group-title="Entertainment",Wipeout
@@ -1067,6 +1093,8 @@ https://amg00143-younghollywoodfast-amg00143c1-cineverse-us-946.playouts.now.ama
 https://hls.yourtime.live/hls/stream.m3u8
 #EXTINF:-1 group-title="Entertainment",YTA TV
 https://yta.unitedteleports.tv/hls/YTA.m3u8
+#EXTINF:-1 group-title="Entertainment",YTV
+https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119033/ytvbotswana/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment",ZAZ
 https://cloud.fastchannel.es/mic/manifiest/hls/zaztv/zaztv.m3u8
 #EXTINF:-1 group-title="Entertainment",Zee Bangla (1080p)
