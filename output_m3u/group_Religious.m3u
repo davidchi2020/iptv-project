@@ -97,8 +97,8 @@ https://iptv.almahditv.com/almahditv/playlist.m3u8
 https://edge66.magictvbox.com/liveApple/al_majd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Religious",Al-Sahat TV (720p)
 https://assahat.b-cdn.net/Assahat/assahatobs/index.m3u8
-#EXTINF:-1 group-title="Religious",Al-Zahra TV Turkic (720p)
-http://185.234.111.229:8000/play/a00t
+#EXTINF:-1 group-title="Religious",Al-Zahra TV Turkic (720p) [Not 24/7]
+https://live.al-zahratv.com/live/playlist.m3u8
 #EXTINF:-1 group-title="Religious",Alcance TV (720p)
 https://5bf8041cb3fed.streamlock.net/AlcanceTV/AlcanceTV/playlist.m3u8
 #EXTINF:-1 group-title="Religious",Alcance TV
@@ -370,9 +370,9 @@ https://voozmedia.fun/divinamourtv/livestream/playlist.m3u8
 #EXTINF:-1 group-title="Religious",Divya Darshan TV (720p)
 http://live.divyadarshantv.com/hls/stream.m3u8
 #EXTINF:-1 group-title="Religious",Diyanet TV (1080p)
-http://185.234.111.229:8000/play/a05j
+https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3bf95a47e07.smil/playlist.m3u8
 #EXTINF:-1 group-title="Religious",Diyar TV (720p)
-http://185.234.111.229:8000/play/a051
+https://live.artidijitalmedya.com/artidijital_diyartv/diyartv/playlist.m3u8
 #EXTINF:-1 group-title="Religious",DNJ TV (720p)
 https://eu1.servers10.com:8081/wegqaafnsa/index.m3u8
 #EXTINF:-1 group-title="Religious",Dost TV (576p)

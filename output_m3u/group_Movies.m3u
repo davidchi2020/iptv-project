@@ -487,7 +487,7 @@ https://d4a4999341764c67a67e9ec9eb3790ab.mediatailor.eu-west-1.amazonaws.com/v1/
 https://ff335120300e4742a2b135ee9a9e7df8.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5983/master.m3u8
 #EXTINF:-1 group-title="Movies",Revry Her
 https://linear-73.frequency.stream/dist/24i/73/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Movies",Rotana Cinema Egypt (1080p)
+#EXTINF:-1 group-title="Movies",Rotana Cinema Egypt (1080p) [Geo-blocked]
 https://rotana.hibridcdn.net/rotananet/cinemamasr_net-7Y83PP5adWixDF93/playlist.m3u8
 #EXTINF:-1 group-title="Movies",Rotana Cinema KSA (1080p)
 https://bcovlive-a.akamaihd.net/9527a892aeaf43019fd9eeb77ad1516e/eu-central-1/6057955906001/playlist.m3u8
@@ -516,7 +516,7 @@ https://live.dinesh29.com.np/stream/jiotvplus/stargoldhd/master.m3u8
 #EXTINF:-1 group-title="Movies",Star Gold Romance (576p)
 https://live.dinesh29.com.np/stream/jiotvplus/stargoldromance/master.m3u8
 #EXTINF:-1 group-title="Movies",Star Gold Select HD (1080p)
-https://live.dinesh29.com.np/stream/jiotvplus/stargold2hd/master.m3u8
+https://live.dinesh29.com.np/stream/jiotvplus/stargoldselecthd/master.m3u8
 #EXTINF:-1 group-title="Movies",Star Gold Thrills (576p)
 http://116.90.120.149:8000/play/a0c0/index.m3u8
 #EXTINF:-1 group-title="Movies",Star Maa Gold (576p)
@@ -579,6 +579,8 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60
 https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/playlist.m3u8
 #EXTINF:-1 group-title="Movies",Xtrema Terror
 https://stmv6.voxtvhd.com.br/cineterror/cineterror/playlist.m3u8
+#EXTINF:-1 group-title="Movies",Zee Aflam (576p)
+http://213.57.91.138:8000/play/a05s
 #EXTINF:-1 group-title="Movies",Zee Bollymovies (1080p)
 https://amg17931-zee-amg17931c8-samsung-th-6526.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Movies",Zee Cinema (1080p) [Geo-blocked]

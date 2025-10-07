@@ -83,8 +83,8 @@ https://acceso.radiosportstv.online:3417/live/360rftvcrlive.m3u8
 https://stream.a1mediagroep.nl/hls/a1tv.m3u8
 #EXTINF:-1 group-title="General",A2i TV (1080p)
 https://stream.sen-gt.com/A2itv/myStream/playlist.m3u8
-#EXTINF:-1 group-title="General",A2TV (1080p)
-http://185.234.111.229:8000/play/a01m
+#EXTINF:-1 group-title="General",A2TV
+https://trkvz-live.daioncdn.net/a2tv/a2tv.m3u8
 #EXTINF:-1 group-title="General",A2Z (360p) [Not 24/7]
 https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/tv5.m3u8
 #EXTINF:-1 group-title="General",A7TV (1080p)
@@ -147,12 +147,10 @@ https://c.mjh.nz/abc-wa.m3u8
 https://cdn.jwplayer.com/live/broadcast/GQagSggs.mpd
 #EXTINF:-1 group-title="General",ABN TV (720p)
 https://vod2.abn.co.kr/IPHONE/abn.m3u8
-#EXTINF:-1 group-title="General",Abu Dhabi Aloula (1080p)
-https://vo-live-media.cdb.cdn.orange.com/Content/Channel/AbuDhabiChannel/HLS/index.m3u8
 #EXTINF:-1 group-title="General",Abu Dhabi Emirates (1080p)
 https://vo-live-media.cdb.cdn.orange.com/Content/Channel/EmiratesChannel/HLS/index.m3u8
-#EXTINF:-1 group-title="General",Abu Dhabi TV
-http://dvrfl05.bozztv.com/gin-abudhabitv/index.m3u8
+#EXTINF:-1 group-title="General",Abu Dhabi TV (1080p)
+https://vo-live-media.cdb.cdn.orange.com/Content/Channel/AbuDhabiChannel/HLS/index.m3u8
 #EXTINF:-1 group-title="General",Abya Yala TV
 https://seo.tv.bo/tv/LIpSEO-TV-8.m3u8
 #EXTINF:-1 group-title="General",Access Humboldt (1080p)
@@ -197,8 +195,6 @@ http://69.64.57.208/africable/playlist.m3u8
 https://edge.socialsmart.tv/naturaltv/bant1/playlist.m3u8
 #EXTINF:-1 group-title="General",Agenda 56 TV [Not 24/7]
 https://cloudflare.streamgato.us:3148/live/agenda56tvlive.m3u8
-#EXTINF:-1 group-title="General",Ahi TV Kirsehir (576p)
-http://yayin3.canlitv.com:1935/canlitv/ahitv/playlist.m3u8
 #EXTINF:-1 group-title="General",Ahora TV (720p)
 https://tv.livestreaminggroup.info:3513/live/canal35live.m3u8
 #EXTINF:-1 group-title="General",AION TV (1080p)
@@ -238,7 +234,7 @@ https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119196/alkaherawalnas2/pla
 #EXTINF:-1 group-title="General",Al Maghribia
 https://viamotionhsi.netplus.ch/live/eds/almaghribia/browser-dash/almaghribia.mpd
 #EXTINF:-1 group-title="General",Al Masriyah
-https://fl1002.bozztv.com/ga-almasriya/index.m3u8
+https://viamotionhsi.netplus.ch/live/eds/almasriyah/browser-HLS8/almasriyah.m3u8
 #EXTINF:-1 group-title="General",Al Rabiaa TV (1080p)
 https://stream.castr.com/65045e4aba85cfe0025e4a60/live_c6c4040053cd11ee95b47153d2861736/index.fmp4.m3u8
 #EXTINF:-1 group-title="General",Al Rasheed TV (1080p) [Not 24/7]
@@ -257,6 +253,8 @@ https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119196/alshams/playlist.m3
 https://svs.itworkscdn.net/kablatvlive/kabtv1.smil/playlist.m3u8
 #EXTINF:-1 group-title="General",Al Wousta TV (1080p)
 https://svs.itworkscdn.net/alwoustalive/alwoustatv.smil/playlist.m3u8
+#EXTINF:-1 group-title="General",Al-Nahar (576p)
+http://213.57.91.138:8000/play/a06m
 #EXTINF:-1 group-title="General",Al-Sharqiya (1080p)
 https://5d94523502c2d.streamlock.net/home/mystream/playlist.m3u8
 #EXTINF:-1 group-title="General",Alacantí TV (576p) [Not 24/7]
@@ -281,7 +279,7 @@ https://srv.panelcast.net/dorian/dorian/playlist.m3u8
 http://135.125.204.34:8081/tvstanici/4/playlist.m3u8
 #EXTINF:-1 group-title="General",Alforat TV (1080p)
 http://95.216.180.111:1935/live/10/playlist.m3u8
-#EXTINF:-1 group-title="General",Alhayat TV
+#EXTINF:-1 group-title="General",Alhayat TV (720p)
 https://uvotv-aniview.global.ssl.fastly.net/10010/dvr/hls/alhayathd/playlist.m3u8
 #EXTINF:-1 group-title="General",Allgäu TV (1080p)
 https://stream01.welocal.stream/stream/fhd-allgaeutv_25679/ngrp:stream_all/playlist.m3u8
@@ -329,8 +327,6 @@ https://streamer1.connectto.com/AMGA_WEB_1202/playlist.m3u8
 https://ammantv-live.ercdn.net/ammantvhd/ammantvhd.m3u8
 #EXTINF:-1 group-title="General",Amouzesh
 https://lenz.splus.ir/PLTV/88888888/224/3221226151/index.m3u8
-#EXTINF:-1 group-title="General",Anadolu Dernek TV (576p)
-http://185.234.111.229:8000/play/a020
 #EXTINF:-1 group-title="General",Anadolu Net TV (1080p)
 https://live.artidijitalmedya.com/artidijital_anadolunet/anadolunet/playlist.m3u8
 #EXTINF:-1 group-title="General",Anand TV (720p) [Not 24/7]
@@ -437,6 +433,8 @@ https://live.zendzend.com/mpegts/29375_107244/media_mpegts_0.m3u8
 https://guineetvdirect.online:3320/live/atvguineelive.m3u8
 #EXTINF:-1 group-title="General",ATV (720p) [Not 24/7]
 https://alba-pe-atv-atv.stream.mediatiquestream.com/index.m3u8
+#EXTINF:-1 group-title="General",ATV (360p)
+http://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_360p.m3u8
 #EXTINF:-1 group-title="General",ATV2 HD
 https://viamotionhsi.netplus.ch/live/eds/atv/browser-dash/atv.mpd
 #EXTINF:-1 group-title="General",ATV Alanya (720p) [Not 24/7]
@@ -885,6 +883,8 @@ https://vcp.myplaytv.com/nubehtv/nubehtv/playlist.m3u8
 https://ssh101.bozztv.com/ssh101/ochotv/playlist.m3u8
 #EXTINF:-1 group-title="General",Canal Provincial (360p)
 https://streaming.telered.com.ar/provincial/streaming/mystream.m3u8
+#EXTINF:-1 group-title="General",Canal RCN (480p)
+http://38.183.182.166:8000/play/a10i/index.m3u8
 #EXTINF:-1 group-title="General",Canal Reus TV (720p)
 https://liveingesta318.cdnmedia.tv/canalreustvlive/smil:live.smil/playlist.m3u8
 #EXTINF:-1 group-title="General",Canal Ricos (480p)
@@ -967,8 +967,8 @@ https://5b33b873179a2.streamlock.net:1443/radiocamera/livestream/playlist.m3u8
 https://5b33b873179a2.streamlock.net:1443/mastertv/livestream/playlist.m3u8
 #EXTINF:-1 group-title="General",Cay TV (720p)
 https://edge1.socialsmart.tv/caytv/bant1/playlist.m3u8
-#EXTINF:-1 group-title="General",CBC (1080p)
-https://bcovlive-a.akamaihd.net/0c223ac0a9d34b30b100cb92ee83b70a/us-west-2/6057955906001/playlist.m3u8
+#EXTINF:-1 group-title="General",CBC (576p)
+http://213.57.91.138:8000/play/a06o
 #EXTINF:-1 group-title="General",CBC Calgary (CBRT-DT) (720p) [Geo-blocked]
 https://cbcrclinear-tor.akamaized.net/hls/live/2042763/CBCRCLINEAR_TOR_9/master5.m3u8
 #EXTINF:-1 group-title="General",CBC Edmonton (CBXT-DT) (720p) [Geo-blocked]
@@ -1103,6 +1103,8 @@ https://uvotv-aniview.global.ssl.fastly.net/hls/live/2120681/channelonetv/playli
 https://temp4.isilive.ca/live/CHCOTV/live/index.m3u8
 #EXTINF:-1 group-title="General",Cherifla TV (360p)
 http://69.64.57.208/cherifla/playlist.m3u8
+#EXTINF:-1 group-title="General",ChileVision (1080p)
+http://38.250.127.17:9800/play/a05h/index.m3u8
 #EXTINF:-1 group-title="General",Chinguit TV
 https://dvrfl06.bozztv.com/astv-chinguit/index.m3u8
 #EXTINF:-1 group-title="General",CHTV
@@ -1387,8 +1389,6 @@ https://dritatv.protokolldns.xyz/dritaweb5587989/index.m3u8
 https://hls.drochia.tv/tv/web.m3u8
 #EXTINF:-1 group-title="General",DRT Denizli (720p)
 https://edge1.socialsmart.tv/drttv/bant1/playlist.m3u8
-#EXTINF:-1 group-title="General",DRT TV (576p)
-http://185.234.111.229:8000/play/a06a
 #EXTINF:-1 group-title="General",DRTV (1080p)
 https://drlivedrtvahls.akamaized.net/hls/live/2113613/drlivedrtva/master.m3u8
 #EXTINF:-1 group-title="General",DSTV (720p)
@@ -1451,8 +1451,6 @@ https://live.efarinatv.net/hls/stream123/index.m3u8
 https://paneltv.online:1936/8186/8186/playlist.m3u8
 #EXTINF:-1 group-title="General",Egyptian TV
 https://uvotv-aniview.global.ssl.fastly.net/hls/live/2120757/egyptiantvhd/playlist.m3u8
-#EXTINF:-1 group-title="General",Ekin Turk (576p)
-http://185.234.111.229:8000/play/a025
 #EXTINF:-1 group-title="General",El 9 TV (1080p)
 https://liveingesta318.cdnmedia.tv/9tvlive/smil:live.smil/playlist.m3u8?DVR=
 #EXTINF:-1 group-title="General",El 15 TV (720p)
@@ -1483,8 +1481,6 @@ https://viamotionhsi.netplus.ch/live/eds/tunisienationale/browser-dash/tunisiena
 https://uvotv-aniview.global.ssl.fastly.net/hls/live/2120686/elhiwarettounsi/playlist.m3u8
 #EXTINF:-1 group-title="General",Elive TV Brescia (720p) [Not 24/7]
 https://59d7d6f47d7fc.streamlock.net/elivebresciatv/elivebresciatv/playlist.m3u8
-#EXTINF:-1 group-title="General",Elmas TV (720p) [Not 24/7]
-https://5be5d840359c6.streamlock.net/elmas67tv/elmas67tv/chunklist.m3u8
 #EXTINF:-1 group-title="General",Elshinta TV
 https://ams.juraganstreaming.com:5443/LiveApp/streams/elshintatv.m3u8
 #EXTINF:-1 group-title="General",Elsö Kerület TV (1080p)
@@ -1527,8 +1523,6 @@ http://88.99.254.101/ert1/mono.m3u8
 http://88.99.254.101/ert2/mono.m3u8
 #EXTINF:-1 group-title="General",ERT2 HD (1080p)
 http://31.121.110.30:4000/play/a02a/index.m3u8
-#EXTINF:-1 group-title="General",Ert Sah TV (720p) [Not 24/7]
-http://win20.yayin.com.tr/ertsahtv/ertsahtv/playlist.m3u8
 #EXTINF:-1 group-title="General",ERT World (1080p)
 https://cbd537474fbad4634b64787657ff6456.msvdn.net/ertworld/ert_world_main/mainabr/playlist_dvr.m3u8
 #EXTINF:-1 group-title="General",Ertis (1080p) [Not 24/7]
@@ -2051,8 +2045,8 @@ https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119696/kamemetv/playlist.m
 https://kan11w.media.kan.org.il/hls/live/2105694/2105694/master.m3u8
 #EXTINF:-1 group-title="General",Kanal 0
 https://old.rn-tv.com/k0/stream.m3u8
-#EXTINF:-1 group-title="General",Kanal 3 (1080p)
-http://185.234.111.229:8000/play/a013
+#EXTINF:-1 group-title="General",Kanal 3 (1080p) [Not 24/7]
+https://live.artidijitalmedya.com/artidijital_kanal3/kanal3/playlist.m3u8
 #EXTINF:-1 group-title="General",Kanal 5 (360p)
 https://s2.teve.mk/tvstanici/2/playlist.m3u8
 #EXTINF:-1 group-title="General",Kanal 6 (288p)
@@ -2069,26 +2063,24 @@ https://58de7a369a9c4.streamlock.net/sprembergtv/live/playlist.m3u8
 https://live.artidijitalmedya.com/artidijital_kanal15/kanal15/playlist.m3u8
 #EXTINF:-1 group-title="General",Kanal 23 (720p) [Not 24/7]
 https://live.artidijitalmedya.com/artidijital_kanal23/kanal23/playlist.m3u8
-#EXTINF:-1 group-title="General",Kanal 26 (1080p)
-http://185.234.111.229:8000/play/a04e
-#EXTINF:-1 group-title="General",Kanal 32 (720p)
-http://185.234.111.229:8000/play/a05r
+#EXTINF:-1 group-title="General",Kanal 26 (720p) [Not 24/7]
+https://live.artidijitalmedya.com/artidijital_kanal26/kanal26/playlist.m3u8
+#EXTINF:-1 group-title="General",Kanal 32 (720p) [Not 24/7]
+https://edge1.socialsmart.tv/kanal32/bant1/playlist.m3u8
 #EXTINF:-1 group-title="General",Kanal 33 (720p) [Not 24/7]
 http://stream.taksimbilisim.com:1935/kanal33/bant1/playlist.m3u8
 #EXTINF:-1 group-title="General",Kanal 34 (720p)
 https://5be5d840359c6.streamlock.net/kanal34tv/kanal34tv/playlist.m3u8
 #EXTINF:-1 group-title="General",Kanal 38 (540p) [Not 24/7]
 http://yayin3.canlitv.com:1935/live/kanal38/playlist.m3u8
-#EXTINF:-1 group-title="General",Kanal 58 (576p)
-http://185.234.111.229:8000/play/a053
 #EXTINF:-1 group-title="General",Kanal 68 (720p) [Not 24/7]
 https://live.artidijitalmedya.com/artidijital_kanal68/kanal68/playlist.m3u8
 #EXTINF:-1 group-title="General",Kanal A
 https://streamer01.xploretv.si/__cl/cg:prod/__c/A1_SI_AKANALHD_ott/__op/dash-default/__dci/__f/index.m3u8?admin=xploreTv_test_user&redirect=true
 #EXTINF:-1 group-title="General",Kanal Avrupa (1080p)
 http://51.15.2.151/hls/kanalavrupa.m3u8
-#EXTINF:-1 group-title="General",Kanal B (576p)
-http://185.234.111.229:8000/play/a01b
+#EXTINF:-1 group-title="General",Kanal B (480p) [Not 24/7]
+http://212.174.58.161/hls-live/livepkgr/_definst_/liveevent/kanalb.m3u8
 #EXTINF:-1 group-title="General",Kanal D (480p)
 https://stream1.kanald.ro/iphone/knd-live.m3u8
 #EXTINF:-1 group-title="General",Kanal D (1080p)
@@ -2103,10 +2095,8 @@ http://khkbh.dk:8080/hls/livestream/index.m3u8
 https://kjhls.wns.live/hls/stream.m3u8
 #EXTINF:-1 group-title="General",Kanal Sim (576p) [Not 24/7]
 https://sc-kuzeykibrissmarttv.ercdn.net/simtv/bantp1/playlist.m3u8
-#EXTINF:-1 group-title="General",Kanal Urfa (576p) [Not 24/7]
-https://edge1.socialsmart.tv/kanalurfa/bant1/playlist.m3u8
-#EXTINF:-1 group-title="General",Kanal V (720p)
-http://185.234.111.229:8000/play/a04b
+#EXTINF:-1 group-title="General",Kanal V (720p) [Not 24/7]
+https://live.artidijitalmedya.com/artidijital_kanalv/kanalv/playlist.m3u8
 #EXTINF:-1 group-title="General",Kanal Z (1080p) [Geo-blocked]
 https://live.artidijitalmedya.com/artidijital_kanalz/kanalz/playlist.m3u8
 #EXTINF:-1 group-title="General",Kanizsa TV (400p)
@@ -2211,8 +2201,6 @@ https://stream.streaming4u.hu/KomlosTV/tracks-v1a1/mono.m3u8
 https://cvtv.cvalley.net/hls/KOMUNBC/KOMUNBC.m3u8
 #EXTINF:-1 group-title="General",Kon Tum TV (720p)
 https://tv.kontumtv.vn/live/kontumtv/kontumtv.m3u8
-#EXTINF:-1 group-title="General",Kon TV (720p)
-https://mn-nl.mncdn.com/blutv_kontv2/live.m3u8
 #EXTINF:-1 group-title="General",Kontra Channel (1080p)
 https://kontralive.siliconweb.com/live/kontratv/playlist.m3u8
 #EXTINF:-1 group-title="General",Konya Olay TV (720p)
@@ -2221,8 +2209,6 @@ https://live.artidijitalmedya.com/artidijital_konyaolaytv/konyaolaytv/playlist.m
 https://lenz.splus.ir/PLTV/88888888/224/3221226647/index.m3u8
 #EXTINF:-1 group-title="General",Korean Central Television (576p)
 https://tv.nknews.org/tvhls/stream.m3u8
-#EXTINF:-1 group-title="General",Koy TV (720p)
-http://185.234.111.229:8000/play/a05v
 #EXTINF:-1 group-title="General",KQFX-LD1 (720p)
 https://cvtv.cvalley.net/hls/KQFXFOX/KQFXFOX.m3u8
 #EXTINF:-1 group-title="General",KRCA-TV Estrella Los Angeles (720p)
@@ -2349,6 +2335,8 @@ http://118.122.2.29:9999/hls/47/index.m3u8
 https://stream.luci.xyz/hls/LTV.m3u8
 #EXTINF:-1 group-title="General",Libya Al Wataniya (360p)
 https://cdn-globecast.akamaized.net/live/eds/libya_al_watanya/hls_roku/index.m3u8
+#EXTINF:-1 group-title="General",Libya Alrasmia Channel
+https://uvotv-aniview.global.ssl.fastly.net/hls/live/2120977/libyaalrasmia/playlist.m3u8
 #EXTINF:-1 group-title="General",Life TV
 https://strhls.streamakaci.tv/str_lifetv_lifetv/str_lifetv_multi/playlist.m3u8
 #EXTINF:-1 group-title="General",LIM TV (720p)
@@ -2427,8 +2415,6 @@ https://5k8q87azdy4v-hls-live.wmncdn.net/MAKKAL/271ddf829afeece44d8732757fba1a66
 http://makomedia.mikrohalo.hu/hls/makotv.m3u8
 #EXTINF:-1 group-title="General",Malar TV (720p) [Not 24/7]
 https://cdn-3.pishow.tv/live/473/master.m3u8
-#EXTINF:-1 group-title="General",Malatya Vuslat TV (576p)
-http://185.234.111.229:8000/play/a04x
 #EXTINF:-1 group-title="General",Mamer TV (1080p)
 https://streamer20.multimedia.blue/Eltrona/MamerTV/playlist.m3u8
 #EXTINF:-1 group-title="General",Manaclar Television [Not 24/7]
@@ -3293,6 +3279,8 @@ http://tv.geniusnet.sk:8081/regiotv/pl.m3u8
 https://d3ud9qm9b5yby9.cloudfront.net/nlpo/clr-nlpo/76ecd122/index.m3u8
 #EXTINF:-1 group-title="General",RégióPlusz TV (1080p) [Geo-blocked]
 https://stream.streaming4u.hu/RegioPluszTV/index.m3u8
+#EXTINF:-1 group-title="General",Rema TV
+https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119691/rematv/playlist.m3u8
 #EXTINF:-1 group-title="General",Renessans TV (576p)
 https://stream8.cinerama.uz/1221/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 group-title="General",Renome (576p)
@@ -3351,6 +3339,8 @@ https://dvrfl06.bozztv.com/astv-djibouti/index.m3u8
 http://dvrfl05.bozztv.com/gin-rtddjibouti/index.m3u8
 #EXTINF:-1 group-title="General",RTG 1
 http://69.64.57.208/rtg/playlist.m3u8
+#EXTINF:-1 group-title="General",RTG 2
+https://uvotv-aniview.global.ssl.fastly.net/hls/live/2120428/rtg2/playlist.m3u8
 #EXTINF:-1 group-title="General",RTGA World
 https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119692/rtga/playlist.m3u8
 #EXTINF:-1 group-title="General",RTH-TV1 (1080p)
@@ -3557,8 +3547,6 @@ https://vcp3.myplaytv.com/somostv/somostv/playlist.m3u8
 http://188.237.212.16:8888/live/cameraFeed.m3u8
 #EXTINF:-1 group-title="General",Sound View Community Media Education (480p)
 https://livestream.telvue.com/soundviewcmt2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
-#EXTINF:-1 group-title="General",Sozcu TV (1080p)
-http://185.234.111.229:8000/play/a00y
 #EXTINF:-1 group-title="General",Space TV
 https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/space-tv.m3u8
 #EXTINF:-1 group-title="General",SRC Media TV [Not 24/7]

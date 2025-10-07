@@ -9,10 +9,12 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60
 https://afrashls.wns.live/hls/stream.m3u8
 #EXTINF:-1 group-title="Series",Afriwood Series (720p)
 https://origin3.afxp.telemedia.co.za/PremiumFree/afriwoodseries/playlist.m3u8
-#EXTINF:-1 group-title="Series",Al-Nahar Drama
-https://uvotv-aniview.global.ssl.fastly.net/10010/dvr/hls/alnahardrama/playlist.m3u8
+#EXTINF:-1 group-title="Series",Al-Nahar Drama (576)
+http://213.57.91.138:8000/play/a06n
 #EXTINF:-1 group-title="Series",Alerte à Malibu
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62e90db65e8e770007382a50/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c791c21-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=c070d939-44e0-419b-b958-d26935b903d0
+#EXTINF:-1 group-title="Series",Alhayat Drama (576)
+http://213.57.91.138:8000/play/a06s
 #EXTINF:-1 group-title="Series",All Reality by WE tv
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e82530945600e0007ca076c/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c268071-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=aa6a05a1-3247-4bc5-bd09-5c548c69aecb
 #EXTINF:-1 group-title="Series",Always Funny Videos
@@ -55,8 +57,8 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64f8a2a23a0d700008a6ed7b/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c799152-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=d33cda72-eef1-4ec7-8127-8301aff1d921
 #EXTINF:-1 group-title="Series",Catfish TV Show Italy (720p)
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6093f9ed2c75660007322bb7/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
-#EXTINF:-1 group-title="Series",CBC Drama
-https://fl1002.bozztv.com/ga-cbcdrama/index.m3u8
+#EXTINF:-1 group-title="Series",CBC Drama (576p)
+http://213.57.91.138:8000/play/a06q
 #EXTINF:-1 group-title="Series",Cold Case Files (1080p)
 https://livetv-fa.tubi.video/cold-case-files/playlist.m3u8
 #EXTINF:-1 group-title="Series",Consulenze Illegali Italy (720p)

@@ -315,8 +315,8 @@ https://d27tnkf60df3v4.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a
 https://d2z3q47xzd535o.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_HD_H264-2_cloud_in/index.m3u8
 #EXTINF:-1 group-title="Entertainment",ETV+ (720p)
 https://sb.err.ee/live/etvpluss.m3u8
-#EXTINF:-1 group-title="Entertainment",EuroStar (576p)
-http://185.234.111.229:8000/play/a01h
+#EXTINF:-1 group-title="Entertainment",EuroStar
+https://gknnowtv.onrender.com/eurostar.m3u8
 #EXTINF:-1 group-title="Entertainment",EVI TV (720p)
 https://stream.berosat.live:19360/evi-tv/evi-tv.m3u8
 #EXTINF:-1 group-title="Entertainment",Ex On The Beach Italy (720p)
@@ -902,7 +902,7 @@ https://5a1178b42cc03.streamlock.net/shamshadtelevision/shamshadtelevision/playl
 #EXTINF:-1 group-title="Entertainment",Shemaroo TV (720p)
 https://cdn-3.pishow.tv/live/230/master.m3u8
 #EXTINF:-1 group-title="Entertainment",Show Max
-https://canlitvulusal.xyz/live/showmax/index.m3u8
+https://raw.githubusercontent.com/UzunMuhalefet/yayinlar/main/streams/best/showmax.m3u8
 #EXTINF:-1 group-title="Entertainment",Simclar TV (720p)
 https://s.emisoras.tv:8081/simclartv/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment",SolTV (720p)
