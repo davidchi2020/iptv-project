@@ -988,7 +988,7 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 #EXTINF:-1 group-title="News",News Nation (1080p)
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/6cd2f649739a45ca9de1daf81cc7d0f2/index.m3u8
 #EXTINF:-1 group-title="News",News Nation (720p)
-https://fl25.moveonjoy.com/NEWS_NATION/index.m3u8
+https://fl7.moveonjoy.com/NEWS_NATION/index.m3u8
 #EXTINF:-1 group-title="News",News Tamil 24x7 (1080p)
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/news-tamil-24x7/index.m3u8
 #EXTINF:-1 group-title="News",Newsmax 2 (720p)
@@ -999,8 +999,6 @@ https://nmx1ota.akamaized.net/hls/live/2107010/Live_1/index.m3u8
 https://2-fss-2.streamhoster.com/pl_138/amlst:201950-1311088/playlist.m3u8
 #EXTINF:-1 group-title="News",Newsy (1080p)
 https://547f72e6652371c3.mediapackage.us-east-1.amazonaws.com/out/v1/e3e6e29095844c4ba7d887f01e44a5ef/index.m3u8
-#EXTINF:-1 group-title="News",Next TV (1080p)
-http://62.233.57.226:8001/play/a00h
 #EXTINF:-1 group-title="News",NH Niews (1080p)
 https://takeoff.jetstre.am/?account=nhnieuws&file=live&output=playlist.m3u8&protocol=https&service=wowza&type=live
 #EXTINF:-1 group-title="News",NK TV 24x7 (1080p)
@@ -1432,7 +1430,7 @@ http://stream.welattv.net:1935/welat/tv/.m3u8
 #EXTINF:-1 group-title="News",WELT (1080p)
 https://viamotionhsi.netplus.ch/live/eds/n24/browser-HLS8/n24.m3u8
 #EXTINF:-1 group-title="News",WFTS-DT1
-https://fl25.moveonjoy.com/FL_Tampa_ABC/index.m3u8
+https://fl7.moveonjoy.com/FL_Tampa_ABC/index.m3u8
 #EXTINF:-1 group-title="News",WION (1080p)
 https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
 #EXTINF:-1 group-title="News",WLS ABC 7 News (Chicago IL) (720p)

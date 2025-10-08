@@ -38,7 +38,7 @@ http://117.161.133.51:81/gitv_live/G_NVXINGSS-CQ/G_NVXINGSS-CQ.m3u8?p=GITV
 #EXTINF:-1 group-title="Lifestyle",CineLife
 https://magnolia-cinelife.amagi.tv/hls/amagi_hls_data_magnoliaA-cinelife-oando/CDN/playlist.m3u8
 #EXTINF:-1 group-title="Lifestyle",Cleo TV (720p)
-https://fl25.moveonjoy.com/Cleo_TV/index.m3u8
+https://fl7.moveonjoy.com/Cleo_TV/index.m3u8
 #EXTINF:-1 group-title="Lifestyle",Cool TV (1080p)
 http://146.59.85.40:89/coolhd/index.m3u8
 #EXTINF:-1 group-title="Lifestyle",Diva (720p)
@@ -60,7 +60,7 @@ https://edge-fast3.evrideo.tv/bfdbb576-83f7-11f0-9f89-0200170e3e04_1000028043_HL
 #EXTINF:-1 group-title="Lifestyle",Fortuna TV
 https://edge1.socialsmart.tv/ftvturk/bant1/playlist.m3u8
 #EXTINF:-1 group-title="Lifestyle",FYI East
-https://fl25.moveonjoy.com/FYI/index.m3u8
+https://fl7.moveonjoy.com/FYI/index.m3u8
 #EXTINF:-1 group-title="Lifestyle",GEM Life
 https://still-mud-3642.nqanzvyuupxwcahtfq.workers.dev/?url=https://ca-rt.onetv.app/gemlife/index-0.m3u8
 #EXTINF:-1 group-title="Lifestyle",Gemini Life (576p)
