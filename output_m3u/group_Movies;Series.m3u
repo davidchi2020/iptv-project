@@ -9,5 +9,9 @@ http://202.60.106.14:8080/207/playlist.m3u8
 https://viamotionhsi.netplus.ch/live/eds/paramount/browser-HLS8/paramount.m3u8
 #EXTINF:-1 group-title="Movies;Series",Paramount Network East
 https://fl7.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8
+#EXTINF:-1 group-title="Movies;Series",Paramount Network Spain (1080p)
+http://176.65.146.237:8401/play/a09i/index.m3u8
+#EXTINF:-1 group-title="Movies;Series",Squirrel (1080p)
+http://176.65.146.237:8401/play/a09h/index.m3u8
 #EXTINF:-1 group-title="Movies;Series",Star Channel Latin America South (1080p)
 http://181.188.216.5:18000/play/a0pm/index.m3u8

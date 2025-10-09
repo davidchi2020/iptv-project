@@ -337,6 +337,8 @@ https://live-anandtv.anandmedia.net/anandtvapp/anandtv/index.m3u8
 https://live-edge-eu-1.cdn.enetres.net/56495F77FD124FECA75590A906965F2C022/live-3000/index.m3u8
 #EXTINF:-1 group-title="General",Antena 1 (720p) [Not 24/7]
 https://live1ag.antenaplay.ro/live_a1ro/live_a1ro.m3u8
+#EXTINF:-1 group-title="General",Antena 3 (1080p)
+http://176.65.146.237:8401/play/a0ae/index.m3u8
 #EXTINF:-1 group-title="General",Antena 3 Internacional (480p)
 http://38.180.133.31:8000/play/a0ki/index.m3u8
 #EXTINF:-1 group-title="General",Antena 7 (480p)
@@ -1217,6 +1219,8 @@ https://stream.it-innov.com/ctv/index.m3u8
 https://vdo2.streamgato.us:3978/live/ctvlive.m3u8
 #EXTINF:-1 group-title="General",CTV Internacional (1080p)
 https://mediacp.us:8081/ctvhn/index.m3u8
+#EXTINF:-1 group-title="General",Cuatro (1080p)
+http://176.65.146.237:8401/play/a09s/index.m3u8
 #EXTINF:-1 group-title="General",Cubavision Internacional
 https://dvrfl06.bozztv.com/astv-cubavisionint/index.m3u8
 #EXTINF:-1 group-title="General",Cugat TV (1080p)
@@ -2025,6 +2029,8 @@ http://69.64.57.208/joyprime/playlist.m3u8
 https://imagenuniversaltv.net:3026/live/juanpabloduartetvlive.m3u8
 #EXTINF:-1 group-title="General",Junco Tv (720p)
 https://mediacp.us:8081/juncotv/index.m3u8
+#EXTINF:-1 group-title="General",Juntos TV
+https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119960/juntos/playlist.m3u8
 #EXTINF:-1 group-title="General",K24 (720p)
 https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119696/k24/playlist.m3u8
 #EXTINF:-1 group-title="General",Kaback TV (720p)
@@ -2811,6 +2817,8 @@ https://ss2.tvrdomi.com:1936/notisur/notisur/playlist.m3u8
 http://91.132.74.5:8000/play/a005
 #EXTINF:-1 group-title="General",Nova TV Brasov (576p) [Not 24/7]
 http://novapress.ro:2022/live/nova/playlist.m3u8
+#EXTINF:-1 group-title="General",NOVO19 (720p)
+https://viamotionhsi.netplus.ch/live/eds/novo19/browser-HLS8/novo19.m3u8
 #EXTINF:-1 group-title="General",Now 14 (720p)
 https://now14.g-mana.live/media/91517161-44ab-4e46-af70-e9fe26117d2e/mainManifest.m3u8
 #EXTINF:-1 group-title="General",NRK 1 (1080i) [Geo-blocked]
@@ -3699,6 +3707,8 @@ https://59ef525c24caa.streamlock.net/telebrunca/telebrunca/playlist.m3u8
 https://streamtv.intervenhosting.net:3161/live/telecentrolive.m3u8
 #EXTINF:-1 group-title="General",Telechiara (720p)
 http://fms.tvavicenza.it:1935/telechiara/diretta/playlist.m3u8
+#EXTINF:-1 group-title="General",Telecinco (1080p)
+http://176.65.146.237:8401/play/a09r/index.m3u8
 #EXTINF:-1 group-title="General",Telecolor (480p)
 https://cloud.livescast.com:19360/telecolor/telecolor.m3u8
 #EXTINF:-1 group-title="General",Telecolor Yurimaguas (720p) [Not 24/7]
@@ -4011,6 +4021,8 @@ https://tv02.zas.media:1936/tvfuturo/tvfuturo/playlist.m3u8
 https://video01.kshost.com.br:4443/moises3834/moises3834/playlist.m3u8
 #EXTINF:-1 group-title="General",TV Guanajuato (720p)
 https://stream.oursnetworktv.com/latin/tvguanajuato/playlist.m3u8
+#EXTINF:-1 group-title="General",TV Guarapari (1080p)
+https://ikki.hubcloud.tv.br/TVGuarapari/index.m3u8
 #EXTINF:-1 group-title="General",TV Hispanic [Not 24/7]
 https://livetv.305streamhd.com:3504/live/tvhispaniclive.m3u8
 #EXTINF:-1 group-title="General",TV Imperium (1080p) [Not 24/7]
@@ -4581,6 +4593,8 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv3_2500/playlist.m3u8
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv7_2500/playlist.m3u8
 #EXTINF:-1 group-title="General",Москва 24
 https://player.smotrim.ru/iframe/stream/live_id/efab3cbe-a29c-45f0-9596-5cb4f1ce7fbe
+#EXTINF:-1 group-title="General",МТВ (Волгоград) (720p) [Not 24/7]
+http://hls.volgograd1vtv.cdnvideo.ru/volgograd1vtv/volgograd1vtv.sdp/playlist.m3u8
 #EXTINF:-1 group-title="General",МТРК (576p) [Not 24/7]
 https://tvcdn01.oktv.kz/tv/mtrk/playlist.m3u8
 #EXTINF:-1 group-title="General",НВК Саха (1080p) [Not 24/7]

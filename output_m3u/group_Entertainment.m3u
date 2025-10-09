@@ -117,6 +117,8 @@ http://217.20.112.199/asianet/index.m3u8
 https://fl7.moveonjoy.com/Aspire/index.m3u8
 #EXTINF:-1 group-title="Entertainment",AVT Khyber
 https://trn03.tulix.tv/gf-khybertv/index.m3u8
+#EXTINF:-1 group-title="Entertainment",Az Clic
+https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119960/aztecaclic/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment",Azteca Internacional (1080p)
 https://azt-mun.otteravision.com/azt/mun/mun.m3u8
 #EXTINF:-1 group-title="Entertainment",B+ TV (480p)
@@ -297,6 +299,8 @@ https://elec-en.otteravision.com/elec/en/elec_en.m3u8
 https://5d82644094cc0.streamlock.net/8116/8116/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment",ElyTV (360p)
 https://stmv1.srvsite.com/ely/ely/playlist.m3u8
+#EXTINF:-1 group-title="Entertainment",Energy (1080p)
+http://176.65.146.237:8401/play/a0ac/index.m3u8
 #EXTINF:-1 group-title="Entertainment",Enter10 Bangla (720p) [Not 24/7]
 https://live-bangla.akamaized.net/liveabr/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment",Epic TV (1080p)
@@ -327,6 +331,8 @@ https://5dcabf026b188.streamlock.net/expressdigital/livestream/playlist.m3u8
 https://fr.crystalweb.net:1936/extacytv/extacytv/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment",Fakt Marathi (720p) [Not 24/7]
 https://cdn-6.pishow.tv/live/10002/master.m3u8
+#EXTINF:-1 group-title="Entertainment",FDF (1080p)
+http://176.65.146.237:8401/play/a09p/index.m3u8
 #EXTINF:-1 group-title="Entertainment",Feva TV (1080p)
 https://d3c1w351ahk83d.cloudfront.net/scheduler/scheduleMaster/416.m3u8
 #EXTINF:-1 group-title="Entertainment",Ficom Channel (720p)
@@ -569,6 +575,8 @@ https://cvtv.cvalley.net/hls/KYOUDT4/KYOUDT4.m3u8
 https://cvtv.cvalley.net/hls/KYOUGrit/KYOUGrit.m3u8
 #EXTINF:-1 group-title="Entertainment",La5 [Geo-blocked]
 https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(ka)/index.m3u8
+#EXTINF:-1 group-title="Entertainment",La Sexta (1080p)
+http://176.65.146.237:8401/play/a0af/index.m3u8
 #EXTINF:-1 group-title="Entertainment",La Tele
 https://live-evg1.tv360.bitel.com.pe/bitel/latele/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment",La Une (1080p)
@@ -647,6 +655,8 @@ https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-persia/818ee8e4b592dc4976
 https://rrr.sz.xlcdn.com/?account=mceutv&file=mc2&output=playlist.m3u8&protocol=https&service=wowza&type=live
 #EXTINF:-1 group-title="Entertainment",MDA Televisión (720p)
 https://vcp.myplaytv.com/mdatv/mdatv/playlist.m3u8
+#EXTINF:-1 group-title="Entertainment",Mega (1080p)
+http://176.65.146.237:8401/play/a0a5/index.m3u8
 #EXTINF:-1 group-title="Entertainment",Merit Street [Geo-blocked]
 https://amg26296-amg26296c2-merit-worldwide-6642.playouts.now.amagi.tv/playlist/amg26296-meritstreetmediafast-meritplushd-meritworldwide/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment",MetaVersus CR (480p)
@@ -725,6 +735,8 @@ https://g4wlkqqwl23a-hls-live.5centscdn.com/NDTVLANKA/1ff5fa54d14c3ff6c6bd3918bb
 https://iptv.negahtv.com/negahtv/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment",Nei Monggol TV Culture Entertainment Channel
 http://play1-qk.nmtv.cn/live/1686561195713372.m3u8
+#EXTINF:-1 group-title="Entertainment",Neox (1080p)
+http://176.65.146.237:8401/play/a0ag/index.m3u8
 #EXTINF:-1 group-title="Entertainment",Nepal 1 (576p)
 https://yuppftalive.akamaized.net/080823/nepal1/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment",Netmax TV (720p)
@@ -881,6 +893,8 @@ https://live20.bozztv.com/dvrfl03/hondu/hondu-rsvhonduras/index.m3u8
 https://viamotionhsi.netplus.ch/live/eds/rtl9/browser-dash/rtl9.mpd
 #EXTINF:-1 group-title="Entertainment",RTS 2 (720p)
 http://69.64.57.208/rts2/playlist.m3u8
+#EXTINF:-1 group-title="Entertainment",SAB TV
+https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119688/sabtv/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment",Sada TV (1080p) [Not 24/7]
 http://cdn12.henico.net:8080/live/sadatv/index.m3u8
 #EXTINF:-1 group-title="Entertainment",Salto 1 (720p)
@@ -1107,8 +1121,6 @@ https://edge60.dc.beltelecom.by/ngtrk/smil:belarus2.smil/playlist.m3u8
 http://31.148.48.15/Zee_TV_Russia/index.m3u8
 #EXTINF:-1 group-title="Entertainment",Ланет.TV (486p)
 https://kiev1-cdn.lanet.tv/live/1008.m3u8
-#EXTINF:-1 group-title="Entertainment",МТВ (Волгоград) (720p) [Not 24/7]
-http://hls.volgograd1vtv.cdnvideo.ru/volgograd1vtv/volgograd1vtv.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment",Перец International
 https://cdn4.skygo.mn/live/disk1/Che/HLSv3-FTA/Che.m3u8
 #EXTINF:-1 group-title="Entertainment",Поехали!

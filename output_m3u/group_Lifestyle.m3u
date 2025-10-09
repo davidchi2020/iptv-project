@@ -43,6 +43,8 @@ https://fl7.moveonjoy.com/Cleo_TV/index.m3u8
 http://146.59.85.40:89/coolhd/index.m3u8
 #EXTINF:-1 group-title="Lifestyle",Diva (720p)
 https://origin3.afxp.telemedia.co.za/PremiumFree/diva/playlist.m3u8
+#EXTINF:-1 group-title="Lifestyle",Divinity (1080p)
+http://176.65.146.237:8401/play/a09q/index.m3u8
 #EXTINF:-1 group-title="Lifestyle",Doctor Live (720p)
 https://5a1178b42cc03.streamlock.net/8250/8250/playlist.m3u8
 #EXTINF:-1 group-title="Lifestyle",ETV Life (480p)
@@ -105,6 +107,8 @@ https://fl718492-exthls-p1.flovp.com/fl718492/live/live.m3u8
 https://s-pl-01.mediatool.tv/playout/mupl-abr/index.m3u8
 #EXTINF:-1 group-title="Lifestyle",NDTV Good Times (1080p)
 https://amg01448-samsungin-ndtvgoodtimes-samsungin-ad-gp.amagi.tv/playlist/amg01448-samsungin-ndtvgoodtimes-samsungin/playlist.m3u8
+#EXTINF:-1 group-title="Lifestyle",Nova (1080p)
+http://176.65.146.237:8401/play/a0ah/index.m3u8
 #EXTINF:-1 group-title="Lifestyle",ON Style TV
 http://dvrfl05.bozztv.com/vch_vchannel10/index.m3u8
 #EXTINF:-1 group-title="Lifestyle",Opportunities in Urban Renaissance Television (OURTV) (720p)
