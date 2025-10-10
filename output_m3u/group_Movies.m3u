@@ -511,6 +511,8 @@ https://sltwohls.wns.live/hls/stream.m3u8
 https://a89829b8dca2471ab52ea9a57bc28a35.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/CanelaTV_SonyCanalNovelas/playlist.m3u8
 #EXTINF:-1 group-title="Movies",Sony Wah (1080p)
 https://nxtlive.net/sliv/stream.php?id=0898545986&e=.m3u8
+#EXTINF:-1 group-title="Movies",Star Cinema
+https://uvotv-aniview.global.ssl.fastly.net/10010/dvr/hls/starcinema/playlist.m3u8
 #EXTINF:-1 group-title="Movies",Star Gold 2 HD (576p)
 http://116.90.120.149:8000/play/a0ea/index.m3u8
 #EXTINF:-1 group-title="Movies",Star Gold HD (1080p)

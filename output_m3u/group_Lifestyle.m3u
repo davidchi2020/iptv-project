@@ -49,6 +49,8 @@ http://176.65.146.237:8401/play/a09q/index.m3u8
 https://5a1178b42cc03.streamlock.net/8250/8250/playlist.m3u8
 #EXTINF:-1 group-title="Lifestyle",ETV Life (480p)
 https://d2cj1h11htct8o.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_LIFE_H264_cloud_in/index.m3u8
+#EXTINF:-1 group-title="Lifestyle",Fashion TV
+https://uvotv-aniview.global.ssl.fastly.net/hls/live/2120685/fashiontvua/playlist.m3u8
 #EXTINF:-1 group-title="Lifestyle",Fashion TV Paris (144p)
 https://fash1043.cloudycdn.services/slive/ftv_paris_adaptive.smil/playlist.m3u8
 #EXTINF:-1 group-title="Lifestyle",Fashion TV PG16 (144p)

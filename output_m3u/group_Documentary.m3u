@@ -3,6 +3,8 @@
 https://live-hls-apps-ajd-fa.getaj.net/AJD/index.m3u8
 #EXTINF:-1 group-title="Documentary",Al Jazeera Documentary (1080p)
 http://213.57.91.138:8000/play/a06h
+#EXTINF:-1 group-title="Documentary",Al Wathaeqya
+https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119196/alwathaeqyia/playlist.m3u8
 #EXTINF:-1 group-title="Documentary",Asharq Documentary (1080p)
 https://svs.itworkscdn.net/asharqdocumentarylive/asharqdocumentary.smil/playlist_dvr.m3u8
 #EXTINF:-1 group-title="Documentary",Backstage [Geo-blocked]
