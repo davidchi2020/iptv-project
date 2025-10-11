@@ -837,6 +837,8 @@ https://kurir-tv.haste-cdn.net/providus/live2805.m3u8
 https://uvotv-aniview.global.ssl.fastly.net/10010/dvr/hls/kyivtv/playlist.m3u8
 #EXTINF:-1 group-title="News",L'altro Corriere TV (720P)
 https://stream.cp.ets-sistemi.it:1936/laltrocorriere-tv/laltrocorriere-tv/playlist.m3u8
+#EXTINF:-1 group-title="News",Labari TV
+https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119696/labari/playlist.m3u8
 #EXTINF:-1 group-title="News",LaC News 24 (720p)
 https://f5842579ff984c1c98d63b8d789673eb.msvdn.net/live/S27391994/HVvPMzy/playlist.m3u8
 #EXTINF:-1 group-title="News",Lahore News (720p) [Not 24/7]
@@ -1225,6 +1227,8 @@ https://sabctretalh.cdn.mangomolo.com/lehae/smil:lehae.stream.smil/master.m3u8
 https://sabconetanw.cdn.mangomolo.com/news/smil:news.stream.smil/master.m3u8
 #EXTINF:-1 group-title="News",Sadhna Plus News (720p)
 https://6n3yow8pl9ok-hls-live.5centscdn.com/sadhananewstv/live.stream/playlist.m3u8
+#EXTINF:-1 group-title="News",Sahara 24
+https://uvotv-aniview.global.ssl.fastly.net/hls/live/2120682/sahara24/playlist.m3u8
 #EXTINF:-1 group-title="News",Samachar Plus (1080p)
 https://samacharplus.livebox.co.in/samacharplushls/live.m3u8
 #EXTINF:-1 group-title="News",Samay Kolkata (720p)
@@ -1297,10 +1301,16 @@ http://live.sloode.com:1935/qdg_live/AF74-FF2C-7350-41F2/playlist.m3u8
 https://telejato.liberotratto.com/hls/0/stream.m3u8
 #EXTINF:-1 group-title="News",TeleMoldova + [Geo-blocked]
 https://vdo.ssl-stream.com:3247/stream/play.m3u8
-#EXTINF:-1 group-title="News",TeleSUR (1080p)
+#EXTINF:-1 group-title="News",Telenews TV
+https://hilandofinotv.essastream.com:3480/live/telenewscanallive.m3u8
+#EXTINF:-1 group-title="News",Telesur (480p)
+https://mblesmain01.telesur.ultrabase.net/mbliveMain/480p/playlist.m3u8
+#EXTINF:-1 group-title="News",Telesur English (480p)
+https://mblenmain01.telesur.ultrabase.net/mblivev3/480p/playlist.m3u8
+#EXTINF:-1 group-title="News",Telesur English HD (1080p)
+https://mblenmain01.telesur.ultrabase.net/mblivev3/hd/playlist.m3u8
+#EXTINF:-1 group-title="News",Telesur HD (1080p)
 https://mblesmain01.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
-#EXTINF:-1 group-title="News",Telesur English (1080p) [Not 24/7]
-https://github.com/BellezaEmporium/IPTV_Exception/raw/master/channels/ve/telesur_eng.m3u8
 #EXTINF:-1 group-title="News",Televisión del Este (720p)
 https://vdo2.streamgato.us:3632/live/televisiondelestelive.m3u8
 #EXTINF:-1 group-title="News",Tempo Afric TV (720p)

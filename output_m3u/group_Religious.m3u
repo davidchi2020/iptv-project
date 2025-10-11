@@ -274,11 +274,11 @@ https://webstreaming-3.viewmedia.tv/web_031/Stream/playlist.m3u8
 #EXTINF:-1 group-title="Religious",CBN Espanol (1080p)
 https://fastly.live.brightcove.com/6380375173112/us-east-1/734546207001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiczFpM3ZpLmVncmVzcy50N2M3emwiLCJhY2NvdW50X2lkIjoiNzM0NTQ2MjA3MDAxIiwiZWhuIjoiZmFzdGx5LmxpdmUuYnJpZ2h0Y292ZS5jb20iLCJpc3MiOiJibGl2ZS1wbGF5YmFjay1zb3VyY2UtYXBpIiwic3ViIjoicGF0aG1hcHRva2VuIiwiYXVkIjpbIjczNDU0NjIwNzAwMSJdLCJqdGkiOiI2MzgwMzc1MTczMTEyIn0.6G0g6pn30iXNuqgU65sl3NImj3ORhxGNdhHGja671ck/playlist-hls.m3u8
 #EXTINF:-1 group-title="Religious",CBN Family (1080p)
-https://bcovlive-a.akamaihd.net/r602a47f47fee47bb83239eb1b1e1ac83/us-east-1/734546207001/playlist.m3u8
+https://fastly.live.brightcove.com/6380399588112/us-east-1/734546207001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiczFpM3ZpLmVncmVzcy50N2M3emwiLCJhY2NvdW50X2lkIjoiNzM0NTQ2MjA3MDAxIiwiZWhuIjoiZmFzdGx5LmxpdmUuYnJpZ2h0Y292ZS5jb20iLCJpc3MiOiJibGl2ZS1wbGF5YmFjay1zb3VyY2UtYXBpIiwic3ViIjoicGF0aG1hcHRva2VuIiwiYXVkIjpbIjczNDU0NjIwNzAwMSJdLCJqdGkiOiI2MzgwMzk5NTg4MTEyIn0.LYfIeObmX4AEStY_xCnPZwMJHXgOAPFMTKfztq-9F8U/playlist-hls.m3u8
 #EXTINF:-1 group-title="Religious",CBN Gospel (720p)
 https://59d39900ebfb8.streamlock.net/ccbn/ccbn/playlist.m3u8
 #EXTINF:-1 group-title="Religious",CBN News National (1080p)
-https://bcovlive-a.akamaihd.net/re8d9f611ee4a490a9bb59e52db91414d/us-east-1/734546207001/playlist.m3u8
+https://fastly.live.brightcove.com/6380396819112/us-east-1/734546207001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiczFpM3ZpLmVncmVzcy50N2M3emwiLCJhY2NvdW50X2lkIjoiNzM0NTQ2MjA3MDAxIiwiZWhuIjoiZmFzdGx5LmxpdmUuYnJpZ2h0Y292ZS5jb20iLCJpc3MiOiJibGl2ZS1wbGF5YmFjay1zb3VyY2UtYXBpIiwic3ViIjoicGF0aG1hcHRva2VuIiwiYXVkIjpbIjczNDU0NjIwNzAwMSJdLCJqdGkiOiI2MzgwMzk2ODE5MTEyIn0.GDYp4IWtzwPkupEWeeOavnioVknO-Ev3UGlHvM1rE6I/playlist-hls.m3u8
 #EXTINF:-1 group-title="Religious",CCCO Aspire TV (676p)
 https://panel.freedomflixtv.org:3948/hybrid/play.m3u8
 #EXTINF:-1 group-title="Religious",CCI Channel (1080p)
@@ -401,6 +401,10 @@ https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119176/efathatv/playlist.m
 https://stream.oursnetworktv.com/latin/Esotelevision/playlist.m3u8
 #EXTINF:-1 group-title="Religious",El Camino TV (480p)
 https://5d32e2b9b7eed.streamlock.net:4443/ectv/ectv/playlist.m3u8
+#EXTINF:-1 group-title="Religious",El Mahadra
+https://uvotv-aniview.global.ssl.fastly.net/hls/live/2120682/elmahadratv/playlist.m3u8
+#EXTINF:-1 group-title="Religious",El Maqar
+https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119197/elmaqar/playlist.m3u8
 #EXTINF:-1 group-title="Religious",El Olam TV (720p)
 https://live.elolam.tv:3743/live/elolamtvlivelive.m3u8
 #EXTINF:-1 group-title="Religious",El PuertoTV (720p)

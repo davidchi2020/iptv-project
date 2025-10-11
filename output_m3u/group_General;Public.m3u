@@ -21,6 +21,8 @@ https://cdnlive.codev8.net/rtvalive/smil:channel22.smil/playlist.m3u8
 https://multimedia.eitb.eus/live-content/etb1hd-hls/master.m3u8
 #EXTINF:-1 group-title="General;Public",ETB 2 (720p)
 https://multimedia.eitb.eus/live-content/etb2hd-hls/master.m3u8
+#EXTINF:-1 group-title="General;Public",Galicia TV Europa (720p) [Geo-blocked]
+https://crtvg-europa.flumotion.cloud/playlist.m3u8
 #EXTINF:-1 group-title="General;Public",La 1 (720p)
 https://ztnr.rtve.es/ztnr/1688877.m3u8
 #EXTINF:-1 group-title="General;Public",La 1 Canarias (720p)
