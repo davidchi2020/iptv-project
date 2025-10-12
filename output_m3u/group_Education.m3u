@@ -135,6 +135,8 @@ https://reflect-mcsb-vod.cablecast.tv/live-16/live/live.m3u8
 http://96.68.164.217/live-15/live/live.m3u8
 #EXTINF:-1 group-title="Education",Midpen Media Center Youth Education and Sports Channel 28 (720p)
 https://5c2974786200d.streamlock.net/live-chan28/ngrp:ch28_all/playlist.m3u8
+#EXTINF:-1 group-title="Education",Misr Al Zeraya
+https://uvotv-aniview.global.ssl.fastly.net/hls/live/2120977/misralzera3eya/playlist.m3u8
 #EXTINF:-1 group-title="Education",Mobile County Public Schools TV Network (MCPSS)
 https://5b200f5268ceb.streamlock.net/MCPSS/MCPSS247.smil/playlist.m3u8
 #EXTINF:-1 group-title="Education",Multizonas TV (720p)
