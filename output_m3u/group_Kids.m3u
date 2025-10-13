@@ -69,6 +69,8 @@ https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbbc_hd/i
 https://x.canlitvapp.com/u-cbeebies/index.m3u8
 #EXTINF:-1 group-title="Kids",CBeebies Asia Vietnam (1080p)
 https://hls.mskycdn.online/tv/bbccbb/index.m3u8
+#EXTINF:-1 group-title="Kids",CCTV-14 (2160p)
+http://123.175.209.52:9003/hls/15/index.m3u8
 #EXTINF:-1 group-title="Kids",Chinola TV (480p)
 https://tv.wracanal10.com:3300/live/chinolatvlive.m3u8
 #EXTINF:-1 group-title="Kids",ČT:D/ČT art (1080p)

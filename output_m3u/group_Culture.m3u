@@ -43,6 +43,8 @@ https://2-fss-2.streamhoster.com/pl_120/206508-3261972-1/playlist.m3u8
 https://protvradiostream.com:1936/rtvd17/ngrp:rtvd17_all/playlist.m3u8
 #EXTINF:-1 group-title="Culture",Canal Diplomático (720p) [Not 24/7]
 https://vcp.myplaytv.com/canaldiplomatico/canaldiplomatico/playlist.m3u8
+#EXTINF:-1 group-title="Culture",CCTV-8 (2160p)
+http://123.175.209.52:9003/hls/9/index.m3u8
 #EXTINF:-1 group-title="Culture",Channel S (1080p)
 https://amigofx.com:1936/channelsreporter/channelsreporter/playlist.m3u8
 #EXTINF:-1 group-title="Culture",Channel S (576p) [Not 24/7]

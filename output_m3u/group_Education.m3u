@@ -27,8 +27,10 @@ https://cootv.cootel.com.ni:8095/Canal15_CooTel/playlist.m3u8
 https://canaleducacao-stream.ebc.com.br/index.m3u8
 #EXTINF:-1 group-title="Education",Canal Savoir (360p)
 https://hls.savoir.media/live/stream.m3u8
-#EXTINF:-1 group-title="Education",CCTV 世界地理
-http://117.161.133.51:81/gitv_live/G_SHIJIEDL-CQ/G_SHIJIEDL-CQ.m3u8?p=GITV
+#EXTINF:-1 group-title="Education",CCTV-7 (2160p)
+http://123.175.209.52:9003/hls/8/index.m3u8
+#EXTINF:-1 group-title="Education",CCTV-10 (2160p)
+http://123.175.209.52:9003/hls/11/index.m3u8
 #EXTINF:-1 group-title="Education",CETV1 (576p)
 http://117.161.133.51:81/gitv_live/G_CETV-1/G_CETV-1.m3u8?p=GITV
 #EXTINF:-1 group-title="Education",CETV2 (576p)
