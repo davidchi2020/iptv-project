@@ -3,6 +3,8 @@
 http://1music.hu/1music.m3u8
 #EXTINF:-1 group-title="Music",4 Fun Dance (576i) [Not 24/7]
 http://185.236.229.62:9981/play/a020
+#EXTINF:-1 group-title="Music",4 Fun TV (288p) [Not 24/7]
+https://stream.4fun.tv:8888/hls/4f.m3u8
 #EXTINF:-1 group-title="Music",4 Kurd
 https://4kuhls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 group-title="Music",4 Music
