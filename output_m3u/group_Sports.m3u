@@ -409,8 +409,8 @@ https://fl7.moveonjoy.com/SPORTSMAN_CHANNEL/index.m3u8
 https://fl7.moveonjoy.com/SNY/index.m3u8
 #EXTINF:-1 group-title="Sports",Stadium (720p)
 https://aegis-cloudfront-1.tubi.video/74681dcc-e6d0-4add-ad67-a22ad9c152e6/playlist.m3u8
-#EXTINF:-1 group-title="Sports",Star Sports 1 HD [Geo-blocked]
-http://41.205.93.154/STARSPORTS1/index.m3u8
+#EXTINF:-1 group-title="Sports",Star Sports 1 HD (1080p) [Geo-blocked]
+http://116.90.120.149:8000/play/a0ba/index.m3u8
 #EXTINF:-1 group-title="Sports",Star Sports 1 Hindi HD (1080p)
 http://116.90.120.149:8000/play/a0bv/index.m3u8
 #EXTINF:-1 group-title="Sports",Star Sports 1 Tamil HD
@@ -449,6 +449,12 @@ https://hidden-mud-9dcf.nhhwkiszzzvcuojxdo.workers.dev/?url=https://live-azd1103
 http://121.91.61.106:8000/play/a04h/index.m3u8
 #EXTINF:-1 group-title="Sports",Tennis Channel
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8
+#EXTINF:-1 group-title="Sports",Thmanyah 1 (720p)
+http://1789-181.123091763.it.com/live/882115_.m3u8
+#EXTINF:-1 group-title="Sports",Thmanyah 2 (720p)
+http://1789-181.123091763.it.com/live/785917_.m3u8
+#EXTINF:-1 group-title="Sports",Thmanyah 3 (720p)
+http://1789-181.123091763.it.com/live/595243_.m3u8
 #EXTINF:-1 group-title="Sports",Tigo Sports (720p) [Geo-blocked]
 https://live20.bozztv.com/akamaissh101/ssh101/livetigocr/playlist.m3u8
 #EXTINF:-1 group-title="Sports",Tigo Sports (Guatemala)
