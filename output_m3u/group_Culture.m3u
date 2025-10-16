@@ -187,8 +187,8 @@ https://w1.mediastreaming.it/orlertv/livestream/playlist.m3u8
 https://fl7.moveonjoy.com/Ovation/index.m3u8
 #EXTINF:-1 group-title="Culture",Paci Contemporary Channel (720p)
 https://5f22d76e220e1.streamlock.net/pacicontemporarychannel/pacicontemporarychannel/playlist.m3u8
-#EXTINF:-1 group-title="Culture",Pardesi TV (720p)
-http://stream.pardesitv.online/pardesi/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Culture",Pardesi TV (720p) [Not 24/7]
+http://stream.pardesitv.online/pardesi/index.m3u8
 #EXTINF:-1 group-title="Culture",PLTV (614p)
 https://vcp2.myplaytv.com/pltv/pltv/playlist.m3u8
 #EXTINF:-1 group-title="Culture",Presumiendo México (720p)

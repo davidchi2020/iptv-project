@@ -22,7 +22,7 @@ https://tv.ddns.vn/tv/bbclifestyle/index.m3u8
 #EXTINF:-1 group-title="Lifestyle",Better Health TV (480p)
 https://tgn.bozztv.com/betterlife/betterhealth/betterhealth/index.m3u8
 #EXTINF:-1 group-title="Lifestyle",Biz TV (1080p)
-https://thegateway.app/BizAndYou/BizTV/playlist.m3u8
+https://2-fss-1.streamhoster.com/pl_154/205722-2251224-1/playlist.m3u8
 #EXTINF:-1 group-title="Lifestyle",Biznet Lifestyle (1080p)
 http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/index.m3u8
 #EXTINF:-1 group-title="Lifestyle",Bridezillas
@@ -31,8 +31,8 @@ https://run-br-uk.otteravision.com/run/br_uk/br_uk_720.m3u8
 https://stream1.antenaplay.ro/live/CaTine/playlist.m3u8
 #EXTINF:-1 group-title="Lifestyle",Cats 24/7
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/599375885ceaac3cabccbed7/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c276ad4-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=f1d9d30b-52fa-4979-a2d6-5066af724ab6
-#EXTINF:-1 group-title="Lifestyle",CBC Sofra (576p)
-http://213.57.91.138:8000/play/a06p
+#EXTINF:-1 group-title="Lifestyle",CBC Sofra (1080p)
+https://bcovlive-a.akamaihd.net/753a1f2c951b4fb3914f30e1deb147d8/us-west-2/6057955906001/playlist.m3u8
 #EXTINF:-1 group-title="Lifestyle",CCTV-12 (2160p)
 http://123.175.209.52:9003/hls/13/index.m3u8
 #EXTINF:-1 group-title="Lifestyle",CineLife

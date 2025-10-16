@@ -3,8 +3,8 @@
 http://1music.hu/1music.m3u8
 #EXTINF:-1 group-title="Music",4 Fun Dance (576i) [Not 24/7]
 http://185.236.229.62:9981/play/a020
-#EXTINF:-1 group-title="Music",4 Fun TV (288p) [Not 24/7]
-https://stream.4fun.tv:8888/hls/4f.m3u8
+#EXTINF:-1 group-title="Music",4 Fun TV (576i) [Not 24/7]
+https://stream.4fun.tv:8888/hls/4f_high/index.m3u8
 #EXTINF:-1 group-title="Music",4 Kurd
 https://4kuhls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 group-title="Music",4 Music
@@ -89,8 +89,8 @@ https://cdnb4u.wiseplayout.com/B4U_Music/master.m3u8
 https://mcncdndigital.com/balleballetv/index.m3u8
 #EXTINF:-1 group-title="Music",Bandamax
 https://linear-400.frequency.stream/mt/studio/400/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Music",Baraza TV (1080p)
-https://eco.streams.ovh/BarazaTV/BarazarazaTV/BarazaTV/playlist.m3u8
+#EXTINF:-1 group-title="Music",Baraza TV (1080p) [Geo-blocked]
+https://panik.cast-control.eu:1936/Admin_1/Admin_1/playlist.m3u8
 #EXTINF:-1 group-title="Music",Baraza TV Deep House (720p)
 https://rtmp.streams.ovh:1936/barazarelax/barazazararelax/barazarelax/playlist.m3u8
 #EXTINF:-1 group-title="Music",Baraza TV Greek Music Hits (1080p)
@@ -131,8 +131,8 @@ https://5790d294af2dc.streamlock.net/Caciquetvcloud/Caciquetvcloud/playlist.m3u8
 https://cloudvideo.servers10.com:8081/8004/index.m3u8
 #EXTINF:-1 group-title="Music",California Music Channel (720p) [Not 24/7]
 https://cmc-ono.amagi.tv/hls/amagi_hls_data_cmcAAAAAA-cmc-ono/CDN/playlist.m3u8
-#EXTINF:-1 group-title="Music",Canal 3 KMK TV (576i) [Not 24/7]
-https://live20.bozztv.com/giatv/giatv-KMKTV/KMKTV/chunks.m3u8
+#EXTINF:-1 group-title="Music",Canal 3 KMK TV (720p)
+https://cloudvideo.servers10.com:8081/8120/index.m3u8
 #EXTINF:-1 group-title="Music",Cantina TV (1080p)
 https://vcp.myplaytv.com/cantinatv/cantinatv/playlist.m3u8
 #EXTINF:-1 group-title="Music",CCTV-11 (576p)
@@ -204,7 +204,7 @@ https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.
 #EXTINF:-1 group-title="Music",Deluxe Rap (1080p)
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.m3u8
 #EXTINF:-1 group-title="Music",Dhamaal (576p) [Not 24/7]
-https://playyonogames.in/live.php?id=535&format=.m3u8
+https://playyonogames.in/live.php?format=.m3u8&id=535
 #EXTINF:-1 group-title="Music",Dhoom Music (720p)
 https://cdn-1.pishow.tv/live/1456/master.m3u8
 #EXTINF:-1 group-title="Music",Dijlah Tarab (1080p)
@@ -639,8 +639,8 @@ https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e17
 https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko.stream.1.smil/playlist.m3u8
 #EXTINF:-1 group-title="Music",Óčko Expres (540p)
 https://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist.m3u8
-#EXTINF:-1 group-title="Music",Óčko Gold (540p)
-https://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist.m3u8
+#EXTINF:-1 group-title="Music",Óčko Gold (540p) [Geo-blocked]
+https://ocko-live.ssl.cdn.cra.cz/cra_live2/ocko_gold.stream.1.smil/playlist.m3u8
 #EXTINF:-1 group-title="Music",Ola Grupera (720p)
 https://s.emisoras.tv:8081/olagruperamx/index.m3u8
 #EXTINF:-1 group-title="Music",ON FM (720p)
@@ -805,8 +805,8 @@ https://1826200335.rsc.cdn77.org/1826200335/index.m3u8
 https://5857499ee635b.streamlock.net/radiowesertv-live/_definst_/mp4:livestreamTV/playlist.m3u8
 #EXTINF:-1 group-title="Music",Radio y Televisión Budokan (352p)
 https://cp.panelchs.com:1936/8016/8016/playlist.m3u8
-#EXTINF:-1 group-title="Music",Radio Zeta TV (1080p)
-https://streamcdnb1-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S9346184/XEx1LqlYbNic/playlist_video.m3u8
+#EXTINF:-1 group-title="Music",Radio Zeta
+https://uvotv-aniview.global.ssl.fastly.net/10010/live/hls/radiozeta/playlist.m3u8
 #EXTINF:-1 group-title="Music",RadioNL TV (1080p) [Not 24/7]
 https://stream.radionl.tv/radionltv/radionltv/playlist.m3u8
 #EXTINF:-1 group-title="Music",Rararadio (720p)
@@ -951,10 +951,10 @@ https://cloudvideo.servers10.com:8081/stztelebista/index.m3u8
 https://live.dinesh29.com.np/stream/jiotvplus/sunmusichd/master.m3u8
 #EXTINF:-1 group-title="Music",Súper Q Panamá (1080p)
 https://vcp8.myplaytv.com:1936/superq/superq/playlist.m3u8
-#EXTINF:-1 group-title="Music",Super TV (576p)
-http://iptv.supertv.ro:8000/play/a001/index.m3u8
+#EXTINF:-1 group-title="Music",Super TV (1080i) [Not 24/7]
+https://live.supertv.ro/live/supertv/playlist.m3u8
 #EXTINF:-1 group-title="Music",Surya Music (576p)
-https://playyonogames.in/live.php?id=747&format=.m3u8
+https://playyonogames.in/live.php?format=.m3u8&id=747
 #EXTINF:-1 group-title="Music",T2 TV
 https://t2hls.wns.live/hls/stream.m3u8
 #EXTINF:-1 group-title="Music",Tarab (1080p)
@@ -1048,7 +1048,7 @@ https://streamtv.onliv3.online:1936/karibtv/karibtv/playlist.m3u8
 #EXTINF:-1 group-title="Music",TZiK [Not 24/7]
 https://54627d4fc5996.streamlock.net/tzik/tzik/chunklist.m3u8
 #EXTINF:-1 group-title="Music",Udaya Music (576p)
-https://playyonogames.in/live.php?id=744&format=.m3u8
+https://playyonogames.in/live.php?format=.m3u8&id=744
 #EXTINF:-1 group-title="Music",Urbano TV (720p)
 https://59ef525c24caa.streamlock.net/tvurbano/tvurbano/playlist.m3u8
 #EXTINF:-1 group-title="Music",V2BEAT (720p) [Not 24/7]

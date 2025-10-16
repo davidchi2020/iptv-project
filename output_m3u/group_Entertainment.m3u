@@ -240,21 +240,21 @@ https://streamunoapp.com:3057/live/clarovisiontvlive.m3u8
 #EXTINF:-1 group-title="Entertainment",COCO TV (720p)
 https://cloudflare.streamgato.us:3253/live/canalcocotvlive.m3u8
 #EXTINF:-1 group-title="Entertainment",Colors (1080p)
-https://playyonogames.in/live.php?id=144&extension=.m3u8
+https://playyonogames.in/live.php?extension=.m3u8&id=144
 #EXTINF:-1 group-title="Entertainment",Colors Bangla (1080p)
-https://playyonogames.in/live.php?id=756&format=.m3u8
+https://nonprod-sports-cohort.jiocinema.com/bpk-tv/JC_ColorsBanglaHD/JCHLS/index.m3u8
 #EXTINF:-1 group-title="Entertainment",Colors Gujarati (1080p)
-https://playyonogames.in/live.php?id=196&format=.m3u8
+https://nonprod-sports-cohort.jiocinema.com/bpk-tv/JC_ColorsGujarati/JCHLS/index.m3u8
 #EXTINF:-1 group-title="Entertainment",Colors Infinity (1080p)
-https://playyonogames.in/live.php?id=1158&format=.m3u8
+https://playyonogames.in/live.php?format=.m3u8&id=1158
 #EXTINF:-1 group-title="Entertainment",Colors Kannada (1080p)
-https://playyonogames.in/live.php?id=757&format=.m3u8
+https://nonprod-sports-cohort.jiocinema.com/bpk-tv/JC_ColorsKannadaHD/JCHLS/index.m3u8
 #EXTINF:-1 group-title="Entertainment",Colors Marathi (1080p)
-https://playyonogames.in/live.php?id=755&format=.m3u8
-#EXTINF:-1 group-title="Entertainment",Colors Super (720p)
-https://playyonogames.in/live.php?id=785&format=.m3u8
+https://nonprod-sports-cohort.jiocinema.com/bpk-tv/JC_ColorsMarathiHD/JCHLS/index.m3u8
+#EXTINF:-1 group-title="Entertainment",Colors Super (1080p)
+https://nonprod-sports-cohort.jiocinema.com/bpk-tv/JC_ColorsSuperKannada/JCHLS/index.m3u8
 #EXTINF:-1 group-title="Entertainment",Colors Tamil (1080p)
-https://playyonogames.in/live.php?id=429&format=.m3u8
+https://nonprod-sports-cohort.jiocinema.com/bpk-tv/JC_ColorsTamilHD/JCHLS/index.m3u8
 #EXTINF:-1 group-title="Entertainment",Colosal TV (720p) [Not 24/7]
 http://tv.ticosmedia.com:1935/COLOSAL/COLOSAL/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment",Comet (1080p)
@@ -348,7 +348,7 @@ https://59d39900ebfb8.streamlock.net/FIDELETV/FIDELETV/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment",Fido TV (1080p)
 https://1123112950.rsc.cdn77.org/HLS/FIDO.m3u8
 #EXTINF:-1 group-title="Entertainment",Flowers TV (576p)
-https://playyonogames.in/live.php?id=634&format=.m3u8
+http://93.119.105.61/play/live.php?extension=ts&mac=00:1A:79:00:28:53&play_token=FPh4kuMnod&stream=443062
 #EXTINF:-1 group-title="Entertainment",FORT TV (480p)
 https://fort.co-works.org/memfs/87017643-274a-4bc0-a786-7767a0d159c2.m3u8
 #EXTINF:-1 group-title="Entertainment",FORTUNE TV (720p)
@@ -453,8 +453,8 @@ https://ign-sportstribal.amagi.tv/playlist.m3u8
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60e4507a06171800072339a3/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
 #EXTINF:-1 group-title="Entertainment",Imayam (720p)
 https://server1.thewebworld.in:3114/live/iniyantvlive.m3u8
-#EXTINF:-1 group-title="Entertainment",Impact Network
-http://51.75.94.167/impact/index.m3u8
+#EXTINF:-1 group-title="Entertainment",Impact Network (720p)
+https://edge1.lifestreamcdn.com/live/impactroku1/index.m3u8
 #EXTINF:-1 group-title="Entertainment",Impacto Televisión (360p) [Not 24/7]
 https://cloudvideo.servers10.com:8081/impactotv/index.m3u8
 #EXTINF:-1 group-title="Entertainment",Ind TV USA (720p)
@@ -713,8 +713,8 @@ http://144.217.70.181:9587/hin2/MTVINDIA/index.m3u8
 https://fl7.moveonjoy.com/MTV_U/index.m3u8
 #EXTINF:-1 group-title="Entertainment",Mundo Paranormal
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60492a9bbca75b0007b1bfd5/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a29f5-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=7e541b5d-5f75-4470-916b-52c849de9cff
-#EXTINF:-1 group-title="Entertainment",MV Lao TV
-https://edge2a.v2h-cdn.com/mvlao/mvlao.stream/playlist.m3u8
+#EXTINF:-1 group-title="Entertainment",MV Lao TV [Geo-blocked]
+https://n-edge-1-th.v2h-cdn.com/mvlao/mvlao/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment",MY5 (576p)
 https://stream8.cinerama.uz/1217/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment",My TV
@@ -749,8 +749,8 @@ http://play1-qk.nmtv.cn/live/1686561195713372.m3u8
 http://176.65.146.237:8401/play/a0ag/index.m3u8
 #EXTINF:-1 group-title="Entertainment",Nepal 1 (576p)
 https://yuppftalive.akamaized.net/080823/nepal1/playlist.m3u8
-#EXTINF:-1 group-title="Entertainment",Netmax TV (720p)
-https://live.netmaxtv.com:1936/live/live/chunklist_w1671867540.m3u8
+#EXTINF:-1 group-title="Entertainment",Netmax TV (720p) [Not 24/7]
+http://live.netmaxtv.com:8080/live/live/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment",NewSignal (1080p)
 https://5f22d76e220e1.streamlock.net/NewSignalTV/NewSignalTV/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment",NHK World Premium (720p) [Not 24/7]
@@ -930,9 +930,9 @@ https://s.emisoras.tv:8081/simclartv/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment",SolTV (720p)
 https://stream.solmediaeg.com/soltv/soltv.m3u8
 #EXTINF:-1 group-title="Entertainment",Sony Entertainment Television (1080p)
-https://nxtlive.net/sliv/stream.php?id=0897686&e=.m3u8
+https://nxtlive.net/sliv/stream.php?e=.m3u8&id=0897686
 #EXTINF:-1 group-title="Entertainment",Sony SAB (1080p)
-https://nxtlive.net/sliv/stream.php?id=0897678986&e=.m3u8
+https://nxtlive.net/sliv/stream.php?e=.m3u8&id=0897678986
 #EXTINF:-1 group-title="Entertainment",Sooriyan TV (1080p)
 https://live20.bozztv.com/giatv/giatv-Infinittyott/Infinittyott/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment",Spark TV
@@ -999,8 +999,8 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64
 https://streamer103.neterra.tv/thisisbulgaria/live.m3u8
 #EXTINF:-1 group-title="Entertainment",Timeline
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-timelinenz-samsungnz/playlist.m3u8
-#EXTINF:-1 group-title="Entertainment",Tin TV (720p)
-https://tulixcdn.akamaized.net/tintv6/tintv/tintv/playlist.m3u8
+#EXTINF:-1 group-title="Entertainment",Tin TV (720p) [Not 24/7]
+https://bozztv.com/1gbw5/tintv/tintv/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment",TMZ (720p)
 https://livetv-fa.tubi.video/tmz/index.m3u8
 #EXTINF:-1 group-title="Entertainment",TR24 (720p)
@@ -1081,8 +1081,8 @@ https://hls.vox1.live/hls/stream.m3u8
 https://tv.westream.cloud/VozdiBonaireTV/VozdiBonaireTV.m3u8
 #EXTINF:-1 group-title="Entertainment",VRT Channel (720p)
 https://sistemavrt.vrtchannel.tv.br:3473/stream/play.m3u8
-#EXTINF:-1 group-title="Entertainment",W9
-https://viamotionhsi.netplus.ch/live/eds/w9/browser-dash/w9.mpd
+#EXTINF:-1 group-title="Entertainment",W9 [Geo-blocked]
+https://viamotionhsi.netplus.ch/live/eds/w9/browser-HLS8/w9.m3u8
 #EXTINF:-1 group-title="Entertainment",W14DK-D3 (1280p)
 https://2-fss-2.streamhoster.com/pl_118/204972-1954132-1/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment",Wasafi TV
@@ -1163,7 +1163,7 @@ http://31.148.48.15/Che/index.m3u8
 https://cdn-01.bonus-tv.ru/u/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment",天才衝衝衝 (1080p)
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV26.m3u8
-#EXTINF:-1 group-title="Entertainment",宁夏卫视 (576p)
-http://39.134.115.163:8080/PLTV/88888910/224/3221225726/index.m3u8
+#EXTINF:-1 group-title="Entertainment",宁夏卫视 (576p) [Not 24/7]
+http://183.207.248.71/gitv/live1/G_NINGXIA/G_NINGXIA
 #EXTINF:-1 group-title="Entertainment",江苏综艺 (576p) [Not 24/7]
 http://183.207.248.71/gitv/live1/G_JSZY/G_JSZY
