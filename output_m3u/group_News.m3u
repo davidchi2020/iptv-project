@@ -1022,7 +1022,7 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 #EXTINF:-1 group-title="News",News Nation (1080p)
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/6cd2f649739a45ca9de1daf81cc7d0f2/index.m3u8
 #EXTINF:-1 group-title="News",News Nation (720p)
-https://fl7.moveonjoy.com/NEWS_NATION/index.m3u8
+https://fl41.moveonjoy.com/NEWS_NATION/index.m3u8
 #EXTINF:-1 group-title="News",News Tamil 24x7 (1080p)
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/news-tamil-24x7/index.m3u8
 #EXTINF:-1 group-title="News",Newsmax 2 (720p)
@@ -1476,7 +1476,7 @@ http://stream.welattv.net:1935/welat/tv/.m3u8
 #EXTINF:-1 group-title="News",WELT (1080p)
 https://viamotionhsi.netplus.ch/live/eds/n24/browser-HLS8/n24.m3u8
 #EXTINF:-1 group-title="News",WFTS-DT1
-https://fl7.moveonjoy.com/FL_Tampa_ABC/index.m3u8
+https://fl41.moveonjoy.com/FL_Tampa_ABC/index.m3u8
 #EXTINF:-1 group-title="News",WION (1080p)
 https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
 #EXTINF:-1 group-title="News",WLS ABC 7 News (Chicago IL) (720p)

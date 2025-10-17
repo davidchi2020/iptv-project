@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 group-title="General;Public",A Punt
 https://bcovlive-a.akamaihd.net/8499d938ef904e39b58a4adec2ddeada/eu-west-1/6057955885001/playlist_dvr.m3u8
+#EXTINF:-1 group-title="General;Public",Andalucía Televisión (1080p)
+http://176.65.146.237:8401/play/a09g/index.m3u8
 #EXTINF:-1 group-title="General;Public",Aragon TV (720p)
 https://viamotionhsi.netplus.ch/live/eds/aragontv/browser-HLS8/aragontv.m3u8
 #EXTINF:-1 group-title="General;Public",Aragon TV Internacional (720p) [Not 24/7]

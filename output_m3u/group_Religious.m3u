@@ -185,6 +185,8 @@ https://www.yupi.live:1936/livearbol/livearbol/playlist.m3u8
 https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119692/ariseandshine/playlist.m3u8
 #EXTINF:-1 group-title="Religious",Ark TV (1080p) [Not 24/7]
 https://stream.hydeinnovations.com/arktv-international/index.fmp4.m3u8
+#EXTINF:-1 group-title="Religious",Ashiil TV (480p)
+https://wahyu1ptv.pages.dev/AshiilTV-HD.m3u8
 #EXTINF:-1 group-title="Religious",Ashrafi Channel (484p) [Not 24/7]
 https://ashrafichannel.livebox.co.in/ashrafivhannelhls/live.m3u8
 #EXTINF:-1 group-title="Religious",Assadissa
@@ -212,7 +214,7 @@ https://live.beitolabbas.tv/live/beitolabbastv.m3u8
 #EXTINF:-1 group-title="Religious",Benie TV (720p)
 https://voozmedia.fun/benietv/livestream/playlist.m3u8
 #EXTINF:-1 group-title="Religious",BET Gospel
-https://fl7.moveonjoy.com/BET_GOSPEL/index.m3u8
+https://fl41.moveonjoy.com/BET_GOSPEL/index.m3u8
 #EXTINF:-1 group-title="Religious",Bethel TV
 https://alfa.betheltv.tv/srt/3_abr/playlist.m3u8
 #EXTINF:-1 group-title="Religious",Better Life TV (720p)
