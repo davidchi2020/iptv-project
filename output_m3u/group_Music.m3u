@@ -563,6 +563,8 @@ https://fl41.moveonjoy.com/MUCH/index.m3u8
 https://vdo2.streamgato.us:3144/live/mund2tvlive.m3u8
 #EXTINF:-1 group-title="Music",Music India (720p) [Not 24/7]
 https://cdn-2.pishow.tv/live/226/master.m3u8
+#EXTINF:-1 group-title="Music",MUSIC ON! TV (1080p)
+https://43.100.9.67/api/streams/live/cs325/1080p/mpegts
 #EXTINF:-1 group-title="Music",Muzangala TV (1080p)
 https://5cf4a2c2512a2.streamlock.net/tvmuzangala/tvmuzangala/playlist.m3u8
 #EXTINF:-1 group-title="Music",Muzsika TV (576p)
@@ -663,8 +665,8 @@ https://vdo2.pro-fhi.net:3207/stream/play.m3u8
 https://livetv.streams.ovh:1936/paniktv/paniktv/playlist.m3u8
 #EXTINF:-1 group-title="Music",Panorama FM (1080p)
 https://d6izdil55uftn.cloudfront.net/out/v1/0a06d1d6377c47edbd48721ed724bd08/index.m3u8
-#EXTINF:-1 group-title="Music",Peppers TV (576p)
-https://yuppftalive.akamaized.net/080823/pepperstv/playlist.m3u8
+#EXTINF:-1 group-title="Music",Peppers TV (751p)
+https://cdn-2.pishow.tv/live/1383/master.m3u8
 #EXTINF:-1 group-title="Music",Pequeradio (720p) [Not 24/7]
 https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
 #EXTINF:-1 group-title="Music",Persiana Folk
