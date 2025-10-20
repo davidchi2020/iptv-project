@@ -333,6 +333,8 @@ https://video.makrodigital.com/americaestereoquito/americaestereoquito/playlist.
 https://video.makrodigital.com/americaestereotulcan/americaestereotulcan/playlist.m3u8
 #EXTINF:-1 group-title="General",America Television (1080p)
 http://38.183.182.166:8000/play/a0rb/index.m3u8
+#EXTINF:-1 group-title="General",America TV (720p)
+https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
 #EXTINF:-1 group-title="General",Amga TV (720p) [Not 24/7]
 https://streamer1.connectto.com/AMGA_WEB_1202/playlist.m3u8
 #EXTINF:-1 group-title="General",Amman TV (720p)
@@ -1501,6 +1503,8 @@ https://uvotv-aniview.global.ssl.fastly.net/hls/live/2120682/elbiladtv/playlist.
 https://uvotv-aniview.global.ssl.fastly.net/hls/live/2120682/elmedinatv/playlist.m3u8
 #EXTINF:-1 group-title="General",El Mehwar Channel
 https://uvotv-aniview.global.ssl.fastly.net/10010/dvr/hls/elmehwar/playlist.m3u8
+#EXTINF:-1 group-title="General",El Nueve (576p)
+http://31.57.243.205:8080/hls/canal7.m3u8
 #EXTINF:-1 group-title="General",El Oussra TV
 https://dvrfl06.bozztv.com/astv-elousra/index.m3u8
 #EXTINF:-1 group-title="General",El Pituco TV (720p)
@@ -3731,6 +3735,8 @@ https://reflect-tampa-bay-community.cablecast.tv/live-16/live/live.m3u8
 https://kilolink.pulsarstarsolutions.com/live/smil:tanasuhtv.smil/manifest.m3u8
 #EXTINF:-1 group-title="General",Tatai TV (1080p)
 https://cloudfront44.lexanetwork.com:1344/relay01/broadcast006.sdp/playlist.m3u8
+#EXTINF:-1 group-title="General",Taurianova TV (720p)
+https://5f22d76e220e1.streamlock.net/taurianovatv/taurianovatv/playlist.m3u8
 #EXTINF:-1 group-title="General",TBC1
 https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119691/tbc1/playlist.m3u8
 #EXTINF:-1 group-title="General",TCS+ (480p) [Not 24/7]
