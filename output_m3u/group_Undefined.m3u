@@ -5582,7 +5582,7 @@ https://tvpass.org/live/cw-wdcw-district-of-columbia/hd
 #EXTINF:-1 group-title="Undefined",WJAX-DT1 (1080p)
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00327-coxmediagroup-wjaxbreaking-ono/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",WJLP-DT1
-https://e5.thetvapp.to/hls/metv-wjlp-new-jerseynew-york/tracks-v2a1/mono.m3u8
+https://e5.thetvapp.to/hls/metv-wjlp-new-jerseynew-york/index.m3u8
 #EXTINF:-1 group-title="Undefined",WJXT News4JAX (Jacksonville FL) (720p)
 https://dai.google.com/linear/hls/event/RDmbn03GRCOLNG1eetEKhg/master.m3u8
 #EXTINF:-1 group-title="Undefined",WKAQ-DT2 (Punto 2) (720p)
