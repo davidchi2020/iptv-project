@@ -2148,7 +2148,7 @@ http://212.174.58.161/hls-live/livepkgr/_definst_/liveevent/kanalb.m3u8
 #EXTINF:-1 group-title="General",Kanal D (480p)
 https://stream1.kanald.ro/iphone/knd-live.m3u8
 #EXTINF:-1 group-title="General",Kanal D (1080p)
-https://demiroren-live.daioncdn.net/kanald/kanald.m3u8
+https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=kanald_web&ce=3
 #EXTINF:-1 group-title="General",Kanal Firat (720p) [Not 24/7]
 https://live.artidijitalmedya.com/artidijital_kanalfirat/kanalfirat/playlist.m3u8
 #EXTINF:-1 group-title="General",Kanal Hayat (1080p)
@@ -2187,14 +2187,8 @@ http://122.248.43.242:1935/KAWANUATV/_definst_/myStream/playlist.m3u8
 https://live.artidijitalmedya.com/artidijital_kaytv/kaytv1/playlist.m3u8
 #EXTINF:-1 group-title="General",KBC Channel 1
 https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119696/kbc/playlist.m3u8
-#EXTINF:-1 group-title="General",KBS 1TV [Not 24/7]
-http://mytv.dothome.co.kr/ch/public/1.php
 #EXTINF:-1 group-title="General",KBS TV
 https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119695/kbstv/playlist.m3u8
-#EXTINF:-1 group-title="General",KBS World (720p) [Geo-blocked]
-https://live.fptplay53.net/epzhd2/kbs_hls.smil/chunklist.m3u8
-#EXTINF:-1 group-title="General",KBS World HD (1080p)
-https://hls.mskycdn.online/tv/kbsworld/index.m3u8
 #EXTINF:-1 group-title="General",KCBS-DT1 (1080p) [Not 24/7]
 https://tvpass.org/live/cbs-kcbs-los-angeles-ca/hd
 #EXTINF:-1 group-title="General",KCTV 광주 CH05 (720p) [Not 24/7]
@@ -3853,6 +3847,8 @@ https://5ab772334c39c.streamlock.net/live-teleislas/teleislas/playlist.m3u8
 https://stream.rai.ua/rai/stream.m3u8
 #EXTINF:-1 group-title="General",Telekriti (720p) [Not 24/7]
 https://neon.streams.gr:8081/telekriti/index.m3u8
+#EXTINF:-1 group-title="General",Telelima (1080p)
+https://live.telelima.net/TL_GRUPO-MVCE/index.m3u8
 #EXTINF:-1 group-title="General",TeleM Botosani (540p) [Not 24/7]
 http://89.137.197.15:8080/testing/pl5/playlist/ram/playlist.m3u8
 #EXTINF:-1 group-title="General",Telemadrid Internacional (720p)

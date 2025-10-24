@@ -925,8 +925,8 @@ https://uvotv-aniview.global.ssl.fastly.net/hls/live/2120686/mesat2/playlist.m3u
 https://tnt-television.com/METANOIA-STREAM1/index.m3u8
 #EXTINF:-1 group-title="Religious",MGI TV (720p) [Geo-blocked]
 https://tv.rodja.live/tasik/ngrp:mgitv_all/playlist.m3u8
-#EXTINF:-1 group-title="Religious",MH One Shraddha (720p)
-https://mhoneshaddha.com/hls/1/stream.m3u8
+#EXTINF:-1 group-title="Religious",MH One Shraddha (360p)
+https://paramount.jswk.online/shraddhamhone/index.m3u8
 #EXTINF:-1 group-title="Religious",MINFAV TV (360p)
 https://video.misistemareseller.com/minfavtv/minfavtv/playlist.m3u8
 #EXTINF:-1 group-title="Religious",Miracle TV (576p)
@@ -1221,8 +1221,6 @@ https://vod.tv7.fi/tv7-ee/smil:tv7-ee.smil/playlist.m3u8
 https://vod.tv7.fi/tv7-fi/smil:tv7-fi.smil/playlist.m3u8
 #EXTINF:-1 group-title="Religious",Tarotéame (576p)
 https://5d2733224ac48.streamlock.net/taroteame/tarot_web/playlist.m3u8
-#EXTINF:-1 group-title="Religious",TarotVisión (576p)
-https://stream.andalhost.com/hls/tarotvision.m3u8
 #EXTINF:-1 group-title="Religious",TBN
 https://livecdn.use1-0004.jwplive.com/live/sites/Yal8cmyO/media/fCGf6ROk/live.isml/.m3u8
 #EXTINF:-1 group-title="Religious",TBN Baltia (1080p)

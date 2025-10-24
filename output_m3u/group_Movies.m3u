@@ -16,7 +16,7 @@ https://playyonogames.in/z5/stream.m3u8?id=0-9-channel_2105335046
 #EXTINF:-1 group-title="Movies",&pictures (1080p)
 https://playyonogames.in/z5/stream.m3u8?id=0-9-tvpictureshd
 #EXTINF:-1 group-title="Movies",&prive HD (1080p)
-https://playyonogames.in/z5/stream.m3u8?id=0-9-9z5543514
+http://87.255.35.150:18494/
 #EXTINF:-1 group-title="Movies",&TV (1080p)
 https://amg01117-amg01117c1-amgplt0165.playout.now3.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Movies",&xplor HD (1080p)
@@ -60,7 +60,7 @@ http://183.89.246.119:8881/play/a08l/index.m3u8
 #EXTINF:-1 group-title="Movies",Bhojpuri Cinema (720p)
 https://live-bhojpuri.akamaized.net/liveabr/playlist.m3u8
 #EXTINF:-1 group-title="Movies",BIZ Cinema (1080p)
-https://st.biztv.uz/hls/c_hi/index.m3u8
+https://fl.biztv.media/cinema_720_EMfSyXgoRdiIHgldXTZICucKTIeCKO/index.m3u8
 #EXTINF:-1 group-title="Movies",Black Cinema
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/58af4c093a41ca9d4ecabe96/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c271cb5-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=93605d96-6c9d-457d-a2b4-d26d07474db9
 #EXTINF:-1 group-title="Movies",Bloody Disgusting TV
@@ -503,6 +503,8 @@ http://31.148.48.15/Russkiy_Detektiv/index.m3u8
 https://stv-live.akamaized.net/hls/live/2031011/lingeoSTVATwebPri/master.m3u8
 #EXTINF:-1 group-title="Movies",ServusTV HD
 https://viamotionhsi.netplus.ch/live/eds/servustvhd/browser-HLS8/servustvhd.m3u8
+#EXTINF:-1 group-title="Movies",Shemaroo Josh (720p)
+https://cdn-1.pishow.tv/live/1451/master.m3u8
 #EXTINF:-1 group-title="Movies",Sky Cinema Family HD (1080p)
 https://d17lsiabqrlwa2.cloudfront.net/pl_138/207480-6535776-1/playlist.m3u8
 #EXTINF:-1 group-title="Movies",SL 1
@@ -522,7 +524,7 @@ http://116.90.120.149:8000/play/a0c2/index.m3u8
 #EXTINF:-1 group-title="Movies",Star Gold Romance (576p)
 https://live.dinesh29.com.np/stream/jiotvplus/stargoldromance/master.m3u8
 #EXTINF:-1 group-title="Movies",Star Gold Select HD (1080p)
-https://live.dinesh29.com.np/stream/jiotvplus/stargoldselecthd/master.m3u8
+http://87.255.35.150:18429
 #EXTINF:-1 group-title="Movies",Star Gold Thrills (576p)
 http://116.90.120.149:8000/play/a0c0/index.m3u8
 #EXTINF:-1 group-title="Movies",Star Maa Gold (576p)
@@ -585,6 +587,8 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60
 https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/playlist.m3u8
 #EXTINF:-1 group-title="Movies",Xtrema Terror
 https://stmv6.voxtvhd.com.br/cineterror/cineterror/playlist.m3u8
+#EXTINF:-1 group-title="Movies",Zee Action (576p)
+http://87.255.35.150:18507/
 #EXTINF:-1 group-title="Movies",Zee Aflam (576p)
 http://213.57.91.138:8000/play/a05s
 #EXTINF:-1 group-title="Movies",Zee Bollymovies (1080p)

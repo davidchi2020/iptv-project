@@ -137,8 +137,6 @@ https://saruman1.tharen.cfd/jimy/usergenq3n0lz7kr.m3u8
 https://live.cdn.joj.sk/live/andromeda/jojko-720.m3u8
 #EXTINF:-1 group-title="Kids",Kartoon Channel
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-kartoonchannel-samsungnz/playlist.m3u8
-#EXTINF:-1 group-title="Kids",KBS Kids (480p)
-http://mytv.dothome.co.kr/ch/catv/6.php
 #EXTINF:-1 group-title="Kids",Ketchup TV (720p)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=13171
 #EXTINF:-1 group-title="Kids",Kiddiwinks (720p)
@@ -150,7 +148,7 @@ https://kikageohls.akamaized.net/hls/live/2022693/livetvkika_de/master.m3u8
 #EXTINF:-1 group-title="Kids",KiKA HD
 https://viamotionhsi.netplus.ch/live/eds/kikahd/browser-HLS8/kikahd.m3u8
 #EXTINF:-1 group-title="Kids",Kochu TV (576p)
-https://live.dinesh29.com.np/stream/jiotvplus/kochutv/master.m3u8
+http://87.255.35.150:18212
 #EXTINF:-1 group-title="Kids",Kushi TV (576p)
 https://live.dinesh29.com.np/stream/jiotvplus/kushitv/master.m3u8
 #EXTINF:-1 group-title="Kids",Lego Channel (1080p)
@@ -203,6 +201,8 @@ http://92.114.85.72:8000/play/a02o
 http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
 #EXTINF:-1 group-title="Kids",Nickelodeon en Español
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d8d08395f39465da6fb3ec4/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a5107-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=919bc5fd-6cce-44a6-bb39-2894dea1c988
+#EXTINF:-1 group-title="Kids",Nicktoons (576p)
+http://94.232.127.28:8080/nicktoons/index.m3u8
 #EXTINF:-1 group-title="Kids",NickToons
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/654ca7f92c1d3300086b608c/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7b6610-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=359ee837-a829-4fe0-9d99-8dc36018ced2
 #EXTINF:-1 group-title="Kids",Ninja Kidz TV
