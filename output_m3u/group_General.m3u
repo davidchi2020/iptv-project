@@ -649,8 +649,8 @@ https://videostack1.cdnstream1.com:1936/binge-tv/binge-tv/playlist.m3u8
 https://5eeb3940cfaa0.streamlock.net/webtv_live/_definst_/mp4:kanalnordvest/playlist.m3u8
 #EXTINF:-1 group-title="General",Black Sea TV (432p)
 https://stream.skyvision.com.ua/blackseatv/stream/main/playlist.m3u8
-#EXTINF:-1 group-title="General",Bloomberg Quicktake
-https://bloomberg-quicktake-1-be.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="General",Bloomberg Quicktake (1080p)
+https://bloomberg.com/media-manifest/streams/qt.m3u8
 #EXTINF:-1 group-title="General",Bloomfield Access TV Channel 5 (480p)
 https://reflect-batv.cablecast.tv/live-5/live/live.m3u8
 #EXTINF:-1 group-title="General",Blue Sky TV (720p)
@@ -1050,7 +1050,7 @@ https://livetv-fa.tubi.video/kpax/playlist.m3u8
 #EXTINF:-1 group-title="General",CBS 9 Oklahoma City OK (KWTV-DT1) (720p) [Not 24/7]
 https://fuel-streaming-prod01.fuelmedia.io/v1/sem/e48409e7-672d-42f2-b5e0-ebb6744b0425.m3u8
 #EXTINF:-1 group-title="General",CBS East (720p)
-https://fl41.moveonjoy.com/CBS_News/index.m3u8
+https://fl1.moveonjoy.com/CBS_News/index.m3u8
 #EXTINF:-1 group-title="General",CCTV-1 (2160p)
 http://123.175.209.52:9003/hls/1/index.m3u8
 #EXTINF:-1 group-title="General",CCTV-4 America (1080p)
@@ -1177,8 +1177,8 @@ https://vdo2.streamgato.us:3313/live/codigotvlive.m3u8
 https://ss2.tvrdomi.com:1936/colometv/colometv/playlist.m3u8
 #EXTINF:-1 group-title="General",Color Vision (576p) [Not 24/7]
 http://190.110.36.254/COLORVISION/index.m3u8
-#EXTINF:-1 group-title="General",Colors Rishtey Asia (1080p)
-https://nonprod-sports-cohort.jiocinema.com/bpk-tv/JC_ColorsRishtey/JCHLS/index.m3u8
+#EXTINF:-1 group-title="General",Colors Rishtey Asia (576p)
+http://87.255.35.150:18886/
 #EXTINF:-1 group-title="General",Columna TV (720p)
 http://live.columnatv.ro:1935/columnatv/live/playlist.m3u8
 #EXTINF:-1 group-title="General",COM Brasil (1080p) [Not 24/7]
@@ -1268,7 +1268,7 @@ https://eu1.servers10.com:8081/8128/index.m3u8
 #EXTINF:-1 group-title="General",CVA TV (480p) [Not 24/7]
 http://190.124.161.21:8086/cvatv/live.m3u8
 #EXTINF:-1 group-title="General",CVM TV
-https://fl41.moveonjoy.com/CVM_TV_CARIBBEAN/index.m3u8
+https://fl1.moveonjoy.com/CVM_TV_CARIBBEAN/index.m3u8
 #EXTINF:-1 group-title="General",Da Nang TV1 (1080p) [Not 24/7]
 http://drtdnglive.e49a7c38.cdnviet.com/livedrt1/chunklist.m3u8
 #EXTINF:-1 group-title="General",Da Nang TV2 (1080p) [Not 24/7]
@@ -1507,8 +1507,6 @@ https://uvotv-aniview.global.ssl.fastly.net/hls/live/2120682/elbiladtv/playlist.
 https://uvotv-aniview.global.ssl.fastly.net/hls/live/2120682/elmedinatv/playlist.m3u8
 #EXTINF:-1 group-title="General",El Mehwar Channel
 https://uvotv-aniview.global.ssl.fastly.net/10010/dvr/hls/elmehwar/playlist.m3u8
-#EXTINF:-1 group-title="General",El Nueve (576p)
-http://31.57.243.205:8080/hls/canal7.m3u8
 #EXTINF:-1 group-title="General",El Oussra TV
 https://dvrfl06.bozztv.com/astv-elousra/index.m3u8
 #EXTINF:-1 group-title="General",El Pituco TV (720p)
@@ -2327,8 +2325,6 @@ https://rdn.essastream.com:3168/live/lacaletatvlive.m3u8
 https://video.udwn.net:19360/ladescargatv/ladescargatv.m3u8
 #EXTINF:-1 group-title="General",La Hora TV [Geo-blocked]
 https://cloud5.livescast.com:19360/lahoratv/lahoratv.m3u8
-#EXTINF:-1 group-title="General",La Nacion +
-https://radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0070
 #EXTINF:-1 group-title="General",La Popular TV
 https://tv.arkeo.cl:1936/enlacetv1/enlacetv1/playlist.m3u8
 #EXTINF:-1 group-title="General",La Red (720p) [Not 24/7]
@@ -2897,8 +2893,14 @@ https://nrk-live-no.akamaized.net/nrk2/muxed.m3u8
 https://viamotionhsi.netplus.ch/live/eds/nrtv/browser-HLS8/nrtv.m3u8
 #EXTINF:-1 group-title="General",NSTV (720p)
 http://138.186.23.7:22281/nstv/nstv/playlist.m3u8
-#EXTINF:-1 group-title="General",NTD TV (1080p)
-https://amg17596-ntdtv-amg17596c1-rakuten-gb-6741.playouts.now.amagi.tv/playlist/amg17596-newtangdynastytelevision-ntdtv-rakutengb/playlist.m3u8
+#EXTINF:-1 group-title="General",NTD TV
+https://live.ntdtv.com/live900/playlist.m3u8
+#EXTINF:-1 group-title="General",NTD TV Asia-Pacific
+https://live.ntdtv.com/aplive200/playlist.m3u8
+#EXTINF:-1 group-title="General",NTD TV China
+http://cnhls.ntdtv.com/cn/live400/playlist.m3u8
+#EXTINF:-1 group-title="General",NTD TV West
+https://live.ntdtv.com/uwlive990/playlist.m3u8
 #EXTINF:-1 group-title="General",NTN (720p)
 https://stream4.xdevel.com/video0s975955-782/stream/playlist.m3u8
 #EXTINF:-1 group-title="General",NTV (1080p)
@@ -3869,8 +3871,6 @@ https://streamunoapp.com:3366/live/telemetrolive.m3u8
 http://181.119.108.27:8000/play/a04b/index.m3u8
 #EXTINF:-1 group-title="General",Telemundo Internacional (480p)
 http://190.2.212.209:8050/play/a0oa
-#EXTINF:-1 group-title="General",Telemundo West (720p)
-https://content.uplynk.com/channel/b6a96ed39d694ae1b738faa98cf7dd3f.m3u8?delay=10800
 #EXTINF:-1 group-title="General",Telenorba (1080p)
 http://stream2.xdevel.com/video2s976570-2303/stream/playlist_dvr.m3u8
 #EXTINF:-1 group-title="General",Telenord 8 (1080p) [Not 24/7]
@@ -4650,7 +4650,7 @@ https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
 #EXTINF:-1 group-title="General",Wuan+
 https://7.innovatestream.pe:19360/ecuadortest/ecuadortest.m3u8
 #EXTINF:-1 group-title="General",WVGN-LD1
-https://fl41.moveonjoy.com/Virgin_Islands_NBC/index.m3u8
+https://fl1.moveonjoy.com/Virgin_Islands_NBC/index.m3u8
 #EXTINF:-1 group-title="General",WWXY-DT1 (Boricua TV) (1080p)
 https://2-fss-2.streamhoster.com/pl_138/amlst:201284-1347630/playlist.m3u8
 #EXTINF:-1 group-title="General",Xezer TV

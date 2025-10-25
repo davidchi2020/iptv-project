@@ -64,7 +64,7 @@ https://still-mud-3642.nqanzvyuupxwcahtfq.workers.dev/?url=https://ca-rt.onetv.a
 #EXTINF:-1 group-title="Documentary",HDL
 http://31.148.48.15/HD_Life/index.m3u8
 #EXTINF:-1 group-title="Documentary",History
-https://fl41.moveonjoy.com/history_channel/index.m3u8
+https://fl1.moveonjoy.com/history_channel/index.m3u8
 #EXTINF:-1 group-title="Documentary",History 2 Latin America
 https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/HISTORY2/index.m3u8
 #EXTINF:-1 group-title="Documentary",History Channel (1080p)
@@ -79,8 +79,10 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65
 https://api.v3.invintus.com/StreamURI/persis/2147483647/KTOO360TV.stream/media.m3u8
 #EXTINF:-1 group-title="Documentary",Law & Crime (720p)
 https://a-cdn.klowdtv.com/live3/law_720p/playlist.m3u8
+#EXTINF:-1 group-title="Documentary",MagellanTV Now (1080p)
+https://amg00376-magellan-amg00376c5-samsung-au-1708.playouts.now.amagi.tv/playlist/amg00376-magellantv-magellantvnowww-samsungau/playlist.m3u8
 #EXTINF:-1 group-title="Documentary",Military History
-https://fl41.moveonjoy.com/Military_History/index.m3u8
+https://fl1.moveonjoy.com/Military_History/index.m3u8
 #EXTINF:-1 group-title="Documentary",National Geographic (1080i)
 http://78.130.250.2:8023/play/a02e/index.m3u8
 #EXTINF:-1 group-title="Documentary",National Geographic (1080p)
@@ -92,7 +94,7 @@ https://vo-live.cdb.cdn.orange.com/Content/Channel/NationalGeographicHDChannel/H
 #EXTINF:-1 group-title="Documentary",National Geographic Abu Dhabi HD (1080p)
 http://213.57.91.138:8000/play/a05a
 #EXTINF:-1 group-title="Documentary",National Geographic East
-https://fl41.moveonjoy.com/National_Geographic/index.m3u8
+https://fl1.moveonjoy.com/National_Geographic/index.m3u8
 #EXTINF:-1 group-title="Documentary",National Geographic HD East (720p) [Not 24/7]
 https://tvpass.org/live/NationalGeographicEast/hd
 #EXTINF:-1 group-title="Documentary",National Geographic Latin America
@@ -104,11 +106,11 @@ http://78.130.250.2:8023/play/a02c/index.m3u8
 #EXTINF:-1 group-title="Documentary",National Geographic Wild (1080p) [Geo-blocked]
 https://saran-live.ercdn.net/natgeowild/index.m3u8
 #EXTINF:-1 group-title="Documentary",National Geographic Wild East
-https://fl41.moveonjoy.com/Nat_Geo_Wild/index.m3u8
+https://fl1.moveonjoy.com/Nat_Geo_Wild/index.m3u8
 #EXTINF:-1 group-title="Documentary",National Geographic Wild HD East (720p) [Not 24/7]
 https://tvpass.org/live/NationalGeographicWildEast/hd
-#EXTINF:-1 group-title="Documentary",NatureTime
-https://shls-live-ak.akamaized.net/out/v1/b06a89a463764d3688cda337d40dc5bf/index.m3u8
+#EXTINF:-1 group-title="Documentary",NatureTime (1080p)
+https://amg00090-blueantllc-lovenature-au-samsungau-wggcn.amagi.tv/playlist/amg00090-blueantllc-lovenature-au-samsungau/playlist.m3u8
 #EXTINF:-1 group-title="Documentary",O'zbekiston Tarixi (1080p)
 https://stream8.cinerama.uz/1209/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 group-title="Documentary",Persiana Docs
@@ -138,7 +140,7 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e
 #EXTINF:-1 group-title="Documentary",Real Stories (1080p)
 https://lds-realstories-plex.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Documentary",Reelz (720p)
-https://fl41.moveonjoy.com/REELZ/index.m3u8
+https://fl1.moveonjoy.com/REELZ/index.m3u8
 #EXTINF:-1 group-title="Documentary",RL PRO TV
 https://stream.berosat.live:19360/rlpro-tv/rlpro-tv.m3u8
 #EXTINF:-1 group-title="Documentary",RT Documentary (1080p)

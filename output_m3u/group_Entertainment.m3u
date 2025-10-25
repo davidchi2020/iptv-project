@@ -52,7 +52,7 @@ http://hls.protv.md/acasatv/acasatv.m3u8
 #EXTINF:-1 group-title="Entertainment",ACS Network (480p)
 https://5790d294af2dc.streamlock.net/acsnetwork/acsnetwork/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment",Adithya TV (576p)
-https://live.dinesh29.com.np/stream/jiotvplus/adithyatv/master.m3u8
+http://87.255.35.150:18840/
 #EXTINF:-1 group-title="Entertainment",AfroLandTV (1080p)
 https://alt-al.otteravision.com/alt/al/al.m3u8
 #EXTINF:-1 group-title="Entertainment",Aguacate TV (1080p)
@@ -92,7 +92,7 @@ http://31.121.110.30:4000/play/a028/index.m3u8
 #EXTINF:-1 group-title="Entertainment",Antares Televisión (720p) [Not 24/7]
 https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment",Antenna TV
-https://fl41.moveonjoy.com/Antenna_TV/index.m3u8
+https://fl1.moveonjoy.com/Antenna_TV/index.m3u8
 #EXTINF:-1 group-title="Entertainment",Apna Punjab TV (720p)
 https://plus.gigabitcdn.net/live-stream/apna-punjab-H3sE/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment",Apple68 TV (1080p)
@@ -114,7 +114,7 @@ https://amg01201-cinedigmenterta-asiancrush-cineverse-x701o.amagi.tv/playlist/am
 #EXTINF:-1 group-title="Entertainment",Asianet HD (720p)
 http://217.20.112.199/asianet/index.m3u8
 #EXTINF:-1 group-title="Entertainment",Aspire
-https://fl41.moveonjoy.com/Aspire/index.m3u8
+https://fl1.moveonjoy.com/Aspire/index.m3u8
 #EXTINF:-1 group-title="Entertainment",AVT Khyber
 https://trn03.tulix.tv/gf-khybertv/index.m3u8
 #EXTINF:-1 group-title="Entertainment",Az Clic
@@ -142,7 +142,7 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/63
 #EXTINF:-1 group-title="Entertainment",BET CLASSICS Pluto TV
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f92b5ba040eaa0007074d0a/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e059f90-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=f90dc5f8-5a4a-4bbd-bb99-e092a9625269
 #EXTINF:-1 group-title="Entertainment",BET Her East
-https://fl41.moveonjoy.com/BET_HER/index.m3u8
+https://fl1.moveonjoy.com/BET_HER/index.m3u8
 #EXTINF:-1 group-title="Entertainment",BET Pluto TV
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ca670f6593a5d78f0e85aed/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c271cb2-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=9e4dfe90-0228-4bbb-b7cd-1e422a0e7cbb
 #EXTINF:-1 group-title="Entertainment",bitMe (576p)
@@ -164,7 +164,7 @@ https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119033/btv2/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment",Buena TV (1080p)
 https://59825a54e4454.streamlock.net:8443/papo351/papo351/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment",Buzzr
-https://fl41.moveonjoy.com/Buzzr/index.m3u8
+https://fl1.moveonjoy.com/Buzzr/index.m3u8
 #EXTINF:-1 group-title="Entertainment",C Star (720p)
 https://viamotionhsi.netplus.ch/live/eds/d17/browser-HLS8/d17.m3u8
 #EXTINF:-1 group-title="Entertainment",Cabo Frio TV (720p)
@@ -247,8 +247,8 @@ https://playyonogames.in/live.php?format=.m3u8&id=1158
 http://87.255.35.150:18219
 #EXTINF:-1 group-title="Entertainment",Colors Marathi (1080p)
 http://87.255.35.150:18233/
-#EXTINF:-1 group-title="Entertainment",Colors Super (1080p)
-https://nonprod-sports-cohort.jiocinema.com/bpk-tv/JC_ColorsSuperKannada/JCHLS/index.m3u8
+#EXTINF:-1 group-title="Entertainment",Colors Super (576p)
+http://87.255.35.150:18445/
 #EXTINF:-1 group-title="Entertainment",Colors Tamil (1080p)
 http://87.255.35.150:18225/
 #EXTINF:-1 group-title="Entertainment",Colosal TV (720p) [Not 24/7]
@@ -258,9 +258,9 @@ https://fast-channels.sinclairstoryline.com/COMET/index.m3u8
 #EXTINF:-1 group-title="Entertainment",Conecta+ TV (720p)
 http://189.14.239.62:1935/webtv/livestream1/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment",Cozi TV
-https://fl41.moveonjoy.com/COZI_TV/index.m3u8
+https://fl1.moveonjoy.com/COZI_TV/index.m3u8
 #EXTINF:-1 group-title="Entertainment",Crime + Investigation
-https://fl41.moveonjoy.com/Crime_and_Investigation_Network/index.m3u8
+https://fl1.moveonjoy.com/Crime_and_Investigation_Network/index.m3u8
 #EXTINF:-1 group-title="Entertainment",Crime + Investigation Asia HD (720p) [Geo-blocked]
 https://cdn09jtedge.indihometv.com/joss/133/crimeinvestigation/index.m3u8
 #EXTINF:-1 group-title="Entertainment",CS Mystery (720p)
@@ -286,7 +286,7 @@ https://x.canlitvapp.com/u-e4/index.m3u8
 #EXTINF:-1 group-title="Entertainment",E 24
 https://live-e24.dailyhunt.in/eternowsa/live/amlst:E24_,b256,b512,b1024,b1824,.smil/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment",E! East
-https://fl41.moveonjoy.com/E_ENTERTAINMENT_TELEVISION/index.m3u8
+https://fl1.moveonjoy.com/E_ENTERTAINMENT_TELEVISION/index.m3u8
 #EXTINF:-1 group-title="Entertainment",Edessa TV (720p)
 https://tv.digitalbox.xyz:19360/edessatv/edessatv.m3u8
 #EXTINF:-1 group-title="Entertainment",EDN TV (1080p) [Not 24/7]
@@ -358,15 +358,15 @@ https://live.kwikmotion.com/fujairahlive/fujairah.smil/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment",Furaha TV
 https://uvotv-aniview.global.ssl.fastly.net/hls/live/2120681/furahatv/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment",Fuse East (720p)
-https://fl41.moveonjoy.com/FUSE/index.m3u8
+https://fl1.moveonjoy.com/FUSE/index.m3u8
 #EXTINF:-1 group-title="Entertainment",FX East
-https://fl41.moveonjoy.com/FX/index.m3u8
+https://fl1.moveonjoy.com/FX/index.m3u8
 #EXTINF:-1 group-title="Entertainment",FX TV 1
 https://fxtvhls.wns.live/hls/stream.m3u8
 #EXTINF:-1 group-title="Entertainment",FX TV 2
 https://toonixhls.wns.live/hls/stream.m3u8
 #EXTINF:-1 group-title="Entertainment",FXX East
-https://fl41.moveonjoy.com/FXX/index.m3u8
+https://fl1.moveonjoy.com/FXX/index.m3u8
 #EXTINF:-1 group-title="Entertainment",Galaxia TV (360p)
 https://streaming.grupomediosdelnorte.com:19360/galaxiateve/galaxiateve.m3u8
 #EXTINF:-1 group-title="Entertainment",Game Show Central
@@ -390,7 +390,7 @@ https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/619263ee9541940007d20
 #EXTINF:-1 group-title="Entertainment",GET TV (720p)
 https://cnn.livestreaminggroup.info:3050/live/gettvlive.m3u8
 #EXTINF:-1 group-title="Entertainment",GetTV (480p)
-https://fl41.moveonjoy.com/GET_TV/index.m3u8
+https://fl1.moveonjoy.com/GET_TV/index.m3u8
 #EXTINF:-1 group-title="Entertainment",Gh One TV
 https://g2qd3exjy7an-hls-live.5centscdn.com/ghonetv/ghanaweb.stream/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment",Gi Television (720p) [Not 24/7]
@@ -410,15 +410,15 @@ https://stream.streaming4u.hu/GolyaTV/index.m3u8
 #EXTINF:-1 group-title="Entertainment",Good Idea TV (720p) [Not 24/7]
 http://stream1.ai-net.net:1935/gtv1/_definst_/smil:gtv.smil/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment",Grit
-https://fl41.moveonjoy.com/GRIT_TV/index.m3u8
+https://fl1.moveonjoy.com/GRIT_TV/index.m3u8
 #EXTINF:-1 group-title="Entertainment",Grit Xtra (1080p)
 https://livetv-fa.tubi.video/grit-extra/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment",Guaro TV (1080p)
 https://streamtv.intervenhosting.net:3592/live/guarotvbqtolive.m3u8
 #EXTINF:-1 group-title="Entertainment",Guinee TV1
 https://uvotv-aniview.global.ssl.fastly.net/hls/live/2120428/gtv1/playlist.m3u8
-#EXTINF:-1 group-title="Entertainment",Haunt TV
-https://blueantmediacanada-haunttv-samsungca.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Entertainment",Haunt TV (1080p)
+https://amg01446-blueantmediacan-haunttvaussam-samsungau-vcnai.amagi.tv/playlist/amg01446-blueantmediacan-haunttvaussam-samsungau/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment",Heartland
 https://hls-live-media-gc.cdn01.net/mpegts/232076_1278943/k7NorBrWxVGqpF2GcaB7Ow/1760757747/media_mpegts_0.m3u8
 #EXTINF:-1 group-title="Entertainment",Hi Dost! (720p)
@@ -460,13 +460,13 @@ https://stream.e2is.in/hls/indoztv.m3u8
 #EXTINF:-1 group-title="Entertainment",Indonesiana.TV (720p)
 https://kbtv.akamaized.net/hls/live/2031188/kanalbuya/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment",INSP
-https://fl41.moveonjoy.com/INSP/index.m3u8
+https://fl1.moveonjoy.com/INSP/index.m3u8
 #EXTINF:-1 group-title="Entertainment",interTV (1080p)
 https://streamtv.intervenhosting.net:3439/hybrid/play.m3u8
 #EXTINF:-1 group-title="Entertainment",ION Plus East (720p)
-https://fl41.moveonjoy.com/ION_Plus/index.m3u8
+https://fl1.moveonjoy.com/ION_Plus/index.m3u8
 #EXTINF:-1 group-title="Entertainment",ION TV East
-https://fl41.moveonjoy.com/ION_TV/index.m3u8
+https://fl1.moveonjoy.com/ION_TV/index.m3u8
 #EXTINF:-1 group-title="Entertainment",Iris [Geo-blocked]
 https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(ki)/index.m3u8
 #EXTINF:-1 group-title="Entertainment",Ishara TV (1080p)
@@ -584,7 +584,7 @@ https://streamtv.intervenhosting.net:3763/hybrid/play.m3u8
 #EXTINF:-1 group-title="Entertainment",LATV [Geo-blocked]
 https://amg00779-latv-amg00779c1-cineverse-us-1746.playouts.now.amagi.tv/playlist/amg00779-latvnetworkllc-latv-cineverseus/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment",Lifetime East
-https://fl41.moveonjoy.com/LIFETIME/index.m3u8
+https://fl1.moveonjoy.com/LIFETIME/index.m3u8
 #EXTINF:-1 group-title="Entertainment",Light Channel (720p)
 http://streamer1.streamhost.org:1935/salive/hungarian/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment",Loading (720p)
@@ -662,7 +662,7 @@ https://vivo.solumedia.com:19360/metaversus/metaversus.m3u8
 #EXTINF:-1 group-title="Entertainment",Metro TV (720p)
 https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8
 #EXTINF:-1 group-title="Entertainment",MeTV
-https://fl41.moveonjoy.com/ME_TV/index.m3u8
+https://fl1.moveonjoy.com/ME_TV/index.m3u8
 #EXTINF:-1 group-title="Entertainment",meWATCH LIVE 1 (1080p)
 https://tglmp04.akamaized.net/out/v1/898b1cbac7c747e3b1f3deb460e9b67e/manifest.mpd
 #EXTINF:-1 group-title="Entertainment",MHZ
@@ -690,15 +690,15 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/61
 #EXTINF:-1 group-title="Entertainment",MTV (1080p)
 https://viamotionhsi.netplus.ch/live/eds/mtvfrance/browser-HLS8/mtvfrance.m3u8
 #EXTINF:-1 group-title="Entertainment",MTV2 (720p)
-https://fl41.moveonjoy.com/MTV_2/index.m3u8
+https://fl1.moveonjoy.com/MTV_2/index.m3u8
 #EXTINF:-1 group-title="Entertainment",MTV East
-https://fl41.moveonjoy.com/MTV/index.m3u8
+https://fl1.moveonjoy.com/MTV/index.m3u8
 #EXTINF:-1 group-title="Entertainment",MTV en Español
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5cf96d351652631e36d4331f/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a02e9-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=dcbebf0b-626f-449a-85cf-4ce663af39d1
 #EXTINF:-1 group-title="Entertainment",MTV HD
 http://144.217.70.181:9587/hin2/MTVINDIA/index.m3u8
 #EXTINF:-1 group-title="Entertainment",mtvU (480p)
-https://fl41.moveonjoy.com/MTV_U/index.m3u8
+https://fl1.moveonjoy.com/MTV_U/index.m3u8
 #EXTINF:-1 group-title="Entertainment",Mundo Paranormal
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60492a9bbca75b0007b1bfd5/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a29f5-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=7e541b5d-5f75-4470-916b-52c849de9cff
 #EXTINF:-1 group-title="Entertainment",MV Lao TV [Geo-blocked]
@@ -779,6 +779,8 @@ https://5caf24a595d94.streamlock.net:1937/8142/8142/playlist.m3u8
 https://oitnhls.wns.live/hls/stream.m3u8
 #EXTINF:-1 group-title="Entertainment",ON Vie Drama
 http://dvrfl05.bozztv.com/vch_vchannel18/index.m3u8
+#EXTINF:-1 group-title="Entertainment",One HD (1080p)
+https://viamotionhsi.netplus.ch/live/eds/onehd/browser-HLS8/onehd.m3u8
 #EXTINF:-1 group-title="Entertainment",One TV
 https://uvotv-aniview.global.ssl.fastly.net/hls/live/2120682/onetv/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment",One TV (720p)
@@ -790,7 +792,7 @@ https://5dcabf026b188.streamlock.net/OceansTV/livestream/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment",OXIR TV
 https://hls.oxir.live/hls/stream.m3u8
 #EXTINF:-1 group-title="Entertainment",Oxygen East
-https://fl41.moveonjoy.com/OXYGEN/index.m3u8
+https://fl1.moveonjoy.com/OXYGEN/index.m3u8
 #EXTINF:-1 group-title="Entertainment",Panc TV Peru (1080p)
 https://panel.host-live.com:19360/20000/20000.m3u8
 #EXTINF:-1 group-title="Entertainment",Panzihihua Culture Tourism & Life Channel
@@ -803,14 +805,14 @@ https://d219tvyafu2vka.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 http://185.63.52.103:8080/hls/passionelotto/1_2/index.m3u8
 #EXTINF:-1 group-title="Entertainment",People Are Awesome
 https://3ab76e42.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X1Blb3BsZUFyZUF3ZXNvbWVfSExT/playlist.m3u8
-#EXTINF:-1 group-title="Entertainment",People are Awesome
-https://jukin-peopleareawesome-2-ca.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="Entertainment",People Are Awesome (720p)
+https://jukin-peopleareawesome-2-au.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment",Persiana Reality
 https://twohls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 group-title="Entertainment",Persiana Turkiye
 https://turkhls.persiana.live/hls/stream.m3u8
-#EXTINF:-1 group-title="Entertainment",Pet Club TV
-https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-petclub-samsungnz/playlist.m3u8
+#EXTINF:-1 group-title="Entertainment",Pet Club TV (1080p)
+https://petclub-samsungaus.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment",Play Television (720p)
 https://vivo.solumedia.com:19360/playtv/playtv.m3u8
 #EXTINF:-1 group-title="Entertainment",PlayMedios Digital (1080p)
@@ -844,7 +846,7 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f
 #EXTINF:-1 group-title="Entertainment",Polimer TV (720p)
 https://cdn-2.pishow.tv/live/1241/master.m3u8
 #EXTINF:-1 group-title="Entertainment",Pop TV
-https://fl41.moveonjoy.com/Pop_TV/index.m3u8
+https://fl1.moveonjoy.com/Pop_TV/index.m3u8
 #EXTINF:-1 group-title="Entertainment",Popstar! TV (1080p) [Not 24/7]
 https://linear-10.frequency.stream/dist/plex/10/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment",Power Max Radio TV (720p)
@@ -927,24 +929,28 @@ https://live20.bozztv.com/giatv/giatv-Infinittyott/Infinittyott/playlist.m3u8
 https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119694/sparktv/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment",ST Europe Channel (720p)
 https://5f22d76e220e1.streamlock.net/steuropetv/steuropetv/playlist.m3u8
+#EXTINF:-1 group-title="Entertainment",Star Bharat HD (1080p)
+http://87.255.35.150:18555/
 #EXTINF:-1 group-title="Entertainment",Star Channel (720p)
 http://livestar.siliconweb.com/media/star1/star1mediumhd.m3u8
 #EXTINF:-1 group-title="Entertainment",STAR International (720p)
 https://livestar.siliconweb.com/starvod/star_int/star_int.m3u8
 #EXTINF:-1 group-title="Entertainment",Star Jalsha HD (1080p)
-https://live.dinesh29.com.np/stream/jiotvplus/starjalshahd/master.m3u8
+http://87.255.35.150:18237/
 #EXTINF:-1 group-title="Entertainment",Star Kiran (576p)
 https://live.dinesh29.com.np/stream/jiotvplus/starkiran/master.m3u8
 #EXTINF:-1 group-title="Entertainment",Star Maa HD (1080p)
-https://live.dinesh29.com.np/stream/jiotvplus/maahd/master.m3u8
+http://87.255.35.150:18846/
 #EXTINF:-1 group-title="Entertainment",Star Pravah HD (1080p)
-https://live.dinesh29.com.np/stream/jiotvplus/starpravahhd/master.m3u8
+http://87.255.35.150:18447/
 #EXTINF:-1 group-title="Entertainment",Star Suvarna HD (1080p)
 http://87.255.35.150:18545/
+#EXTINF:-1 group-title="Entertainment",Star Vijay HD (1080p)
+http://87.255.35.150:18955/
 #EXTINF:-1 group-title="Entertainment",StarPlus HD (1080p)
 http://116.90.120.149:8000/play/a0b9/index.m3u8
 #EXTINF:-1 group-title="Entertainment",Stories by AMC (1080p)
-http://fl41.moveonjoy.com/AMC_NETWORK/index.m3u8
+http://fl1.moveonjoy.com/AMC_NETWORK/index.m3u8
 #EXTINF:-1 group-title="Entertainment",Stories by AMC
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e8254118601b80007b4b7ae/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2bd7a7-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=376bc851-10a1-4952-ada7-86e9d28d5845
 #EXTINF:-1 group-title="Entertainment",Sun Neo (1080p)
@@ -983,8 +989,8 @@ https://249553662f3e.ap-south-1.playback.live-video.net/api/video/v1/ap-south-1.
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64c2214c2a7f2200089a0c4b/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7c507a-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=c93e6330-dc43-4864-ad74-9144287f8bbd
 #EXTINF:-1 group-title="Entertainment",This is Bulgaria HD (1080p)
 https://streamer103.neterra.tv/thisisbulgaria/live.m3u8
-#EXTINF:-1 group-title="Entertainment",Timeline
-https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-timelinenz-samsungnz/playlist.m3u8
+#EXTINF:-1 group-title="Entertainment",Timeline (720p)
+https://ldsaaaaaa-timeline-samsungau-awedz.amagi.tv/playlist/ldsAAAAAA-timeline-samsungau/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment",Tin TV (720p) [Not 24/7]
 https://bozztv.com/1gbw5/tintv/tintv/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment",TMZ (720p)
@@ -1032,7 +1038,7 @@ https://cdn.mycloudstream.io/hls/live/broadcast/xn44vdc5/index.m3u8
 #EXTINF:-1 group-title="Entertainment",TVI Reality (720p) [Not 24/7]
 https://video-auth4.iol.pt/live_tvi_reality/live_tvi_reality/edge_servers/tvireality-720_passthrough/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment",TVJ (720p)
-https://fl41.moveonjoy.com/TVJ_CARIBBEAN/index.m3u8
+https://fl1.moveonjoy.com/TVJ_CARIBBEAN/index.m3u8
 #EXTINF:-1 group-title="Entertainment",TVMAX (720p)
 https://bcovlive-a.akamaihd.net/74f665e9ff8447639d4de4b8b458d8ae/us-east-1/6058004209001/playlist_dvr.m3u8
 #EXTINF:-1 group-title="Entertainment",TVS (540p) [Not 24/7]
@@ -1043,6 +1049,8 @@ https://rpn.bozztv.com/gusa/gusa-TVSFlashback/index.m3u8
 https://rpn.bozztv.com/gusa/gusa-tvsvintage/index.m3u8
 #EXTINF:-1 group-title="Entertainment",UMA TV (1080p)
 https://acesso.ecast.site:3011/live/umatvlive.m3u8
+#EXTINF:-1 group-title="Entertainment",Undercover Boss (720p)
+https://all3media-international-undercoverboss-1-au.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment",Univers TV (720p)
 https://cloud2.streaminglivehd.com:1936/universfaller/universfaller/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment",Vati Lao TV (720p)
@@ -1077,8 +1085,8 @@ https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119691/wasafitv/playlist.m
 https://wdrfs247.akamaized.net/hls/live/681509/wdr_msl4_fs247/index.m3u8
 #EXTINF:-1 group-title="Entertainment",Wipeout
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62e92a6f087606000767eae2/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7c9e96-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=b45ce7a5-d6f7-4e7a-b14e-762d2646c053
-#EXTINF:-1 group-title="Entertainment",Wipeout Xtra (720p)
-https://livetv-fa.tubi.video/wipeout-xtra/playlist.m3u8
+#EXTINF:-1 group-title="Entertainment",Wipeout Xtra (1080p)
+https://amg00627-banijaygroup-wipeoutxtraau-samsungau-ashbl.amagi.tv/playlist/amg00627-banijaygroup-wipeoutxtraau-samsungau/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment",WorlVybz TV (360p)
 https://tv.wowzahosting.com:3292/stream/play.m3u8
 #EXTINF:-1 group-title="Entertainment",WRUA-DT1 (Tiva TV) (720p)
@@ -1109,6 +1117,8 @@ https://ss9.domint.net:3036/yv_str/yunavision/playlist.m3u8
 https://cloud.fastchannel.es/mic/manifiest/hls/zaztv/zaztv.m3u8
 #EXTINF:-1 group-title="Entertainment",Zee Bangla (1080p)
 http://87.255.35.150:18238/
+#EXTINF:-1 group-title="Entertainment",Zee One (1080p)
+https://amg17931-zee-amg17931c6-samsung-au-8872.playouts.now.amagi.tv/playlist/amg17931-asiatvusaltdfast-zeeworld-samsungau/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment",Zoy TV Turcas (720p)
 https://mio.zoymilton.com/ZoyTurcas/index.m3u8
 #EXTINF:-1 group-title="Entertainment",ZoyTV Plus (720p)

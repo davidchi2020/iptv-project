@@ -655,8 +655,8 @@ http://seb.sason.top/ptv/ftv.php?id=tw
 https://uvotv-aniview.global.ssl.fastly.net/hls/live/2120686/gabon24/playlist.m3u8
 #EXTINF:-1 group-title="News",Galaxy TV (576p)
 https://5d846bfda90fc.streamlock.net:1935/live/galaxytv/playlist.m3u8
-#EXTINF:-1 group-title="News",GB News
-https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-gbnewsnz-samsungnz/playlist.m3u8
+#EXTINF:-1 group-title="News",GB News (1080p)
+https://amg01076-lightningintern-gbnewsau-samsungau-et7fz.amagi.tv/playlist/amg01076-lightningintern-gbnewsau-samsungau/playlist.m3u8
 #EXTINF:-1 group-title="News",GBC News
 https://uvotv-aniview.global.ssl.fastly.net/hls/live/2120431/gtv/playlist.m3u8
 #EXTINF:-1 group-title="News",Geo News (576p)
@@ -1042,7 +1042,7 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 #EXTINF:-1 group-title="News",News Nation (1080p)
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/6cd2f649739a45ca9de1daf81cc7d0f2/index.m3u8
 #EXTINF:-1 group-title="News",News Nation (720p)
-https://fl41.moveonjoy.com/NEWS_NATION/index.m3u8
+https://fl1.moveonjoy.com/NEWS_NATION/index.m3u8
 #EXTINF:-1 group-title="News",News Tamil 24x7 (1080p)
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/news-tamil-24x7/index.m3u8
 #EXTINF:-1 group-title="News",Newsmax 2 (720p)
@@ -1311,6 +1311,8 @@ https://live.enhdtv.com:8081/8060/index.m3u8
 https://video.primexsports.com/suchnews/live/playlist.m3u8
 #EXTINF:-1 group-title="News",Sudarshan News (1080p)
 https://ott.livelegitpro.in/sudarshannews/sudarshannews/tracks-v1/index.fmp4.m3u8
+#EXTINF:-1 group-title="News",Sun News (576p)
+http://87.255.35.150:18852/
 #EXTINF:-1 group-title="News",Suno News HD (720p)
 https://cdn.bmstudiopk.com/sunotv/live/playlist.m3u8
 #EXTINF:-1 group-title="News",Sunu Label TV (480p) [Not 24/7]
@@ -1500,7 +1502,7 @@ https://stream.badinan.xyz/welat/tv/playlist.m3u8
 #EXTINF:-1 group-title="News",WELT (1080p)
 https://viamotionhsi.netplus.ch/live/eds/n24/browser-HLS8/n24.m3u8
 #EXTINF:-1 group-title="News",WFTS-DT1
-https://fl41.moveonjoy.com/FL_Tampa_ABC/index.m3u8
+https://fl1.moveonjoy.com/FL_Tampa_ABC/index.m3u8
 #EXTINF:-1 group-title="News",WION (1080p)
 https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
 #EXTINF:-1 group-title="News",WLS ABC 7 News (Chicago IL) (720p)

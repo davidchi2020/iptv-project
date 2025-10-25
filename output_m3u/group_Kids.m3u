@@ -92,11 +92,11 @@ http://116.90.120.149:8000/play/a0b3/index.m3u8
 #EXTINF:-1 group-title="Kids",Disney Junior
 http://185.236.229.62:9981/play/a06n
 #EXTINF:-1 group-title="Kids",Disney Junior East
-https://fl41.moveonjoy.com/DISNEY_JR/index.m3u8
+https://fl1.moveonjoy.com/DISNEY_JR/index.m3u8
 #EXTINF:-1 group-title="Kids",Disney XD (576p)
 http://185.236.229.62:9981/play/a07c
 #EXTINF:-1 group-title="Kids",Disney XD (720p)
-http://fl41.moveonjoy.com/DISNEY_XD/index.m3u8
+http://fl1.moveonjoy.com/DISNEY_XD/index.m3u8
 #EXTINF:-1 group-title="Kids",DR Ramasjang (720p) [Geo-blocked]
 https://drlive03hls.akamaized.net/hls/live/2014190/drlive03/master.m3u8
 #EXTINF:-1 group-title="Kids",ducktv (720p)
@@ -127,6 +127,8 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60
 https://epiconvh.akamaized.net/live/gubbare/master.m3u8
 #EXTINF:-1 group-title="Kids",Gulli (720p)
 https://viamotionhsi.netplus.ch/live/eds/gulli/browser-HLS8/gulli.m3u8
+#EXTINF:-1 group-title="Kids",Hungama TV (576p)
+http://87.255.35.150:18811/
 #EXTINF:-1 group-title="Kids",Iunior TV (1080p)
 https://5f22d76e220e1.streamlock.net/iuniortv/iuniortv/chunklist_w774879328.m3u8
 #EXTINF:-1 group-title="Kids",JiaJia Cartoon
@@ -135,8 +137,8 @@ http://49.113.179.174:4022/udp/238.125.0.158:5140
 https://saruman1.tharen.cfd/jimy/usergenq3n0lz7kr.m3u8
 #EXTINF:-1 group-title="Kids",Jojko (720p)
 https://live.cdn.joj.sk/live/andromeda/jojko-720.m3u8
-#EXTINF:-1 group-title="Kids",Kartoon Channel
-https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-kartoonchannel-samsungnz/playlist.m3u8
+#EXTINF:-1 group-title="Kids",Kartoon Channel (1080p)
+https://lightning-fnf-samsungaus.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Kids",Ketchup TV (720p)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=13171
 #EXTINF:-1 group-title="Kids",Kiddiwinks (720p)
@@ -190,7 +192,7 @@ https://nonprod-sports-cohort.jiocinema.com/bpk-tv/JC_NickHD/JCHLS/index.m3u8
 #EXTINF:-1 group-title="Kids",Nick Jr India (1080p)
 https://prod-sports-north-gm.jiocinema.com/bpk-tv/Nick_Junior_voot_MOB/Fallback/index.m3u8
 #EXTINF:-1 group-title="Kids",Nick Jr. East (720p)
-https://fl41.moveonjoy.com/NICK_JR/index.m3u8
+https://fl1.moveonjoy.com/NICK_JR/index.m3u8
 #EXTINF:-1 group-title="Kids",Nick Jr. Pluto TV
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62bdb75c3afd1200079146a6/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7b3f07-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=08e1ba5b-febb-444b-927d-f017f608e57e
 #EXTINF:-1 group-title="Kids",Nickelodeon (576p)
@@ -296,7 +298,7 @@ https://media1.livaat.com/static/TAHA_TV/playlist.m3u8
 #EXTINF:-1 group-title="Kids",Team Spirit
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60f9ebb06f0b3d000746fbdb/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2bfeb2-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=2b8fbc7f-29d9-4732-92d1-24f50c0be761
 #EXTINF:-1 group-title="Kids",TeenNick
-https://fl41.moveonjoy.com/Teen_Nick/index.m3u8
+https://fl1.moveonjoy.com/Teen_Nick/index.m3u8
 #EXTINF:-1 group-title="Kids",Tiny Pop (1080p)
 https://amg01753-narrativeuk-amg01753c1-lg-gb-1830.playouts.now.amagi.tv/playlist/amg01753-narrativeuk-tinypop-lggb/playlist.m3u8
 #EXTINF:-1 group-title="Kids",Tiny Pop +1 (576p)
@@ -305,8 +307,8 @@ http://92.114.85.72:8000/play/a08p
 https://restreamer1.tnt.ba/hls/tntkids.m3u8
 #EXTINF:-1 group-title="Kids",Tom And Jerry
 https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
-#EXTINF:-1 group-title="Kids",Toon Goggles (720p)
-https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=37
+#EXTINF:-1 group-title="Kids",ToonGoggles (720p)
+https://amg01329-otterainc-toongoggles-samsungau-ad-4c.amagi.tv/playlist/amg01329-otterainc-toongoggles-samsungau/playlist.m3u8
 #EXTINF:-1 group-title="Kids",Toonmax TV
 http://49.113.179.174:4022/udp/238.125.4.28:5140
 #EXTINF:-1 group-title="Kids",Tortues Ninja TV
@@ -351,8 +353,6 @@ https://radm.mediacdn.ru/cdn/radost/playlist.m3u8
 http://31.148.48.15/Rizhiy/index.m3u8
 #EXTINF:-1 group-title="Kids",Смайл ТВ
 https://5f05e059699ae.streamlock.net/WEB_Smilik/ngrp:Smilik.stream-adaptive/playlist.m3u8
-#EXTINF:-1 group-title="Kids",СуперГерои
-http://178.124.179.122:8088/Malish/index.m3u8
 #EXTINF:-1 group-title="Kids",Тамыр (Уфа)
 https://bstonline.mediacdn.ru/cdn/tamyr/playlist.m3u8
 #EXTINF:-1 group-title="Kids",УТРК Баластан (480p) [Not 24/7]

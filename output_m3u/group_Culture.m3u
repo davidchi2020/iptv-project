@@ -27,6 +27,8 @@ https://atr-live.cdn-01.cosmonova.net.ua/hls/atr_ua_hi/index.m3u8
 https://59d7d6f47d7fc.streamlock.net/auroraarte/auroraarte/playlist.m3u8
 #EXTINF:-1 group-title="Culture",Balchi TV (720p)
 https://livertmptwo.com:19360/balchirelaytv/balchirelaytv.m3u8
+#EXTINF:-1 group-title="Culture",Bali TV (576p)
+http://103.180.118.5:9981/stream/channelid/916002722
 #EXTINF:-1 group-title="Culture",Baynounah TV (1080p)
 https://vo-live-media.cdb.cdn.orange.com/Content/Channel/Baynounah/HLS/index.m3u8
 #EXTINF:-1 group-title="Culture",Bel'Afrika Media TV (1080p)
@@ -86,7 +88,7 @@ https://fnx.lls.pbs.org/index.m3u8
 #EXTINF:-1 group-title="Culture",FNX [Geo-blocked]
 https://castus-vod-dev.s3.amazonaws.com/vod_clients/kvcr/live/ch1/video.m3u8
 #EXTINF:-1 group-title="Culture",Fox Soul
-https://fl41.moveonjoy.com/FOX_SOUL/index.m3u8
+https://fl1.moveonjoy.com/FOX_SOUL/index.m3u8
 #EXTINF:-1 group-title="Culture",Garshom TV (360p) [Not 24/7]
 https://og2qd3aal7an-hls-live.5centscdn.com/garshomtv/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Culture",Greek TV London (720p) [Not 24/7]
@@ -153,8 +155,8 @@ https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(MRT_2)/index.m3u8
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60511efd71ec430007f50d97/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a29f6-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=e048dd46-54cc-485e-b0d7-5ee578a0a861
 #EXTINF:-1 group-title="Culture",Museum TV (1080p)
 https://live2.creacast.com/museum-france/smil:museum-france.smil/master.m3u8
-#EXTINF:-1 group-title="Culture",Museum TV Fast
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01492-secomsasmediart-museumtv-eng-samsungse/playlist.m3u8
+#EXTINF:-1 group-title="Culture",Museum TV Fast (1080p)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01492-secomsasmediart-museumtv-en-plex/playlist.m3u8
 #EXTINF:-1 group-title="Culture",Natural TV (720p) [Not 24/7]
 http://broadcasttr.com:1935/naturaltv/bant1/playlist.m3u8
 #EXTINF:-1 group-title="Culture",Nei Monggol TV 2 Mongolian Culture Channel
@@ -184,7 +186,7 @@ https://orf3.mdn.ors.at/orf/orf3/qxa/manifest.m3u8
 #EXTINF:-1 group-title="Culture",Orler TV (420p) [Not 24/7]
 https://w1.mediastreaming.it/orlertv/livestream/playlist.m3u8
 #EXTINF:-1 group-title="Culture",Ovation (1080p)
-https://fl41.moveonjoy.com/Ovation/index.m3u8
+https://fl1.moveonjoy.com/Ovation/index.m3u8
 #EXTINF:-1 group-title="Culture",Paci Contemporary Channel (720p)
 https://5f22d76e220e1.streamlock.net/pacicontemporarychannel/pacicontemporarychannel/playlist.m3u8
 #EXTINF:-1 group-title="Culture",Pardesi TV (720p) [Not 24/7]
@@ -221,8 +223,8 @@ https://streaming.cloudecast.com/hls/tvlifeamerica/index.m3u8
 https://video01.kshost.com.br/lourdes52007/lourdes52007/playlist.m3u8
 #EXTINF:-1 group-title="Culture",TVR Cultural (1080p) [Geo-blocked]
 https://tvr-tvrcultural.cdn.zitec.com/live/tvrcultural/main.m3u8
-#EXTINF:-1 group-title="Culture",USMPTV
-https://live-evg1.tv360.bitel.com.pe/bitel/usmp/playlist.m3u8
+#EXTINF:-1 group-title="Culture",USMPTV (720p)
+https://streamusmptv.ddns.net/live/stream.m3u8
 #EXTINF:-1 group-title="Culture",Wedding TV
 https://stream.cp.ets-sistemi.it:1936/profservtv/profservtv/playlist.m3u8
 #EXTINF:-1 group-title="Culture",Yakaar TV (1080p)

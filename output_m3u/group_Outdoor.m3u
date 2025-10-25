@@ -39,8 +39,8 @@ http://78.130.250.2:8023/play/a02m/index.m3u8
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65cf8d7428730900087c5907/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7b3f04-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=755f7df4-39e5-40b0-b9c3-628ab31d2612
 #EXTINF:-1 group-title="Outdoor",Outdoor America
 https://linear-600.frequency.stream/dist/xumo/600/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Outdoor",Outdoor Channel
-https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
+#EXTINF:-1 group-title="Outdoor",Outdoor Channel (1080p)
+https://amg00718-outdoorchannela-outdoortv-samsungau-uc7mp.amagi.tv/playlist/amg00718-outdoorchannela-outdoortv-samsungau/playlist.m3u8
 #EXTINF:-1 group-title="Outdoor",Outside TV
 https://outsidetv-firetv.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Outdoor",Outside TV Plus (1080p)

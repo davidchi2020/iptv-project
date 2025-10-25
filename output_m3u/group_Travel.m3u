@@ -19,8 +19,8 @@ http://media4.tripsmarter.com:1935/LiveTV/BTVHD/playlist.m3u8
 https://livecdn.live247stream.com/discoverpakistan/web/playlist.m3u8
 #EXTINF:-1 group-title="Travel",Go2Travel (1080p)
 https://go2thls.wns.live/hls/stream.m3u8
-#EXTINF:-1 group-title="Travel",Go USA
-https://brandusa-gousa-1-in.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="Travel",Go USA TV (720p)
+https://brandusa-gousa-1-be.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="Travel",GoTraveler (720p) [Geo-blocked]
 https://amg09501-amg09501c1-klowdtv-us-2398.playouts.now.amagi.tv/playlist/amg09501-quester-gotraveler-klowdtvus/playlist.m3u8
 #EXTINF:-1 group-title="Travel",Jamaica Travel Channel (720p)
@@ -54,7 +54,7 @@ https://cloudflare.streamgato.us:3227/live/teleturtvlive.m3u8
 #EXTINF:-1 group-title="Travel",Travel TV (576p)
 https://streamer103.neterra.tv/travel/live.m3u8
 #EXTINF:-1 group-title="Travel",Travelxp (720p)
-https://27c980761ff9437d929e64647afe183a.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_TravelXP/playlist.m3u8
+https://travelxp-travelxp-1-au.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="Travel",Travelxp Netherlands
 https://travelxp-travelxp-3-nl.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="Travel",Turistik TV (720p)
