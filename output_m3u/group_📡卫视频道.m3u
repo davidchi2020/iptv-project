@@ -12,7 +12,7 @@ http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
 #EXTINF:-1 group-title="📡卫视频道",湖北卫视" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/湖北卫视.png" group-title="📡卫视频道
 http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010057
 #EXTINF:-1 group-title="📡卫视频道",黑龙江卫视" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/黑龙江卫视.png" group-title="📡卫视频道
-http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010056
+http://113.106.171.234:8899/rtp/239.20.0.91:3036
 #EXTINF:-1 group-title="📡卫视频道",安徽卫视" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/安徽卫视.png" group-title="📡卫视频道
 http://php.jdshipin.com/TVOD/hljyd.php?id=3221226391
 #EXTINF:-1 group-title="📡卫视频道",重庆卫视" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/重庆卫视.png" group-title="📡卫视频道

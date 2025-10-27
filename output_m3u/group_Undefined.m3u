@@ -2365,8 +2365,6 @@ https://nrk-live-no.akamaized.net/nrk1_dk6/muxed.m3u8
 https://nrk-live-no.akamaized.net/nrk_tegnspraak/muxed.m3u8
 #EXTINF:-1 group-title="Undefined",NS TV (720p) [Not 24/7]
 https://til.pp.ua:3262/live/nstv7live.m3u8
-#EXTINF:-1 group-title="Undefined",NTD TV UK (New Tang Dynasty Television)
-https://ntd02.akamaized.net/NTD-UK/index.m3u8
 #EXTINF:-1 group-title="Undefined",NTV+
 https://2-fss-1.streamhoster.com/pl_122/201748-1431018-1/chunklist.m3u8
 #EXTINF:-1 group-title="Undefined",Nudu
@@ -3491,6 +3489,8 @@ https://liveingesta118.cdnmedia.tv/cardedeutvlive/smil:live.smil/playlist.m3u8
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64be635a40962900080aaca5/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b209802-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=dd3f1fc3-4840-421b-aa93-6670bb219b9a
 #EXTINF:-1 group-title="Undefined",Rupasi Bangla (720p)
 https://cdn-4.pishow.tv/live/1039/master.m3u8
+#EXTINF:-1 group-title="Undefined",Rupavahini
+https://edge2-moblive.yuppcdn.net/transsd/smil:runi01.smil/playlist.m3u8?dvr
 #EXTINF:-1 group-title="Undefined",Rustavi 2
 http://31.146.5.178:8087/play/a008/index.m3u8
 #EXTINF:-1 group-title="Undefined",Rustic Retreats
@@ -4225,8 +4225,8 @@ https://video.telesafor.com/hls/video.m3u8
 https://movil.ejeserver.com/live/telesanjacinto.m3u8
 #EXTINF:-1 group-title="Undefined",Tele Uno (720p) [Not 24/7]
 http://tv.teleunotv.cr:1935/TVUNO/TVUNO/playlist.m3u8
-#EXTINF:-1 group-title="Undefined",Tele Yucatan [Geo-blocked]
-https://5ca3e84a76d30.streamlock.net/teleyucatan/videoteleyucatan/playlist.m3u8
+#EXTINF:-1 group-title="Undefined",Tele Yucatan (1080p) [Geo-blocked]
+https://5ca3e84a76d30.streamlock.net:443/teleyucatan/videoteleyucatan/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",Teleamazonas (1080p)
 https://teleamazonas-live.cdn.vustreams.com/live/fd4ab346-b4e3-4628-abf0-b5a1bc192428/live.isml/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",TeleArena (480p)
