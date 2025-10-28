@@ -5131,6 +5131,8 @@ http://gargoyle.tomkow.pl/hls/tvt.m3u8
 https://livestreaming.b67buv2.tweedekamer.nl/live/klompezaal/index.m3u8?hd=1&keyframes=1&subtitles=live
 #EXTINF:-1 group-title="Undefined",TYT Turk
 https://cdn-tytturk.yayin.com.tr/tytturk/index.m3u8
+#EXTINF:-1 group-title="Undefined",U Channel (720p)
+https://ams.juraganstreaming.com:5443/LiveApp/streams/uchannel1.m3u8
 #EXTINF:-1 group-title="Undefined",U Los Lagos TV (1080p) [Not 24/7]
 http://tv.ulagos.cl/web/live.m3u8
 #EXTINF:-1 group-title="Undefined",U&W
@@ -5141,8 +5143,6 @@ http://92.114.85.72:8000/play/aOb3
 https://vbfast-c.viebit.com/65ea794b-dd82-41ce-8e98-a9177289a063/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",UçanKuş TV (720p)
 https://ucankus-live.cdnnew.com/ucankus/ucankus.m3u8
-#EXTINF:-1 group-title="Undefined",UCL (720p)
-https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8
 #EXTINF:-1 group-title="Undefined",UCV TV (720p)
 https://unlimited2-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",Udaya TV (1080p)
@@ -5651,6 +5651,8 @@ https://dvrfl03.bozztv.com/hondu-cbsorlando/index.m3u8
 https://dvrfl03.bozztv.com/hondu/hondu-pbs-kids/index.m3u8
 #EXTINF:-1 group-title="Undefined",WLNG Radio (410p) [Not 24/7]
 http://wlngstudiowebcam.srfms.com:1935/wlngstudiowebcam/livestream/playlist.m3u8
+#EXTINF:-1 group-title="Undefined",WMBC-DT1
+http://61ce5915.amazzin.pw/iptv/FF38ZQWZHTSV8T4XX9RDZYLB/1098/index.m3u8
 #EXTINF:-1 group-title="Undefined",WMGT-TV News (Macon GA) (720p)
 https://townnews.g-mana.live/media/e6909128-cd42-4690-8340-4b8a49455666/main.m3u8
 #EXTINF:-1 group-title="Undefined",WMOR-TV News Lakeland FL (720p)
@@ -5663,8 +5665,8 @@ https://wmx-hiphop-xumo.amagi.tv/playlist.m3u8
 https://wmx-pop-xumo.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",WMX Rock
 https://wmxrock-xumo.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="Undefined",WNBC-DT1
-https://fl1.moveonjoy.com/NBC_EAST/index.m3u8
+#EXTINF:-1 group-title="Undefined",WNBC-DT1 (720p) [Geo-blocked]
+https://e1.thetvapp.to/hls/WNBCDT1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Undefined",WNET-DT1
 https://e5.thetvapp.to/hls/WNET/index.m3u8
 #EXTINF:-1 group-title="Undefined",WNJU-DT1 (360p)
@@ -5715,8 +5717,6 @@ http://104.255.88.155/ion/index.m3u8
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00327-coxmediagroup-wsbbreakingnews-ono/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",WSOC-DT1 (1080p)
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00327-coxmediagroup-wsocbreaking-ono/playlist.m3u8
-#EXTINF:-1 group-title="Undefined",WTMO-CD1
-https://dvrfl03.bozztv.com/hondu-telexitos/index.m3u8
 #EXTINF:-1 group-title="Undefined",WTOG-DT1
 https://fl1.moveonjoy.com/FL_Tampa_CW44/index.m3u8
 #EXTINF:-1 group-title="Undefined",WTTW-DT1

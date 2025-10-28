@@ -223,6 +223,8 @@ https://streaming.cloudecast.com/hls/tvlifeamerica/index.m3u8
 https://video01.kshost.com.br/lourdes52007/lourdes52007/playlist.m3u8
 #EXTINF:-1 group-title="Culture",TVR Cultural (1080p) [Geo-blocked]
 https://tvr-tvrcultural.cdn.zitec.com/live/tvrcultural/main.m3u8
+#EXTINF:-1 group-title="Culture",UCL (720p)
+https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8
 #EXTINF:-1 group-title="Culture",USMPTV (720p)
 https://streamusmptv.ddns.net/live/stream.m3u8
 #EXTINF:-1 group-title="Culture",Wedding TV
