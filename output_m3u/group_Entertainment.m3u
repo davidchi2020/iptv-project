@@ -412,7 +412,7 @@ http://stream1.ai-net.net:1935/gtv1/_definst_/smil:gtv.smil/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment",Grit
 https://fl1.moveonjoy.com/GRIT_TV/index.m3u8
 #EXTINF:-1 group-title="Entertainment",Grit Xtra (1080p)
-https://livetv-fa.tubi.video/grit-extra/playlist.m3u8
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-gritxtra-tablo/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment",Guaro TV (1080p)
 https://streamtv.intervenhosting.net:3592/live/guarotvbqtolive.m3u8
 #EXTINF:-1 group-title="Entertainment",Guinee TV1
