@@ -2497,8 +2497,6 @@ https://eu1.servers10.com:8081/8030/index.m3u8
 http://96.68.164.217/live-13/live/live.m3u8
 #EXTINF:-1 group-title="General",Marka TV [Not 24/7]
 https://5790d294af2dc.streamlock.net/markatv/markatv/playlist.m3u8
-#EXTINF:-1 group-title="General",Markíza (1080p)
-http://88.212.15.27/live/test_markiza_25p/playlist.m3u8
 #EXTINF:-1 group-title="General",MÁS TV (720p)
 https://s.emisoras.tv:8081/mastvgt/playlist.m3u8
 #EXTINF:-1 group-title="General",Mashariki TV (720p) [Not 24/7]
@@ -3511,8 +3509,6 @@ https://d2eanln3bsfb0d.cloudfront.net/nlpo/clr-nlpo/rtvmeppel/index.m3u8
 https://ms7.mx-cd.net/tv/262-2600774/RTV_Nunspeet.smil/playlist.m3u8
 #EXTINF:-1 group-title="General",RTV Parkstad (1080p)
 https://live.streamteam.eu:8443/parkstad/parkstad/tv/playlist.m3u8
-#EXTINF:-1 group-title="General",RTV Rijnmond Extra (1080p)
-http://dcur8bjarl5c2.cloudfront.net/live/rijnmond/tv-extra/index.m3u8
 #EXTINF:-1 group-title="General",RTV Riobamba (720p) [Not 24/7]
 https://sv72.ecuaradiotv.net/rtvhd/live/manifest.m3u8
 #EXTINF:-1 group-title="General",RTV Rwanda (480p) [Not 24/7]
@@ -4243,8 +4239,6 @@ https://live20.bozztv.com/akamaissh101/ssh101/tvmontanahd/playlist.m3u8
 http://95.105.193.219:88/hls/tvm.m3u8
 #EXTINF:-1 group-title="General",TV NOE+ (720p)
 https://n105.quickmedia.tv/noe-2-abr/noe-2-abr/playlist_dvr.m3u8
-#EXTINF:-1 group-title="General",TV Nova (1080p)
-http://88.212.15.19/live/nova_avc_25p/playlist.m3u8
 #EXTINF:-1 group-title="General",TV NOVA 12 (576p) [Not 24/7]
 http://151.236.247.171:8080/nova/index.m3u8
 #EXTINF:-1 group-title="General",TV Nové Zámky (486p) [Not 24/7]
@@ -4355,6 +4349,8 @@ https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tvipt/s
 https://video-auth4.iol.pt/live_tvi_africa/live_tvi_africa/edge_servers/tviafrica-480p/playlist.m3u8
 #EXTINF:-1 group-title="General",TVitapé (720p)
 https://stream01.msolutionbrasil.com.br/hls/tvitape/live.m3u8
+#EXTINF:-1 group-title="General",TVJ (720p) [Not 24/7]
+https://vod2live.univtec.com/manifest/a99a1804-dc83-411f-8c1c-b62f08cdfa59.m3u8
 #EXTINF:-1 group-title="General",TVK (720p)
 https://live.kh.malimarcdn.com/live/tvk.stream/playlist.m3u8
 #EXTINF:-1 group-title="General",TVM
