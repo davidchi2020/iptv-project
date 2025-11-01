@@ -1064,7 +1064,7 @@ https://5a1178b42cc03.streamlock.net/8212/8212/playlist.m3u8
 #EXTINF:-1 group-title="General",CCX Media North Brooklyn Park MN (1080p)
 https://reflect-ccx.cablecast.tv/live-9/live/live.m3u8
 #EXTINF:-1 group-title="General",CDN (720p)
-http://154.88.160.2:80/CDN/index.m3u8
+http://154.88.160.2/CDN/index.m3u8
 #EXTINF:-1 group-title="General",Ceiba Vision Canal 36
 https://dvrfl03.bozztv.com/hondu/hondu-ceibavisionhd/index.m3u8
 #EXTINF:-1 group-title="General",Cekmeköy TV (1080p)
@@ -1178,7 +1178,7 @@ https://ss2.tvrdomi.com:1936/colometv/colometv/playlist.m3u8
 #EXTINF:-1 group-title="General",Color Vision (576p) [Not 24/7]
 http://190.110.36.254/COLORVISION/index.m3u8
 #EXTINF:-1 group-title="General",Colors Rishtey Asia (576p)
-http://87.255.35.150:18886/
+http://87.255.35.150:18886
 #EXTINF:-1 group-title="General",Columna TV (720p)
 http://live.columnatv.ro:1935/columnatv/live/playlist.m3u8
 #EXTINF:-1 group-title="General",COM Brasil (1080p) [Not 24/7]
@@ -2099,8 +2099,8 @@ http://82.212.74.2:8000/live/7311.m3u8
 https://playyonogames.in/live.php?format=.m3u8&id=710
 #EXTINF:-1 group-title="General",Kalac TV (1080p)
 https://edge13.vedge.infomaniak.com/livecast/ik:kalactv/chunklist_w280736538.m3u8
-#EXTINF:-1 group-title="General",Kalaignar TV (396p)
-https://segment.yuppcdn.net/240122/kalaignartv/playlist.m3u8
+#EXTINF:-1 group-title="General",Kalaignar TV (480p)
+https://edge2-moblive.yuppcdn.net/drm1/smil:kalaignartvdrm.smil/chunklist_b996000.m3u8
 #EXTINF:-1 group-title="General",Kameme TV
 https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119696/kamemetv/playlist.m3u8
 #EXTINF:-1 group-title="General",KAN 11 Israel (1080p)
@@ -2309,8 +2309,6 @@ https://kamery.kukni.sk:8181/memfs/fb00d981-d2d4-4d69-bb44-a9ff6aa25a76.m3u8
 https://live2.telvi.de/hls/l-tv_s1.m3u8
 #EXTINF:-1 group-title="General",L@b TV (1080p)
 http://live.sloode.com:1935/labtv_live/labtv/playlist.m3u8
-#EXTINF:-1 group-title="General",LA7
-https://d15umi5iaezxgx.cloudfront.net/LA7/CLN/HLS-B/Live.m3u8
 #EXTINF:-1 group-title="General",LA7d (720p)
 https://d15umi5iaezxgx.cloudfront.net/LA7D/CLN/HLS-B/Live.m3u8
 #EXTINF:-1 group-title="General",LA7d HD
@@ -3792,7 +3790,7 @@ https://5790d294af2dc.streamlock.net/Teleproyecto/Teleproyecto/playlist.m3u8
 #EXTINF:-1 group-title="General",Tele Roma Uno (720p)
 https://stream9.xdevel.com/video0s976607-1377/stream/playlist_dvr.m3u8
 #EXTINF:-1 group-title="General",Tele Sahel
-https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119033/telesahel/playlist.m3u8
+https://mediaserver1.castpin.com/hls/telesahel/index.m3u8
 #EXTINF:-1 group-title="General",Tele Tchad (1080p)
 https://strhlslb01.streamakaci.tv/str_tchad_tchad/str_tchad_multi/playlist.m3u8
 #EXTINF:-1 group-title="General",Tele Universal DC (576p) [Geo-blocked]
@@ -4342,7 +4340,7 @@ https://srv5.zcast.com.br/tvcommaceio/tvcommaceio/playlist.m3u8
 #EXTINF:-1 group-title="General",TVG2 (720p) [Geo-blocked]
 https://crtvg-tvg2.flumotion.cloud/playlist.m3u8
 #EXTINF:-1 group-title="General",TVGE
-https://uvotv-aniview.global.ssl.fastly.net/hls/live/2120430/tvge/playlist.m3u8
+http://rtmp.ott.mx1.com/tvge1/tvge1/playlist.m3u8
 #EXTINF:-1 group-title="General",TVI (720p)
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tvipt/sh/tvi.m3u8
 #EXTINF:-1 group-title="General",TVI África (480p) [Not 24/7]
@@ -4605,8 +4603,8 @@ https://5caf24a595d94.streamlock.net:1937/8132/8132/playlist.m3u8
 http://htvint.mada.ps:8889/orient/index.m3u8
 #EXTINF:-1 group-title="General",WCOT 13 (Tallahassee FL) (720p)
 https://stream.talgov.net/WCOT/smil:WCOT.smil/playlist.m3u8
-#EXTINF:-1 group-title="General",WDR Fernsehen (720p)
-https://wdr-live.ard-mcdn.de/wdr/live/hls/de/master.m3u8
+#EXTINF:-1 group-title="General",WDR Fernsehen (1080p)
+https://viamotionhsi.netplus.ch/live/eds/wdrhd/browser-HLS8/wdrhd.m3u8
 #EXTINF:-1 group-title="General",WDR Fernsehen Aachen (720p) [Geo-blocked]
 https://wdrlokalzeit.akamaized.net/hls/live/2018019-b/wdrlz_aachen/master.m3u8
 #EXTINF:-1 group-title="General",WDR Fernsehen Bielefeld (720p) [Geo-blocked]

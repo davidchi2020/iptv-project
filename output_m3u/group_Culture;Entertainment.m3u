@@ -2,8 +2,8 @@
 #EXTINF:-1 group-title="Culture;Entertainment",Capital 21 (1080p) [Not 24/7]
 https://streamingc21.cdmx.gob.mx/capital21/stream.m3u8
 #EXTINF:-1 group-title="Culture;Entertainment",Jaya Max (576p)
-http://87.255.35.150:18829/
+http://87.255.35.150:18829
 #EXTINF:-1 group-title="Culture;Entertainment",Jaya TV (576p)
-http://87.255.35.150:18820/
+http://87.255.35.150:18820
 #EXTINF:-1 group-title="Culture;Entertainment",TV+ 2
 https://panel.miplay.cl:8082/tvmas2/index.m3u8

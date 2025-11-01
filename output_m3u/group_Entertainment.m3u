@@ -52,7 +52,7 @@ http://hls.protv.md/acasatv/acasatv.m3u8
 #EXTINF:-1 group-title="Entertainment",ACS Network (480p)
 https://5790d294af2dc.streamlock.net/acsnetwork/acsnetwork/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment",Adithya TV (576p)
-http://87.255.35.150:18840/
+http://87.255.35.150:18840
 #EXTINF:-1 group-title="Entertainment",AfroLandTV (1080p)
 https://alt-al.otteravision.com/alt/al/al.m3u8
 #EXTINF:-1 group-title="Entertainment",Aguacate TV (1080p)
@@ -111,8 +111,8 @@ https://mtlivestream.site/asian/ytlive/index.m3u8
 https://cdn4.skygo.mn/live/disk1/AsianBOX/HLSv3-FTA/AsianBOX.m3u8
 #EXTINF:-1 group-title="Entertainment",AsianCrush
 https://amg01201-cinedigmenterta-asiancrush-cineverse-x701o.amagi.tv/playlist/amg01201-cinedigmenterta-asiancrush-cineverse/playlist.m3u8
-#EXTINF:-1 group-title="Entertainment",Asianet HD (720p)
-http://217.20.112.199/asianet/index.m3u8
+#EXTINF:-1 group-title="Entertainment",Asianet HD (1080p)
+http://87.255.35.150:18551
 #EXTINF:-1 group-title="Entertainment",Aspire
 https://fl1.moveonjoy.com/Aspire/index.m3u8
 #EXTINF:-1 group-title="Entertainment",AVT Khyber
@@ -236,21 +236,21 @@ https://streamunoapp.com:3057/live/clarovisiontvlive.m3u8
 #EXTINF:-1 group-title="Entertainment",COCO TV (720p)
 https://cloudflare.streamgato.us:3253/live/canalcocotvlive.m3u8
 #EXTINF:-1 group-title="Entertainment",Colors (1080p)
-https://playyonogames.in/live.php?extension=.m3u8&id=144
+http://87.255.35.150:18890
 #EXTINF:-1 group-title="Entertainment",Colors Bangla (1080p)
-http://87.255.35.150:18236/
+http://87.255.35.150:18236
 #EXTINF:-1 group-title="Entertainment",Colors Gujarati (1080p)
-http://87.255.35.150:18230/
+http://87.255.35.150:18230
 #EXTINF:-1 group-title="Entertainment",Colors Infinity (1080p)
-https://playyonogames.in/live.php?format=.m3u8&id=1158
+http://87.255.35.150:18838
 #EXTINF:-1 group-title="Entertainment",Colors Kannada (1080p)
 http://87.255.35.150:18219
 #EXTINF:-1 group-title="Entertainment",Colors Marathi (1080p)
-http://87.255.35.150:18233/
-#EXTINF:-1 group-title="Entertainment",Colors Super (576p)
-http://87.255.35.150:18445/
+http://87.255.35.150:18233
+#EXTINF:-1 group-title="Entertainment",Colors Super (720p)
+https://playyonogames.in/live.php?format=.m3u8&id=785
 #EXTINF:-1 group-title="Entertainment",Colors Tamil (1080p)
-http://87.255.35.150:18225/
+http://87.255.35.150:18225
 #EXTINF:-1 group-title="Entertainment",Colosal TV (720p) [Not 24/7]
 http://tv.ticosmedia.com:1935/COLOSAL/COLOSAL/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment",Comet (1080p)
@@ -463,8 +463,8 @@ https://kbtv.akamaized.net/hls/live/2031188/kanalbuya/playlist.m3u8
 https://fl1.moveonjoy.com/INSP/index.m3u8
 #EXTINF:-1 group-title="Entertainment",interTV (1080p)
 https://streamtv.intervenhosting.net:3439/hybrid/play.m3u8
-#EXTINF:-1 group-title="Entertainment",ION Plus East (720p)
-https://fl1.moveonjoy.com/ION_Plus/index.m3u8
+#EXTINF:-1 group-title="Entertainment",ION Plus (1080p)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-ionplus-tablo/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment",ION TV East
 https://fl1.moveonjoy.com/ION_TV/index.m3u8
 #EXTINF:-1 group-title="Entertainment",Iris [Geo-blocked]
@@ -920,23 +920,23 @@ https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119694/sparktv/playlist.m3
 #EXTINF:-1 group-title="Entertainment",ST Europe Channel (720p)
 https://5f22d76e220e1.streamlock.net/steuropetv/steuropetv/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment",Star Bharat HD (1080p)
-http://87.255.35.150:18555/
+http://87.255.35.150:18555
 #EXTINF:-1 group-title="Entertainment",Star Channel (720p)
 http://livestar.siliconweb.com/media/star1/star1mediumhd.m3u8
 #EXTINF:-1 group-title="Entertainment",STAR International (720p)
 https://livestar.siliconweb.com/starvod/star_int/star_int.m3u8
 #EXTINF:-1 group-title="Entertainment",Star Jalsha HD (1080p)
-http://87.255.35.150:18237/
+http://87.255.35.150:18237
 #EXTINF:-1 group-title="Entertainment",Star Kiran (576p)
 https://live.dinesh29.com.np/stream/jiotvplus/starkiran/master.m3u8
 #EXTINF:-1 group-title="Entertainment",Star Maa HD (1080p)
-http://87.255.35.150:18846/
+http://87.255.35.150:18846
 #EXTINF:-1 group-title="Entertainment",Star Pravah HD (1080p)
-http://87.255.35.150:18447/
+http://87.255.35.150:18447
 #EXTINF:-1 group-title="Entertainment",Star Suvarna HD (1080p)
-http://87.255.35.150:18545/
+http://87.255.35.150:18545
 #EXTINF:-1 group-title="Entertainment",Star Vijay HD (1080p)
-http://87.255.35.150:18955/
+http://87.255.35.150:18955
 #EXTINF:-1 group-title="Entertainment",StarPlus HD (1080p)
 http://116.90.120.149:8000/play/a0b9/index.m3u8
 #EXTINF:-1 group-title="Entertainment",Stories by AMC (1080p)
@@ -952,7 +952,7 @@ https://livestream10.sunnxt.com/DolbyVision/SuryaTV_HDR/SuryaTV_HDR_Endpoints/Su
 #EXTINF:-1 group-title="Entertainment",Swantham (720p)
 http://131.153.22.8:1935/SWANTHAM/live/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment",Tal TV
-https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119695/taltv/playlist.m3u8
+https://mediaserver1.castpin.com/hls/taltv/index.m3u8
 #EXTINF:-1 group-title="Entertainment",Talkin Live Classics TV (480p)
 https://2-fss-1.streamhoster.com/pl_122/206338-3120682-1/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment",TDM Entertainment Ch. 95 (720p)
@@ -1104,7 +1104,7 @@ https://ss9.domint.net:3036/yv_str/yunavision/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment",ZAZ
 https://cloud.fastchannel.es/mic/manifiest/hls/zaztv/zaztv.m3u8
 #EXTINF:-1 group-title="Entertainment",Zee Bangla (1080p)
-http://87.255.35.150:18238/
+http://87.255.35.150:18238
 #EXTINF:-1 group-title="Entertainment",Zee One (1080p)
 https://amg17931-zee-amg17931c6-samsung-au-8872.playouts.now.amagi.tv/playlist/amg17931-asiatvusaltdfast-zeeworld-samsungau/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment",Zoy TV Turcas (720p)
