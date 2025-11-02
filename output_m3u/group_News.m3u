@@ -341,8 +341,6 @@ https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_MARSEILLEPROV/index.m3u8?end=END
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_NICECOTEDAZUR/index.m3u8?end=END&start=LIVE
 #EXTINF:-1 group-title="News",BFM Normandie (1080p)
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_NORMANDIE/index.m3u8?end=END&start=LIVE
-#EXTINF:-1 group-title="News",BFM Paris Île-de-France (1080p)
-https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_PARIS/index.m3u8?end=END&start=LIVE
 #EXTINF:-1 group-title="News",BFM Toulon Var (1080p)
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TOULONVAR/index.m3u8?end=END&start=LIVE
 #EXTINF:-1 group-title="News",BFM TV (576p)
@@ -868,7 +866,7 @@ https://yayin.kudustv.com/981680400/kudustv/playlist.m3u8
 #EXTINF:-1 group-title="News",Kurdistan 24 (720p)
 https://d1x82nydcxndze.cloudfront.net/live/index.m3u8
 #EXTINF:-1 group-title="News",Kurdsat News (1080p)
-https://iko-streamline-live1.akamaized.net/KurdsatNews/master.m3u8
+https://hlspackager.akamaized.net/live/DB/KURDSAT_NEWS/HLS/KURDSAT_NEWS.m3u8
 #EXTINF:-1 group-title="News",Kurir TV (720p)
 https://kurir-tv.haste-cdn.net/providus/live2805.m3u8
 #EXTINF:-1 group-title="News",Kyiv
