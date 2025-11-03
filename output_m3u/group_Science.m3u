@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 group-title="Science",Cosmos TV (720p)
+https://video.hostingcaaguazu.com:19360/cosmostv/cosmostv.m3u8
 #EXTINF:-1 group-title="Science",Explosión Creativa (720p) [Not 24/7]
 https://vcp.myplaytv.com/explosioncreativa/explosioncreativa/playlist.m3u8
 #EXTINF:-1 group-title="Science",Hiperconectados TV
