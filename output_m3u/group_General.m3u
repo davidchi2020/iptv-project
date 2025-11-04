@@ -4079,6 +4079,8 @@ https://59d39900ebfb8.streamlock.net/TV10SanJuan/TV10SanJuan/playlist.m3u8
 http://gohoski.fvds.ru:3000/mediabay/655/playlist.m3u8
 #EXTINF:-1 group-title="General",TV15 (720p)
 http://198.255.80.170/FTX9_SXM-TV/index.m3u8
+#EXTINF:-1 group-title="General",TV 25
+http://dvrfl05.bozztv.com/gin-tv25/index.m3u8
 #EXTINF:-1 group-title="General",TV43 (720p)
 https://ss5.domint.net:3058/tv43_str/tv43/chunklist_w594470939.m3u8
 #EXTINF:-1 group-title="General",TV47 Kenya
