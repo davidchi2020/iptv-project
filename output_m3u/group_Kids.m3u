@@ -87,6 +87,8 @@ http://116.90.120.149:8000/play/a0bx/index.m3u8
 http://185.236.229.62:9981/play/a07d
 #EXTINF:-1 group-title="Kids",Disney Channel (360p)
 https://e3.thetvapp.to/hls/DisneyChannelEast/index.m3u8
+#EXTINF:-1 group-title="Kids",Disney Channel HD (1080p)
+http://66.102.120.18:8000/play/a013/index.m3u8
 #EXTINF:-1 group-title="Kids",Disney International HD (1080p)
 http://116.90.120.149:8000/play/a0e9/index.m3u8
 #EXTINF:-1 group-title="Kids",Disney Junior (576p)
