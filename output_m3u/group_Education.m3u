@@ -139,8 +139,6 @@ https://reflect-mcsb-vod.cablecast.tv/live-16/live/live.m3u8
 http://96.68.164.217/live-15/live/live.m3u8
 #EXTINF:-1 group-title="Education",Midpen Media Center Youth Education and Sports Channel 28 (720p)
 https://5c2974786200d.streamlock.net/live-chan28/ngrp:ch28_all/playlist.m3u8
-#EXTINF:-1 group-title="Education",Misr Al Zeraya
-https://uvotv-aniview.global.ssl.fastly.net/hls/live/2120977/misralzera3eya/playlist.m3u8
 #EXTINF:-1 group-title="Education",Mobile County Public Schools TV Network (MCPSS)
 https://5b200f5268ceb.streamlock.net/MCPSS/MCPSS247.smil/playlist.m3u8
 #EXTINF:-1 group-title="Education",Multizonas TV (720p)
@@ -207,8 +205,6 @@ http://189.240.210.28:1935/live/setpuebla/playlist.m3u8
 https://fflive-darya-educationtv.b-cdn.net/master.m3u8
 #EXTINF:-1 group-title="Education",Shandong Education TV
 http://49.113.179.174:4022/udp/238.125.0.156:5140
-#EXTINF:-1 group-title="Education",Sudan Edu TV
-https://uvotv-aniview.global.ssl.fastly.net/hls/live/2120913/sudanbasicedu/playlist.m3u8
 #EXTINF:-1 group-title="Education",SVT Kunskapskanalen (720p) [Geo-blocked]
 https://svtk-c.akamaized.net/se/svtk/master.m3u8
 #EXTINF:-1 group-title="Education",Télé-Québec (720p)
@@ -221,8 +217,6 @@ https://tv-e-okul00.medya.trt.com.tr/master.m3u8
 https://tv-e-okul02.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 group-title="Education",TUTV
 https://livestream.telvue.com/templeuni1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
-#EXTINF:-1 group-title="Education",TV7 El maarifa TV (576p)
-http://149.62.177.98:8000/play/a01w/index.m3u8
 #EXTINF:-1 group-title="Education",TV Mackenzie (480p)
 https://player.internetaovivo.com:8443/live_tvmackenzieabr/tvmackenzieabr/playlist.m3u8
 #EXTINF:-1 group-title="Education",TV Maya (480p)

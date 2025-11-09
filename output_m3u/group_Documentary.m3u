@@ -3,8 +3,6 @@
 http://213.57.91.138:8000/play/a06h
 #EXTINF:-1 group-title="Documentary",Al Jazeera Documentary (1080p) [Geo-blocked]
 https://live-hls-apps-ajd-fa.getaj.net/AJD/index.m3u8
-#EXTINF:-1 group-title="Documentary",Al Wathaeqya
-https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119196/alwathaeqyia/playlist.m3u8
 #EXTINF:-1 group-title="Documentary",Asharq Documentary (1080p)
 https://svs.itworkscdn.net/asharqdocumentarylive/asharqdocumentary.smil/playlist_dvr.m3u8
 #EXTINF:-1 group-title="Documentary",Backstage [Geo-blocked]
@@ -151,8 +149,6 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62
 https://livetv.mylifeisgood.net.ru/channels/terra.m3u8
 #EXTINF:-1 group-title="Documentary",TRT Belgesel (720p)
 https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 group-title="Documentary",TV8 El-Dhakira TV (576p)
-http://149.62.177.98:8000/play/a01x/index.m3u8
 #EXTINF:-1 group-title="Documentary",Viasat Explore
 https://tv.arectv29.sbs/live/viasathistory.m3u8
 #EXTINF:-1 group-title="Documentary",Voyager Documentaries

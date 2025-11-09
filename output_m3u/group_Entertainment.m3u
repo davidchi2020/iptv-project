@@ -203,8 +203,6 @@ https://viamotionhsi.netplus.ch/live/eds/teleswizz/browser-HLS8/teleswizz.m3u8
 https://viamotionhsi.netplus.ch/live/eds/teleswizz/browser-dash/teleswizz.mpd
 #EXTINF:-1 group-title="Entertainment",Caribbean World Channel
 https://live-us-cdn-1.tvstartupengine.com/live/playlist-prod-da1ba36f-39ba-4347-acce-c3a31de907f3/index.m3u8
-#EXTINF:-1 group-title="Entertainment",Carthage+
-https://uvotv-aniview.global.ssl.fastly.net/hls/live/2120681/carthageplus/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment",CCTV-3 (2160p)
 http://123.175.209.52:9003/hls/3/index.m3u8
 #EXTINF:-1 group-title="Entertainment",CeeJay TV (480p) [Not 24/7]
@@ -771,8 +769,6 @@ https://oitnhls.wns.live/hls/stream.m3u8
 http://dvrfl05.bozztv.com/vch_vchannel18/index.m3u8
 #EXTINF:-1 group-title="Entertainment",One HD (1080p)
 https://viamotionhsi.netplus.ch/live/eds/onehd/browser-HLS8/onehd.m3u8
-#EXTINF:-1 group-title="Entertainment",One TV
-https://uvotv-aniview.global.ssl.fastly.net/hls/live/2120682/onetv/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment",One TV (720p)
 http://137.59.86.218:1935/live/onetv/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment",One TV Asia (576p) [Geo-blocked]
@@ -815,8 +811,6 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd834c66fe2ca0009
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/612375086abc84000738fc03/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
 #EXTINF:-1 group-title="Entertainment",Pluto TV British TV (720p)
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b68a18823ecb93393cba2f1/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5b68a18823ecb93393cba2f1&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=154&terminate=false&userId=
-#EXTINF:-1 group-title="Entertainment",Pluto TV Courtroom
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62e927ebc2db99000787c00a/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7b8d25-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=3681bac2-c906-4f96-a6ce-650e92a5ab2d
 #EXTINF:-1 group-title="Entertainment",Pluto TV El Conquistador del Fin (720p)
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f280149cec6be00072ab1fc/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&tags=ROKU_CONTENT_TAGS
 #EXTINF:-1 group-title="Entertainment",Pluto TV Game Shows
@@ -991,8 +985,6 @@ https://stream.it-innov.com/tr24/index.m3u8
 https://live20.bozztv.com/giatvplayout7/giatv-208343/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment",TV 1 (576p)
 https://edge4-moblive.yuppcdn.net/trans1sd/smil:tv111.smil/playlist.m3u8
-#EXTINF:-1 group-title="Entertainment",TV6 E-shababiya (1080p)
-http://149.62.177.98:8000/play/a01v/index.m3u8
 #EXTINF:-1 group-title="Entertainment",TV84 (480p)
 https://cdn20.liveonlineservices.com/hls/tv84.m3u8
 #EXTINF:-1 group-title="Entertainment",TV Boqueirão (720p)
@@ -1071,8 +1063,6 @@ https://2-fss-2.streamhoster.com/pl_118/204972-1954132-1/playlist.m3u8
 https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119691/wasafitv/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment",WDR 1 Live (720p)
 https://wdrfs247.akamaized.net/hls/live/681509/wdr_msl4_fs247/index.m3u8
-#EXTINF:-1 group-title="Entertainment",Wipeout
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62e92a6f087606000767eae2/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7c9e96-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=b45ce7a5-d6f7-4e7a-b14e-762d2646c053
 #EXTINF:-1 group-title="Entertainment",Wipeout Xtra (1080p)
 https://amg00627-banijaygroup-wipeoutxtraau-samsungau-ashbl.amagi.tv/playlist/amg00627-banijaygroup-wipeoutxtraau-samsungau/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment",WorlVybz TV (360p)

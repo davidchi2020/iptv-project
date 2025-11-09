@@ -83,8 +83,6 @@ http://123.175.209.52:9003/hls/7/index.m3u8
 https://fast-channels.sinclairstoryline.com/CHARGE/index.m3u8
 #EXTINF:-1 group-title="Movies",CHC Action
 http://180.213.174.225:9901/tsfile/live/1027_1.m3u8?authid=0&key=txiptv&playlive=1
-#EXTINF:-1 group-title="Movies",Cima
-https://uvotv-aniview.global.ssl.fastly.net/10010/dvr/hls/alhayatcinema/playlist.m3u8
 #EXTINF:-1 group-title="Movies",Cine5 (720p)
 https://cdn-cine5tv.yayin.com.tr/cine5tv/cine5tv/playlist.m3u8
 #EXTINF:-1 group-title="Movies",Cine 34 [Geo-blocked]
@@ -301,8 +299,6 @@ https://v2.catcast.tv/content/44051/index.m3u8
 https://fl1.moveonjoy.com/EPIX/index.m3u8
 #EXTINF:-1 group-title="Movies",MGM+ Marquee
 https://fl1.moveonjoy.com/EPIX_DRIVE_IN/index.m3u8
-#EXTINF:-1 group-title="Movies",Mix Hollywood
-https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119198/mix/playlist.m3u8
 #EXTINF:-1 group-title="Movies",MNX (1080p)
 http://87.255.35.150:18936
 #EXTINF:-1 group-title="Movies",MovieBox (720p)
