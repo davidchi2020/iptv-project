@@ -41,6 +41,8 @@ https://streamer3.qna.org.qa/148164528_live/148164528_296.sdp/playlist.m3u8
 https://stream1.antenaplay.ro/as/asrolive1/playlist.m3u8
 #EXTINF:-1 group-title="Sports",Arena Sport 1 (720p)
 http://91.132.74.5:8000/play/a00k
+#EXTINF:-1 group-title="Sports",Arryadia SD
+https://oppomu.serv00.net/maro7/maarry.php?m3u8
 #EXTINF:-1 group-title="Sports",ATG (432p)
 https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free.m3u8
 #EXTINF:-1 group-title="Sports",Awapa Sports TV (1080p) [Not 24/7]
@@ -141,12 +143,40 @@ https://fl1.moveonjoy.com/ESPN_U/index.m3u8
 https://d3ehq1uaxory6w.cloudfront.net/out/v1/35c05f080f4e49a4b4eb031b5a14e505/TVG2index_2.m3u8
 #EXTINF:-1 group-title="Sports",FanDuel Sports Network
 https://fl1.moveonjoy.com/PAC_12/index.m3u8
+#EXTINF:-1 group-title="Sports",FanDuel Sports Network Detroit
+http://e14921eb.amazzin.pw/iptv/PBPM6BS9YL9N39/31003/index.m3u8
+#EXTINF:-1 group-title="Sports",FanDuel Sports Network Detroit Extra
+http://e14921eb.amazzin.pw/iptv/PBPM6BS9YL9N39/31004/index.m3u8
+#EXTINF:-1 group-title="Sports",FanDuel Sports Network Florida
+http://e14921eb.amazzin.pw/iptv/PBPM6BS9YL9N39/31005/index.m3u8
+#EXTINF:-1 group-title="Sports",FanDuel Sports Network Florida Plus
+http://e14921eb.amazzin.pw/iptv/PBPM6BS9YL9N39/31006/index.m3u8
+#EXTINF:-1 group-title="Sports",FanDuel Sports Network North
+http://e14921eb.amazzin.pw/iptv/PBPM6BS9YL9N39/31017/index.m3u8
+#EXTINF:-1 group-title="Sports",FanDuel Sports Network Ohio
+http://e14921eb.amazzin.pw/iptv/PBPM6BS9YL9N39/31019/index.m3u8
+#EXTINF:-1 group-title="Sports",FanDuel Sports Network Ohio Cleveland
+http://e14921eb.amazzin.pw/iptv/PBPM6BS9YL9N39/31030/index.m3u8
+#EXTINF:-1 group-title="Sports",FanDuel Sports Network SoCal
+http://e14921eb.amazzin.pw/iptv/PBPM6BS9YL9N39/31034/index.m3u8
+#EXTINF:-1 group-title="Sports",FanDuel Sports Network Southeast
+http://e14921eb.amazzin.pw/iptv/PBPM6BS9YL9N39/31035/index.m3u8
+#EXTINF:-1 group-title="Sports",FanDuel Sports Network Sun
+http://e14921eb.amazzin.pw/iptv/PBPM6BS9YL9N39/31041/index.m3u8
 #EXTINF:-1 group-title="Sports",FanDuel TV (720p)
 https://d2jl8r92tdc3f1.cloudfront.net/out/v1/59419700344b4625b7cb0693ba265ea3/TVGindex_1.m3u8
 #EXTINF:-1 group-title="Sports",FB TV
 http://1hskrdto.rocketcdn.com/fenerbahcetv.smil/playlist.m3u8
-#EXTINF:-1 group-title="Sports",FIFA plus
+#EXTINF:-1 group-title="Sports",FIFA+
 https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8
+#EXTINF:-1 group-title="Sports",FIFA+ French (720p)
+https://37b4c228.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWZyX0ZJRkFQbHVzRnJlbmNoX0hMUw/playlist.m3u8
+#EXTINF:-1 group-title="Sports",FIFA+ German (720p)
+https://4397879b.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWRlX0ZJRkFQbHVzR2VybWFuX0hMUw/playlist.m3u8
+#EXTINF:-1 group-title="Sports",FIFA+ Italy (720p)
+https://5d95f7d7.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWl0X0ZJRkFQbHVzSXRhbGlhbl9ITFM/playlist.m3u8
+#EXTINF:-1 group-title="Sports",FIFA+ Spain (720p)
+https://d63fabad.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWVzX0ZJRkFQbHVzU3BhbmlzaF9ITFM/playlist.m3u8
 #EXTINF:-1 group-title="Sports",Fight
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5812b0f2237a6ff45d16c3f9/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c28ca64-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=5722f4bc-fbe1-409f-ad8f-4559e5ebda2f
 #EXTINF:-1 group-title="Sports",Fight Network (1080p)
@@ -321,6 +351,8 @@ http://fl1.moveonjoy.com/NHL_12/index.m3u8
 http://fl1.moveonjoy.com/NHL_13/index.m3u8
 #EXTINF:-1 group-title="Sports",NHL Center Ice 14 (720p)
 http://fl1.moveonjoy.com/NHL_14/index.m3u8
+#EXTINF:-1 group-title="Sports",NHL Centre Ice 1
+http://fl1.moveonjoy.com/NHL_1/index.m3u8
 #EXTINF:-1 group-title="Sports",NHL Centre Ice 4
 http://fl1.moveonjoy.com/NHL_4/index.m3u8
 #EXTINF:-1 group-title="Sports",NHL Centre Ice 5
@@ -387,8 +419,6 @@ https://cdn4.skygo.mn/live/disk1/SPSPlay/HLS-FTA/SPSPlay.m3u8
 http://cdn4.skygo.mn/live/disk1/SPSFight/HLS-FTA/SPSFight.m3u8
 #EXTINF:-1 group-title="Sports",Premier Sports 5 (480p)
 http://cdn4.skygo.mn/live/disk1/SPSPlus/HLS-FTA/SPSPlus.m3u8
-#EXTINF:-1 group-title="Sports",Premiere Clubes
-http://187.120.222.37:721
 #EXTINF:-1 group-title="Sports",PRO Sport International
 https://proshls.wns.live/hls/stream.m3u8
 #EXTINF:-1 group-title="Sports",PTV Sports (720p)

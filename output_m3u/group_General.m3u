@@ -225,6 +225,8 @@ https://live.artidijitalmedya.com/artidijital_aksutv/aksutv/playlist.m3u8
 https://e.siar.us/live/aktv.m3u8
 #EXTINF:-1 group-title="General",Al Ahad TV
 http://63b03f7689049.streamlock.net:1935/live/7/playlist.m3u8
+#EXTINF:-1 group-title="General",Al Aoula
+https://xddrts.alwaysdata.net/maro7/maaloula.php?m3u8
 #EXTINF:-1 group-title="General",Al Aqsa Channel (416p) [Not 24/7]
 http://167.172.161.13/hls/feedspare/6udfi7v8a3eof6nlps6e9ovfrs65c7l7.m3u8
 #EXTINF:-1 group-title="General",Al Dafrah TV (720p)
@@ -1673,8 +1675,8 @@ http://seb.sason.top/ptv/ftv.php?id=dy
 https://5c0956165db0b.streamlock.net/ftv/directo/.m3u8
 #EXTINF:-1 group-title="General",Future TV (1080p)
 https://live.kwikmotion.com/futurelive/ftv.smil/playlist.m3u8
-#EXTINF:-1 group-title="General",Gabon 1ere (1080p)
-https://vps112773.serveur-vps.net/hls/stream.m3u8
+#EXTINF:-1 group-title="General",Gabon 1ere
+https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119695/gabon1ere/playlist.m3u8
 #EXTINF:-1 group-title="General",Galavision
 http://104.238.205.28:8989/278705_.m3u8
 #EXTINF:-1 group-title="General",GAMTV.cr (720p)
@@ -1699,14 +1701,12 @@ https://gentvpeer.desdeparaguay.net/gentvpeer/gentv_py_baja/playlist.m3u8
 https://stream.bozztv.com/tvstat-tamar/tvstat-tamar/playlist.m3u8
 #EXTINF:-1 group-title="General",GH Television (1080p)
 https://tv.ghtelevision.com:3018/live/ghtelevisionlive.m3u8
-#EXTINF:-1 group-title="General",GHLife TV (720p)
-https://stream-server9-jupiter.muxlive.com/hls/ghlifetv/index.m3u8
-#EXTINF:-1 group-title="General",GHtv Holland (720p)
-http://37.48.120.77:8080/hls/ghtvonline.m3u8
 #EXTINF:-1 group-title="General",Gilroy CMAP TV Channel 18 (720p)
 https://livestream.telvue.com/cmap3/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
 #EXTINF:-1 group-title="General",Gilroy CMAP TV Channel 20 (720p)
 https://livestream.telvue.com/cmap5/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
+#EXTINF:-1 group-title="General",Glewed TV (720p)
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/glewedtv-spanish/master.m3u8
 #EXTINF:-1 group-title="General",Global Social TV (720p) [Not 24/7]
 https://stream.castr.com/6809124f3f3e7e594c63cf15/live_8e5d0b50206a11f08690576446b3c082/index.fmp4.m3u8
 #EXTINF:-1 group-title="General",Global TV (720p)
@@ -2032,7 +2032,7 @@ http://171.244.62.178/jptv2/get.php?id=p1cu_Z3QI6VV01VJmw8vJQ==
 #EXTINF:-1 group-title="General",JOTX-DTV
 http://171.244.62.178/jptv2/get.php?id=2eX5WUIdzetyhgy8L8plEQ==
 #EXTINF:-1 group-title="General",Joy Prime
-http://69.64.57.208/joyprime/playlist.m3u8
+https://g2qd3exjy7an-hls-live.5centscdn.com/joyprim/ghanaweb.stream/playlist.m3u8
 #EXTINF:-1 group-title="General",JPD TV [Not 24/7]
 https://imagenuniversaltv.net:3026/live/juanpabloduartetvlive.m3u8
 #EXTINF:-1 group-title="General",JTV (480p)
@@ -2223,6 +2223,8 @@ https://lenz.splus.ir/PLTV/88888888/224/3221226647/index.m3u8
 https://tv.intchoson.com/kctv/main_stream.m3u8
 #EXTINF:-1 group-title="General",Korean Central Television (576p)
 https://tv.nknews.org/tvhls/stream.m3u8
+#EXTINF:-1 group-title="General",KPHO-DT1 (720p)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00312-graytelevisioni-arizonasfamily-vizious/playlist.m3u8
 #EXTINF:-1 group-title="General",KQFX-LD1 (720p)
 https://cvtv.cvalley.net/hls/KQFXFOX/KQFXFOX.m3u8
 #EXTINF:-1 group-title="General",KRCA-TV Estrella Los Angeles (720p)
@@ -2291,6 +2293,8 @@ https://streamunoapp.com:3983/live/larutatvlive.m3u8
 https://latele.vedge.infomaniak.com/livecast/latele/playlist.m3u8
 #EXTINF:-1 group-title="General",La TR3 Marsala (720p)
 https://tsw.streamingwebtv24.it:1936/eslife1/eslife1/playlist.m3u8
+#EXTINF:-1 group-title="General",Laayoune TV
+https://oppomu.serv00.net/maro7/malaayoune.php?m3u8
 #EXTINF:-1 group-title="General",Lakewood CityTV (720p)
 https://dlttx48mxf9m3.cloudfront.net/vod_clients/lakewood/live/ch1/video.m3u8
 #EXTINF:-1 group-title="General",Lam Dong TV (720p)
@@ -2649,8 +2653,8 @@ https://s1.teve.mk/tvstanici/6/playlist.m3u8
 https://pplive.comquas.com:5443/LiveApp/streams/w3g3EYjBtqgJ1677679288037.m3u8
 #EXTINF:-1 group-title="General",MSJ TV (1080p)
 https://live-ali7.tv360.metfone.com.kh/live/myStream/playlist.m3u8
-#EXTINF:-1 group-title="General",Mtavari Arkhi (480p)
-https://bozztv.com/36bay2/mtavariarxi/playlist.m3u8
+#EXTINF:-1 group-title="General",Mtavari Arkhi
+https://live20.bozztv.com/dvrfl05/gin-mtavariarxi/index.m3u8
 #EXTINF:-1 group-title="General",MTM 1 [Geo-blocked]
 https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(MTM)/index.m3u8
 #EXTINF:-1 group-title="General",MTR (1080p)
@@ -3063,8 +3067,6 @@ https://ottop-live-meride.akamaized.net/hls/live/2039996/ch1/playlist.m3u8
 https://live3.tdm.com.mo/ch3/ch3.live/playlist.m3u8
 #EXTINF:-1 group-title="General",OxiTV (720p) [Not 24/7]
 https://streamunoapp.com:3520/live/oxitvcanal36live.m3u8
-#EXTINF:-1 group-title="General",Oyerepa TV
-https://stream.ecable.tv/oyerepa/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="General",Ózdi Városi TV (720p) [Not 24/7]
 http://stream.nmih.hu:7980/live.m3u8
 #EXTINF:-1 group-title="General",P3tv (720p) [Not 24/7]
@@ -3151,8 +3153,8 @@ https://vdo1.streamgato.us:3999/live/portaldigitallive.m3u8
 https://pull-live-156-1.global.ssl.fastly.net/pc5865dc25400thmb-ea6bf03b14fa318f7133/smil:pc1-jhrgyuoqe5865db-68tkgb14fa318f7133f03.smil/playlist.m3u8
 #EXTINF:-1 group-title="General",PortuTV (480p) [Not 24/7]
 https://streamtv.intervenhosting.net:3789/live/portutvlive.m3u8
-#EXTINF:-1 group-title="General",Pos TV (1080p)
-https://live.postv.media/stream/index.m3u8
+#EXTINF:-1 group-title="General",Pos TV
+http://dvrfl05.bozztv.com/gin-postv/index.m3u8
 #EXTINF:-1 group-title="General",Prima Free
 https://uvotv-aniview.global.ssl.fastly.net/10010/live/hls/primafree/playlist.m3u8
 #EXTINF:-1 group-title="General",Prima TV Napoli (720p)
@@ -3683,6 +3685,8 @@ http://streamipcf.akamaized.net/live/_definst_/live_720/key_b1500.m3u8
 https://live.teleradiocom.tj/1/3m.m3u8
 #EXTINF:-1 group-title="General",TAM TV (720p)
 https://tv.webtuya.com:3726/hybrid/play.m3u8
+#EXTINF:-1 group-title="General",Tamazight TV
+https://cdnet.alwaysdata.net/maro7/matamaz.php?m3u8
 #EXTINF:-1 group-title="General",Tambara TV
 https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119695/tambara/playlist.m3u8
 #EXTINF:-1 group-title="General",Tampa Bay Communnity Network TBCN (Tampa Bay FL) (480p)
@@ -4203,6 +4207,8 @@ https://stmv1.voxtvhd.com.br/tvpenol/tvpenol/playlist.m3u8
 http://38.183.182.166:8000/play/a12u/index.m3u8
 #EXTINF:-1 group-title="General",TV Perú Internacional (1080p)
 https://cdnhd.iblups.com/hls/ee2450c81e554f4cae0e6292106993c2.m3u8
+#EXTINF:-1 group-title="General",TV Pirveli
+http://dvrfl05.bozztv.com/gin-tvpirveli/index.m3u8
 #EXTINF:-1 group-title="General",TV Plan (720p)
 https://live.cdn.upx.com/723b/myStream.sdp/playlist.m3u8
 #EXTINF:-1 group-title="General",TV Plata (720p) [Geo-blocked]

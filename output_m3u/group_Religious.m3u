@@ -191,6 +191,8 @@ https://stream.hydeinnovations.com/arktv-international/index.fmp4.m3u8
 https://ams.juraganstreaming.com:5443/LiveApp/streams/ashiiltv2.m3u8
 #EXTINF:-1 group-title="Religious",Ashrafi Channel (484p) [Not 24/7]
 https://ashrafichannel.livebox.co.in/ashrafivhannelhls/live.m3u8
+#EXTINF:-1 group-title="Religious",Assadissa
+https://xddrts.alwaysdata.net/maro7/maassadi.php?m3u8
 #EXTINF:-1 group-title="Religious",Assirat TV (576p)
 https://softverse.b-cdn.net/Assirat/assiratobs/playlist.m3u8
 #EXTINF:-1 group-title="Religious",ATVSat (1080p) [Not 24/7]
@@ -593,8 +595,6 @@ https://7mbd4ogkr3gx-hls-live.wmncdn.net/harvesttvlive1/bbb19eae240ec100af921d51
 https://live.wmncdn.net/harvestenglish/d1796a22d24e8696c7d5d0b5c349fdd2.sdp/index.m3u8
 #EXTINF:-1 group-title="Religious",Harvest USA (576p)
 https://7mbd4ogkr3gx-hls-live.wmncdn.net/harvestusa/d57ffba6564caea2fee3f4085f19a098.sdp/playlist.m3u8
-#EXTINF:-1 group-title="Religious",Healing Jesus TV (576p)
-https://webstreaming-3.viewmedia.tv/web_041/Stream/playlist.m3u8
 #EXTINF:-1 group-title="Religious",Heaven Bound TV (480p) [Not 24/7]
 https://goliveafrica.media:9998/live/62580b337c021/index.m3u8
 #EXTINF:-1 group-title="Religious",Hebron TV (432p)
@@ -861,8 +861,6 @@ https://tv.wracanal10.com:3776/live/luzdivinatvlive.m3u8
 https://streeming.protoscr.com:3858/live/streeminglive.m3u8
 #EXTINF:-1 group-title="Religious",Lychnos TV (1080p)
 https://thor.mental-media.gr:19360/imp/imp.m3u8
-#EXTINF:-1 group-title="Religious",Mabesh TV
-https://tv.localstreamgh.com/MabeshTV/index.m3u8
 #EXTINF:-1 group-title="Religious",Madani Channel Bangla (1080p)
 https://streaming.madanichannel.tv/static/streaming-playlists/hls/d3e49b76-ac06-4689-a641-9200445b647f/master.m3u8
 #EXTINF:-1 group-title="Religious",Madani Channel English (720p)
