@@ -145,26 +145,6 @@ https://fl1.moveonjoy.com/ESPN_U/index.m3u8
 https://d3ehq1uaxory6w.cloudfront.net/out/v1/35c05f080f4e49a4b4eb031b5a14e505/TVG2index_2.m3u8
 #EXTINF:-1 group-title="Sports",FanDuel Sports Network
 https://fl1.moveonjoy.com/PAC_12/index.m3u8
-#EXTINF:-1 group-title="Sports",FanDuel Sports Network Detroit
-http://e14921eb.amazzin.pw/iptv/PBPM6BS9YL9N39/31003/index.m3u8
-#EXTINF:-1 group-title="Sports",FanDuel Sports Network Detroit Extra
-http://e14921eb.amazzin.pw/iptv/PBPM6BS9YL9N39/31004/index.m3u8
-#EXTINF:-1 group-title="Sports",FanDuel Sports Network Florida
-http://e14921eb.amazzin.pw/iptv/PBPM6BS9YL9N39/31005/index.m3u8
-#EXTINF:-1 group-title="Sports",FanDuel Sports Network Florida Plus
-http://e14921eb.amazzin.pw/iptv/PBPM6BS9YL9N39/31006/index.m3u8
-#EXTINF:-1 group-title="Sports",FanDuel Sports Network North
-http://e14921eb.amazzin.pw/iptv/PBPM6BS9YL9N39/31017/index.m3u8
-#EXTINF:-1 group-title="Sports",FanDuel Sports Network Ohio
-http://e14921eb.amazzin.pw/iptv/PBPM6BS9YL9N39/31019/index.m3u8
-#EXTINF:-1 group-title="Sports",FanDuel Sports Network Ohio Cleveland
-http://e14921eb.amazzin.pw/iptv/PBPM6BS9YL9N39/31030/index.m3u8
-#EXTINF:-1 group-title="Sports",FanDuel Sports Network SoCal
-http://e14921eb.amazzin.pw/iptv/PBPM6BS9YL9N39/31034/index.m3u8
-#EXTINF:-1 group-title="Sports",FanDuel Sports Network Southeast
-http://e14921eb.amazzin.pw/iptv/PBPM6BS9YL9N39/31035/index.m3u8
-#EXTINF:-1 group-title="Sports",FanDuel Sports Network Sun
-http://e14921eb.amazzin.pw/iptv/PBPM6BS9YL9N39/31041/index.m3u8
 #EXTINF:-1 group-title="Sports",FanDuel TV (720p)
 https://d2jl8r92tdc3f1.cloudfront.net/out/v1/59419700344b4625b7cb0693ba265ea3/TVGindex_1.m3u8
 #EXTINF:-1 group-title="Sports",FB TV
@@ -179,8 +159,8 @@ https://4397879b.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdX
 https://5d95f7d7.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWl0X0ZJRkFQbHVzSXRhbGlhbl9ITFM/playlist.m3u8
 #EXTINF:-1 group-title="Sports",FIFA+ Spain (720p)
 https://d63fabad.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWVzX0ZJRkFQbHVzU3BhbmlzaF9ITFM/playlist.m3u8
-#EXTINF:-1 group-title="Sports",Fight
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5812b0f2237a6ff45d16c3f9/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c28ca64-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=5722f4bc-fbe1-409f-ad8f-4559e5ebda2f
+#EXTINF:-1 group-title="Sports",FIFA+ United States (720p)
+https://d2w9q46ikgrcwx.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-of5cbk3sav3w5/v1/sysdata_s_p_a_fifa_7/samsungheadend_us/latest/main/hls/playlist.m3u8
 #EXTINF:-1 group-title="Sports",Fight Network (1080p)
 https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8
 #EXTINF:-1 group-title="Sports",Fight Night (720p)
@@ -403,8 +383,6 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde07af1c85b0009
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5c01df1759ee03633e7b272c/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5c01df1759ee03633e7b272c&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=971&terminate=false&userId=
 #EXTINF:-1 group-title="Sports",Pluto TV Sport Italy (720p)
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/608030eff4b6f70007e1684c/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
-#EXTINF:-1 group-title="Sports",Pluto TV Sports
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/56340779a738201b4ccfeac9/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2b3b63-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=8673a43c-58ba-48b3-8db5-75986abb01b9
 #EXTINF:-1 group-title="Sports",Poker Night in America (1080p)
 https://d2njbreu8qyfxo.cloudfront.net/scheduler/scheduleMaster/216.m3u8
 #EXTINF:-1 group-title="Sports",PokerGo
@@ -491,10 +469,6 @@ https://live.sportstv.com.tr/hls/low/sportstv.m3u8
 https://sportsgrid-tribal.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Sports",Sportsman Channel
 https://fl1.moveonjoy.com/SPORTSMAN_CHANNEL/index.m3u8
-#EXTINF:-1 group-title="Sports",Sportsnet
-http://e14921eb.amazzin.pw/iptv/PBPM6BS9YL9N39/6477/index.m3u8
-#EXTINF:-1 group-title="Sports",Sportsnet 360
-http://e14921eb.amazzin.pw/iptv/PBPM6BS9YL9N39/6462/index.m3u8
 #EXTINF:-1 group-title="Sports",SportsNet New York (540p)
 https://fl1.moveonjoy.com/SNY/index.m3u8
 #EXTINF:-1 group-title="Sports",Stadium (720p)
