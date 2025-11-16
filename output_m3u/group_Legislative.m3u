@@ -361,8 +361,8 @@ https://securestream10.champds.com/LIVE/YumaCoAZLIVE/YumaCoAZLIVE.m3u8
 https://livestream.telvue.com/yumaaz1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Legislative",Yuma AZ CH 73
 https://livestream.telvue.com/yumaaz2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
-#EXTINF:-1 group-title="Legislative",Βουλή Τηλεόραση (540p) [Not 24/7]
-https://streamer-cache.grnet.gr/parliament/hls/webtv.m3u8
+#EXTINF:-1 group-title="Legislative",Βουλή Τηλεόραση (360p) [Not 24/7]
+https://streamer-cache.grnet.gr/parliament/parltv.sdp/master.m3u8
 #EXTINF:-1 group-title="Legislative",Βουλή Τηλεόραση 2 (540p) [Not 24/7]
 https://streamer-cache.grnet.gr/parliament/hls/webtv2.m3u8
 #EXTINF:-1 group-title="Legislative",Βουλή Τηλεόραση 3 (540p) [Not 24/7]

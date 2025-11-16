@@ -191,8 +191,6 @@ https://stream.hydeinnovations.com/arktv-international/index.fmp4.m3u8
 https://ams.juraganstreaming.com:5443/LiveApp/streams/ashiiltv2.m3u8
 #EXTINF:-1 group-title="Religious",Ashrafi Channel (484p) [Not 24/7]
 https://ashrafichannel.livebox.co.in/ashrafivhannelhls/live.m3u8
-#EXTINF:-1 group-title="Religious",Assadissa
-https://xddrts.alwaysdata.net/maro7/maassadi.php?m3u8
 #EXTINF:-1 group-title="Religious",Assirat TV (576p)
 https://softverse.b-cdn.net/Assirat/assiratobs/playlist.m3u8
 #EXTINF:-1 group-title="Religious",ATVSat (1080p) [Not 24/7]
@@ -925,8 +923,8 @@ https://tv.rodja.live/tasik/ngrp:mgitv_all/playlist.m3u8
 https://paramount.jswk.online/shraddhamhone/index.m3u8
 #EXTINF:-1 group-title="Religious",MINFAV TV (360p)
 https://video.misistemareseller.com/minfavtv/minfavtv/playlist.m3u8
-#EXTINF:-1 group-title="Religious",Miracle TV (576p)
-https://live.miraclechannel.com/hls/miracle1.m3u8
+#EXTINF:-1 group-title="Religious",Miracle TV (1080p)
+https://live.miracleonline.org/hls/miracle1.m3u8
 #EXTINF:-1 group-title="Religious",Miracle TV
 https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119176/miracletv/playlist.m3u8
 #EXTINF:-1 group-title="Religious",Miracle TV+ (720p)
@@ -1111,8 +1109,6 @@ http://184.173.179.163:1935/daniel/daniel/playlist.m3u8
 https://5790d294af2dc.streamlock.net/8124/8124/chunklist.m3u8
 #EXTINF:-1 group-title="Religious",Radio Télé Wisdom (360p) [Not 24/7]
 https://59d39900ebfb8.streamlock.net/daniel/daniel/playlist.m3u8
-#EXTINF:-1 group-title="Religious",Radio Vida TV (536p)
-https://live.appclicksgt.com:3522/hybrid/play.m3u8
 #EXTINF:-1 group-title="Religious",Radio Visión de Dios Stereo (720p) [Not 24/7]
 https://live.tvcontrolcp.com:1936/8286/8286/playlist.m3u8
 #EXTINF:-1 group-title="Religious",Radio y Televisión Crisol de la Alegría (1080p) [Not 24/7]
@@ -1255,8 +1251,6 @@ https://tls-cl.cdnz.cl/televida/live/playlist.m3u8
 https://vdo1.streamgato.us:3035/live/televidalive.m3u8
 #EXTINF:-1 group-title="Religious",Televisión Consciente (1080p)
 https://cdn318.fractalmedia.es/318/live/hls/tvc/master.m3u8
-#EXTINF:-1 group-title="Religious",Teve Globo (720p)
-https://tv.ideskhn.com:3812/live/teveglobolive.m3u8
 #EXTINF:-1 group-title="Religious",Teve Vida Network (480p) [Not 24/7]
 https://5bf8041cb3fed.streamlock.net/Tevevida/Tevevida/.m3u8
 #EXTINF:-1 group-title="Religious",The Islamic Network (480p) [Not 24/7]
@@ -1387,8 +1381,6 @@ https://goliveafrica.media:9998/live/6257fbe7383d6/index.m3u8
 https://zainabia.livebox.co.in/ZainabiaChannelhls/channel.m3u8
 #EXTINF:-1 group-title="Religious",ZB Bhakti (720p)
 https://server.zillarbarta.com/zbbhakti/index.m3u8
-#EXTINF:-1 group-title="Religious",ZOE Visión TV (720p)
-https://live.zoevisiontv.com:3475/live/zoevisiontvlive.m3u8
 #EXTINF:-1 group-title="Religious",Вера 24
 https://5f05e059699ae.streamlock.net/WEB_Vera24/ngrp:Vera24.stream-adaptive/playlist.m3u8
 #EXTINF:-1 group-title="Religious",Глас (576p)

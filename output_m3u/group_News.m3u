@@ -249,6 +249,8 @@ https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
 https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119696/anfani/playlist.m3u8
 #EXTINF:-1 group-title="News",ANN News (720p)
 https://cdn.ottlive.co.in/annnews/index.m3u8
+#EXTINF:-1 group-title="News",Anshun Comprehensive News Channel
+https://hplayer1.juyun.tv/camera/154379194.m3u8
 #EXTINF:-1 group-title="News",Antena 21 (480p) [Not 24/7] [Geo-blocked]
 https://alba-do-antena7-c21.stream.mediatiquestream.com/index.m3u8
 #EXTINF:-1 group-title="News",Anwar TV2 (720p)
@@ -477,6 +479,8 @@ https://cheddar-us.samsung.wurl.tv/playlist.m3u8
 https://go5lmqxjyawb-hls-live.5centscdn.com/Chekad/271ddf829afeece44d8732757fba1a66.sdp/chunks.m3u8
 #EXTINF:-1 group-title="News",Cherniveckiy promin (720p)
 http://langate.tv/promin/live_720/index.m3u8
+#EXTINF:-1 group-title="News",Chifeng Comprehensive News Chanel
+http://play1-qk.nmtv.cn/live/1735546697341033.m3u8
 #EXTINF:-1 group-title="News",Cholusat Sur 36 (214p) [Not 24/7]
 http://audiotvserver.net:1935/livemedia/cholusat/playlist.m3u8
 #EXTINF:-1 group-title="News",Cítrico TV (240p)
@@ -507,8 +511,8 @@ https://live.obslivestream.com/conecta2/index.m3u8
 https://unlimited6-cl.dps.live/cm/cm.smil/playlist.m3u8
 #EXTINF:-1 group-title="News",Córdoba TV [Not 24/7]
 https://cloudvideo.servers10.com:8081/8020/index.m3u8
-#EXTINF:-1 group-title="News",Corfu Channel (576p) [Not 24/7]
-https://itv.streams.ovh/corfuchannel/corfuchannel/playlist.m3u8
+#EXTINF:-1 group-title="News",Corfu Channel (720p)
+https://itv.streams.ovh:1936/corfuchannel/corfuchannel/playlist.m3u8
 #EXTINF:-1 group-title="News",CRTV News
 https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119689/crtvnews/playlist.m3u8
 #EXTINF:-1 group-title="News",ČT24 (1080p)
@@ -587,8 +591,6 @@ https://cdn3.wowza.com/5/cHYzekYzM2kvTVFH/elsegundo/G0014_002/playlist.m3u8
 https://uvotv-aniview.global.ssl.fastly.net/hls/live/2120684/enca/playlist.m3u8
 #EXTINF:-1 group-title="News",Enlight News (1080p)
 https://live.enlightnews.com/live/enlightnews/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="News",ERT News (1080p)
-http://ertflix.s.llnwi.net/ertlive/ertnews/default/index.m3u8
 #EXTINF:-1 group-title="News",Espace TV (1080p)
 https://edge11.vedge.infomaniak.com/livecast/ik:espacetv/manifest.m3u8
 #EXTINF:-1 group-title="News",Estrella News (1080p)
@@ -691,8 +693,6 @@ https://aajtaklive.vgcdn.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/
 https://1-213-10546-44.b.cdn13.com/388656798579293628302251.m3u8
 #EXTINF:-1 group-title="News",Guardian Talk Radio (1080p)
 https://cdn-edge1.streamcomedia.com/abr_tngr969fm/abr-tngr969fm_streams/playlist.m3u8
-#EXTINF:-1 group-title="News",Guatevision (480p)
-https://video.radiozona3.com:3901/stream/play.m3u8
 #EXTINF:-1 group-title="News",Gugbang TV (1080p) [Not 24/7]
 http://mediaworks.dema.mil.kr:1935/live_edge/cudo.sdp/playlist.m3u8
 #EXTINF:-1 group-title="News",Gulistan News (720p)
@@ -961,8 +961,6 @@ https://iptv.mihantv.com/mihantv/playlist.m3u8
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/652e922db4b047000825f975livestitch/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&profilesFromStream=true&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
 #EXTINF:-1 group-title="News",Minformo TV (720p)
 https://5db313b643fd8.streamlock.net/MinformoTV/MinformoTV/playlist.m3u8
-#EXTINF:-1 group-title="News",Miracle Channel (576p)
-https://miracle.stream.boxigy.com/hls/miracle1.m3u8
 #EXTINF:-1 group-title="News",Mírame TV (360p) [Not 24/7]
 https://bit.controlstreams.com:5443/LiveApp/streams/mirametv.m3u8
 #EXTINF:-1 group-title="News",Mirror Now (720p)
@@ -1393,8 +1391,6 @@ https://timesnow-lh.akamaihd.net/i/TNHD_1@129288/master.m3u8
 https://amg01448-samsungin-tinnavbharat-samsungin-ad-m8.amagi.tv/playlist/amg01448-samsungin-tinnavbharat-samsungin/playlist.m3u8
 #EXTINF:-1 group-title="News",TN (1080p)
 https://dai.google.com/linear/hls/pa/event/5OEEtA9FR-yrvhNE5K8PQQ/stream/c086055a-58d6-4916-a19c-484b8cb1995c:SCL2/master.m3u8
-#EXTINF:-1 group-title="News",TN 23 (480p) [Not 24/7]
-https://dy434h3s52eoj.cloudfront.net/Canal23GT/235557e601489a53ece741671338603f.sdp/playlist.m3u8
 #EXTINF:-1 group-title="News",TODAY All Day
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d695f7db53adf96b78e7ce3/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2c73e2-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=4b9a9385-79d0-48ba-8524-7334c82add93
 #EXTINF:-1 group-title="News",Tolo News (720p)

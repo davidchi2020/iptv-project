@@ -21,8 +21,8 @@ https://amg17596-ntdtv-amg17596c1-rakuten-gb-6741.playouts.now.amagi.tv/playlist
 https://ntd02.akamaized.net/NTD-UK/index.m3u8
 #EXTINF:-1 group-title="General;News",PRO TV Chisinau (360p)
 http://stream.protv.md/live/sursa-2/index.m3u8
-#EXTINF:-1 group-title="General;News",Star Kentrikis Elladas (1080p)
-https://telmacosa.s.llnwi.net/starcgr/default/index.m3u8
+#EXTINF:-1 group-title="General;News",Star Kentrikis Elladas (720p) [Not 24/7]
+https://stream.castr.com/651d8d36a57bf232bc830464/live_01fd9e80636111eebd0da35d4eac7f71/index.m3u8
 #EXTINF:-1 group-title="General;News",STV News and General
 http://61.173.144.157:9901/tsfile/live/1000_1.m3u8?authid=0&key=txiptv&playlive=1
 #EXTINF:-1 group-title="General;News",Tv Famypanc HD (1080p)
