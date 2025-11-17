@@ -5441,16 +5441,16 @@ https://livetv-channels.b-cdn.net/8077/playlist.m3u8
 https://dgrvlduwztkd4.cloudfront.net/index_5.m3u8
 #EXTINF:-1 group-title="Undefined",Zee Alwan (576p) [Not 24/7]
 https://tgn.bozztv.com/gin-dvrfl05/ga-zeealwan/index.m3u8
+#EXTINF:-1 group-title="Undefined",Zee Bharat (720p)
+https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeehindustan/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/96bbab12-582e-4540-af70-510ab6824581/main.m3u8
 #EXTINF:-1 group-title="Undefined",Zee Bihar Jharkhand (720p)
 https://raw.githubusercontent.com/Alstruit/adaptive-streams/alstruit-4_24_in/streams/in/ZeeBiharJharkhand.m3u8
 #EXTINF:-1 group-title="Undefined",Zee Bioskop (576p)
 http://103.180.118.5:9981/stream/channelid/789671189
 #EXTINF:-1 group-title="Undefined",Zee Cafe (1080p)
 http://116.90.120.149:8000/play/a0e7/index.m3u8
-#EXTINF:-1 group-title="Undefined",Zee Hindustan (720p)
-https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeehindustan/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/96bbab12-582e-4540-af70-510ab6824581/main.m3u8
 #EXTINF:-1 group-title="Undefined",Zee Kannada (1080p)
-http://87.255.35.150:18226
+http://87.255.35.150:18945/
 #EXTINF:-1 group-title="Undefined",Zee Keralam (1080p)
 http://87.255.35.150:18502
 #EXTINF:-1 group-title="Undefined",Zee Madhya Pradesh Chhattisgarh (720p)
