@@ -1123,8 +1123,6 @@ http://69.64.57.208/cherifla/playlist.m3u8
 http://38.250.127.17:9800/play/a05h/index.m3u8
 #EXTINF:-1 group-title="General",CHTV
 https://viewhn.com/chtv/live/playlist.m3u8
-#EXTINF:-1 group-title="General",Cielo
-https://uvotv-aniview.global.ssl.fastly.net/10010/live/hls/cielo/playlist.m3u8
 #EXTINF:-1 group-title="General",Cine 1 (720p)
 https://live.artidijitalmedya.com/artidijital_cine1/cine1/playlist.m3u8
 #EXTINF:-1 group-title="General",Cinevision Canal 19 (720p)
@@ -2259,8 +2257,6 @@ https://live2.telvi.de/hls/l-tv_s1.m3u8
 http://live.sloode.com:1935/labtv_live/labtv/playlist.m3u8
 #EXTINF:-1 group-title="General",LA7d (720p)
 https://d15umi5iaezxgx.cloudfront.net/LA7D/CLN/HLS-B/Live.m3u8
-#EXTINF:-1 group-title="General",LA7d HD
-https://uvotv-aniview.global.ssl.fastly.net/10010/live/hls/la7d/playlist.m3u8
 #EXTINF:-1 group-title="General",LA7 HD
 https://viamotionhsi.netplus.ch/live/eds/la7/browser-dash/la7.mpd
 #EXTINF:-1 group-title="General",La C TV (720p)
@@ -3139,12 +3135,12 @@ https://pull-live-156-1.global.ssl.fastly.net/pc5865dc25400thmb-ea6bf03b14fa318f
 https://streamtv.intervenhosting.net:3789/live/portutvlive.m3u8
 #EXTINF:-1 group-title="General",Pos TV
 http://dvrfl05.bozztv.com/gin-postv/index.m3u8
-#EXTINF:-1 group-title="General",Prima Free
-https://uvotv-aniview.global.ssl.fastly.net/10010/live/hls/primafree/playlist.m3u8
 #EXTINF:-1 group-title="General",Prima TV Napoli (720p)
 https://stream1.aswifi.it/primatvnapoli/live/index.m3u8
 #EXTINF:-1 group-title="General",Prima TV Sicilia (720p)
 https://5db313b643fd8.streamlock.net/PrimaTV/PrimaTV/playlist.m3u8
+#EXTINF:-1 group-title="General",PrimaFree
+https://5f22d76e220e1.streamlock.net/primafree/primafree/playlist.m3u8
 #EXTINF:-1 group-title="General",PrimAntenna TV (720p)
 https://5f22d76e220e1.streamlock.net/primantenna14/primantenna14/playlist.m3u8
 #EXTINF:-1 group-title="General",Primavera 15
@@ -3428,7 +3424,7 @@ http://178.33.11.6:8696/live/rtsh1ott/playlist.m3u8
 #EXTINF:-1 group-title="General",RTSH 2 (1080p)
 http://178.33.11.6:8696/live/rtsh2/playlist.m3u8
 #EXTINF:-1 group-title="General",RTV38 (576p)
-https://streamcdne1-845d8509d2cb4f249dd0b2ae5755b6c2.msvdn.net/rtv38/rtv38_live_main/mainabr/rtv38_live_main/main_576/chunks_dvr.m3u8
+https://845d8509d2cb4f249dd0b2ae5755b6c2.msvdn.net/rtv38/rtv38_live_main/mainabr/rtv38_live_main/main_576/chunks_dvr.m3u8
 #EXTINF:-1 group-title="General",RTV Canal 57 (720p)
 https://streaming.grupocsanetwork.com:19360/canal57/canal57.m3u8
 #EXTINF:-1 group-title="General",RTV Chirripó (720p)
@@ -3829,8 +3825,6 @@ https://angelistic.live:3785/live/tvoficiallive.m3u8
 https://58d921499d3d3.streamlock.net/TeleRama/livestream/playlist.m3u8
 #EXTINF:-1 group-title="General",Telered Television (576p) [Geo-blocked]
 https://k20.usastreams.com:8081/telered/index.m3u8
-#EXTINF:-1 group-title="General",Teleregione
-https://uvotv-aniview.global.ssl.fastly.net/10010/live/hls/teleregione/playlist.m3u8
 #EXTINF:-1 group-title="General",Teleromagna (480p)
 https://livetr.teleromagna.it/teleromagna/live/playlist.m3u8
 #EXTINF:-1 group-title="General",Telesantodomingo (720p)

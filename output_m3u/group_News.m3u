@@ -291,8 +291,8 @@ https://tv.streaming.com.bo/atvargentina/index.m3u8
 https://alba-pe-atv-atvmas.stream.mediatiquestream.com/index.m3u8
 #EXTINF:-1 group-title="News",Awaaz India TV (720p)
 http://awaazindia.livebox.co.in/AwaazIndaTVhls/Live.m3u8
-#EXTINF:-1 group-title="News",Bada Khabar (720p)
-https://badakhabar.livebox.co.in/Badakhabarhls/live.m3u8
+#EXTINF:-1 group-title="News",Bada Khabar (432p)
+https://app.ashokadigital.net/badakhabar/badakhabar/index.m3u8
 #EXTINF:-1 group-title="News",Baku TV (720p)
 https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/baku-tv.m3u8
 #EXTINF:-1 group-title="News",Balafon TV
@@ -777,8 +777,6 @@ https://yuppftalive.akamaized.net/080823/indiavoice/playlist.m3u8
 https://cdn-1.pishow.tv/live/411/master.m3u8
 #EXTINF:-1 group-title="News",iNEWS TV (1080p)
 https://live.i-news.tv/hls/stream.m3u8
-#EXTINF:-1 group-title="News",Info Media News
-https://uvotv-aniview.global.ssl.fastly.net/10010/live/hls/infomedianews/playlist.m3u8
 #EXTINF:-1 group-title="News",Info TV 9 (720p)
 https://stream.oursnetworktv.com/latin/encoder25/playlist.m3u8
 #EXTINF:-1 group-title="News",Info TV Romania (1080p)
