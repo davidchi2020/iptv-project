@@ -2,6 +2,6 @@
 #EXTINF:-1 group-title="Entertainment;Family;General",1KZN TV
 https://uvotv-aniview.global.ssl.fastly.net/hls/live/2120684/1kzntv/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment;Family;General",Asia TV (720p)
-https://stream.asiatvnet.com:8181/memfs/99ecd987-6f4a-405d-ae2d-cca35d4c2103.m3u8
+https://stream.asiatvnet.com:9443/1/live/master.m3u8
 #EXTINF:-1 group-title="Entertainment;Family;General",Tshwane TV (576p)
 https://cdn.freevisiontv.co.za/sttv/smil:tshwane.stream.smil/playlist.m3u8
