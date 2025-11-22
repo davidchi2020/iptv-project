@@ -43,8 +43,6 @@ http://cors.tundracast.com:2000/https://streamer1.nexgen.bz/AMC/index.m3u8
 https://fl1.moveonjoy.com/AMC_NETWORK/index.m3u8
 #EXTINF:-1 group-title="Movies",American Horrors (480p)
 http://107.167.7.162:8081/playlist/amhor/playlist.m3u8
-#EXTINF:-1 group-title="Movies",Asianet Movies HD (1080p)
-https://live.dinesh29.com.np/stream/jiotvplus/asianetmovieshd/master.m3u8
 #EXTINF:-1 group-title="Movies",Aurora Media Films (720p)
 https://cdn.streamhispanatv.net:3417/live/auroramflive.m3u8
 #EXTINF:-1 group-title="Movies",AXN Vietnam (1080p)
@@ -127,8 +125,6 @@ https://stmv1.srvif.com/classique/classique/playlist.m3u8
 http://87.255.35.150:18296
 #EXTINF:-1 group-title="Movies",Colors Cineplex Bollywood (576p)
 http://103.182.170.32:8888/play/a01o
-#EXTINF:-1 group-title="Movies",Colors Cineplex Superhits (576p)
-https://playyonogames.in/live.php?format=.m3u8&id=1450
 #EXTINF:-1 group-title="Movies",Colors Kannada Cinema (576p)
 http://87.255.35.150:18940
 #EXTINF:-1 group-title="Movies",Crave 1
@@ -509,20 +505,10 @@ https://slonehls.wns.live/hls/stream.m3u8
 https://sltwohls.wns.live/hls/stream.m3u8
 #EXTINF:-1 group-title="Movies",Sony Canal Novelas
 https://a89829b8dca2471ab52ea9a57bc28a35.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/CanelaTV_SonyCanalNovelas/playlist.m3u8
-#EXTINF:-1 group-title="Movies",Sony Wah (1080p)
-https://nxtlive.net/sliv/stream.php?e=.m3u8&id=0898545986
 #EXTINF:-1 group-title="Movies",Star Cinema
 https://uvotv-aniview.global.ssl.fastly.net/10010/dvr/hls/starcinema/playlist.m3u8
-#EXTINF:-1 group-title="Movies",Star Gold 2 HD (576p)
-http://116.90.120.149:8000/play/a0ea/index.m3u8
-#EXTINF:-1 group-title="Movies",Star Gold HD (1080p)
-http://116.90.120.149:8000/play/a0c2/index.m3u8
-#EXTINF:-1 group-title="Movies",Star Gold Romance (576p)
-https://live.dinesh29.com.np/stream/jiotvplus/stargoldromance/master.m3u8
 #EXTINF:-1 group-title="Movies",Star Gold Select HD (1080p)
 http://87.255.35.150:18429
-#EXTINF:-1 group-title="Movies",Star Gold Thrills (576p)
-http://116.90.120.149:8000/play/a0c0/index.m3u8
 #EXTINF:-1 group-title="Movies",Star Maa Gold (576p)
 http://87.255.35.150:18815
 #EXTINF:-1 group-title="Movies",Star Maa Movies (576p)
@@ -533,8 +519,6 @@ http://87.255.35.150:18301
 http://87.255.35.150:18548
 #EXTINF:-1 group-title="Movies",Star Tamil Television (360p)
 https://edge4-moblive.yuppcdn.net/trans1sd/smil:strtml19.smil/playlist.m3u8?dvr=
-#EXTINF:-1 group-title="Movies",Star Utsav Movies (576p) [Not 24/7]
-http://116.90.120.149:8000/play/a02r/index.m3u8
 #EXTINF:-1 group-title="Movies",START Air
 https://livetv.mylifeisgood.net.ru/channels/strwc.m3u8
 #EXTINF:-1 group-title="Movies",START World
@@ -543,8 +527,8 @@ https://livetv.mylifeisgood.net.ru/channels/strvf.m3u8
 https://cdn-1.pishow.tv/live/276/master.m3u8
 #EXTINF:-1 group-title="Movies",Sundance TV East
 https://fl1.moveonjoy.com/SUNDANCE/index.m3u8
-#EXTINF:-1 group-title="Movies",Surya Movies (1080p)
-https://playyonogames.in/live.php?format=.m3u8&id=1754
+#EXTINF:-1 group-title="Movies",Surya Movies (576p)
+http://87.255.35.150:18932
 #EXTINF:-1 group-title="Movies",T2 Movies
 https://still-mud-3642.nqanzvyuupxwcahtfq.workers.dev/?url=https://ca-rt.onetv.app/T2Movies/index-0.m3u8
 #EXTINF:-1 group-title="Movies",Tamasha

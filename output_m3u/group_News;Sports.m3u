@@ -1,3 +1,5 @@
 #EXTM3U
+#EXTINF:-1 group-title="News;Sports",Africa 24 Sport (1080p)
+https://africa24.vedge.infomaniak.com/livecast/ik:africa24sport/manifest.m3u8
 #EXTINF:-1 group-title="News;Sports",ESPNews (720p)
 https://fl1.moveonjoy.com/ESPN_NEWS/index.m3u8

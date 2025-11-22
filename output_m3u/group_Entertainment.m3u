@@ -495,8 +495,6 @@ http://197.243.19.131:1935/kc2/kc2/chunklist.m3u8
 https://kcltv.livebox.co.in/kclhls/live.m3u8
 #EXTINF:-1 group-title="Entertainment",KCWE-DT1 (720p)
 https://cvtv.cvalley.net/hls/KCWECW/KCWECW.m3u8
-#EXTINF:-1 group-title="Entertainment",Kerala Vision (720p)
-https://yupplivefragcp3.yuppcdn.net/260423/smil:keralavision.smil/index.m3u8
 #EXTINF:-1 group-title="Entertainment",KFMB-DT2 (720p) [Not 24/7]
 https://tvpass.org/live/cw-kfmbtv2-san-diego-ca/hd
 #EXTINF:-1 group-title="Entertainment",KFTR-DT1 [Geo-blocked]
@@ -869,10 +867,6 @@ https://cdn-3.pishow.tv/live/230/master.m3u8
 https://raw.githubusercontent.com/UzunMuhalefet/yayinlar/main/streams/best/showmax.m3u8
 #EXTINF:-1 group-title="Entertainment",SolTV (720p)
 https://stream.solmediaeg.com/soltv/soltv.m3u8
-#EXTINF:-1 group-title="Entertainment",Sony Entertainment Television (1080p)
-https://nxtlive.net/sliv/stream.php?e=.m3u8&id=0897686
-#EXTINF:-1 group-title="Entertainment",Sony SAB (1080p)
-https://nxtlive.net/sliv/stream.php?e=.m3u8&id=0897678986
 #EXTINF:-1 group-title="Entertainment",Sooriyan TV (1080p)
 https://live20.bozztv.com/giatv/giatv-Infinittyott/Infinittyott/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment",Spark TV
@@ -897,8 +891,8 @@ http://87.255.35.150:18447
 http://87.255.35.150:18545
 #EXTINF:-1 group-title="Entertainment",Star Vijay HD (1080p)
 http://87.255.35.150:18955
-#EXTINF:-1 group-title="Entertainment",StarPlus HD (1080p)
-http://116.90.120.149:8000/play/a0b9/index.m3u8
+#EXTINF:-1 group-title="Entertainment",StarPlus HD (720p)
+https://tvsen7.aynaott.com/sphdbd/index.m3u8
 #EXTINF:-1 group-title="Entertainment",Stories by AMC (1080p)
 http://fl1.moveonjoy.com/AMC_NETWORK/index.m3u8
 #EXTINF:-1 group-title="Entertainment",Stories by AMC
