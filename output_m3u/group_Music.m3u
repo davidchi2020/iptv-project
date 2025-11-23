@@ -401,6 +401,8 @@ https://6019dcac4147f.streamlock.net:9443/la98/Invosa/playlist.m3u8
 https://streamlov.alsolnet.com/hermandadsalsera/live/playlist.m3u8
 #EXTINF:-1 group-title="Music",La Imagen de Tierra Caliente (768p)
 https://stream.oursnetworktv.com/latin/encoder82/playlist.m3u8
+#EXTINF:-1 group-title="Music",La Kalle (720p)
+https://mdstrm.com/live-stream-playlist/58d191f07290fbb058025843.m3u8
 #EXTINF:-1 group-title="Music",La Luperrona Ciudad Guzmán (240p)
 https://stream.oursnetworktv.com/radio/luperrongdgzman/playlist.m3u8
 #EXTINF:-1 group-title="Music",La Luperrona Colima (256p)
