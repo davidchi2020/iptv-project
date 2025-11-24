@@ -33,8 +33,8 @@ https://59d7d6f47d7fc.streamlock.net/loveinvenice/loveinvenice/playlist.m3u8
 https://live.maldivestv.mv/hls/stream/index.m3u8
 #EXTINF:-1 group-title="Travel",NOTV New Orleans TV (720p)
 http://media4.tripsmarter.com:1935/LiveTV/NOTVHD/playlist.m3u8
-#EXTINF:-1 group-title="Travel",Oepm TV (720p)
-https://cnn.essastream.com:3318/live/oepmtelevisionlive.m3u8
+#EXTINF:-1 group-title="Travel",OEPM TV (720p)
+https://cnn.hostlagarto.com/oepmtelevision/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Travel",Palm Beaches TV (720p)
 https://live.feed.thepalmbeaches.tv/index.m3u8
 #EXTINF:-1 group-title="Travel",Pluto TV Animaux
@@ -53,6 +53,8 @@ https://streamer103.neterra.tv/travel/live.m3u8
 https://travelxp-travelxp-1-au.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="Travel",Travelxp Netherlands
 https://travelxp-travelxp-3-nl.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="Travel",Turismo RDTV (720p)
+https://streamunoapp.com:3086/live/telemileniolive.m3u8
 #EXTINF:-1 group-title="Travel",Turistik TV (720p)
 https://5fa5de1a545ae.streamlock.net/8030/8030/.m3u8
 #EXTINF:-1 group-title="Travel",TV OFF

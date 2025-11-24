@@ -1,5 +1,9 @@
 #EXTM3U
 #EXTINF:-1 group-title="☘️内蒙古频道",内蒙经济" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/内蒙经济.png" group-title="☘️内蒙古频道
 https://ls.qingting.fm/live/1885/64k.m3u8
+#EXTINF:-1 group-title="☘️内蒙古频道",内蒙农牧" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/内蒙农牧.png" group-title="☘️内蒙古频道
+http://play1-qk.nmtv.cn:80/live/1686561299036179.m3u8
 #EXTINF:-1 group-title="☘️内蒙古频道",内蒙古经济生活" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/内蒙古经济生活.png" group-title="☘️内蒙古频道
 https://ls.qingting.fm/live/1885/64k.m3u8
+#EXTINF:-1 group-title="☘️内蒙古频道",内蒙古文体娱乐" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/内蒙古文体娱乐.png" group-title="☘️内蒙古频道
+http://play1-qk.nmtv.cn/live/1686561195713372.m3u8

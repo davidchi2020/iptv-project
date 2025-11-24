@@ -3,6 +3,8 @@
 https://30a-tv.com/feeds/xodglobal/30atv.m3u8
 #EXTINF:-1 group-title="Business",Al Arabiya Business (1080p)
 https://live.alarabiya.net/alarabiapublish/aswaaq.smil/playlist.m3u8
+#EXTINF:-1 group-title="Business",Aleph Business (1280p)
+https://streamw.m.ro/Aleph/ngrp:Alephbiz.stream_all/playlist.m3u8
 #EXTINF:-1 group-title="Business",Ameritrade (1080p) [Not 24/7]
 https://tdameritrade-vizio.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Business",ausbiz TV (720p) [Not 24/7]
