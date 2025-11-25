@@ -1,5 +1,5 @@
 #EXTM3U
 #EXTINF:-1 group-title="Entertainment;Family",Estrella Games (1080p)
 https://estrella-games-oando.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="Entertainment;Family",Soweto TV
-https://uvotv-aniview.global.ssl.fastly.net/hls/live/2120686/sowetotv/playlist.m3u8
+#EXTINF:-1 group-title="Entertainment;Family",Soweto TV (576p)
+https://cdn.freevisiontv.co.za/sttv/smil:soweto.stream.smil/playlist.m3u8

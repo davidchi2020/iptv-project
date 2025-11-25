@@ -289,6 +289,8 @@ https://tgn.bozztv.com/eshgtv-trn09/ga-mchannel2/index.m3u8
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-bollywood/546eb40d7dcf9a209255dd2496903764/index.m3u8
 #EXTINF:-1 group-title="Movies",MBC+ Drama (1080p)
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-plus-drama/e37251ec2aac8f6c98f75cd0fa37cd28/index.m3u8
+#EXTINF:-1 group-title="Movies",Mega Cine TV (720p)
+https://cloudflare.streamgato.us:3125/live/megacinetvlive.m3u8
 #EXTINF:-1 group-title="Movies",Meta Film TV
 https://metafilmhls.wns.live/hls/stream.m3u8
 #EXTINF:-1 group-title="Movies",MGM HD [Not 24/7]
@@ -315,8 +317,6 @@ http://playhdnewjj.xyz:8080/recc121412/KVqfhtdJ2nQ7/174
 http://210.210.155.37/uq2663/h/h192/index.m3u8
 #EXTINF:-1 group-title="Movies",My Cinema Asia (1080p) [Geo-blocked]
 http://210.210.155.37/uq2663/h/h193/index.m3u8
-#EXTINF:-1 group-title="Movies",My Movie French
-https://uvotv-aniview.global.ssl.fastly.net/hls/live/2120430/mymoviesfrench/playlist.m3u8
 #EXTINF:-1 group-title="Movies",MyTime Movie Network Brazil (720p)
 https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Movies",MyTime Movie Network Mexico (720p)
@@ -505,8 +505,6 @@ https://slonehls.wns.live/hls/stream.m3u8
 https://sltwohls.wns.live/hls/stream.m3u8
 #EXTINF:-1 group-title="Movies",Sony Canal Novelas
 https://a89829b8dca2471ab52ea9a57bc28a35.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/CanelaTV_SonyCanalNovelas/playlist.m3u8
-#EXTINF:-1 group-title="Movies",Star Cinema
-https://uvotv-aniview.global.ssl.fastly.net/10010/dvr/hls/starcinema/playlist.m3u8
 #EXTINF:-1 group-title="Movies",Star Gold Select HD (1080p)
 http://87.255.35.150:18429
 #EXTINF:-1 group-title="Movies",Star Maa Gold (576p)

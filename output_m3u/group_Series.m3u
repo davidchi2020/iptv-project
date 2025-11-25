@@ -35,8 +35,6 @@ http://176.65.146.237:8401/play/a0ai/index.m3u8
 http://38.183.182.166:8000/play/a104/index.m3u8
 #EXTINF:-1 group-title="Series",AVA Series
 https://avaserieshls.wns.live/hls/stream.m3u8
-#EXTINF:-1 group-title="Series",Az Corazon
-https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119960/aztecacorazon/playlist.m3u8
 #EXTINF:-1 group-title="Series",Bab Al Hara (1080p)
 https://shls-live-enc.edgenextcdn.net/out/v1/948c54279b594944adde578c95f1d7d1/index.m3u8
 #EXTINF:-1 group-title="Series",Bar Rescue

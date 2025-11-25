@@ -5,8 +5,6 @@ https://30a-tv.com/feeds/vidaa/cars.m3u8
 http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8
 #EXTINF:-1 group-title="Auto",Canal Motor (720p)
 https://digicom.hls.iptvdc.com/canalmotor/index.m3u8
-#EXTINF:-1 group-title="Auto",Cars & Stars TV
-https://uvotv-aniview.global.ssl.fastly.net/hls/live/2120685/carsstarstv/playlist.m3u8
 #EXTINF:-1 group-title="Auto",Garage TV Latin America
 https://stream1.sersat.com/hls/garagetv.m3u8
 #EXTINF:-1 group-title="Auto",Motor Trend
