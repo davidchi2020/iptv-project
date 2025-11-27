@@ -2655,6 +2655,8 @@ https://stream8.cinerama.uz/1008/tracks-v1a1/playlist.m3u8
 https://live.iplanay.gob.mx/hls/nayarittv.m3u8
 #EXTINF:-1 group-title="General",NBC
 https://cors-proxy.cooks.fyi/https://streamer2.nexgen.bz/NBC/index.m3u8
+#EXTINF:-1 group-title="General",NBC 1
+https://hls2.nbcplus.na/hls/high_nbc1.m3u8
 #EXTINF:-1 group-title="General",NBC 2 Tulsa OK (KJRH) (720p)
 https://livetv-fa.tubi.video/kjrh/playlist.m3u8
 #EXTINF:-1 group-title="General",NBC 3 Sacramento CA (KCRA) (720p)

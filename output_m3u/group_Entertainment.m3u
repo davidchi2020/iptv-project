@@ -787,8 +787,6 @@ https://videostream.shockmedia.com.ar:19360/radio1045/radio1045.m3u8
 http://cdn27.live247stream.com/primecanada/247/primecanada/stream1/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment",Pronems TV [Geo-blocked]
 https://vdo1.streamgato.us:3418/live/pronemstvlive.m3u8
-#EXTINF:-1 group-title="Entertainment",Public TV (720p)
-https://cdn-3.pishow.tv/live/439/master.m3u8
 #EXTINF:-1 group-title="Entertainment",Pula TV (720p)
 https://vdo2.streamgato.us:3239/live/pulatvlive.m3u8
 #EXTINF:-1 group-title="Entertainment",R&E TV (720p)

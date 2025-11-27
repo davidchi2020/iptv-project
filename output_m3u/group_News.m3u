@@ -324,7 +324,7 @@ https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TOULONVAR/index.m3u8?end=END&sta
 #EXTINF:-1 group-title="News",BFM TV (576p)
 https://live-cdn-stream-euw1.bfmtv.bct.nextradiotv.com/master.m3u8
 #EXTINF:-1 group-title="News",Bharat24 (1080p)
-https://legitpro.co.in/bharat24live/bharat24live/index.m3u8
+https://cdn.ottlive.co.in/bharat24/index.fmp4.m3u8
 #EXTINF:-1 group-title="News",Bharat Express (480p)
 https://stream1.livebox.co.in/VCAREhls/live.m3u8
 #EXTINF:-1 group-title="News",BIG TV (720p)
@@ -709,6 +709,8 @@ https://cdn-3.pishow.tv/live/220/master.m3u8
 https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8
 #EXTINF:-1 group-title="News",IND 24 (360p)
 https://gmkd5nkednxo-hls-live.wmncdn.net/ind24tv/live.stream/playlist.m3u8
+#EXTINF:-1 group-title="News",India News (1080p)
+https://newsxott.in/hls/indianewsnational.m3u8
 #EXTINF:-1 group-title="News",India News Haryana (576p)
 https://livetv.newsx.com/itv/itvnetwork2/playlist.m3u8
 #EXTINF:-1 group-title="News",India News Madhya Pradesh/Chhattisgarh (576p)
@@ -933,6 +935,8 @@ https://stream-188125.castr.net/631af9c016e5eace19ff9a5b/live_048998706a2311ee83
 https://nationtv-1jdcjo.cdn.byteark.com/fleetstream/nationtvlive/index.m3u8
 #EXTINF:-1 group-title="News",Naxatra News (720p)
 https://wearelive.livebox.co.in/naxatratvhls/naxatratv.m3u8
+#EXTINF:-1 group-title="News",NBC 2
+https://hls2.nbcplus.na/hls/high_nbc2.m3u8
 #EXTINF:-1 group-title="News",NBC 2 Orlando FL (WESH) (720p)
 https://livetv-fa.tubi.video/wesh/playlist.m3u8
 #EXTINF:-1 group-title="News",NBC 5 Plattsburgh NY (WPTZ) (720p)
@@ -1123,6 +1127,8 @@ https://customer-ujex1meek7koqd9x.cloudflarestream.com/21262545317dadfa20dab4f9b
 https://streaming.ptcplay.com/PTCNEWSINONE/smil:Live.smil/playlist.m3u8
 #EXTINF:-1 group-title="News",PTV (720p)
 https://cdn10.live-tv.cloud/hrpl/hrpl-abr/playlist.m3u8
+#EXTINF:-1 group-title="News",Public TV (720p)
+https://cdn-3.pishow.tv/live/439/master.m3u8
 #EXTINF:-1 group-title="News",PublicSn TV (720p)
 https://goccn.cloud/hls/publictv/index.m3u8
 #EXTINF:-1 group-title="News",Publika TV (720p)

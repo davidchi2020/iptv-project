@@ -121,6 +121,8 @@ http://9b129915.akadatel.com/iptv/83GA6FAV4DPTPQ/20068/index.m3u8
 https://windnew.iosplayer.ru/wind/premium72/mono.m3u8
 #EXTINF:-1 group-title="Sports",Eleven Sports 3 (1080p)
 https://ddy6new.iosplayer.ru/ddy6/premium428/mono.m3u8
+#EXTINF:-1 group-title="Sports",Eleven Sports 4 (1080p)
+https://s7.vizja.cc/ElevenSports4/index.m3u8
 #EXTINF:-1 group-title="Sports",Equidia (1080p)
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/equidia/live2.m3u8
 #EXTINF:-1 group-title="Sports",ERT Sports 1 (1080p)
