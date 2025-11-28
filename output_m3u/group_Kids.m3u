@@ -81,18 +81,12 @@ https://d3eq0jseza7fm5.cloudfront.net/tg4_vod_3.m3u8
 http://84.54.128.52:9090/play/3006/index.m3u8
 #EXTINF:-1 group-title="Kids",Disney Channel (576p) [Not 24/7]
 http://116.90.120.149:8000/play/a0bx/index.m3u8
-#EXTINF:-1 group-title="Kids",Disney Channel (1080p)
-http://185.236.229.62:9981/play/a07d
 #EXTINF:-1 group-title="Kids",Disney Channel (720p)
 https://fl31.moveonjoy.com/DISNEY/index.m3u8
 #EXTINF:-1 group-title="Kids",Disney Channel HD (1080p)
 http://66.102.120.18:8000/play/a013/index.m3u8
-#EXTINF:-1 group-title="Kids",Disney Junior
-http://185.236.229.62:9981/play/a06n
 #EXTINF:-1 group-title="Kids",Disney Junior East
 https://fl1.moveonjoy.com/DISNEY_JR/index.m3u8
-#EXTINF:-1 group-title="Kids",Disney XD (576p)
-http://185.236.229.62:9981/play/a07c
 #EXTINF:-1 group-title="Kids",Disney XD (720p)
 http://fl1.moveonjoy.com/DISNEY_XD/index.m3u8
 #EXTINF:-1 group-title="Kids",Dora TV
@@ -233,8 +227,6 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/609e7e423
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f997e44949bc70007a6941e/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 #EXTINF:-1 group-title="Kids",pocket.watch
 https://pocketwatch-xumo.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="Kids",Polsat JimJam
-http://185.236.229.62:9981/play/a07e
 #EXTINF:-1 group-title="Kids",Pooya & Nahal
 https://lenz.splus.ir/PLTV/88888888/224/3221226145/index.m3u8
 #EXTINF:-1 group-title="Kids",Pooya TV Plus

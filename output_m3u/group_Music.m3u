@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 group-title="Music",1Music Channel Hungary (576p)
 http://1music.hu/1music.m3u8
-#EXTINF:-1 group-title="Music",4 Fun Dance (576i) [Not 24/7]
-http://185.236.229.62:9981/play/a020
 #EXTINF:-1 group-title="Music",4 Fun TV (576i) [Not 24/7]
 https://stream.4fun.tv:8888/hls/4f_high/index.m3u8
 #EXTINF:-1 group-title="Music",4 Kurd
@@ -235,8 +233,6 @@ https://backend.energeek.cl/webtv/egradioweb/index.m3u8?token=ZZDemoIPTVGH
 https://s-pl-01.mediatool.tv/playout/espl-abr/index.m3u8
 #EXTINF:-1 group-title="Music",Eska Rock Dobrze Rockuje (1080i)
 https://s-pl-01.mediatool.tv/playout/erpl-abr/index.m3u8
-#EXTINF:-1 group-title="Music",Eska TV (1080p)
-http://185.236.229.62:9981/play/a02f
 #EXTINF:-1 group-title="Music",Euro Indie Music Chart TV (360p)
 http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8
 #EXTINF:-1 group-title="Music",Europa Plus TV
@@ -559,6 +555,8 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d
 https://fl1.moveonjoy.com/MUCH/index.m3u8
 #EXTINF:-1 group-title="Music",Mun2TV (720p)
 https://vdo2.streamgato.us:3144/live/mund2tvlive.m3u8
+#EXTINF:-1 group-title="Music",Music Box Polska (1080p) [Geo-blocked]
+https://vs2131.vcdn.biz/7c9ec24eb8edee7c3d3b96d9f3135f48_megogo/live/hls/b/700_2490_4000/u_sid/0/o/156751011/rsid/75909724-61e8-406f-9c58-f0491247f2a6/u_uid/0/u_vod/0/u_device/cms_html5/u_devicekey/_site/lip/91.226.196.37*asn/u_srvc/81255/u_did/web_duMuKipCoyWU9tWH3VWiK9eX5ZPorcR6/type.live/chunklist-sid750262562196381400-b4000000.m3u8
 #EXTINF:-1 group-title="Music",Music India (720p) [Not 24/7]
 https://cdn-2.pishow.tv/live/226/master.m3u8
 #EXTINF:-1 group-title="Music",Musik Indonesia (576p)
