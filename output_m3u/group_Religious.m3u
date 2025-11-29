@@ -286,7 +286,7 @@ https://tnt-television.com/CCPV-TV/index.m3u8
 #EXTINF:-1 group-title="Religious",CCTN 47 (1080p) [Not 24/7]
 http://122.55.252.134:8443/live/bba5b536faeacb9b56a3239f1ee8e3b3/1.m3u8
 #EXTINF:-1 group-title="Religious",CDM Internacional (480p) [Not 24/7]
-https://59825a54e4454.streamlock.net:8443/marcos536/marcos536/playlist.m3u8
+https://627bb251f23c7.streamlock.net:444/CDMInternacional/CDMInternacional/playlist.m3u8
 #EXTINF:-1 group-title="Religious",Cetelmón TV (404p)
 http://player.cetelmon.tv/protecteddfd43c2f3a8b41f3f28582bf8993aca6/992_high.m3u8
 #EXTINF:-1 group-title="Religious",CFN Catholic Faith Network (720p)
@@ -374,7 +374,7 @@ https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3bf95
 #EXTINF:-1 group-title="Religious",Diyar TV (720p)
 https://live.artidijitalmedya.com/artidijital_diyartv/diyartv/playlist.m3u8
 #EXTINF:-1 group-title="Religious",DNJ TV (720p)
-https://eu1.servers10.com:8081/wegqaafnsa/index.m3u8
+https://cloud2.streaminglivehd.com:1936/dnjv2/dnjv2/playlist.m3u8
 #EXTINF:-1 group-title="Religious",Dost TV (576p)
 https://dost.stream.emsal.im/tv/live.m3u8
 #EXTINF:-1 group-title="Religious",Dr. Gene Scott (1080p)
@@ -467,6 +467,8 @@ https://cdn.freevisiontv.co.za/sttv/smil:faith.stream.smil/playlist.m3u8
 https://stream.ecable.tv/faithworld/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Religious",Fajar TV (720p) [Not 24/7]
 http://122.248.43.242:1935/FAJARTV/_definst_/myStream/playlist.m3u8
+#EXTINF:-1 group-title="Religious",Familia Visión HD [Not 24/7]
+https://584097344c1f0.streamlock.net/29/stream/playlist.m3u8
 #EXTINF:-1 group-title="Religious",FarmodaTV (1080p)
 https://avr.host247.net/live/FarmodaTV/playlist.m3u8
 #EXTINF:-1 group-title="Religious",Faro de Santidad TV (720p)
@@ -976,7 +978,7 @@ https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_027/Stream/playlist.m3u
 #EXTINF:-1 group-title="Religious",Nexo TV (720p)
 https://stmvideo1.livecastv.com/nexotv/nexotv/playlist.m3u8
 #EXTINF:-1 group-title="Religious",NG Radio TV (360p)
-https://5cb1ee4d59ac0.streamlock.net/ngradiotv/ngradiotv/playlist.m3u8
+https://67acccf130420.streamlock.net/ngradiotv/ngradiotv/playlist.m3u8
 #EXTINF:-1 group-title="Religious",Nieta TV
 http://69.64.57.208/nieta/playlist.m3u8
 #EXTINF:-1 group-title="Religious",Nireekshana TV (576p)
@@ -1330,7 +1332,7 @@ http://213.13.26.11:1935/live/sobrenaturaltv/livestream.m3u8
 #EXTINF:-1 group-title="Religious",WBS TV (720p)
 http://157.245.196.186/live/livestream.m3u8
 #EXTINF:-1 group-title="Religious",WDWL-DT1 (Teleadoración/Enlace PR) (720p) [Not 24/7]
-https://5cb1ee4d59ac0.streamlock.net/enlacepr1/enlacepr1/playlist.m3u8
+https://67acccf130420.streamlock.net/enlacepr1/enlacepr1/playlist.m3u8
 #EXTINF:-1 group-title="Religious",WECN (Único TV) (720p)
 https://59825a54e4454.streamlock.net:8443/pastorairisn394/pastorairisn394/chunklist_w239411719.m3u8
 #EXTINF:-1 group-title="Religious",Whole Word TV (720p)
