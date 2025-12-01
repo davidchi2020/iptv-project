@@ -727,6 +727,8 @@ https://servilive.com:3028/live/jntv19live.m3u8
 https://livecdn.live247stream.com/joshua/tv/playlist.m3u8
 #EXTINF:-1 group-title="Religious",Josué TV (1080p)
 https://videoserver.tmcreativos.com:19360/abbftuhxxs/abbftuhxxs.m3u8
+#EXTINF:-1 group-title="Religious",Jothi TV (576p)
+http://87.255.35.150:18254/
 #EXTINF:-1 group-title="Religious",Júbilo TV (720p)
 https://stream.oursnetworktv.com/latin/jubilotv/playlist.m3u8
 #EXTINF:-1 group-title="Religious",Juventud Renovada en el Espiritu Santo (720p) [Not 24/7]

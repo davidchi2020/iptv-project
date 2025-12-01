@@ -785,6 +785,8 @@ https://alba-cr-repretel-c11.stream.mediatiquestream.com/index.m3u8
 https://stream.giostreaming.app/canal11/canal11.m3u8
 #EXTINF:-1 group-title="General",Canal 12 (220p)
 https://alba-sv-c12-c12.stream.mediatiquestream.com/index.m3u8
+#EXTINF:-1 group-title="General",Canal 13 (1080p)
+http://38.250.127.17:9800/play/a067/index.m3u8
 #EXTINF:-1 group-title="General",Canal 13 Bajío (720p) [Not 24/7]
 https://dbdfj5y8nz2u4.cloudfront.net/c13bajio/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
 #EXTINF:-1 group-title="General",Canal 13 Campeche (720p) [Not 24/7]
@@ -2223,6 +2225,8 @@ https://streamunoapp.com:3983/live/larutatvlive.m3u8
 https://latele.vedge.infomaniak.com/livecast/latele/playlist.m3u8
 #EXTINF:-1 group-title="General",La TR3 Marsala (720p)
 https://tsw.streamingwebtv24.it:1936/eslife1/eslife1/playlist.m3u8
+#EXTINF:-1 group-title="General",La Trois
+http://103.184.64.85:12000/stream/allchannel/rtbflatrois/master.m3u8
 #EXTINF:-1 group-title="General",Lakewood CityTV (720p)
 https://dlttx48mxf9m3.cloudfront.net/vod_clients/lakewood/live/ch1/video.m3u8
 #EXTINF:-1 group-title="General",Lam Dong TV (720p)
@@ -3887,6 +3891,8 @@ https://ott.tv5monde.com/Content/HLS/Live/channel(europe)/variant.m3u8
 https://ott.tv5monde.com/Content/HLS/Live/channel(fbs)/variant.m3u8
 #EXTINF:-1 group-title="General",TV5Monde France Belgium Switzerland Monaco HD
 https://viamotionhsi.netplus.ch/live/eds/tv5mondefbs/browser-HLS8/tv5mondefbs.m3u8
+#EXTINF:-1 group-title="General",TV5Monde Latin America
+http://45.235.0.78/TV5_Monde/index.m3u8
 #EXTINF:-1 group-title="General",TV5 Tu Canal (768p)
 https://stream.oursnetworktv.com/latin/encoder48/playlist.m3u8
 #EXTINF:-1 group-title="General",TV7+
