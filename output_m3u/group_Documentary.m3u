@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="Documentary",Al Jazeera Documentary (1080p)
-http://213.57.91.138:8000/play/a06h
 #EXTINF:-1 group-title="Documentary",Al Jazeera Documentary (1080p) [Geo-blocked]
 https://live-hls-apps-ajd-fa.getaj.net/AJD/index.m3u8
 #EXTINF:-1 group-title="Documentary",Asharq Documentary (1080p)
@@ -85,10 +83,6 @@ http://78.130.250.2:8023/play/a02e/index.m3u8
 http://62.210.211.188:2095/play/a00d
 #EXTINF:-1 group-title="Documentary",National Geographic (1080p) [Geo-blocked]
 https://saran-live.ercdn.net/natgeohd/index.m3u8
-#EXTINF:-1 group-title="Documentary",National Geographic Abu Dhabi (1080p) [Geo-blocked]
-https://vo-live.cdb.cdn.orange.com/Content/Channel/NationalGeographicHDChannel/HLS/index.m3u8
-#EXTINF:-1 group-title="Documentary",National Geographic Abu Dhabi HD (1080p)
-http://213.57.91.138:8000/play/a05a
 #EXTINF:-1 group-title="Documentary",National Geographic East
 https://fl1.moveonjoy.com/National_Geographic/index.m3u8
 #EXTINF:-1 group-title="Documentary",National Geographic HD East (720p) [Not 24/7]

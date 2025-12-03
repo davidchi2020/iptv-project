@@ -145,10 +145,8 @@ https://c.mjh.nz/abc-wa.m3u8
 https://cdn.jwplayer.com/live/broadcast/GQagSggs.mpd
 #EXTINF:-1 group-title="General",ABN TV (720p)
 https://vod2.abn.co.kr/IPHONE/abn.m3u8
-#EXTINF:-1 group-title="General",Abu Dhabi Emirates (1080p)
-https://vo-live-media.cdb.cdn.orange.com/Content/Channel/EmiratesChannel/HLS/index.m3u8
 #EXTINF:-1 group-title="General",Abu Dhabi TV (1080p)
-https://vo-live-media.cdb.cdn.orange.com/Content/Channel/AbuDhabiChannel/HLS/index.m3u8
+https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv_enc/abudhabi_tv/abudhabi_tv_hls_nd/index.m3u8
 #EXTINF:-1 group-title="General",Abya Yala TV
 https://seo.tv.bo/tv/LIpSEO-TV-8.m3u8
 #EXTINF:-1 group-title="General",Access Humboldt (1080p)
@@ -245,8 +243,6 @@ https://amg01480-alshallalfze-alshallal-ono-q0hfg.amagi.tv/playlist.m3u8
 https://svs.itworkscdn.net/kablatvlive/kabtv1.smil/playlist.m3u8
 #EXTINF:-1 group-title="General",Al Wousta TV (1080p)
 https://svs.itworkscdn.net/alwoustalive/alwoustatv.smil/playlist.m3u8
-#EXTINF:-1 group-title="General",Al-Nahar (576p)
-http://213.57.91.138:8000/play/a06m
 #EXTINF:-1 group-title="General",Al-Sharqiya (1080p)
 https://5d94523502c2d.streamlock.net/home/mystream/playlist.m3u8
 #EXTINF:-1 group-title="General",Alacantí TV (576p) [Not 24/7]
@@ -309,8 +305,6 @@ https://video.makrodigital.com/americaestereoibarra/americaestereoibarra/playlis
 https://video.makrodigital.com/americaestereoquito/americaestereoquito/playlist.m3u8
 #EXTINF:-1 group-title="General",América Estéreo Tulcán (614p)
 https://video.makrodigital.com/americaestereotulcan/americaestereotulcan/playlist.m3u8
-#EXTINF:-1 group-title="General",America Television (1080p)
-http://38.183.182.166:8000/play/a0rb/index.m3u8
 #EXTINF:-1 group-title="General",America TV (720p)
 https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
 #EXTINF:-1 group-title="General",Amga TV (720p) [Not 24/7]
@@ -965,8 +959,6 @@ https://5b33b873179a2.streamlock.net:1443/radiocamera/livestream/playlist.m3u8
 https://5b33b873179a2.streamlock.net:1443/mastertv/livestream/playlist.m3u8
 #EXTINF:-1 group-title="General",Cay TV (720p)
 https://edge1.socialsmart.tv/caytv/bant1/playlist.m3u8
-#EXTINF:-1 group-title="General",CBC (576p)
-http://213.57.91.138:8000/play/a06o
 #EXTINF:-1 group-title="General",CBC Calgary (CBRT-DT) (720p) [Geo-blocked]
 https://cbcrclinear-tor.akamaized.net/hls/live/2042763/CBCRCLINEAR_TOR_9/master5.m3u8
 #EXTINF:-1 group-title="General",CBC Edmonton (CBXT-DT) (720p) [Geo-blocked]
@@ -2145,10 +2137,10 @@ https://kontralive.siliconweb.com/live/kontratv/playlist.m3u8
 https://live.artidijitalmedya.com/artidijital_konyaolaytv/konyaolaytv/playlist.m3u8
 #EXTINF:-1 group-title="General",Kordestan
 https://lenz.splus.ir/PLTV/88888888/224/3221226647/index.m3u8
-#EXTINF:-1 group-title="General",Korean Central Television (1080i) [Not 24/7]
+#EXTINF:-1 group-title="General",Korean Central Television (KCTV) (1080i) [Not 24/7]
 https://tv.intchoson.com/kctv/main_stream.m3u8
-#EXTINF:-1 group-title="General",Korean Central Television (576p)
-https://tv.nknews.org/tvhls/stream.m3u8
+#EXTINF:-1 group-title="General",Korean Central Television (KCTV) (576p)
+https://streamer.nknews.org/tvhls/stream.m3u8
 #EXTINF:-1 group-title="General",KQFX-LD1 (720p)
 https://cvtv.cvalley.net/hls/KQFXFOX/KQFXFOX.m3u8
 #EXTINF:-1 group-title="General",KRCA-TV Estrella Los Angeles (720p)
@@ -3023,8 +3015,6 @@ https://streamunoapp.com:3255/live/palmartvlive.m3u8
 http://ms1.sanlisoy.com:1935/pamukkaletv/pamukkaletv/playlist.m3u8
 #EXTINF:-1 group-title="General",Panambi Digital TV
 https://video.hostingcaaguazu.com:19360/panambiveratv/panambiveratv.m3u8
-#EXTINF:-1 group-title="General",Panamericana TV (1080p)
-http://38.183.182.166:8000/play/a0ii/index.m3u8
 #EXTINF:-1 group-title="General",Panavisión (1080p)
 https://vcp.myplaytv.com/panavision/panavision/playlist.m3u8
 #EXTINF:-1 group-title="General",Panc TV (720p) [Not 24/7]

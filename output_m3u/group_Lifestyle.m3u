@@ -23,8 +23,6 @@ http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/index.m3u
 https://run-br-uk.otteravision.com/run/br_uk/br_uk_720.m3u8
 #EXTINF:-1 group-title="Lifestyle",CaTine (720p)
 https://stream1.antenaplay.ro/live/CaTine/playlist.m3u8
-#EXTINF:-1 group-title="Lifestyle",CBC Sofra (576p)
-http://213.57.91.138:8000/play/a06p
 #EXTINF:-1 group-title="Lifestyle",CCTV-12 (2160p)
 http://123.175.209.52:9003/hls/13/index.m3u8
 #EXTINF:-1 group-title="Lifestyle",CineLife

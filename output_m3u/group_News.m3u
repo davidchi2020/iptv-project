@@ -295,8 +295,6 @@ https://eu1.vectromdigital.com:1936/bci24news/bci24news/playlist.m3u8
 https://liveingesta318.cdnmedia.tv/badalonatvlive/smil:live.smil/playlist.m3u8
 #EXTINF:-1 group-title="News",BEK TV News (720p)
 https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEeast.smil/playlist.m3u8
-#EXTINF:-1 group-title="News",Belqees TV (576p)
-http://213.57.91.138:8000/play/a068
 #EXTINF:-1 group-title="News",Bénin Web TV (720p)
 https://stream.beninwebtv.bj/2/live/stream.m3u8
 #EXTINF:-1 group-title="News",BeritaSatu English
@@ -776,7 +774,7 @@ https://knews.livebox.co.in/youtubehls/live.m3u8
 #EXTINF:-1 group-title="News",Kairali News (720p)
 https://cdn-3.pishow.tv/live/1469/master.m3u8
 #EXTINF:-1 group-title="News",Kalaignar Seithikal (576p) [Not 24/7]
-http://103.199.160.85/Content/kalaignarseithikal/Live/Channel(KalaignarSeithikal)/index.m3u8
+http://87.255.35.150:18837/
 #EXTINF:-1 group-title="News",Kalinga TV (576p) [Not 24/7]
 https://yuppftalive.akamaized.net/080823/kalingatv/playlist.m3u8
 #EXTINF:-1 group-title="News",Kanak News (720p) [Not 24/7]
@@ -1191,8 +1189,6 @@ https://amg00453-reuters-amg00453c1-rakuten-uk-2110.playouts.now.amagi.tv/playli
 https://realitatealive.md/tv/rlive.m3u8
 #EXTINF:-1 group-title="News",RNN (720p) [Not 24/7]
 https://2-fss-2.streamhoster.com/pl_120/206532-5753030-1/playlist.m3u8
-#EXTINF:-1 group-title="News",RPP TV (480p)
-http://38.183.182.166:8000/play/a13g/index.m3u8
 #EXTINF:-1 group-title="News",RSelvaTV
 https://live.obslivestream.com/selvatv/index.m3u8
 #EXTINF:-1 group-title="News",RT Arabic (1080p) [Geo-blocked]

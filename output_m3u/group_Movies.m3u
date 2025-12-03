@@ -20,7 +20,7 @@ http://87.255.35.150:18494
 #EXTINF:-1 group-title="Movies",&TV (1080p)
 https://amg01117-amg01117c1-amgplt0165.playout.now3.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Movies",&xplor HD (1080p)
-https://playyonogames.in/z5/stream.m3u8?id=0-9-209
+http://66.102.120.18:8000/play/a012/index.m3u8
 #EXTINF:-1 group-title="Movies",Abzy Dhakad (480p)
 https://d2lk5u59tns74c.cloudfront.net/out/v1/4fe6ab07a13543d6bdb2ec63b3e2df44/index.m3u8
 #EXTINF:-1 group-title="Movies",Abzy Movies (480p)
@@ -43,6 +43,8 @@ http://cors.tundracast.com:2000/https://streamer1.nexgen.bz/AMC/index.m3u8
 https://fl1.moveonjoy.com/AMC_NETWORK/index.m3u8
 #EXTINF:-1 group-title="Movies",American Horrors (480p)
 http://107.167.7.162:8081/playlist/amhor/playlist.m3u8
+#EXTINF:-1 group-title="Movies",Anandham TV (1080p)
+https://stream.galaxyott.live/live/anandhamtv/index.m3u8
 #EXTINF:-1 group-title="Movies",Asianet Movies (576p)
 http://87.255.35.150:18813/
 #EXTINF:-1 group-title="Movies",Aurora Media Films (720p)
@@ -240,7 +242,7 @@ https://live.presstv.ir/hls/ifilmfa.m3u8
 #EXTINF:-1 group-title="Movies",Itage TV
 https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_011/Stream/playlist.m3u8
 #EXTINF:-1 group-title="Movies",J Movie (576p)
-https://live.dinesh29.com.np/stream/jiotvplus/jmovies/master.m3u8
+http://103.140.254.2:3500/live/417.m3u8
 #EXTINF:-1 group-title="Movies",Jalsha Movies HD (1080p)
 https://live.dinesh29.com.np/stream/jiotvplus/jalshamovieshd/master.m3u8
 #EXTINF:-1 group-title="Movies",Jiangxi Movie Channel
@@ -283,10 +285,6 @@ https://cdn-2.pishow.tv/live/228/master.m3u8
 https://maverick-maverick-black-cinema-3-us.roku.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="Movies",MAX4 (576p)
 http://146.59.85.40:89/max4/index.m3u8
-#EXTINF:-1 group-title="Movies",MBC 2 (576p)
-http://213.57.91.138:8000/play/a05k
-#EXTINF:-1 group-title="Movies",MBC 2
-https://tgn.bozztv.com/eshgtv-trn09/ga-mchannel2/index.m3u8
 #EXTINF:-1 group-title="Movies",MBC Bollywood (1080p) [Geo-blocked]
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-bollywood/546eb40d7dcf9a209255dd2496903764/index.m3u8
 #EXTINF:-1 group-title="Movies",MBC+ Drama (1080p)
@@ -301,6 +299,8 @@ https://v2.catcast.tv/content/44051/index.m3u8
 https://fl1.moveonjoy.com/EPIX/index.m3u8
 #EXTINF:-1 group-title="Movies",MGM+ Marquee
 https://fl1.moveonjoy.com/EPIX_DRIVE_IN/index.m3u8
+#EXTINF:-1 group-title="Movies",Mix Hollywood (1080p)
+https://ml-pull-hwc.myco.io/MixTV/hls/index.m3u8
 #EXTINF:-1 group-title="Movies",MNX (1080p)
 http://87.255.35.150:18936
 #EXTINF:-1 group-title="Movies",MovieBox (720p)
@@ -311,8 +311,6 @@ https://shls-live-enc.edgenextcdn.net/out/v1/46079e838e65490c8299f902a7731168/in
 http://87.255.35.150:18935
 #EXTINF:-1 group-title="Movies",Movies Thriller (1080p)
 https://shls-live-enc.edgenextcdn.net/out/v1/f6d718e841f8442f8374de47f18c93a7/index.m3u8
-#EXTINF:-1 group-title="Movies",Movies!
-https://dvrfl03.bozztv.com/hdirect/hdirect-ovair1-movies!/index.m3u8
 #EXTINF:-1 group-title="Movies",MovieSmart Turk (576p)
 http://playhdnewjj.xyz:8080/recc121412/KVqfhtdJ2nQ7/174
 #EXTINF:-1 group-title="Movies",My Cinema (1080p)
@@ -509,6 +507,10 @@ https://slonehls.wns.live/hls/stream.m3u8
 https://sltwohls.wns.live/hls/stream.m3u8
 #EXTINF:-1 group-title="Movies",Sony Canal Novelas
 https://a89829b8dca2471ab52ea9a57bc28a35.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/CanelaTV_SonyCanalNovelas/playlist.m3u8
+#EXTINF:-1 group-title="Movies",Star Gold 2 (576p)
+http://87.255.35.150:18807/
+#EXTINF:-1 group-title="Movies",Star Gold HD (1080p)
+http://87.255.35.150:18859/
 #EXTINF:-1 group-title="Movies",Star Gold Select HD (1080p)
 http://87.255.35.150:18429
 #EXTINF:-1 group-title="Movies",Star Maa Gold (576p)
@@ -529,6 +531,8 @@ https://livetv.mylifeisgood.net.ru/channels/strvf.m3u8
 https://cdn-1.pishow.tv/live/276/master.m3u8
 #EXTINF:-1 group-title="Movies",Sundance TV East
 https://fl1.moveonjoy.com/SUNDANCE/index.m3u8
+#EXTINF:-1 group-title="Movies",Suriyan TV (1080p)
+https://stream.galaxyott.live/live/suriyantv/index.m3u8
 #EXTINF:-1 group-title="Movies",Surya Movies (576p)
 http://87.255.35.150:18932
 #EXTINF:-1 group-title="Movies",T2 Movies
@@ -571,8 +575,6 @@ https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/playlist.m3u8
 https://stmv6.voxtvhd.com.br/cineterror/cineterror/playlist.m3u8
 #EXTINF:-1 group-title="Movies",Zee Action (576p)
 http://87.255.35.150:18507
-#EXTINF:-1 group-title="Movies",Zee Aflam (576p)
-http://213.57.91.138:8000/play/a05s
 #EXTINF:-1 group-title="Movies",Zee Bollymovies (1080p) [Geo-blocked]
 https://amg17931-zee-amg17931c8-samsung-th-6526.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Movies",Zee Bollymovies Australia (1080p) [Geo-blocked]

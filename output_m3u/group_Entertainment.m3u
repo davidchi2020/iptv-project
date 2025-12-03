@@ -75,6 +75,8 @@ https://ma.anixa.tv/clips/stream/anixesd/index.m3u8
 https://ma.anixa.tv/clips/stream/anixehd/index.m3u8
 #EXTINF:-1 group-title="Entertainment",Anjan (1080p) [Not 24/7]
 https://anjantvevent.pc.cdn.bitgravity.com/anjantv/live/amlst:event_anjan_,b400,b800,b1024,b1200,b1500,b4000,.smil/playlist.m3u8
+#EXTINF:-1 group-title="Entertainment",Anmol TV (576p)
+http://87.255.35.150:18467
 #EXTINF:-1 group-title="Entertainment",ANT1 (1080p) [Geo-blocked]
 http://d1nfykbwa3n98t.cloudfront.net/out/v1/6e5667da5a6843899a337dea72adb61b/antenna.m3u8
 #EXTINF:-1 group-title="Entertainment",ANT1 Cyprus (1080p)
@@ -145,6 +147,8 @@ https://seswa.bonce.tv/hls/bonceswa.m3u8
 https://5790d294af2dc.streamlock.net/latinostv/latinostv/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment",Bounce XL (1080p)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-bouncexl-tablo/playlist.m3u8
+#EXTINF:-1 group-title="Entertainment",Brio TV (576p)
+http://103.140.254.2:3500/live/3381.m3u8
 #EXTINF:-1 group-title="Entertainment",Buena TV (1080p)
 https://59825a54e4454.streamlock.net:8443/papo351/papo351/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment",Buzzr
@@ -225,8 +229,8 @@ http://87.255.35.150:18838
 http://87.255.35.150:18219
 #EXTINF:-1 group-title="Entertainment",Colors Marathi (1080p)
 http://87.255.35.150:18233
-#EXTINF:-1 group-title="Entertainment",Colors Super (720p)
-https://playyonogames.in/live.php?format=.m3u8&id=785
+#EXTINF:-1 group-title="Entertainment",Colors Super (576p)
+http://87.255.35.150:18445
 #EXTINF:-1 group-title="Entertainment",Colors Tamil (1080p)
 http://87.255.35.150:18225
 #EXTINF:-1 group-title="Entertainment",Colosal TV (720p) [Not 24/7]
@@ -320,7 +324,7 @@ https://59d39900ebfb8.streamlock.net/FIDELETV/FIDELETV/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment",Fido TV (1080p)
 https://1123112950.rsc.cdn77.org/HLS/FIDO.m3u8
 #EXTINF:-1 group-title="Entertainment",Flowers TV (576p)
-http://93.119.105.61/play/live.php?extension=ts&mac=00:1A:79:00:28:53&play_token=FPh4kuMnod&stream=443062
+http://87.255.35.150:18933/
 #EXTINF:-1 group-title="Entertainment",FORT TV (480p)
 https://fort.co-works.org/memfs/87017643-274a-4bc0-a786-7767a0d159c2.m3u8
 #EXTINF:-1 group-title="Entertainment",FORTUNE TV (720p)
@@ -593,8 +597,6 @@ https://cdn-7.pishow.tv/live/1129/master.m3u8
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-4/24f134f1cd63db9346439e96b86ca6ed/index.m3u8
 #EXTINF:-1 group-title="Entertainment",MBC 4
 https://tgn.bozztv.com/eshgtv-trn09/ga-mchannel4/index.m3u8
-#EXTINF:-1 group-title="Entertainment",MBC Action (576p)
-http://213.57.91.138:8000/play/a05l
 #EXTINF:-1 group-title="Entertainment",MBC Drama (480p) [Geo-blocked]
 http://mytv.dothome.co.kr/ch/catv/26.php
 #EXTINF:-1 group-title="Entertainment",MBC Drama KSA (1080p)
@@ -641,6 +643,8 @@ https://viamotionhsi.netplus.ch/live/eds/more4/browser-dash/more4.mpd
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/613260e4bdb71c00070d63fa/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c29dbd7-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=f1dbd4b6-a07d-4f52-b7b5-f1c84ee32628
 #EXTINF:-1 group-title="Entertainment",MTV (1080p)
 https://viamotionhsi.netplus.ch/live/eds/mtvfrance/browser-HLS8/mtvfrance.m3u8
+#EXTINF:-1 group-title="Entertainment",MTV (576p)
+http://87.255.35.150:18901/
 #EXTINF:-1 group-title="Entertainment",MTV2 (720p)
 https://fl1.moveonjoy.com/MTV_2/index.m3u8
 #EXTINF:-1 group-title="Entertainment",MTV East
@@ -705,6 +709,8 @@ https://5f86a49aedff6.streamlock.net/nos_pais_24_7/nos_pais_24_7/playlist.m3u8
 https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8
 #EXTINF:-1 group-title="Entertainment",NRK 3 (1080i) [Geo-blocked]
 https://nrk-live-no.akamaized.net/nrk3/muxed.m3u8
+#EXTINF:-1 group-title="Entertainment",NTC TV (720p)
+https://galaxyott.live/hls/ntv.m3u8
 #EXTINF:-1 group-title="Entertainment",NUBAR Plus TV (720p)
 http://stream.nubar.tv:1935/private/NUBARPlus/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment",Nuova TV 1 (1080p)
@@ -841,6 +847,8 @@ https://cdn-3.pishow.tv/live/230/master.m3u8
 https://raw.githubusercontent.com/UzunMuhalefet/yayinlar/main/streams/best/showmax.m3u8
 #EXTINF:-1 group-title="Entertainment",SolTV (720p)
 https://stream.solmediaeg.com/soltv/soltv.m3u8
+#EXTINF:-1 group-title="Entertainment",Sony Entertainment Television (1080p)
+http://87.255.35.150:18546
 #EXTINF:-1 group-title="Entertainment",Sooriyan TV (1080p)
 https://live20.bozztv.com/giatv/giatv-Infinittyott/Infinittyott/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment",ST Europe Channel (720p)
@@ -863,18 +871,22 @@ http://87.255.35.150:18447
 http://87.255.35.150:18545
 #EXTINF:-1 group-title="Entertainment",Star Vijay HD (1080p)
 http://87.255.35.150:18955
-#EXTINF:-1 group-title="Entertainment",StarPlus HD (720p)
-https://tvsen7.aynaott.com/sphdbd/index.m3u8
+#EXTINF:-1 group-title="Entertainment",StarPlus HD (1080p)
+http://87.255.35.150:18880/
 #EXTINF:-1 group-title="Entertainment",Stories by AMC (1080p)
 http://fl1.moveonjoy.com/AMC_NETWORK/index.m3u8
 #EXTINF:-1 group-title="Entertainment",Stories by AMC
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e8254118601b80007b4b7ae/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2bd7a7-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=376bc851-10a1-4952-ada7-86e9d28d5845
+#EXTINF:-1 group-title="Entertainment",Subin TV (1080p)
+https://stream.galaxyott.live/live/subintv/index.m3u8
 #EXTINF:-1 group-title="Entertainment",Sun Neo (576p)
 http://163.61.227.29:8000/play/a04t/index.m3u8
 #EXTINF:-1 group-title="Entertainment",Super7FM (720p)
 https://tv.livestreaminggroup.info:3295/live/super7tvlive.m3u8
 #EXTINF:-1 group-title="Entertainment",Super Cable
 http://191.102.39.254:5000/live/5up3r5/playlist.m3u8
+#EXTINF:-1 group-title="Entertainment",Suriya TV (1080p)
+http://103.140.254.2:3500/live/3394.m3u8
 #EXTINF:-1 group-title="Entertainment",Surya TV (1080p)
 https://livestream10.sunnxt.com/DolbyVision/SuryaTV_HDR/SuryaTV_HDR_Endpoints/SuryaTV-HDR10-IN-index.m3u8
 #EXTINF:-1 group-title="Entertainment",Swantham (720p)

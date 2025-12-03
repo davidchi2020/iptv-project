@@ -359,6 +359,8 @@ https://cdn.live.br1.jmvstream.com/webtv/pejexypz/playlist/playlist.m3u8
 https://apps.digitaltv.co.ke/live/2004.m3u8
 #EXTINF:-1 group-title="Religious",Dhamma TV (720p) [Not 24/7]
 https://b.webcache.maxindo.net.id/dhamma/dhamma.m3u8
+#EXTINF:-1 group-title="Religious",Dharshan TV (720p)
+https://galaxyott.live/hls/dharshantv.m3u8
 #EXTINF:-1 group-title="Religious",Dheeran TV (576p)
 https://live.we2live.in/dheerantv/dheerantv/playlist.m3u8
 #EXTINF:-1 group-title="Religious",Die Neue Zeit (576p)
@@ -1186,7 +1188,7 @@ https://bozztv.com/uni10rtmp/ssstv1-cdn/smil:ssstv1web.smil/playlist.m3u8
 #EXTINF:-1 group-title="Religious",SUMtv Latino (1080p)
 https://bozztv.com/uni10rtmp/ssstv2-cdn/smil:ssstv2web.smil/playlist.m3u8
 #EXTINF:-1 group-title="Religious",SVBC 2 (576p)
-https://yuppftalive.akamaized.net/080823/svbc2tamil/playlist.m3u8
+http://87.255.35.150:18956/
 #EXTINF:-1 group-title="Religious",SVBC 3 (720p)
 https://player.mslivestream.net/svbc/2e628d7e1b65d31254fd7705ff7ee64d.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Religious",SVBC 4 (1080p)
