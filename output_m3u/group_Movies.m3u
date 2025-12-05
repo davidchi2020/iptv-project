@@ -13,8 +13,8 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f
 http://176.126.166.43:1935/live/312kino/playlist.m3u8
 #EXTINF:-1 group-title="Movies",&flix (480p)
 https://edge3-moblive.yuppcdn.net/drm/smil:nflixdrm.smil/index.m3u8
-#EXTINF:-1 group-title="Movies",&pictures (576p)
-http://87.255.35.150:18510
+#EXTINF:-1 group-title="Movies",&pictures (1080p)
+http://66.102.120.18:8000/play/a01t/index.m3u8
 #EXTINF:-1 group-title="Movies",&prive HD (1080p)
 http://87.255.35.150:18494
 #EXTINF:-1 group-title="Movies",&TV (1080p)
@@ -46,7 +46,7 @@ http://107.167.7.162:8081/playlist/amhor/playlist.m3u8
 #EXTINF:-1 group-title="Movies",Anandham TV (1080p)
 https://stream.galaxyott.live/live/anandhamtv/index.m3u8
 #EXTINF:-1 group-title="Movies",Asianet Movies (576p)
-http://87.255.35.150:18813/
+http://87.255.35.150:18813
 #EXTINF:-1 group-title="Movies",Aurora Media Films (720p)
 https://cdn.streamhispanatv.net:3417/live/auroramflive.m3u8
 #EXTINF:-1 group-title="Movies",AXN Vietnam (1080p)
@@ -305,6 +305,8 @@ https://ml-pull-hwc.myco.io/MixTV/hls/index.m3u8
 http://87.255.35.150:18936
 #EXTINF:-1 group-title="Movies",MovieBox (720p)
 https://cdn4.skygo.mn/live/disk1/Moviebox/HLSv3-FTA/Moviebox.m3u8
+#EXTINF:-1 group-title="Movies",MoviePlus (576p)
+http://202.164.50.194:8000/play/a03n/index.m3u8
 #EXTINF:-1 group-title="Movies",Movies Action (1080p)
 https://shls-live-enc.edgenextcdn.net/out/v1/46079e838e65490c8299f902a7731168/index.m3u8
 #EXTINF:-1 group-title="Movies",Movies Now (1080p)
@@ -498,7 +500,7 @@ https://stv-live.akamaized.net/hls/live/2031011/lingeoSTVATwebPri/master.m3u8
 #EXTINF:-1 group-title="Movies",ServusTV HD
 https://viamotionhsi.netplus.ch/live/eds/servustvhd/browser-HLS8/servustvhd.m3u8
 #EXTINF:-1 group-title="Movies",Shemaroo Josh (720p)
-https://cdn-1.pishow.tv/live/1451/master.m3u8
+https://airtelapp.shemaroo.com/shemarooChumbakTV/smil:shemarooChumbakTVadp.smil/playlist.m3u8
 #EXTINF:-1 group-title="Movies",Sky Cinema Family HD (1080p)
 https://d17lsiabqrlwa2.cloudfront.net/pl_138/207480-6535776-1/playlist.m3u8
 #EXTINF:-1 group-title="Movies",SL 1
@@ -508,9 +510,9 @@ https://sltwohls.wns.live/hls/stream.m3u8
 #EXTINF:-1 group-title="Movies",Sony Canal Novelas
 https://a89829b8dca2471ab52ea9a57bc28a35.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/CanelaTV_SonyCanalNovelas/playlist.m3u8
 #EXTINF:-1 group-title="Movies",Star Gold 2 (576p)
-http://87.255.35.150:18807/
+http://87.255.35.150:18807
 #EXTINF:-1 group-title="Movies",Star Gold HD (1080p)
-http://87.255.35.150:18859/
+http://87.255.35.150:18859
 #EXTINF:-1 group-title="Movies",Star Gold Select HD (1080p)
 http://87.255.35.150:18429
 #EXTINF:-1 group-title="Movies",Star Maa Gold (576p)
@@ -529,6 +531,8 @@ https://livetv.mylifeisgood.net.ru/channels/strwc.m3u8
 https://livetv.mylifeisgood.net.ru/channels/strvf.m3u8
 #EXTINF:-1 group-title="Movies",Studio One + (720p)
 https://cdn-1.pishow.tv/live/276/master.m3u8
+#EXTINF:-1 group-title="Movies",Studio One Yuva (576p)
+http://202.164.50.194:8000/play/a030/index.m3u8
 #EXTINF:-1 group-title="Movies",Sundance TV East
 https://fl1.moveonjoy.com/SUNDANCE/index.m3u8
 #EXTINF:-1 group-title="Movies",Suriyan TV (1080p)
