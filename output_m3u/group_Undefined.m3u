@@ -587,8 +587,6 @@ http://tvn.obix.tv:1935/TVN/CH14.stream_720p/playlist.m3u8
 https://acceso.radiosportstv.online:3430/hybrid/play.m3u8
 #EXTINF:-1 group-title="Undefined",Canal 17 TV Nosara (720p)
 https://latamvdo.com:3870/hybrid/play.m3u8
-#EXTINF:-1 group-title="Undefined",Canal 21
-https://tls-cl.cdnz.cl/canal21tv/live/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",Canal 21 TV (1080p)
 https://iptv.ixfo.com.ar:30443/c21tv/hd/c21tv/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",Canal 22 (720p)
@@ -2071,6 +2069,10 @@ http://gohoski.fvds.ru:3000/mediabay/601/playlist.m3u8
 https://cdn.nhkworld.jp/www11/nhkworld-tv/bmcc-live/fr/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",NHK World News (Portuguese Subs) (720p)
 https://cdn.nhkworld.jp/www11/nhkworld-tv/bmcc-live/pt/playlist.m3u8
+#EXTINF:-1 group-title="Undefined",NHL
+https://nhl-firetv.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Undefined",NHL (1080p)
+https://livetv-fa.tubi.video/nhl/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",Nick Pluto TV
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ede448d3d50590007a4419e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=bc8504f2-4b91-11ef-8a44-83c5e90e038f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=2c0f9a61-5699-4476-a730-228053d9f6b6
 #EXTINF:-1 group-title="Undefined",Nickelodeon Pluto TV
@@ -3495,6 +3497,8 @@ https://bild-und-ton.stream/sophiatv-it/smil:sophia-tv-it.smil/playlist.m3u8
 http://194.76.186.33:8000/play/a05e/index.m3u8
 #EXTINF:-1 group-title="Undefined",Sound View Community Media Government (480p)
 https://livestream.telvue.com/soundviewcmt3/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Undefined",Soundcity TV
+https://cs2.push2stream.com/SOUNDCITY/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",South Park En Français
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62bdb919d36cbd0007e6ab8a/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7c0254-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=3779233e-781d-466c-a70d-0dbdb22e3f67
 #EXTINF:-1 group-title="Undefined",South Park Italy (720p)
@@ -5289,12 +5293,16 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00327-coxmediagroup-wpxibreaking-on
 http://72.46.118.193/Newsy/index.m3u8
 #EXTINF:-1 group-title="Undefined",WPXX-DT1
 http://104.255.88.155/ion/index.m3u8
+#EXTINF:-1 group-title="Undefined",WRMD-CD1
+http://104.238.205.28:8989/278676_.m3u8
 #EXTINF:-1 group-title="Undefined",WSB-DT1 (1080p)
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00327-coxmediagroup-wsbbreakingnews-ono/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",WSBS-DT1 (1080p)
 https://mdstrm.com/live-stream-playlist/67ed74e8af482ba71d47fd7b.m3u8
 #EXTINF:-1 group-title="Undefined",WSMV-DT1
 https://fl1.moveonjoy.com/TN_Nashville_NBC/index.m3u8
+#EXTINF:-1 group-title="Undefined",WSNS-DT1
+http://172.93.102.112:8989/158735_.m3u8
 #EXTINF:-1 group-title="Undefined",WSOC-DT1 (1080p)
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00327-coxmediagroup-wsocbreaking-ono/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",WTNH-DT1 (720p)
@@ -5481,7 +5489,7 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/63
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4312
 #EXTINF:-1 group-title="Undefined",Zoom (1080p)
 https://canalzoom.smoothcloud.co:3027/live/canalzoombr1live.m3u8
-#EXTINF:-1 group-title="Undefined",Zoom (720p)
+#EXTINF:-1 group-title="Undefined",Zoom Global (720p)
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/zoom-tv/master.m3u8
 #EXTINF:-1 group-title="Undefined",Zoom TV (1080p) [Geo-blocked]
 https://vs2129.vcdn.biz/0225e988e03a772f749888284217365b_megogo/live/hls/b/700_2490_4000/u_sid/0/o/157764221/rsid/9270f2c9-1d80-455d-b5c3-d926d12f5af3/u_uid/0/u_vod/0/u_device/cms_html5/u_devicekey/_site/lip/91.226.196.37*asn/u_srvc/81255/u_did/web_duMuKipCoyWU9tWH3VWiK9eX5ZPorcR6/type.live/chunklist-sid5554132721056427433-b4000000.m3u8
