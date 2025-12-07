@@ -257,6 +257,8 @@ https://world.lls.pbs.org/index.m3u8
 https://2-fss-2.streamhoster.com/pl_120/amlst:203530-1426406/playlist.m3u8
 #EXTINF:-1 group-title="Education",Ýaşlyk (406p) [Not 24/7]
 https://alpha.tv.online.tm/hls/ch002.m3u8
+#EXTINF:-1 group-title="Education",Zoom (1080p)
+https://canalzoom.smoothcloud.co:3027/live/canalzoombr1live.m3u8
 #EXTINF:-1 group-title="Education",ЕГЭ ТВ
 http://194.143.148.28:8080/RT_DOC/index.m3u8
 #EXTINF:-1 group-title="Education",МосОбрТВ (720p)

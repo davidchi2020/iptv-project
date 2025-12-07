@@ -509,8 +509,6 @@ https://srvx1.selftv.video/cafe/live/playlist.m3u8
 https://do7nccdsswstc.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-1aso0bc668saa/a5233c83-f772-4a81-959a-45ec7877ef61/5.m3u8
 #EXTINF:-1 group-title="Undefined",Calabasas Channel (480p)
 https://cdn3.wowza.com/5/UWpORHhLSEs5SkJs/calabasas/G0009_003/playlist.m3u8
-#EXTINF:-1 group-title="Undefined",Cali TV (540p) [Not 24/7]
-https://5ab772334c39c.streamlock.net/live-calitv/calitv1/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",Calvary TV (720p)
 https://player.mslivestream.net/mslive/71e7f7cc7dc7c51206b7b3bbb51e3052.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",Caminos Media TV (1080p)
@@ -1367,8 +1365,6 @@ https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/
 https://amogonetworx-grjngo-6-it.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",Grjngo Spain (720p)
 https://amogo-networx-grjngopelculasdeloeste-1-es.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="Undefined",Guacara TV (720p)
-https://imagenuniversaltv.net:3820/live/guacaratvlive.m3u8
 #EXTINF:-1 group-title="Undefined",GÜNEŞ TV (576p) [Not 24/7]
 https://sc-kuzeykibrissmarttv.ercdn.net/gunestv/bant1/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",Hadi TV French (720p)
@@ -1781,8 +1777,6 @@ https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6245d4511358320007029
 https://stream8.cinerama.uz/1013/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",Mai Dire Sì Italy (720p)
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6349279ed5023700078f2bc2/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
-#EXTINF:-1 group-title="Undefined",Maimón Digital TV (720p)
-https://ss9.domint.net:3038/mtvd_str/miamontv/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",Malta (720p) [Not 24/7]
 https://webtvstream.bhtelecom.ba/malta.m3u8
 #EXTINF:-1 group-title="Undefined",Mama Benz TV
@@ -2197,8 +2191,6 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64
 https://a883593c.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X1BGTE1NQV9ITFM/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",Phoenix (720p) [Geo-blocked]
 https://zdf-hls-19.akamaized.net/hls/live/2016502/de/high/master.m3u8
-#EXTINF:-1 group-title="Undefined",PHTV (720p) [Not 24/7]
-https://vdo1.streamgato.us:3138/live/phtvlive.m3u8
 #EXTINF:-1 group-title="Undefined",Phu Yen TV (360p)
 http://113.161.4.48:8080/phuyen/tv/index.m3u8
 #EXTINF:-1 group-title="Undefined",Pichilemu TV (1080p)
@@ -2461,8 +2453,6 @@ https://cdn4.skygo.mn/live/disk1/SPSPlus/HLSv3-FTA/SPSPlus.m3u8
 http://primeasia.selfip.net/Samsung/index.m3u8
 #EXTINF:-1 group-title="Undefined",Primocanale (1080p) [Not 24/7]
 https://msh0203.stream.seeweb.it/live/flv:stream2.sdp/playlist.m3u8
-#EXTINF:-1 group-title="Undefined",Prodotel TV (720p)
-https://ss3.domint.net:3140/ptv_str/prodoteltv/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",Project Runway (1080p)
 https://amg02189-amg02189c1-samsung-au-5798.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",Property & Reno [Geo-blocked]
@@ -3003,8 +2993,6 @@ https://tvlocales-live.freecaster.com/live/95d2f6eb-6f01-4d1d-8543-d14966de7b04/
 http://fl1.mediastreaming.it:1935/calabriachannel/livestream/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",RTG (720p)
 https://5e50264bd6766.streamlock.net/rtg/videortg/playlist.m3u8
-#EXTINF:-1 group-title="Undefined",RTH-TV2 Gospel (1080p)
-https://2-fss-2.streamhoster.com/pl_120/amlst:206708-4202592/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",RTHK TV 31 (港台電視31) (1080p) [Geo-blocked]
 https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
 #EXTINF:-1 group-title="Undefined",RTHK TV 32 (港台電視32) (1080p) [Geo-blocked]
@@ -3053,8 +3041,6 @@ https://59d39900ebfb8.streamlock.net/rytqrolive/rytqrolive/chunklist.m3u8
 https://pluslive.rtrs.tv/plus/plus/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",RTRS TV (576p) [Not 24/7]
 https://uzivo.rtrs.tv/tv/live/index.m3u8
-#EXTINF:-1 group-title="Undefined",RTS (480p)
-https://d2qsan2ut81n2k.cloudfront.net/live/72a3661e-1019-45f8-af10-af59f6ef6222/ts:abr.m3u8
 #EXTINF:-1 group-title="Undefined",RTS 1 (1080p)
 https://viamotionhsi.netplus.ch/live/eds/rts1hd/browser-dash/rts1hd.mpd
 #EXTINF:-1 group-title="Undefined",RTS 1 (720p) [Not 24/7]
@@ -3299,8 +3285,6 @@ https://ncdn.telewebion.com/semnan/live/playlist.m3u8
 https://livestream.perucast.com/hls/stream.m3u8
 #EXTINF:-1 group-title="Undefined",Sender Neu Jerusalem (576p)
 https://bild-und-ton.stream/snj-de/snj-de.smil/.m3u8
-#EXTINF:-1 group-title="Undefined",Sensación TV (360p)
-https://ss5.domint.net:3002/stv_str/sensaciontv/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",Senses TV (1080p)
 http://31.14.41.69:8080/hls/sensesonline/index.m3u8
 #EXTINF:-1 group-title="Undefined",Senzi (720p)
@@ -3729,8 +3713,6 @@ https://sktv.plainrock127.xyz/get.php?x=TA3
 http://cdn11.live247stream.com/tag/tv/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",Tagesschau 24 (720p)
 https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master.m3u8
-#EXTINF:-1 group-title="Undefined",Taino TV (720p)
-https://tvdatta.com:3602/stream/play.m3u8
 #EXTINF:-1 group-title="Undefined",Taiwan Plus TV (1080p)
 https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",Takeshi's Castle
@@ -3821,8 +3803,6 @@ https://5f22d76e220e1.streamlock.net/tls/tls/playlist.m3u8
 https://cdnapisec.kaltura.com/p/1719221/sp/171922100/playManifest/entryId/1_ljzy3evp/format/applehttp/protocol/https/a.m3u8
 #EXTINF:-1 group-title="Undefined",Tele Messina (1080p)
 https://ssh101-fl.bozztv.com/ssh101/telemessina/index.m3u8
-#EXTINF:-1 group-title="Undefined",Tele Oriental (720p)
-https://vdo1.streamgato.us:3592/live/teleorientaldigitallive.m3u8
 #EXTINF:-1 group-title="Undefined",Tele Pavia (720p)
 http://wms.shared.streamshow.it/telepavia/telepavia/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",Tele Pegaso Catania (404p) [Not 24/7]
@@ -3851,16 +3831,8 @@ https://live.mariatvcdn.com/telebelluno/a3b80388da9801906adf885282e73bc3.sdp/mon
 https://viamotionhsi.netplus.ch/live/eds/telebielingue/browser-HLS8/telebielingue.m3u8
 #EXTINF:-1 group-title="Undefined",Telecadena 7 y 4
 https://dvrfl03.bozztv.com/hondu-telecadena/index.m3u8
-#EXTINF:-1 group-title="Undefined",Telecafé (720p)
-https://liveingesta118.cdnmedia.tv/telecafelive/smil:dvrlive.smil/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",TeleCampione [Geo-blocked]
 https://5f22d76e220e1.streamlock.net/telecampione/telecampione/playlist.m3u8
-#EXTINF:-1 group-title="Undefined",Telecanal (720p)
-http://45.232.210.1:8029/play/a00s/index.m3u8
-#EXTINF:-1 group-title="Undefined",Telecaribe (720p)
-https://liveingesta118.cdnmedia.tv/telecaribetvlive/smil:rtmp01.smil/playlist.m3u8
-#EXTINF:-1 group-title="Undefined",Telecaribe Plus (720p)
-https://liveingesta118.cdnmedia.tv/telecaribetvlive/smil:rtmp02.smil/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",Teleceiba (1080p)
 https://dvrfl03.bozztv.com/hondu-teleceiba/index.m3u8
 #EXTINF:-1 group-title="Undefined",TeleCinco Trelew (240p)
@@ -3905,8 +3877,6 @@ https://tvlocales-live.freecaster.com/telemb/95d2f6ca-817a-48c0-aba5-6323a621c2d
 https://playerssl.telemia.tv/fileadmin/hls/TelemiaHD/telemia85_mediachunks.m3u8
 #EXTINF:-1 group-title="Undefined",TeleMia Extra (576p)
 https://playerssl.telemia.tv/fileadmin/hls/TelemiaExtra/telemiaextra_mediachunks.m3u8
-#EXTINF:-1 group-title="Undefined",Telemilenio (720p) [Not 24/7]
-http://cm.hostlagarto.com:8081/Telemilenio/Telemilenio.myStream/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",TeleMistretta (1080p)
 https://live.mariatvcdn.com/telemistretta/8fbcd205ada81b295ee6c211c3a80dde.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",Telemolise (1080p)
@@ -3945,14 +3915,10 @@ https://live.11-cdn.com/TeleOnce/3fc63fe00050c646635f16b071cd33e2.sdp/playlist.m
 https://5d8d85cf2c308.streamlock.net:1936/Teleonuba/endirecto/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",Telepace Roma (720p)
 https://live.mariatvcdn.com/mariatvpoint/d36592901d5429dd7f9ec1e7bbeda8c2.sdp/index.m3u8
-#EXTINF:-1 group-title="Undefined",Telepacifico (1080p)
-https://play.cdn.enetres.net/6E5C615AA5FF4123ACAF0DAB57B7B8DC021/022/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",Telepetroleo
 https://edge.teveo.net/live/AeAAAgAIAAE7A1IAyADIUCAAAAAAAAAAAmg0285AIAByAAAA/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",TeleProgreso (720p)
 https://livestreamhd.us:8077/teleprogreso/live/playlist.m3u8
-#EXTINF:-1 group-title="Undefined",Telerama (240p) [Not 24/7]
-https://envivo.telerama.ec/stream.m3u8
 #EXTINF:-1 group-title="Undefined",TeleRegione 118 (576p)
 https://streaming.softwarecreation.it/TR118/TR118/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",TeleRibera (720p) [Not 24/7]
@@ -4119,8 +4085,6 @@ https://5889e7d0d6e28.streamlock.net/tide-live/smil:livestream.smil/playlist.m3u
 http://thtg.vn:8001/thtg.m3u8
 #EXTINF:-1 group-title="Undefined",Tierra De Amor Y Venganza
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1080
-#EXTINF:-1 group-title="Undefined",Tierra Vision TV (720p)
-https://soportedvb.click:3608/live/tierravisionlive.m3u8
 #EXTINF:-1 group-title="Undefined",Tilemousiki (480p) [Not 24/7]
 http://wpso.com:1936/hls/music1.m3u8
 #EXTINF:-1 group-title="Undefined",Timor TV (1080p)
@@ -4145,8 +4109,6 @@ https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/tmb-tv.m
 https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/tmb-azerbaycan.m3u8
 #EXTINF:-1 group-title="Undefined",TNA Wrestling
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62ea4dadce395f0007086df2/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7c7788-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=649aa9eb-97bb-42d6-85e0-d0595821c87a
-#EXTINF:-1 group-title="Undefined",TNI Canal51 (720p) [Not 24/7]
-https://ss5.domint.net:3188/tni_str/tni51/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",TNN 16 (720p)
 https://lb1-live-mv.v2h-cdn.com/hls/ffdc/mugvhogvho/mugvhogvho.m3u8
 #EXTINF:-1 group-title="Undefined",Together TV (576p)
@@ -4225,10 +4187,6 @@ https://travelxp-travelxp-2-de.rakuten.wurl.tv/playlist.m3u8
 https://travelxp-travelxp-5-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",TRC Televisión (720p)
 https://stream.oursnetworktv.com/latin/SRTC/playlist.m3u8
-#EXTINF:-1 group-title="Undefined",Trece (720p)
-https://stream.logicideas.media/canaltrece-live/smil:live.smil/playlist.m3u8
-#EXTINF:-1 group-title="Undefined",Trece + (720p)
-https://stream.logicideas.media/canaltreceplus-live/smil:live1plus.smil/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",Trece Paraguay (1080p) [Not 24/7]
 https://rds3gen.desdeparaguay.net/trecetv/trecetv_alta/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",Trek HD (1080p)
@@ -4587,8 +4545,6 @@ https://tvaktuellr.iptv-playoutcenter.de/tvaktuellr/tvaktuellr.stream_1/playlist
 http://fms.tvavicenza.it:1935/live/diretta_1/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",TVA Nava
 https://ncdn.telewebion.com/nava/live/playlist.m3u8
-#EXTINF:-1 group-title="Undefined",TVC (480p)
-https://d2qsan2ut81n2k.cloudfront.net/live/19e86940-42cc-485e-80f4-89ae27c69f1b/ts:abr.m3u8
 #EXTINF:-1 group-title="Undefined",TVCARiB Radio (720p) [Not 24/7]
 https://cdn.mycloudstream.io/hls/live/broadcast/agf7yo9x/index.m3u8
 #EXTINF:-1 group-title="Undefined",TVCentro Andalucía (720p) [Not 24/7]
@@ -4727,8 +4683,6 @@ http://92.114.85.72:8000/play/aOb3
 https://vbfast-c.viebit.com/65ea794b-dd82-41ce-8e98-a9177289a063/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",UçanKuş TV (720p)
 https://ucankus-live.cdnnew.com/ucankus/ucankus.m3u8
-#EXTINF:-1 group-title="Undefined",UCV TV (720p)
-https://unlimited2-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",Udaya TV (1080p)
 http://87.255.35.150:18289
 #EXTINF:-1 group-title="Undefined",UESTV (720p)
@@ -5487,8 +5441,6 @@ https://video.uitzending.tv:19360/zo34/zo34.m3u8
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/63c69e6c4207be0007f73c22/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b21d083-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=50b3ce2c-156c-47c7-adc5-da3955dc1b2b
 #EXTINF:-1 group-title="Undefined",Zona de Acción
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4312
-#EXTINF:-1 group-title="Undefined",Zoom (1080p)
-https://canalzoom.smoothcloud.co:3027/live/canalzoombr1live.m3u8
 #EXTINF:-1 group-title="Undefined",Zoom Global (720p)
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/zoom-tv/master.m3u8
 #EXTINF:-1 group-title="Undefined",Zoom TV (1080p) [Geo-blocked]

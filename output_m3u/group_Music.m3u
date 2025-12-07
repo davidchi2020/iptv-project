@@ -129,8 +129,6 @@ http://31.148.48.15/Bridge_TV_Dance/index.m3u8
 https://cloud.fastchannel.es/manifiest/hls/prog9/btatv.m3u8
 #EXTINF:-1 group-title="Music",Busuioc TV (540p) [Not 24/7]
 https://busuioctv.iforward.eu/hls/busuioc.m3u8
-#EXTINF:-1 group-title="Music",Cacique TV [Not 24/7]
-https://5790d294af2dc.streamlock.net/Caciquetvcloud/Caciquetvcloud/playlist.m3u8
 #EXTINF:-1 group-title="Music",Cadena Elite (720p) [Not 24/7]
 https://cloudvideo.servers10.com:8081/8004/index.m3u8
 #EXTINF:-1 group-title="Music",California Music Channel (720p) [Not 24/7]
@@ -399,6 +397,8 @@ https://6476e46b58f91.streamlock.net/music/MUSIC2402/playlist.m3u8
 http://195.23.211.179:1935/kmusic/smil:kmusic.smil/playlist.m3u8
 #EXTINF:-1 group-title="Music",La 98.1 TV (720p) [Not 24/7]
 https://6019dcac4147f.streamlock.net:9443/la98/Invosa/playlist.m3u8
+#EXTINF:-1 group-title="Music",La Fabulosa Radio y TV
+https://eu1.servers10.com:8081/8004/index.m3u8
 #EXTINF:-1 group-title="Music",La Hermandad Salsera (1080p) [Not 24/7]
 https://streamlov.alsolnet.com/hermandadsalsera/live/playlist.m3u8
 #EXTINF:-1 group-title="Music",La Imagen de Tierra Caliente (768p)
@@ -839,8 +839,6 @@ https://stream.rtl.lu/data/live/tele/rtltodayradio/playlist.m3u8
 https://vidartv2.todostreaming.es/live/radiovida-emisiontvhd.m3u8
 #EXTINF:-1 group-title="Music",RU TV
 https://hls-03-video.webcaramba.com/rutv/live.m3u8
-#EXTINF:-1 group-title="Music",Rumba 98.5 FM (720p)
-https://ss5.domint.net:3038/rum_str/rumba985fm/playlist.m3u8
 #EXTINF:-1 group-title="Music",Salsa Gorda Television (1080p) [Not 24/7]
 https://live20.bozztv.com/akamaissh101/ssh101/qMUAZEy/playlist.m3u8
 #EXTINF:-1 group-title="Music",Salto Brasa Music (1080p)
@@ -1141,8 +1139,6 @@ http://5db313b643fd8.streamlock.net:1935/ZerounoTV/ZerounoTV/playlist.m3u8
 https://zfmzoetermeer.nl/live/master.m3u8
 #EXTINF:-1 group-title="Music",Zona Music TV (1080p)
 https://acceso.radiosportstv.online:3022/stream/play.m3u8
-#EXTINF:-1 group-title="Music",ZTV (720p) [Not 24/7]
-https://lb00zdigital.streamprolive.com/mnt/hls/live.m3u8
 #EXTINF:-1 group-title="Music",ZU TV (1080p)
 https://hls.rundletv.eu.org/LIVE$RadioZU/6.m3u8/Level/300720051?end=END&start=LIVE
 #EXTINF:-1 group-title="Music",ZWEI2 Music (1080p)

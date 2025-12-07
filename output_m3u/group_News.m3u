@@ -1317,6 +1317,8 @@ https://live.tcm10.com.br/tcm10hd/stream.m3u8
 https://live3.tdm.com.mo/ch5/info_ch5.live/playlist.m3u8
 #EXTINF:-1 group-title="News",Tele Sondrio News (480p) [Not 24/7]
 https://59d8c0cee6f3d.streamlock.net/tsn/tsn_mobile/playlist.m3u8
+#EXTINF:-1 group-title="News",Telecanal (720p)
+http://45.232.210.1:8029/play/a00s/index.m3u8
 #EXTINF:-1 group-title="News",Telegela 647 (720p)
 http://live.sloode.com:1935/qdg_live/AF74-FF2C-7350-41F2/playlist.m3u8
 #EXTINF:-1 group-title="News",Telejato (720p)
@@ -1369,8 +1371,6 @@ https://live.topnews.co.th/hls/topnews_a_720.m3u8
 https://content.uplynk.com/channel/33c48f602cfd4474b957eb4ad999caf8.m3u8
 #EXTINF:-1 group-title="News",TRA 2 (576p)
 https://live20.bozztv.com/akamaissh101/ssh101/rctvhdtra/playlist.m3u8
-#EXTINF:-1 group-title="News",TRA Noticias (576p)
-https://customer-gllhkkbamkskdl1p.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6ImI3YmIwODNmMDhkNmQ5NWExZjIzZWE3ZWRhOWY4NTZhIn0.eyJzdWIiOiIwYWVmZTVlYThkY2JkNTQ4NGRiYTEzMWQ3NDA4NjQ1MyIsImtpZCI6ImI3YmIwODNmMDhkNmQ5NWExZjIzZWE3ZWRhOWY4NTZhIiwiZXhwIjoxNzY0MDYzNDgyLCJhY2Nlc3NSdWxlcyI6W3sidHlwZSI6ImlwLmdlb2lwLmNvdW50cnkiLCJhY3Rpb24iOiJibG9jayIsImNvdW50cnkiOlsiUlUiLCJCWSJdfV19.Z-0xe9cNbjjUyUxw_BS70mcWtQBk7HAYMpj1WWE43Lzt59z5J4y1Tu-Knp6btF5m_-gfyi5L2A2_kIcaLTbjv9qk--h0cf7zY6sVuqJ4_TfNepqaMU3zXVuyluJIsJ_b5GvjtMicx12JDqgK-Tja5b7y9IdrmkD8eijWN9vrqgFygGqusvhpK9gSfKuYF6kWNAxsb85Fjilpoo4QVpOBgB2SDkPCqFn8An-FK-7zRk2PlpkYOO0k13OQ5xxd-FuZmufpHNoDpluIdGr1FXuHT7nqCG6TPpOigcRcHoUS2UvY5Z5ExmQ8ZgrOzwpXSgkjwggzLshBCMM587a4JbD0ow/manifest/video.m3u8
 #EXTINF:-1 group-title="News",TribunaTV (720p) [Not 24/7]
 https://cloudflare.streamgato.us:3300/live/tribunatvlive.m3u8
 #EXTINF:-1 group-title="News",TRT (360p)

@@ -1097,6 +1097,10 @@ http://184.173.179.163:1935/daniel/daniel/playlist.m3u8
 https://5790d294af2dc.streamlock.net/8124/8124/chunklist.m3u8
 #EXTINF:-1 group-title="Religious",Radio Tele Full Gospel
 https://f-tx-edge-87.christianworldmedia.com/EJCFG/mp4:EJCFG/playlist.m3u8
+#EXTINF:-1 group-title="Religious",Radio Tele Puissance
+https://video1.getstreamhosting.com:1936/8560/8560/playlist.m3u8
+#EXTINF:-1 group-title="Religious",Radio Tele Sentinel
+https://59d39900ebfb8.streamlock.net/radiotelesentinel/radiotelesentinel/playlist.m3u8
 #EXTINF:-1 group-title="Religious",Radio Télé Wisdom (360p) [Not 24/7]
 https://59d39900ebfb8.streamlock.net/daniel/daniel/playlist.m3u8
 #EXTINF:-1 group-title="Religious",Radio Visión de Dios Stereo (720p) [Not 24/7]
@@ -1119,6 +1123,8 @@ https://acesso.ecast.site:3648/live/ritlive.m3u8
 https://webstreaming-8.viewmedia.tv/web_119/Stream/playlist.m3u8
 #EXTINF:-1 group-title="Religious",RT JVA (720p) [Not 24/7]
 https://cdn140m.panaccess.com/HLS/RTVJA/index.m3u8
+#EXTINF:-1 group-title="Religious",RTH-TV2 Gospel (720p)
+https://2-fss-2.streamhoster.com/pl_120/amlst:206708-4202592/playlist.m3u8
 #EXTINF:-1 group-title="Religious",RTV Católica Canal 40 (1080p)
 https://stream.giostreaming.app/canal40/canal40.m3u8
 #EXTINF:-1 group-title="Religious",RTV Islam (1080p)

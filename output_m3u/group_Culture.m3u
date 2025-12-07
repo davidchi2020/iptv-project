@@ -73,8 +73,6 @@ https://rpn.bozztv.com/ebstv/ebstv/index.m3u8
 https://eu.streamjo.com/eetlive/eettv.m3u8
 #EXTINF:-1 group-title="Culture",El Sonorense (1080p) [Not 24/7]
 https://s5.mexside.net:1936/elsonorense/elsonorense/playlist.m3u8
-#EXTINF:-1 group-title="Culture",EStylo TV (720p)
-https://vdo2.streamgato.us:3035/live/estylotvlive.m3u8
 #EXTINF:-1 group-title="Culture",Flowers TV USA
 https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/flowers_nim_https/050522/flowers/playlist.m3u8
 #EXTINF:-1 group-title="Culture",FNX
@@ -125,6 +123,8 @@ https://amg00562-amg00562c1-kwelitv-worldwide-3293.playouts.now.amagi.tv/playlis
 https://d2dw21aq0j0l5c.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoupeArt-prod/playlist.m3u8
 #EXTINF:-1 group-title="Culture",Malchin TV (720p)
 https://cdn4.skygo.mn/live/disk1/Malchin/HLSv3-FTA/Malchin.m3u8
+#EXTINF:-1 group-title="Culture",Manavisión (480p)
+https://play.once.net.ec/play/Ily2oYdd3E1fi9wK2zORoRovFU9P5xM0g3CNVK2MT0M/.m3u8
 #EXTINF:-1 group-title="Culture",MBC 3
 https://tgn.bozztv.com/eshgtv-trn09/ga-mchannel3/index.m3u8
 #EXTINF:-1 group-title="Culture",Medeniyyet TV (406p)
@@ -201,6 +201,8 @@ https://signal.suyaitv.cl/live/35/playlist.m3u8?password=9PcdCnFxUe&username=ZZD
 https://live.suricloud.com/hls/tbntv/index.m3u8
 #EXTINF:-1 group-title="Culture",Teatro TV (720p)
 https://m.iostream.it/hls/teatrotv/teatrotv.m3u8
+#EXTINF:-1 group-title="Culture",Tele Amiga (480p) [Not 24/7]
+https://liveingesta118.cdnmedia.tv/teleamigatvlive/smil:dvrlive.smil/playlist.m3u8
 #EXTINF:-1 group-title="Culture",TV das Artes (360p)
 http://tv02.logicahost.com.br:1935/tvdasartes/tvdasartes/playlist.m3u8
 #EXTINF:-1 group-title="Culture",TV Life America (720p)
@@ -211,6 +213,8 @@ https://video01.kshost.com.br/lourdes52007/lourdes52007/playlist.m3u8
 https://tvr-tvrcultural.cdn.zitec.com/live/tvrcultural/main.m3u8
 #EXTINF:-1 group-title="Culture",UCL (720p)
 https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8
+#EXTINF:-1 group-title="Culture",UCV TV (720p)
+https://unlimited2-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8
 #EXTINF:-1 group-title="Culture",USMPTV (720p)
 https://streamusmptv.ddns.net/live/stream.m3u8
 #EXTINF:-1 group-title="Culture",Wedding TV
