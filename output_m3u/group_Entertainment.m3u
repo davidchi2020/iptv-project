@@ -85,6 +85,8 @@ http://l2.cloudskep.com/ant1cm2/abr/playlist.m3u8
 http://31.121.110.30:4000/play/a028/index.m3u8
 #EXTINF:-1 group-title="Entertainment",Antares Televisión (720p) [Not 24/7]
 https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8
+#EXTINF:-1 group-title="Entertainment",Antena 21 (480p) [Not 24/7] [Geo-blocked]
+https://alba-do-antena7-c21.stream.mediatiquestream.com/index.m3u8
 #EXTINF:-1 group-title="Entertainment",Antena HD (1080p)
 https://liveovh009.cda.pl/enc114/antenatvhdraw/antenatvhdraw.m3u8
 #EXTINF:-1 group-title="Entertainment",Antena Stars (1280p)
