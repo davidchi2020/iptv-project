@@ -197,8 +197,6 @@ http://202.60.106.14:8080/1335/playlist.m3u8
 https://g2qd3exjy7an-hls-live.5centscdn.com/gtvsport/ghanaweb.stream/playlist.m3u8
 #EXTINF:-1 group-title="Sports",Hard Knocks (1080p) [Not 24/7]
 https://d3uyzhwvmemdyf.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/HardKnocks-SportsTribal/121.m3u8
-#EXTINF:-1 group-title="Sports",Hipódromo de las Américas (480p) [Geo-blocked]
-http://wms.tecnoxia.com:1935/8158/8158/playlist.m3u8
 #EXTINF:-1 group-title="Sports",Horse TV (720p)
 https://a-cdn.klowdtv.com/live2/horsetv_720p/playlist.m3u8
 #EXTINF:-1 group-title="Sports",HTSpor TV (1080p)
@@ -531,8 +529,8 @@ https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
 https://tv-trtspor1.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 group-title="Sports",TRT Spor Yildiz (1080p) [Geo-blocked]
 https://tv-trtspor2.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 group-title="Sports",TSN1 (1080p) [Not 24/7]
-https://tvpass.org/live/tsn1/hd
+#EXTINF:-1 group-title="Sports",TSN1 (1080p)
+https://fl1.moveonjoy.com/TSN_1/mpegts
 #EXTINF:-1 group-title="Sports",TSN2
 https://fl1.moveonjoy.com/TSN_2/index.m3u8
 #EXTINF:-1 group-title="Sports",TSN3
