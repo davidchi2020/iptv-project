@@ -177,6 +177,8 @@ https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(C5)/
 https://viamotionhsi.netplus.ch/live/eds/canale5/browser-dash/canale5.mpd
 #EXTINF:-1 group-title="Entertainment",CanelaTV
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=119
+#EXTINF:-1 group-title="Entertainment",Canica TV (240p)
+https://stmv4.voxtvhd.com.br/canicatv/canicatv/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment",Captain TV (576p) [Not 24/7]
 http://103.199.160.85/Content/captain/Live/Channel(Captain)/index.m3u8
 #EXTINF:-1 group-title="Entertainment",Carac 1 (1080p)
@@ -369,8 +371,6 @@ https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/619263ee9541940007d20
 https://cnn.livestreaminggroup.info:3050/live/gettvlive.m3u8
 #EXTINF:-1 group-title="Entertainment",GetTV (480p)
 https://fl1.moveonjoy.com/GET_TV/index.m3u8
-#EXTINF:-1 group-title="Entertainment",Gh One TV
-https://g2qd3exjy7an-hls-live.5centscdn.com/ghonetv/ghanaweb.stream/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment",Gi Television (720p) [Not 24/7]
 https://canal.gitelevisionserver.com/live/DIEEFIh506fL8huspvl0f0c2PZF3/index.m3u8
 #EXTINF:-1 group-title="Entertainment",Girasol TV (720p)
@@ -809,8 +809,8 @@ https://stmvideo6.livecastv.com/rytv2015/rytv2015/playlist.m3u8
 https://live.enhdtv.com:8081/radioiguazutv/index.m3u8
 #EXTINF:-1 group-title="Entertainment",RadioToppers (720p)
 https://server-67.stream-server.nl:1936/RadioToppers/RadioToppers/playlist.m3u8
-#EXTINF:-1 group-title="Entertainment",RCN Más (1080p)
-https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="Entertainment",RCN Mas
+https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119960/rcnmas/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment",Rede NGT (1080p)
 https://isaocorp.cloudecast.com/ngt/index.m3u8
 #EXTINF:-1 group-title="Entertainment",Revry LatinX
@@ -979,6 +979,8 @@ https://imagenuniversaltv.net:3741/live/tvslive.m3u8
 https://rpn.bozztv.com/gusa/gusa-TVSFlashback/index.m3u8
 #EXTINF:-1 group-title="Entertainment",TVS Vintage Network (360p)
 https://rpn.bozztv.com/gusa/gusa-tvsvintage/index.m3u8
+#EXTINF:-1 group-title="Entertainment",Ultra Casanare TV (1080p) [Not 24/7]
+https://eu1.servers10.com:8081/8072/index.m3u8
 #EXTINF:-1 group-title="Entertainment",UMA TV (1080p)
 https://acesso.ecast.site:3011/live/umatvlive.m3u8
 #EXTINF:-1 group-title="Entertainment",Undercover Boss (720p)

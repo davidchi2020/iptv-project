@@ -405,6 +405,8 @@ https://mdstrm.com/live-stream-playlist/58d191f07290fbb058025843.m3u8
 https://server40.servistreaming.com:3477/stream/play.m3u8
 #EXTINF:-1 group-title="Music",LA MIA TV (720p) [Geo-blocked]
 https://ss2.tvrdomi.com:1936/lamiatv/lamiatv/playlist.m3u8
+#EXTINF:-1 group-title="Music",La Morada Radio TV (720p)
+https://movil.ejeserver.com/live/lamoradatv.m3u8
 #EXTINF:-1 group-title="Music",La Perla Radio TV (720p) [Not 24/7]
 https://eu1.servers10.com:8081/8068/index.m3u8
 #EXTINF:-1 group-title="Music",La Que Buena Atlanta
@@ -633,6 +635,8 @@ https://vdo2.pro-fhi.net:3207/stream/play.m3u8
 https://livetv.streams.ovh:1936/paniktv/paniktv/playlist.m3u8
 #EXTINF:-1 group-title="Music",Panorama FM (1080p)
 https://d6izdil55uftn.cloudfront.net/out/v1/0a06d1d6377c47edbd48721ed724bd08/index.m3u8
+#EXTINF:-1 group-title="Music",Parranda Vallenata (720p)
+https://backupmaxmedia.hvmultiplay.com/hls/stream3/parrandavallenata.m3u8
 #EXTINF:-1 group-title="Music",Peppers TV (751p)
 https://cdn-2.pishow.tv/live/1383/master.m3u8
 #EXTINF:-1 group-title="Music",Pequeradio (720p) [Not 24/7]
@@ -883,6 +887,8 @@ https://lotus.stingray.com/manifest/ose-137ads-montreal/samsungtvplus/master.m3u
 https://lotus.stingray.com/manifest/ose-115ads-montreal/samsungtvplus/master.m3u8
 #EXTINF:-1 group-title="Music",Stingray Greatest Hits
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883053
+#EXTINF:-1 group-title="Music",Stingray Greatest Holiday Hits
+https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/54947915-6504-4548-aaef-eabd451f8607/1.m3u8
 #EXTINF:-1 group-title="Music",Stingray Hit List (1080p)
 https://lotus.stingray.com/manifest/ose-107ads-montreal/samsungtvplus/master.m3u8
 #EXTINF:-1 group-title="Music",Stingray Hitlist
@@ -931,6 +937,8 @@ http://87.255.35.150:18821
 https://vcp8.myplaytv.com:1936/superq/superq/playlist.m3u8
 #EXTINF:-1 group-title="Music",Super TV (1080i) [Not 24/7]
 https://live.supertv.ro/live/supertv/playlist.m3u8
+#EXTINF:-1 group-title="Music",Supermúsica TV (720p)
+https://backupmaxmedia.hvmultiplay.com/hls/stream4/supermusica.m3u8
 #EXTINF:-1 group-title="Music",Surya Music (576p)
 http://87.255.35.150:18450
 #EXTINF:-1 group-title="Music",T2 TV

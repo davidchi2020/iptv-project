@@ -9,7 +9,7 @@ https://edge1.lifestreamcdn.com/live/geb/playlist.m3u8
 https://kwtktv2ta.cdn.mangomolo.com/ktv2/smil:ktv2.stream.smil/chunklist.m3u8
 #EXTINF:-1 group-title="Culture;News",NHK World-Japan (1080p)
 https://livehub-voidnet.onrender.com/cluster/streamcore/jp/NHK_StreamOrchestrator.m3u8
-#EXTINF:-1 group-title="Culture;News",NHK World-Japan HD (1080i)
-https://hls.mskycdn.online/tv/nhkworld/index.m3u8
+#EXTINF:-1 group-title="Culture;News",NHK World-Japan HD
+https://nhk.lls.pbs.org/index.m3u8
 #EXTINF:-1 group-title="Culture;News",STZ TV (720p)
 https://cdn.jmvstream.com/w/AVJ-12952/playlist/playlist.m3u8
