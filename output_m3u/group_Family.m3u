@@ -5,8 +5,6 @@ https://live.enhdtv.com:8081/8150/index.m3u8
 https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/playlist.m3u8
 #EXTINF:-1 group-title="Family",AVA Family
 https://familyhls.avatv.live/hls/stream.m3u8
-#EXTINF:-1 group-title="Family",Canal IPe (1080p)
-https://cdnhd.iblups.com/hls/3f2cb1658d114f2693eff18d83199e67.m3u8
 #EXTINF:-1 group-title="Family",Dove Channel
 https://amg01201-cinedigmenterta-dove-cineverse-1fck5.amagi.tv/playlist/amg01201-cinedigmenterta-dove-cineverse/playlist.m3u8
 #EXTINF:-1 group-title="Family",EmanTv (1080p)

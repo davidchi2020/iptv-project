@@ -215,8 +215,6 @@ https://tvr-tvrcultural.cdn.zitec.com/live/tvrcultural/main.m3u8
 https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8
 #EXTINF:-1 group-title="Culture",UCV TV (720p)
 https://unlimited2-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8
-#EXTINF:-1 group-title="Culture",USMPTV (720p)
-https://streamusmptv.ddns.net/live/stream.m3u8
 #EXTINF:-1 group-title="Culture",Wedding TV
 https://stream.cp.ets-sistemi.it:1936/profservtv/profservtv/playlist.m3u8
 #EXTINF:-1 group-title="Culture",Yakaar TV (1080p)

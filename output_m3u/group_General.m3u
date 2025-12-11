@@ -683,8 +683,6 @@ https://cdn4.skygo.mn/live/disk1/C1/HLSv3-FTA/C1.m3u8
 https://cloudvideo.servers10.com:8081/8030/index.m3u8
 #EXTINF:-1 group-title="General",C31 Melbourne (240p)
 https://d1k6kax80wecy5.cloudfront.net/RLnAKY/index.m3u8
-#EXTINF:-1 group-title="General",Cajamarca TV
-https://live-evg1.tv360.bitel.com.pe/bitel/cajamarcatv/playlist.m3u8
 #EXTINF:-1 group-title="General",Calabria TV (256p)
 https://5db313b643fd8.streamlock.net/CalabriaTv2/CalabriaTv2/playlist.m3u8
 #EXTINF:-1 group-title="General",Cali TV (540p) [Not 24/7]
@@ -897,6 +895,8 @@ https://ingest1-video.streaming-pro.com/canaltaronja/osona/playlist.m3u8
 https://ingest1-video.streaming-pro.com/canalteABR/ctestream/playlist.m3u8
 #EXTINF:-1 group-title="General",Canal TRO (1080p)
 https://liveingesta118.cdnmedia.tv/canaltro2live/smil:live.smil/playlist.m3u8
+#EXTINF:-1 group-title="General",Canal TV3 (720p) [Not 24/7]
+https://streaming.telenetdigital.net.co:8086/canal3tv/stream.m3u8
 #EXTINF:-1 group-title="General",Canal Visof (720p)
 https://stream.oursnetworktv.com/latin/Visof/playlist.m3u8
 #EXTINF:-1 group-title="General",Canal Zoom [Geo-blocked]
@@ -1351,8 +1351,6 @@ http://ms2.mx-cd.net/tv/Omroep_Helmond.smil/chunklist.m3u8
 http://94.246.128.53:1935/tv/dlaCiebieTv/playlist.m3u8
 #EXTINF:-1 group-title="General",DM TV Malang
 https://e.siar.us/live/dmtv.m3u8
-#EXTINF:-1 group-title="General",DMJ Cuzco (720p) [Not 24/7]
-https://stmv1.voxhdnet.com/dmjsurtv/dmjsurtv/playlist.m3u8
 #EXTINF:-1 group-title="General",DniproTV (1080p)
 http://vcdn1.produck.company:1935/out/dtv/playlist.m3u8
 #EXTINF:-1 group-title="General",Dodoma TV (360p) [Not 24/7]
@@ -1937,8 +1935,6 @@ https://play-live-hls.jxtvcn.com.cn/live-city/tv_jxtv5.m3u8
 https://vysilani.zaktv.cz/broadcast/hls/jtv/index.m3u8
 #EXTINF:-1 group-title="General",Jimani TV (360p) [Geo-blocked]
 https://cloud2.streaminglivehd.com:1936/8246/8246/playlist.m3u8
-#EXTINF:-1 group-title="General",JN19 TV2 (1080p) [Not 24/7]
-https://servilive.com:3224/live/jn19tv2live.m3u8
 #EXTINF:-1 group-title="General",JOAK-DTV (1080p)
 http://171.244.62.178/jptv2/get.php?id=Zt19NGeOuIq3EwLPZh_KvQ==
 #EXTINF:-1 group-title="General",JOAX-DTV
@@ -2797,8 +2793,6 @@ https://tnt-television.com/NUMERICA/index.m3u8
 https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
 #EXTINF:-1 group-title="General",O'zbekiston (576p)
 https://stream8.cinerama.uz/1001/tracks-v1a1/playlist.m3u8
-#EXTINF:-1 group-title="General",Oasis RTV (720p) [Not 24/7]
-https://7.innovatestream.pe:19360/oasisrtv/oasisrtv.m3u8
 #EXTINF:-1 group-title="General",Oasis Televisión (720p) [Not 24/7]
 http://vcp1.myplaytv.com/oasistv/oasistv/playlist.m3u8
 #EXTINF:-1 group-title="General",Oberpfalz TV (1080p)
@@ -3553,6 +3547,8 @@ https://5db313b643fd8.streamlock.net/SUPERSIXLombardia/SUPERSIXLombardia/playlis
 https://ss2.tvrdomi.com:1936/supremateve/supremateve/playlist.m3u8
 #EXTINF:-1 group-title="General",SUR TV
 https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274/surtv/surtv.smil/playlist.m3u8
+#EXTINF:-1 group-title="General",Suram TV (1080p)
+https://livetv.305streamhd.com:3111/live/suramtvlive.m3u8
 #EXTINF:-1 group-title="General",Sutel TV [Geo-blocked]
 https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(Shutel)/index.m3u8
 #EXTINF:-1 group-title="General",SXM TV Broadcast (720p)
@@ -3593,8 +3589,6 @@ https://cloudvideo.servers10.com:8081/8230/index.m3u8
 https://stream.oursnetworktv.com/latin/telaVision/playlist.m3u8
 #EXTINF:-1 group-title="General",TELE 4 Ojocaliente (720p)
 https://stream.oursnetworktv.com/latin/encoder53/playlist.m3u8
-#EXTINF:-1 group-title="General",TELE 6
-https://envivo.bolivia-link.com:3337/live/tele6live.m3u8
 #EXTINF:-1 group-title="General",Tele 7 (720p)
 https://ingest2-video.streaming-pro.com/tele7_ABR/stream/playlist.m3u8
 #EXTINF:-1 group-title="General",Tele7ABC HD (720p)
@@ -4075,6 +4069,8 @@ https://n105.quickmedia.tv/noe-2-abr/noe-2-abr/playlist_dvr.m3u8
 http://151.236.247.171:8080/nova/index.m3u8
 #EXTINF:-1 group-title="General",TV Nové Zámky (486p) [Not 24/7]
 http://s1.media-planet.sk/live/novezamky/BratuMarian.m3u8
+#EXTINF:-1 group-title="General",TV Oasis Monay
+https://live20.bozztv.com/akamaissh101/ssh101/oasistv123/playlist.m3u8
 #EXTINF:-1 group-title="General",TV Oberfranken (TVO) (1080p) [Not 24/7]
 https://tvoberfranken.iptv-playoutcenter.de/tvoberfranken/tvoberfranken.stream_1/playlist.m3u8
 #EXTINF:-1 group-title="General",TV Orbis (720p)
@@ -4345,8 +4341,6 @@ https://mediacp.us:8081/vallevision/index.m3u8
 https://streaming.telecablecentral.com.do/Vallevision/ValleHD/playlist.m3u8
 #EXTINF:-1 group-title="General",Valley Shore Community Television (VSCTV) (Clinton CT) (1080p)
 https://reflect-vsctv.cablecast.tv/live-3/live/live.m3u8
-#EXTINF:-1 group-title="General",Vamisa TV (480p)
-https://inliveserver.com:1936/10044/10044/playlist.m3u8
 #EXTINF:-1 group-title="General",Vásárhelyi Televízió (576p)
 https://stream.vasarhelyitelevizio.hu/stream/stream.m3u8
 #EXTINF:-1 group-title="General",VBS TV (480p) [Not 24/7]
@@ -4459,8 +4453,6 @@ https://ms2.mx-cd.net/tv/151-573495/WeertFM_TV.smil/playlist.m3u8
 http://l2.weihai.tv:8081/hls/g16E3482eM.m3u8
 #EXTINF:-1 group-title="General",WHPS Detroit
 https://f-tx-edge-87.christianworldmedia.com/313watkins/mp4:313watkins/playlist.m3u8
-#EXTINF:-1 group-title="General",Willax TV (720p) [Not 24/7]
-http://38.183.182.166:8000/play/a0zn/index.m3u8
 #EXTINF:-1 group-title="General",Williams TV (480p)
 http://79.120.178.90:1935/williams/williamstv/playlist.m3u8
 #EXTINF:-1 group-title="General",WITN 22 (Wilmington DE) (1080p) [Not 24/7]

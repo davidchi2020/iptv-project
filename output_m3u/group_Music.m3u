@@ -5,8 +5,6 @@ http://1music.hu/1music.m3u8
 https://stream.4fun.tv:8888/hls/4f_high/index.m3u8
 #EXTINF:-1 group-title="Music",4 Kurd
 https://4kuhls.persiana.live/hls/stream.m3u8
-#EXTINF:-1 group-title="Music",4 Music
-https://4muhls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 group-title="Music",7 RadioVisione (720p)
 https://stream10.xdevel.com/video1s976543-1932/stream/playlist.m3u8
 #EXTINF:-1 group-title="Music",7S Music (576p) [Not 24/7]
@@ -301,7 +299,7 @@ https://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
 http://hitmusic.hu/hitmusic.m3u8
 #EXTINF:-1 group-title="Music",HiDance (1080i)
 https://s-pl-01.mediatool.tv/playout/hdpl-abr/index.m3u8
-#EXTINF:-1 group-title="Music",High Vision (1080p)
+#EXTINF:-1 group-title="Music",High Vision (1080p) [Not 24/7]
 https://streamer1.connectto.com/HIGHVISION_WEB_1205/index.m3u8
 #EXTINF:-1 group-title="Music",HiMusic (1080i)
 https://s-pl-01.mediatool.tv/playout/hmpl-abr/index.m3u8
@@ -369,8 +367,8 @@ https://live.hungama.com/linear/kadak-hits/playlist.m3u8
 http://185.105.4.244:1935/livesp/kalika/playlist.m3u8
 #EXTINF:-1 group-title="Music",KandelaTV (480p)
 https://streamtv.intervenhosting.net:3718/live/kandelamedioslive.m3u8
-#EXTINF:-1 group-title="Music",Karibena
-https://live-evg1.tv360.bitel.com.pe/bitel/karibeñatv/playlist.m3u8
+#EXTINF:-1 group-title="Music",Karibena [Not 24/7]
+https://live-player.egostreaming.pe/karibenatv_685a-pe-a5676-584412/index.fmp4.m3u8
 #EXTINF:-1 group-title="Music",Kayhan TV (720p)
 https://playout395.livestreamingcdn.com/live/Stream1/playlist.m3u8
 #EXTINF:-1 group-title="Music",Kiss Kiss Napoli TV (720p)
@@ -511,8 +509,6 @@ https://mhonemusic.com/hls/1/stream.m3u8
 https://byecableiptvnew3.ddns.net/ENVIVOMIGENTE/video.m3u8
 #EXTINF:-1 group-title="Music",Miel TV (720p) [Not 24/7]
 https://7.innovatestream.pe:19360/mieltv/mieltv.m3u8
-#EXTINF:-1 group-title="Music",Millenium 109 FM (720p) [Not 24/7]
-https://videoserver.tmcreativos.com:19360/nqvnhujhrx/nqvnhujhrx.m3u8
 #EXTINF:-1 group-title="Music",MK Tunes (720p) [Not 24/7]
 https://cdn-3.pishow.tv/live/433/master.m3u8
 #EXTINF:-1 group-title="Music",MNM (720p)
