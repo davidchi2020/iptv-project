@@ -955,8 +955,6 @@ https://vdo.pro-fhi.net:3228/stream/play.m3u8
 https://58c04fb1d143f.streamlock.net/rezopropartner_1_live/rezopropartner_1_live/playlist.m3u8
 #EXTINF:-1 group-title="Music",Telerumba TV (720p) [Not 24/7]
 https://inliveserver.com:1936/18506/18506/playlist.m3u8
-#EXTINF:-1 group-title="Music",Televisora de Oriente (406p)
-https://cloud.fastchannel.es/manifiest/hls/prog9/tvo.m3u8
 #EXTINF:-1 group-title="Music",Tezaur TV (1080p)
 https://tezaurtv.md/wp-content/uploads/live/index.m3u8
 #EXTINF:-1 group-title="Music",That's 70s (576p)
@@ -1047,8 +1045,6 @@ https://6n3yope4d9ok-hls-live.5centscdn.com/vaanavil/TV.stream/playlist.m3u8
 https://59a564764e2b6.streamlock.net/vallenato/vallenatom/playlist.m3u8
 #EXTINF:-1 group-title="Music",VAM Vid's & More (720p)
 https://sincerecloud.stream/loadbalancer/public/J9EmQQGf.m3u8
-#EXTINF:-1 group-title="Music",Vepaco TV (480p)
-https://cloud.fastchannel.es/manifiest/hls/prog9/vepacotv.m3u8
 #EXTINF:-1 group-title="Music",Vevo 2K (1080p)
 https://d1s6jz7jeei17.cloudfront.net/playlist/amg00056-vevotv-vevo2kau-samsungau/playlist.m3u8
 #EXTINF:-1 group-title="Music",Vevo 70s (1080p)

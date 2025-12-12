@@ -78,7 +78,7 @@ http://3739115337.cloudvdn.com/a.m3u8?domain=siyang-tv-hls.cm.jstv.com&player=nw
 #EXTINF:-1 group-title="☘️江苏频道",泰州一套新闻综合" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/泰州一套新闻综合.png" group-title="☘️江苏频道
 https://stream1.freetv.fun/tai-zhou-yi-tao-xin-wen-zong-he-4.m3u8
 #EXTINF:-1 group-title="☘️江苏频道",涟水电视台综合" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/涟水电视台综合.png" group-title="☘️江苏频道
-http://live1.habctv.com/ggpdsl/sd/live.m3u8?zjiangsd#http://live1.habctv.com/ggpdsl/sd/live.m3u8
+https://lianshui-tv-hls.cm.jstv.com:443/lianshui-tv/lsxw.m3u8
 #EXTINF:-1 group-title="☘️江苏频道",淮安公共" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/淮安公共.png" group-title="☘️江苏频道
 http://live1.habctv.com/ggpdsl/sd/live.m3u8?zjiangsd#http://live1.habctv.com/ggpdsl/sd/live.m3u8
 #EXTINF:-1 group-title="☘️江苏频道",淮安影院娱乐" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/淮安影院娱乐.png" group-title="☘️江苏频道
@@ -94,7 +94,7 @@ http://traffic.jbh.tjbh.com/live/bhtv10/playlist.m3u8
 #EXTINF:-1 group-title="☘️江苏频道",睢宁三农" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/睢宁三农.png" group-title="☘️江苏频道
 http://iptv.666230.xyz/iptv/jsyd.php/xzsnsn
 #EXTINF:-1 group-title="☘️江苏频道",睢宁综合" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/睢宁综合.png" group-title="☘️江苏频道
-https://live-auth.51kandianshi.com/szgd/csztv4k_hd.m3u8
+http://iptv.666230.xyz/iptv/jsyd.php/xzsnzh
 #EXTINF:-1 group-title="☘️江苏频道",睢宁资讯" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/睢宁资讯.png" group-title="☘️江苏频道
 http://iptv.666230.xyz/iptv/jsyd.php/xzsnzx
 #EXTINF:-1 group-title="☘️江苏频道",苏州文化生活" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/苏州文化生活.png" group-title="☘️江苏频道

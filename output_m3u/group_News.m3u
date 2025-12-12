@@ -1373,6 +1373,8 @@ https://tv-trthaber.medya.trt.com.tr/master.m3u8
 https://tv-trtworld.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 group-title="News",Truso TV (576p) [Not 24/7]
 https://stream.truso.tv/elblag/myStream_aac/playlist.m3u8
+#EXTINF:-1 group-title="News",TSi (720p) [Not 24/7]
+https://mdstrm.com/live-stream-playlist/6287fdc9303e3008289ab711.m3u8
 #EXTINF:-1 group-title="News",TürkHaber (720p)
 https://edge1.socialsmart.tv/turkhaber/bant1/playlist.m3u8
 #EXTINF:-1 group-title="News",TV5Monde Info (1080p) [Geo-blocked]
